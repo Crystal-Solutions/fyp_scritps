@@ -1,0 +1,21 @@
+Phase:	Response
+Input: Token SpaceToken
+Options: control = appelt
+
+
+Rule: Response
+// A word that's adjoining a number with no spaces between should not be considerd as part of any entity
+
+({Token.string == "<"}
+{Token.string == "Response"}
+{Token.string == ">"})
+(({!Token.string == "<"})+):tag
+({Token.string == "<"}
+{Token.string == "/"}
+{Token.string == "Response"}
+{Token.string == ">"})
+-->
+:tag.Response = {rule = "Response"}
+
+
+

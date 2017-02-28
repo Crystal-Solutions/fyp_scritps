@@ -1,0 +1,20 @@
+Phase:	ResponseStart
+Input: Token SpaceToken
+Options: control = appelt
+
+
+
+
+Rule: ResponseStart
+// A word that's adjoining a number with no spaces between should not be considerd as part of any entity
+
+(
+ {Token.kind == number}
+)
+( {Token.kind == word}
+):tag
+-->
+:tag.ResponseStart = {rule = "ResponseStart"}
+
+
+
