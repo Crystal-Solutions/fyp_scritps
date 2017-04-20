@@ -3,8 +3,8 @@ import re
 
 html_tags = {'B':('<b>', '</b>'), 'I':('<b><i>',  '</i></b>'),'O':('','')}
 
-source_dir = '../data/annotated/tsv/'
-dest_dir = '../data/annotated/html/'
+source_dir = 'J:\Raw\CS\Sem6B\FYP\scripts\stanford\processed'
+dest_dir = 'J:\Raw\CS\Sem6B\FYP\scripts\stanford\html'
 for file in os.listdir(source_dir):
 	if file.endswith(".txt"):
 		file_path = os.path.join(source_dir, file)
