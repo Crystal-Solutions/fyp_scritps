@@ -1,4 +1,8 @@
-import re
+import nltk
+from nltk.tokenize import word_tokenize
+
+DEST_PATH = r"C:\\Users\\Ravindu Hasantha\\Dropbox\\fyp\\boi_pos_data\\"
+
 def extract(filename):
     with open(filename+'.ann','r') as f1:
         targets =[]
@@ -13,7 +17,7 @@ def extract(filename):
                     data.append(beginning)
                     data.append(diff)
                     targets.append(data)
-            except ValueError,IndexError:
+            except ValueError or IndexError:
                     continue
 
 
@@ -68,20 +72,32 @@ def extract(filename):
                     w = w+' O'
                     ttt.append(w)
             if len(phrases):
-               ttt.append(phrases[0]+ ' B')
+               ttt.append(phrases[0]+ ' B-T')
                if len(phrases)>1:
                     for i in range(len(phrases)-1):
-                        ttt.append(phrases[i+1]+ ' I')
+                        ttt.append(phrases[i+1]+ ' I-T')
+                        
+
                         
         else: break
 
 
    # print ttt
 
-    with open(filename+'-result.txt','w') as f:
-        for t in ttt:
-            f.write(t+"\n")
+    words = [t.split()[0] for t in ttt]
+    boiTags = [t.split()[1] for t in ttt]
+    pos = nltk.pos_tag(words)
+    #print(pos)
+
+    with open(DEST_PATH+filename+'-result.txt','w') as f:
+        for p,t in zip(pos,boiTags):
+            data = p[0]+" "+p[1]+" "+t
+            f.write(data+"\n")
+            #print(data)
         
+
+
+#extract('feedback_cs2012_1')
 
 for i in range (6):
     extract('feedback_cs2012_'+ str(i+1))
@@ -89,4 +105,4 @@ for i in range (2):
     extract('feedback_cs2062_'+ str(i+1))
 for i in range (19):
     extract('feedback_cs2202_'+ str(i+1))
-    print 'feedback_cs2202_'+ str(i+1)
+    print ('feedback_cs2202_'+ str(i+1))
