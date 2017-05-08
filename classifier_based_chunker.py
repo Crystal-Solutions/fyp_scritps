@@ -70,7 +70,13 @@ def tags_since_dt(sentence, i):
             tags.add(pos)
     return '+'.join(sorted(tags))
 
-test_sents = conll2000.chunked_sents('test.txt', chunk_types=['NP'])
-train_sents = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
+test_sents = conll2000.chunked_sents('targets_test.txt', chunk_types=['T'])
+train_sents = conll2000.chunked_sents('targets_train.txt', chunk_types=['T'])
+#print(train_sents)
+result_sents = [[(w,t) for (w,t,c) in
+                         nltk.chunk.tree2conlltags(sent)]
+                        for sent in train_sents]
+result_sents = [[nltk.tag.untag(i) for i in s] for s in result_sents]
 chunker = ConsecutiveNPChunker(train_sents)
-print(chunker.evaluate(test_sents))
+#print(chunker.evaluate(test_sents))
+results = chunker.parse_all(result_sents)
