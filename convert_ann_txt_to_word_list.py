@@ -7,19 +7,22 @@ Load annotations and txt fils from ../data/annotated/ and convert them into ../d
 
 #Imports
 import os,nltk
-
+from nltk.tag import StanfordPOSTagger
+stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger') 
+total_sents = 0
 
 #Constants
 SOURCE_DIR = '../data/annotated/'
-DEST_DIR = '../data/wordlist'
+DEST_DIR = '../data/wordlist/'
 
 
-def spans_words(txt,tokens,base_offset):
+def spans_words(txt,base_offset):
+    tokens = nltk.pos_tag(nltk.word_tokenize(txt))
     offset = 0
     for token in tokens:
-        offset = txt.find(token, offset)
-        yield token, base_offset+offset, base_offset+offset+len(token)
-        offset += len(token)
+        offset = txt.find(token[0], offset)
+        yield token, base_offset+offset, base_offset+offset+len(token[0])
+        offset += len(token[0])
     
 
 def spans_sentences(txt,base_offset):
@@ -32,12 +35,11 @@ def spans_sentences(txt,base_offset):
 
 
 def get_tagged_word_tokens(txt,annText, tagList=[],):
-    
-    sents = [sent for sent in spans_words(txt,nltk.sent_tokenize(txt),0)]
-    
-    tokens = [
-            [[token] for token in spans_words(sent[0],nltk.word_tokenize(sent[0]),sent[1])] for sent in sents]
-    print(len(txt))
+    global total_sents
+    sents = [sent for sent in spans_sentences(txt,0)]
+    tokens = [[[token] for token in spans_words(sent[0],sent[1])] for sent in sents]
+    print(len(sents))
+    total_sents += len(sents)
     anns = [line.split() for line in annText.split('\n')]
     for a in anns:
         if len(a)>4 and a[0][0]=='T' and a[1] in tagList:
@@ -47,15 +49,32 @@ def get_tagged_word_tokens(txt,annText, tagList=[],):
                     token_start = tok[0][1]
                     if token_start>=s and token_start<=e:
                         tok.append(a[0])
-                        
     return tokens
 
-#print([ a for a in spans_words("Hi, I have no idea what to say.",0)])
+def save_as_wordlist(sents,dest,fileName):
+    file_path = os.path.join(dest, fileName)
+    f = open(file_path, 'w')
+    
+    for sent in sents:
+        b_added = False
+        for word in sent:
+            w,pos = word[0][0]
+            tag = 'O'
+            if len(word)>1:
+                tag = 'I-T' if b_added else 'B-T'
+                b_added = True
+            else:
+                b_added = False
+                
+            f.write(w+' '+pos+' '+tag+'\n')
+        f.write('\n')
+    f.close()
 
 
 #Iterate through files
 for file in os.listdir(SOURCE_DIR):
     if file.endswith(".txt"):
+        print("Processing:"+file, end='\t')
         txt_file_path = os.path.join(SOURCE_DIR, file)
         f = open(txt_file_path)
         txt = f.read().replace('\n','\n\n')
@@ -63,5 +82,12 @@ for file in os.listdir(SOURCE_DIR):
         ann_file_path = os.path.join(SOURCE_DIR, file[:-3]+'ann')
         f = open(ann_file_path)
         ann = f.read()
+        if ann == "":
+            print("skiping")
+            continue
         result = get_tagged_word_tokens(txt,ann,['PositiveTarget','NegativeTarget','Target'])
-        break
+        save_as_wordlist(result, DEST_DIR, file)
+    
+    
+print("Total Sentences: "+str(total_sents))
+        
