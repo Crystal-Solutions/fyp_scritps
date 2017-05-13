@@ -7,6 +7,7 @@ Load annotations and txt fils from ../data/annotated/ and convert them into ../d
 
 #Imports
 import os,nltk
+import re
 from nltk.tag import StanfordPOSTagger
 stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger') 
 total_sents = 0
@@ -14,7 +15,7 @@ total_sents = 0
 #Constants
 SOURCE_DIR = '../data/annotated/'
 DEST_DIR = '../data/wordlist/'
-
+    
 
 def spans_words(txt,base_offset):
     tokens = nltk.pos_tag(nltk.word_tokenize(txt))
@@ -26,7 +27,8 @@ def spans_words(txt,base_offset):
     
 
 def spans_sentences(txt,base_offset):
-    tokens=nltk.sent_tokenize(txt)
+    space_added_txt = re.sub(r"(\w+)\.(\w+)",r"\1. \2",txt)
+    tokens=nltk.sent_tokenize(space_added_txt)
     offset = 0
     for token in tokens:
         offset = txt.find(token, offset)

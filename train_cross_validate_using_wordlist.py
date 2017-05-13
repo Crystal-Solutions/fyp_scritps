@@ -81,62 +81,63 @@ def sent2tokens(sent):
 
 
 
-fileNames = []
-for file in os.listdir(DATA_DIR):
-    if file.endswith(".txt"):
-        fileNames.append(file)
-        
+#fileNames = []
+#for file in os.listdir(DATA_DIR):
+#    if file.endswith(".txt"):
+#        fileNames.append(file)
+fileNames = ['feedback_cs2062_1', 'feedback_cs2062_2','feedback_cs2202_1','feedback_cs2202_10','feedback_cs2202_11','feedback_cs2202_12','feedback_cs2202_2','feedback_cs2202_5','feedback_cs2202_6','feedback_cs2202_7','feedback_cs2202_8','feedback_cs2202_9']
+fileNames = [fName+'.txt' for fName in fileNames]
+
 
 columntypes = ['words', 'pos', 'chunk']
 reader = ConllCorpusReader(root=DATA_DIR, fileids=fileNames, columntypes=columntypes,)
 
 
+trainSents = []
+#Create a sentece pool
 for name in fileNames:
-    trainFiles = fileNames[:]
-    trainFiles.remove(name)
-    train_sents = []
-    for file in trainFiles:
-        s = reader.iob_sents(file)
-        train_sents+=s
+    s = reader.iob_sents(name)
+    trainSents+=s
 #        print(len(s))
-        
-    test_sents = reader.iob_sents(name)
-    print("train_sentence_count="+str(len(train_sents)))
-    print("test_sentence_count="+str(len(test_sents)))
-    
-    #data to train
-    X_train = [sent2features(s) for s in train_sents]
-    y_train = [sent2labels(s) for s in train_sents]
-    
-    X_test = [sent2features(s) for s in test_sents]
-    y_test = [sent2labels(s) for s in test_sents]
-    
-    #Train
-    crf = sklearn_crfsuite.CRF(
-        algorithm='lbfgs', 
-        c1=0.1, 
-        c2=0.1, 
-        max_iterations=100, 
-        all_possible_transitions=True
-    )
-    crf.fit(X_train, y_train)
-    
-    
-    #Evaluate
-    labels = list(crf.classes_)
-#    labels.remove('O')
-    print(labels)
-    
-    y_pred = crf.predict(X_test)
-    print(metrics.flat_f1_score(y_test, y_pred, 
-                          average='weighted', labels=labels))
-    
-    sorted_labels = sorted(
-        labels, 
-        key=lambda name: (name[1:], name[0])
-    )
-    print(metrics.flat_classification_report(
-        y_test, y_pred, labels=sorted_labels, digits=3
-    ))
-    
+
+print(len(trainSents))    
+#    test_sents = reader.iob_sents(name)
+#    print("train_sentence_count="+str(len(train_sents)))
+#    print("test_sentence_count="+str(len(test_sents)))
+#    
+#    #data to train
+#    X_train = [sent2features(s) for s in train_sents]
+#    y_train = [sent2labels(s) for s in train_sents]
+#    
+#    X_test = [sent2features(s) for s in test_sents]
+#    y_test = [sent2labels(s) for s in test_sents]
+#    
+#    #Train
+#    crf = sklearn_crfsuite.CRF(
+#        algorithm='lbfgs', 
+#        c1=0.1, 
+#        c2=0.1, 
+#        max_iterations=100, 
+#        all_possible_transitions=True
+#    )
+#    crf.fit(X_train, y_train)
+#    
+#    
+#    #Evaluate
+#    labels = list(crf.classes_)
+#    #labels.remove('O')
+#    print(labels)
+#    
+#    y_pred = crf.predict(X_test)
+#    print(metrics.flat_f1_score(y_test, y_pred, 
+#                          average='weighted', labels=labels))
+#    
+#    sorted_labels = sorted(
+#        labels, 
+#        key=lambda name: (name[1:], name[0])
+#    )
+#    print(metrics.flat_classification_report(
+#        y_test, y_pred, labels=sorted_labels, digits=3
+#    ))
+#    
 
