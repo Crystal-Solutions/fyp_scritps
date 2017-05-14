@@ -12,7 +12,9 @@ from nltk.tokenize import sent_tokenize
 
 #Constants
 SOURCE_DIR = '../data/annotated/'
-SENNA_INPUT_DIR = '../data/senna_input/'
+SENNA_INPUT_DIR_RESPS = '../data/senna_input_resps/'
+SENNA_INPUT_DIR_SENTS = '../data/senna_input_sents/'
+SENNA_DEST_DIR = '../data/senna_wordlist/'
 SENNA_EXECUTABLE_DIR = '../../tools/senna'
 
 pos_tagger = SennaTagger(SENNA_EXECUTABLE_DIR)
@@ -38,7 +40,7 @@ def add_space_between_sentence_and_period(text, text_type):
         counter = 1
         while(counter < len(text) and text[-counter] == ' '):
             counter += 1
-        if counter >= len(text): return
+        if counter >= len(text): return ""
         elif text[-counter] == '.':
             return text[:-counter] + " ."    
         else:
@@ -66,15 +68,31 @@ def preprocess(text, text_type):
     else:
         print("Invalid text type. text_type: \"single\" for single sentence, \"multiple\" for multiple newline seperated responses")
     
-    ''''
-#Iterate through files
+def save_preprocessed_data(text, dest, filename):
+    """
+    save preprocessed data to be taken as input to senna toolkit
+    """
+    file_path = os.path.join(dest, filename)
+    f = open(file_path, 'w')
+    
+    f.write(text)
+    f.close()
+    
+    
+#Iterate through files - preprocessing
 for file in os.listdir(SOURCE_DIR):
     if file.endswith(".txt"):
-        print("Processing:"+file, end='\t')
+        print("Preprocessing:"+file, end='\t')
         txt_file_path = os.path.join(SOURCE_DIR, file)
         f = open(txt_file_path)
         #txt = f.read().replace('\n','\n\n')
         txt = f.read()
+        
+        preprocessed_sents = preprocess(txt, "single")
+        save_preprocessed_data(preprocessed_sents, SENNA_INPUT_DIR_SENTS, file)
+        preprocessed_resps = preprocess(txt, "multiple")
+        save_preprocessed_data(preprocessed_resps, SENNA_INPUT_DIR_RESPS, file)
+
 '''
 f = open("feedback_cs2202_1.txt")
 #txt = f.read().replace('\n','\n\n')
@@ -86,3 +104,4 @@ q= sent_tokenize(a)
 print(q)
 z=chunk_tagger.tag(q)
 print(z)
+'''
