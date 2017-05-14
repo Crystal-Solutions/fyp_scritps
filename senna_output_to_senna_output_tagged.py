@@ -91,7 +91,7 @@ def save_as_wordlist(tokens,dest,fileName):
     b_added = False
     for tok in tokens:
         if(len(tok[0])>0):
-            w,pos = tok[0][0],tok[0][1]
+            w,pos,chunk = tok[0][0],tok[0][1],tok[0][2]
             
             tag = 'O'
             if len(tok[-1])>=1:
@@ -99,7 +99,7 @@ def save_as_wordlist(tokens,dest,fileName):
                 b_added = True
             else:
                 b_added = False
-            f.write(w+' '+pos+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+tag+'\n')
+            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+tag+'\n')
         else:
             f.write("\n")
     f.close()
