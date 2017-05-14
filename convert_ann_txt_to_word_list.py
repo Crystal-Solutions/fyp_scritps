@@ -9,13 +9,22 @@ Load annotations and txt fils from ../data/annotated/ and convert them into ../d
 import os,nltk
 import re
 from nltk.tag import StanfordPOSTagger
+from nltk.corpus import stopwords
+
 stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger') 
+
 total_sents = 0
 
 #Constants
 SOURCE_DIR = '../data/annotated/'
 DEST_DIR = '../data/wordlist/'
-    
+DEST_DIR_PITTS = '../data/wordlist_pitts/'
+
+#important phrases array (can replace 'is_in_prompt' feature of pittsburgh research)
+IMP_PHRASES = []
+
+#nltk stopwords TODO: get stanford stopwords
+stop_words = set(stopwords.words('english'))
 
 def spans_words(txt,base_offset):
     tokens = nltk.pos_tag(nltk.word_tokenize(txt))
