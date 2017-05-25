@@ -80,6 +80,67 @@ def gen_w2v_unigram_5window_commented():
         
         
 """
+generate pattern for word2vec bigrams for 3 word window
+U:wrd-2 L=%X[-1,0]/%X[ 0,0]
+"""
+def gen_w2v_bigram_3window():   
+    for i in range(7,307):
+        line1 = 'U:w2v-f' + str(i-6) + '-2 L=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
+        line2 = 'U:w2v-f' + str(i-6) + '-2 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
+        pattern_file.write(line1 + "\n" + line2 + "\n\n")
+        print(line1 + "\n" + line2 + "\n")
+
+
+"""
+generate pattern for word2vec bigrams for 3 word window commented
+U:wrd-2 L=%X[-1,0]/%X[ 0,0]
+"""
+def gen_w2v_bigram_3window_commented():   
+    for i in range(7,307):
+        line1 = '#U:w2v-f' + str(i-6) + '-2 L=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
+        line2 = '#U:w2v-f' + str(i-6) + '-2 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
+        pattern_file.write(line1 + "\n" + line2 + "\n\n")
+        print(line1 + "\n" + line2 + "\n")
+
+
+"""
+generate pattern for word2vec bigrams for 5 word window
+"""
+def gen_w2v_bigram_5window():   
+    for i in range(7,307):
+        line1 = 'U:w2v-f' + str(i-6) + '-2LL=%X[-2,' + str(i) + ']/%X[ -1,' + str(i) + ']'
+        line2 = 'U:w2v-f' + str(i-6) + '-2 L=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
+        line3 = 'U:w2v-f' + str(i-6) + '-2 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
+        line4 = 'U:w2v-f' + str(i-6) + '-2RR=%X[ 1,' + str(i) + ']/%X[ 2,' + str(i) + ']'
+        pattern_file.write(line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 + "\n\n")
+        print(line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 +"\n")
+        
+        
+"""
+generate pattern for word2vec bigrams for 5 word window commented
+"""
+def gen_w2v_bigram_5window_commented():   
+    for i in range(7,307):
+        line1 = '#U:w2v-f' + str(i-6) + '-2LL=%X[-2,' + str(i) + ']/%X[ -1,' + str(i) + ']'
+        line2 = '#U:w2v-f' + str(i-6) + '-2 L=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
+        line3 = '#U:w2v-f' + str(i-6) + '-2 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
+        line4 = '#U:w2v-f' + str(i-6) + '-2RR=%X[ 1,' + str(i) + ']/%X[ 2,' + str(i) + ']'
+        pattern_file.write(line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 + "\n\n")
+        print(line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 +"\n")
+
+
+"""
+generate pattern for word2vec trigrams for 5 word window
+"""
+def gen_w2v_trigram_5window():   
+    for i in range(7,307):
+        line1 = 'U:w2v-f' + str(i-6) + '-3 L=%X[-2,' + str(i) + ']/%X[ -1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
+        line2 = 'U:w2v-f' + str(i-6) + '-3 X=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
+        line3 = 'U:w2v-f' + str(i-6) + '-3 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']/%X[ 2,' + str(i) + ']'
+        pattern_file.write(line1 + "\n" + line2 + "\n" + line3 + "\n" + "\n\n")
+        print(line1 + "\n" + line2 + "\n" + line3 + "\n" +"\n")
+
+"""
 generate pattern
 """
 def generate_pattern():
@@ -87,7 +148,10 @@ def generate_pattern():
     #gen_w2v_unigram_single()
     #gen_w2v_unigram_single_commented()
     #gen_w2v_unigram_3window()
-    gen_w2v_unigram_5window()
+    #gen_w2v_unigram_5window()
+    #gen_w2v_bigram_3window()
+    #gen_w2v_bigram_5window()
+    gen_w2v_trigram_5window()
     
     
 generate_pattern()
