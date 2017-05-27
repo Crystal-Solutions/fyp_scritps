@@ -137,7 +137,7 @@ def gen_w2v_trigram_5window():
         line1 = 'U:w2v-f' + str(i-6) + '-3 L=%X[-2,' + str(i) + ']/%X[ -1,' + str(i) + ']/%X[ 0,' + str(i) + ']'
         line2 = 'U:w2v-f' + str(i-6) + '-3 X=%X[-1,' + str(i) + ']/%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']'
         line3 = 'U:w2v-f' + str(i-6) + '-3 R=%X[ 0,' + str(i) + ']/%X[ 1,' + str(i) + ']/%X[ 2,' + str(i) + ']'
-        pattern_file.write(line1 + "\n" + line2 + "\n" + line3 + "\n" + "\n\n")
+        pattern_file.write(line1 + "\n" + line2 + "\n" + line3 + "\n\n")
         print(line1 + "\n" + line2 + "\n" + line3 + "\n" +"\n")
 
 """
@@ -148,9 +148,9 @@ def generate_pattern():
     #gen_w2v_unigram_single()
     #gen_w2v_unigram_single_commented()
     #gen_w2v_unigram_3window()
-    #gen_w2v_unigram_5window()
+    gen_w2v_unigram_5window()
     #gen_w2v_bigram_3window()
-    #gen_w2v_bigram_5window()
+    gen_w2v_bigram_5window()
     gen_w2v_trigram_5window()
     
     
