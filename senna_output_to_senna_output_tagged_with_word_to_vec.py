@@ -10,6 +10,8 @@ import re
 from nltk.tag import StanfordPOSTagger
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
+#from word_to_vec import model as w2v_model
+
 stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger') 
 total_sents = 0
 stopWords = set(stopwords.words('english'))
@@ -20,7 +22,7 @@ promptWords = ['lectures', 'how']
 #Constants
 ANN_DIR = '../data/annotated/'
 SRC_DIR = '../data/senna_output/'
-DEST_DIR = '../data/senna_output_tagged/'
+DEST_DIR = '../data/senna_output_tagged_with_word2vec/'
 
 def spans_tokens(txt,tokens):
     offset = 0
@@ -86,6 +88,20 @@ def tag(senna_txt, txt, ann,tagList):
                     
     return tokens
 
+missing_words = set();
+def get_wc_tags(word):
+    
+    if word in w2v_model:
+        vec = w2v_model[word]
+    else:
+        vec = [0]*300
+        missing_words.add(word)
+        
+    txt = ""
+    for i in vec:
+        txt+=str(i)+" "
+    return txt
+
 #save method save them to a file
 def save_as_wordlist(tokens,dest,fileName):
     file_path = os.path.join(dest, fileName)
@@ -102,7 +118,8 @@ def save_as_wordlist(tokens,dest,fileName):
                 b_added = True
             else:
                 b_added = False
-            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+tag+'\n')
+            
+            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+get_wc_tags(w)+tag+'\n')
         else:
             f.write("\n")
     f.close()
