@@ -14,23 +14,37 @@ stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger')
 total_sents = 0
 stopWords = set(stopwords.words('english'))
 stemmer = PorterStemmer()
-promptWords = ['lectures', 'how']
+f = open('../data/double_propergation/dp_out.txt')
+promptWords = f.read().split()#['lectures', 'how']
+promptWords = list(map(lambda w: w.lower(),promptWords))
+print(promptWords)
 
 
 #Constants
 ANN_DIR = '../data/annotated/'
-SRC_DIR = '../data/senna_output/'
+SRC_DIR = '../data/senna_out_sents/'
 DEST_DIR = '../data/senna_output_tagged/'
 
 def spans_tokens(txt,tokens):
     offset = 0
     for token in tokens:
+        
         if(len(token)==0):
-            yield [], offset, offset
-            continue
-        offset = txt.find(token[0], offset)
-        yield token, offset, offset+len(token[0])
-        offset += len(token[0])
+            s = ([], offset, offset)
+        else:
+            oldO = offset
+            if(token[0]!='.'):
+                offset = txt.find(token[0], offset)
+                s = (token, offset, offset+len(token[0]))
+            else:
+                s = (token, offset, offset+len(token[0]))
+            #Print if any Error
+            if(oldO>offset):
+                print("----------------------------")
+                print(oldO,offset,token[0])
+            
+            offset += len(token[0])
+        yield s
 
 
 def tag(senna_txt, txt, ann,tagList):
@@ -91,18 +105,21 @@ def save_as_wordlist(tokens,dest,fileName):
     file_path = os.path.join(dest, fileName)
     f = open(file_path, 'w')
     
-    b_added = False
+    b_added,entity = False,""
     for tok in tokens:
         if(len(tok[0])>0):
             w,pos,chunk = tok[0][0],tok[0][1],tok[0][2]
+            start_i = tok[1]
             
             tag = 'O'
             if len(tok[-1])>=1:
-                tag = 'I' if b_added else 'B'
+                tag = 'I' if (b_added and entity==tok[-1][0]) else 'B'
                 b_added = True
+                entity = tok[-1][0]
             else:
                 b_added = False
-            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+tag+'\n')
+                entity = ""
+            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+fileName[:-4]+' '+str(start_i)+' '+tag+'\n')
         else:
             f.write("\n")
     f.close()

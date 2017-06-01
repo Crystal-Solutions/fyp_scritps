@@ -27,12 +27,19 @@ DEST_DIR = '../data/senna_output_tagged_with_word2vec/'
 def spans_tokens(txt,tokens):
     offset = 0
     for token in tokens:
+        
         if(len(token)==0):
-            yield [], offset, offset
-            continue
-        offset = txt.find(token[0], offset)
-        yield token, offset, offset+len(token[0])
-        offset += len(token[0])
+            s = ([], offset, offset)
+        else:
+            oldO = offset
+            if(token[0]!='.'):
+                offset = txt.find(token[0], offset)
+            if(oldO>offset):
+                print("----------------------------")
+                print(oldO,offset,token[0])
+            s = (token, offset, offset+len(token[0]))
+            offset += len(token[0])
+        yield s
 
 
 def tag(senna_txt, txt, ann,tagList):
@@ -111,6 +118,7 @@ def save_as_wordlist(tokens,dest,fileName):
     for tok in tokens:
         if(len(tok[0])>0):
             w,pos,chunk = tok[0][0],tok[0][1],tok[0][2]
+            start_i = tok[1]
             
             tag = 'O'
             if len(tok[-1])>=1:
@@ -119,7 +127,7 @@ def save_as_wordlist(tokens,dest,fileName):
             else:
                 b_added = False
             
-            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+get_wc_tags(w)+tag+'\n')
+            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+get_wc_tags(w)+fileName[:-4]+' '+str(start_i)+' '+tag+'\n')
         else:
             f.write("\n")
     f.close()

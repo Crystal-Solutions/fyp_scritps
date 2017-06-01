@@ -1,0 +1,7 @@
+workshop
+content
+presentation
+speed
+tool
+effort
+knowledge

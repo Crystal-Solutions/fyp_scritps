@@ -1,0 +1,12 @@
+course
+project
+series
+subject
+ad
+assignment
+experience
+module
+number
+section
+workload
+workshop
