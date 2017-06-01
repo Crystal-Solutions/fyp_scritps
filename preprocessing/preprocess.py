@@ -64,9 +64,12 @@ def preprocess():
             #space adding between sentences and period
             #sentences
             space_added_before_period_sents = ""
-            sentences = sent_tokenize(spell_corrected_text_sents)
-            for sentence in sentences:
-                space_added_before_period_sents += add_space_between_sentence_and_period(sentence, "single") + "\n"
+            responses = spell_corrected_text_resps.split('\n')
+            for response in responses:
+                sentences = sent_tokenize(response)
+                for sentence in sentences:
+                    space_added_before_period_sents += add_space_between_sentence_and_period(sentence, "single") + "\n"
+                space_added_before_period_sents += "\n"
             space_added_before_period_sents_file = open(DIR_SPACE_ADDED_BEFORE_PERIOD_SENTS+file, "w")
             space_added_before_period_sents_file.write(space_added_before_period_sents)
             space_added_before_period_sents_file.close()
