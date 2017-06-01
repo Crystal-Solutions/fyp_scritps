@@ -41,7 +41,7 @@ def add_space_between_sentence_and_period(text, text_type):
     """
     if text_type == "single":
         counter = 1
-        while(counter < len(text) and text[-counter] == ' '):
+        while(counter < len(text) and (text[-counter] == ' ' or text[-counter] == '\n')):
             counter += 1
         if counter >= len(text): return ""
         elif text[-counter] == '.':

@@ -29,8 +29,8 @@ def rate_limited(max_per_second):
 
     return decorate
 
-#bing_spell_check_api_key = '4f44263fa15e4203920250272f62cc4e'
-bing_spell_check_api_key = '4a75ac66cff7452397047db86468d113'
+bing_spell_check_api_key = '4f44263fa15e4203920250272f62cc4e'
+#bing_spell_check_api_key = '4a75ac66cff7452397047db86468d113'
 
 @rate_limited(7)
 def bing_spell_correct(
@@ -59,12 +59,17 @@ def bing_spell_correct(
 
     conn: http.client.HTTPSConnection = None
 
+    api_calls_file = open("api_calls.txt","a+")
+    
     print(f'BEFORE - {text}')
     try:
         conn = http.client.HTTPSConnection('api.cognitive.microsoft.com')
         conn.request("POST", "/bing/v5.0/spellcheck/?%s" % params, "Text=" + formatted_txt, headers)
         response = conn.getresponse()
-
+        
+        
+        api_calls_file.write("s")
+        
         data = response.read().decode('utf-8')
 
         json_obj = json.loads(data)
@@ -99,10 +104,12 @@ def bing_spell_correct(
         return corrected_text
     except Exception as e:
         print(f'Exception in BING Spell Check API : {e}')
+        api_calls_file.write("u")
         raise
     finally:
         if conn:
             conn.close()
+        api_calls_file.close()
 
 
 if __name__ == '__main__':
