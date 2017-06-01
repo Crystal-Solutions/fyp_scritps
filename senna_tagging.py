@@ -17,6 +17,9 @@ SENNA_INPUT_DIR_SENTS = '../data/senna_input_sents/'
 SENNA_DEST_DIR = '../data/senna_wordlist/'
 SENNA_EXECUTABLE_DIR = '../../tools/senna'
 
+"""
+for now these taggers are not used. SENNA tagging is done mannually using a shell script
+"""
 pos_tagger = SennaTagger(SENNA_EXECUTABLE_DIR)
 chunk_tagger = SennaChunkTagger(SENNA_EXECUTABLE_DIR)
 
