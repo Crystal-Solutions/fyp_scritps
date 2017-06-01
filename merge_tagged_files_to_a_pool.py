@@ -11,10 +11,12 @@ fileNames = ['feedback_cs2012_4',
              'feedback_cs2062_1',
              'feedback_cs2012_1',
              'feedback_cs2202_7',
+             'feedback_cs2202_2',
+             'feedback_cs2202_6',
              'feedback_cs2202_10']
 fileNames = [f+'.txt' for f in fileNames]
 
-SRC_DIR = '../data/senna_output_tagged_with_word2vec/'
+SRC_DIR = '../data/senna_output_tagged'
 DEST_DIR = '../data/senna_output_tagged/all/cross/'
 
 def sent_to_text(lst):
@@ -29,7 +31,7 @@ for fileName in fileNames:
     txt_file_path = os.path.join(SRC_DIR, fileName)
     f = open(txt_file_path)
     sents += f.read().strip().split('\n\n')
-
+random.seed(0)
 random.shuffle(sents)
 
 
@@ -39,7 +41,7 @@ for s in sents:
     wordCount+= len(x)
 
 
-group_count = 5
+group_count = 10
 group_size = wordCount/group_count
 
 size_of_this_group = 0
