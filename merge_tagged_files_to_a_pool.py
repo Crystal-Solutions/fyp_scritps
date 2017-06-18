@@ -7,13 +7,28 @@ Created on Mon May 15 13:24:01 2017
 
 import os
 import random
-fileNames = ['feedback_cs2012_4',
+
+oldFileNames = ['feedback_cs2012_4',
              'feedback_cs2062_1',
              'feedback_cs2012_1',
              'feedback_cs2202_7',
              'feedback_cs2202_2',
              'feedback_cs2202_6',
              'feedback_cs2202_10']
+fileNames = [
+             'feedback_cs2202_11',
+             'feedback_cs2202_8',
+             'feedback_cs2202_4',
+             'feedback_cs2202_3',
+             'feedback_cs2012_2',
+             'feedback_cs2012_5', #---->
+             'feedback_cs2202_5',
+             'feedback_cs2202_12',
+             'feedback_cs2012_6',
+             'feedback_cs2202_9',
+             'feedback_cs2012_3'
+             ]
+print(len(fileNames))
 fileNames = [f+'.txt' for f in fileNames]
 
 SRC_DIR = '../data/senna_output_tagged'

@@ -10,7 +10,7 @@ Create a composed annotated data set which can be viewd from brat where the pred
 import os
 import shutil
 import re
-SRC_DIR = '../data/senna_output_tagged/all/output/'
+SRC_DIR = '../data/senna_output_tagged/all/output_svm_applied/'
 DIFF_DEST_DIR = '../data/annotated_compared_with_results/'
 ARCH_DEST_DIR = 'I:/fyp_archive/'
 if os.path.isdir(DIFF_DEST_DIR):
@@ -56,7 +56,7 @@ for file in os.listdir(SRC_DIR):
             pred_tag = tags[i+1].strip()
             or_tag = spts[-1]
         
-            if(len(spts)>0 and spts[-1]!=pred_tag):
+            if(spts[-1]!=pred_tag):
                 sample_txt = tags[i].split()
                 difs.append((spts[-3],spts[-2],spts[0],spts[-1],pred_tag))
                 
@@ -83,9 +83,8 @@ for file in os.listdir(SRC_DIR):
             counts.append(len(lst))
             print(len(lst),end=", ")
             summary_text+=str(len(lst))+"\t"
-        #for lst in lsts:
-            
-        
+
+
         c_tp, c_t, c_p = counts
         precision = c_tp/c_p
         recall = c_tp/c_t

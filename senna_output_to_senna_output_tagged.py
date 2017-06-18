@@ -14,10 +14,12 @@ stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger')
 total_sents = 0
 stopWords = set(stopwords.words('english'))
 stemmer = PorterStemmer()
-f = open('../data/double_propergation/dp_out.txt')
+f = open('../external_resources/positive-words.txt')
 promptWords = f.read().split()#['lectures', 'how']
 promptWords = list(map(lambda w: w.lower(),promptWords))
-print(promptWords)
+f = open('../external_resources/negative-words.txt')#['lectures', 'how']
+promptWords += list(map(lambda w: w.lower(),f.read().split()))
+#print(promptWords)
 
 
 #Constants
