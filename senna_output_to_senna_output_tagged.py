@@ -1,19 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Feature Extraction
-(senna_output_to_senna_output_tagged)
-
 Created on Sun May 14 16:58:02 2017
 
 @author: Janaka
 """
-
 #Imports
-import os
-
+import os,nltk
+import re
+from nltk.tag import StanfordPOSTagger
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-from nltk.stem.wordnet import WordNetLemmatizer
 
 #------------------------------------------------------
 #added by pani-- not working on my lap without these
@@ -27,16 +23,11 @@ stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger')
 total_sents = 0
 stopWords = set(stopwords.words('english'))
 stemmer = PorterStemmer()
-lmtzr = WordNetLemmatizer()
-
-positive_words_file = open('../external_resources/positive-words.txt')
-promptWords = positive_words_file.read().split()
-positive_words_file.close()
+f = open('../external_resources/positive-words.txt')
+promptWords = f.read().split()#['lectures', 'how']
 promptWords = list(map(lambda w: w.lower(),promptWords))
-
-negative_words_file = open('../external_resources/negative-words.txt')
-promptWords += list(map(lambda w: w.lower(),negative_words_file.read().split()))
-negative_words_file.close()
+f = open('../external_resources/negative-words.txt')#['lectures', 'how']
+promptWords += list(map(lambda w: w.lower(),f.read().split()))
 #print(promptWords)
 
 
@@ -44,13 +35,8 @@ negative_words_file.close()
 ANN_DIR = '../data/annotated/'
 SRC_DIR = '../data/senna_out_sents/'
 DEST_DIR = '../data/senna_output_tagged/'
-#DEST_DIR = '../data/testing/'
-
 
 def spans_tokens(txt,tokens):
-    """
-    Returns the start and end positions of the words
-    """
     offset = 0
     for token in tokens:
         
@@ -96,7 +82,7 @@ def tag(senna_txt, txt, ann,tagList):
 
     #adding tags for prompt, stopword, word Count, word rank and 
     for line in tokens:
-        print("line",line)
+#        print(line)
         if(len(line[0])==0):
             line.append('Y')
             line.append('N')
@@ -106,16 +92,11 @@ def tag(senna_txt, txt, ann,tagList):
             continue
         w = line[0][0].lower()
         stem_w = stemmer.stem(w)
-        lem_w = lmtzr.lemmatize(w)
-        
         line.append('Y' if w in stopWords else 'N')
         line.append('Y' if w in promptWords else 'N')
         line.append(wordCounts[stem_w])
         line.append(wordRanks[stem_w])
-        line.append(stem_w)#adding stemmed word as a feature
-        line.append(lem_w)#adding lemmatized word as a feature
         line.append([])
-        print("line2",line)
     
     #add annotation tags
     anns = [line.split() for line in ann.split('\n')]
@@ -149,7 +130,7 @@ def save_as_wordlist(tokens,dest,fileName):
             else:
                 b_added = False
                 entity = ""
-            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+tok[7]+' '+tok[8]+' '+fileName[:-4]+' '+str(start_i)+' '+tag+'\n')
+            f.write(w+' '+pos+' '+chunk+' '+tok[3]+' '+tok[4]+' '+str(tok[5])+' '+str(tok[6])+' '+fileName[:-4]+' '+str(start_i)+' '+tag+'\n')
         else:
             f.write("\n")
     f.close()
