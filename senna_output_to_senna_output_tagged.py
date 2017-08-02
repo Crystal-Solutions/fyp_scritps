@@ -10,7 +10,16 @@ import re
 from nltk.tag import StanfordPOSTagger
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger') 
+
+#------------------------------------------------------
+#added by pani-- not working on my lap without these
+#jar = '/Users/prani/Downloads/stanford-postagger-2017-06-09/stanford-postagger.jar'
+#model = '/Users/prani/Downloads/stanford-postagger-2017-06-09/models/english-left3words-distsim.tagger'
+#stPosTagger = StanfordPOSTagger(model, jar)
+#---------------------------------------------
+
+stPosTagger = StanfordPOSTagger('english-bidirectional-distsim.tagger')
+
 total_sents = 0
 stopWords = set(stopwords.words('english'))
 stemmer = PorterStemmer()
