@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+Feature extraction with w2v
+(senna_output_to_senna_output_tagged_with_word_to_vec)
+
 Created on Sun May 14 16:58:02 2017
 
 @author: Janaka

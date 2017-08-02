@@ -10,7 +10,7 @@ Create a composed annotated data set which can be viewd from brat where the pred
 import os
 import shutil
 import re
-SRC_DIR = '../data/senna_output_tagged/all/output_svm_applied/'
+SRC_DIR = '../data/senna_output_tagged/all/output/'
 DIFF_DEST_DIR = '../data/annotated_compared_with_results/'
 ARCH_DEST_DIR = 'I:/fyp_archive/'
 if os.path.isdir(DIFF_DEST_DIR):
