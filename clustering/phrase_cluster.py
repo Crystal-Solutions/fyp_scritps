@@ -10,6 +10,7 @@ import numpy as np
 import math
 
 import similarity_calulator
+import clustering_evaluator
 from kmedoids import kmedoids
 
 #extracted phrases list - example
@@ -35,13 +36,15 @@ phrases = ["Lectures", "you", "lecturer explains most of the concepts using exam
 #                [10,10]])
 
 # distance matrix
-D1 = pairwise_distances(data, metric='euclidean')
+#D1 = pairwise_distances(data, metric='euclidean')
 
 D = similarity_calulator.get_distance_matrix()
 
-# split into 2 clusters
+# split into clusters
+no_of_phrases = similarity_calulator.get_no_of_phrases()
 #M, C = kmedoids.kMedoids(D, 2)
-M, C = kmedoids.kMedoids(D, int(math.sqrt(similarity_calulator.get_no_of_phrases())))
+#M, C = kmedoids.kMedoids(D, int(math.sqrt(similarity_calulator.get_no_of_phrases())))
+M, C = kmedoids.kMedoids(D, int(math.sqrt(no_of_phrases))+3)
 
 print('medoids:')
 for point_idx in M:
@@ -52,3 +55,13 @@ print('clustering result:')
 for label in C:
     for point_idx in C[label]:
         print('label {0}:　{1}'.format(label, phrases[point_idx]))
+       
+# create a list of labels
+labels = [None] * no_of_phrases
+for label in C:
+    for point_idx in C[label]:
+        labels[point_idx] = label
+# get silhoutte_coeff_score 
+silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)
+
+print("silhoutte_coeff_score : ",silhoutte_coeff_score)
