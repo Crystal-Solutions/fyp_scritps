@@ -12,10 +12,6 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 
-#documents = [open(f) for f in text_files]
-#tfidf = TfidfVectorizer().fit_transform(documents)
-# no need to normalize, since Vectorizer will return normalized tf-idf
-#pairwise_similarity = tfidf * tfidf.T
 
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
@@ -34,14 +30,6 @@ phrases = ["Lectures", "you", "lecturer explains most of the concepts using exam
            "In class exercises", "Homework given every day", "lecturer", "lot of new things",
            "In class activities", "lectures", "current way of teaching"]
 
-#vect = TfidfVectorizer(min_df=1)
-#tfidf = vect.fit_transform(phrases)
-#a = (tfidf * tfidf.T).A
-#print(a)
-
-
-#path = './tf-idf'
-#token_dict = {}
 token_list = []
 
 
@@ -53,7 +41,7 @@ def tokenize(text):
     return stems
 
 
-def get_similarity_matrix():
+def get_similarity_matrix(phrases):
     for item in phrases:
         token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
     
@@ -63,37 +51,19 @@ def get_similarity_matrix():
 #    print(sim_mat)
     return sim_mat
 
-def get_distance_matrix():
-    sim_mat = get_similarity_matrix()
+def get_distance_matrix(phrases):
+    sim_mat = get_similarity_matrix(phrases)
     dist_arr = [[(1-y) for y in x] for x in sim_mat]
     dist_mat = np.asmatrix(dist_arr)
 #    print(dist_mat)
     return dist_mat
 
-def get_no_of_phrases():
+def get_no_of_phrases(phrases):
     return len(phrases)
 
 if __name__ == "__main__":
-    sim_mat = get_similarity_matrix()
+    sim_mat = get_similarity_matrix(phrases)
     print(sim_mat)
-    mat = get_distance_matrix()
+    mat = get_distance_matrix(phrases)
     print(mat)
     
-#for dirpath, dirs, files in os.walk(path):
-#    for f in files:
-#        fname = os.path.join(dirpath, f)
-#        print("fname=", fname)
-#        with open(fname) as pearl:
-#            text = pearl.read()
-#            token_dict[f] = text.lower().translate(None, string.punctuation)
-
-#tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
-#tfs = tfidf.fit_transform(token_dict.values())
-
-#str = 'all great and precious things are lonely.'
-#response = tfidf.transform([str])
-#print(response)
-#
-#feature_names = tfidf.get_feature_names()
-#for col in response.nonzero()[1]:
-#    print(feature_names[col], ' - ', response[0, col])

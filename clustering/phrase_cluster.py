@@ -13,6 +13,11 @@ import similarity_calulator
 import clustering_evaluator
 from kmedoids import kmedoids
 
+RESULTS_PATH = "./results/"
+EVALUATED_RESULTS = "./evaluated/"
+
+#TODO: modularize/ add methods
+
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
            "what's on the board", "board", "lectures", "All the 7 lectures", "content",
@@ -30,38 +35,61 @@ phrases = ["Lectures", "you", "lecturer explains most of the concepts using exam
            "In class exercises", "Homework given every day", "lecturer", "lot of new things",
            "In class activities", "lectures", "current way of teaching"]
 
-# 3 points in dataset
-#data = np.array([[1,1], 
-#                [2,2], 
-#                [10,10]])
-
-# distance matrix
-#D1 = pairwise_distances(data, metric='euclidean')
-
-D = similarity_calulator.get_distance_matrix()
+#TODO: get phrases from extracted targets
+D = similarity_calulator.get_distance_matrix(phrases)
 
 # split into clusters
-no_of_phrases = similarity_calulator.get_no_of_phrases()
+no_of_phrases = similarity_calulator.get_no_of_phrases(phrases)
+no_of_clusters = int(math.sqrt(no_of_phrases))+2
 #M, C = kmedoids.kMedoids(D, 2)
 #M, C = kmedoids.kMedoids(D, int(math.sqrt(similarity_calulator.get_no_of_phrases())))
-M, C = kmedoids.kMedoids(D, int(math.sqrt(no_of_phrases))+3)
+M, C = kmedoids.kMedoids(D, no_of_clusters)
+
+results_file = open(RESULTS_PATH+"test", 'w')
 
 print('medoids:')
+results_file.write('medoids:')
 for point_idx in M:
     print( phrases[point_idx] )
+    results_file.write( phrases[point_idx] )
 
 print('')
+results_file.write('')
 print('clustering result:')
+results_file.write('clustering result:')
 for label in C:
     for point_idx in C[label]:
-        print('label {0}:　{1}'.format(label, phrases[point_idx]))
+        print('cluster {0}:　{1}'.format(label, phrases[point_idx]))
+        results_file.write('cluster {0}:　{1}'.format(label, phrases[point_idx]))
+        
+results_file.close()
        
 # create a list of labels
-labels = [None] * no_of_phrases
-for label in C:
-    for point_idx in C[label]:
-        labels[point_idx] = label
+def get_labels_list(clusters, no_of_phrases):
+    """
+    returns a list of labels when the cluster object is geven
+    """
+    labels = [None] * no_of_phrases
+    for label in clusters:
+        for point_idx in clusters[label]:
+            labels[point_idx] = label
+    return labels
+
+labels = get_labels_list(C, no_of_phrases)
+        
 # get silhoutte_coeff_score 
 silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)
 
-print("silhoutte_coeff_score : ",silhoutte_coeff_score)
+print("silhoutte_coeff_score : ", silhoutte_coeff_score)
+
+evaluated_clusters, evaluated_cluster_names = clustering_evaluator.manual_evaluate(phrases, D, C, M)
+
+print(evaluated_clusters)
+print(evaluated_cluster_names)
+
+evaluated_labels = get_labels_list(evaluated_clusters, no_of_phrases)
+ARI_score = clustering_evaluator.get_manual_eval_ARI(labels, evaluated_labels)
+
+print("ARI_score : ", ARI_score)
+
+#if __name__ == "__main__":
