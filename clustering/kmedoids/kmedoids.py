@@ -26,8 +26,11 @@ def kMedoids(D, k, tmax=100):
         # update cluster medoids
         for kappa in range(k):
             J = np.mean(D[np.ix_(C[kappa],C[kappa])],axis=1)
-            j = np.argmin(J)
-            Mnew[kappa] = C[kappa][j]
+            if len(J) != 0:
+                j = np.argmin(J)
+                Mnew[kappa] = C[kappa][j]
+            else:
+                Mnew[kappa] = M[kappa]
         np.sort(Mnew)
         # check for convergence
         if np.array_equal(M, Mnew):

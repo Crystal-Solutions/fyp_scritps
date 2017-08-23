@@ -20,13 +20,14 @@ def get_silhoutte_coefficient(distance_mat, labels):
 def manual_evaluate(phrases, distances, clusters, medoids, feedback_file="test"):
     evaluated_clusters = {}
     evaluated_labels = []
+    for label in clusters:
+        evaluated_clusters[label] = []
     
     evaluated_file = open(EVALUATED_RESULTS+feedback_file, 'w')
     
     print('')
     print('clustering result:')
     for label in clusters:
-        evaluated_clusters[label] = []
         for point_idx in clusters[label]:
             print('cluster {0}:　{1}'.format(label, phrases[point_idx]))
             #validate this user input
@@ -38,14 +39,14 @@ def manual_evaluate(phrases, distances, clusters, medoids, feedback_file="test")
                     break
             #assign user input to the evaluated_clusters obj
             evaluated_clusters[int(evaluated_cluster)].append(point_idx)
-    evaluated_file.write("evaluated_clusters: ")
-    evaluated_file.write(evaluated_clusters)
+    evaluated_file.write("evaluated_clusters: \n")
+    evaluated_file.write(str(evaluated_clusters))
             
 #    take cluster names, can use medoids for kmedoids
     print('')
-    evaluated_file.write("")
+    evaluated_file.write("\n")
     print('cluster labels:')
-    evaluated_file.write("evaluated_cluster_names: ")
+    evaluated_file.write("evaluated_cluster_names: \n")
     for i in range(len(medoids)):
         print( "cluster "+str(i)+" medoid:", phrases[medoids[i]] )
         evaluated_label = input('Enter evaluated cluster label: ')
@@ -53,7 +54,7 @@ def manual_evaluate(phrases, distances, clusters, medoids, feedback_file="test")
             evaluated_label = phrases[medoids[i]]
         evaluated_labels.append(evaluated_label)
 #   save evaluated clusters to a file with cluster names
-    evaluated_file.write(evaluated_labels)
+    evaluated_file.write(str(evaluated_labels))
     evaluated_file.close()
     return evaluated_clusters, evaluated_labels
 

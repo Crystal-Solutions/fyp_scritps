@@ -16,7 +16,7 @@ from kmedoids import kmedoids
 RESULTS_PATH = "./results/"
 EVALUATED_RESULTS = "./evaluated/"
 
-#TODO: modularize/ add methods
+TARGETS_FILE = "targets.txt"
 
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
@@ -35,35 +35,41 @@ phrases = ["Lectures", "you", "lecturer explains most of the concepts using exam
            "In class exercises", "Homework given every day", "lecturer", "lot of new things",
            "In class activities", "lectures", "current way of teaching"]
 
-#TODO: get phrases from extracted targets
-D = similarity_calulator.get_distance_matrix(phrases)
+# get phrases from extracted targets
+def get_phrases_from_file(file_name):
+    with open(file_name) as f:
+        content = f.readlines()  
+    phrases = [x.strip() for x in content]
+    return phrases
 
-# split into clusters
-no_of_phrases = similarity_calulator.get_no_of_phrases(phrases)
-no_of_clusters = int(math.sqrt(no_of_phrases))+2
-#M, C = kmedoids.kMedoids(D, 2)
-#M, C = kmedoids.kMedoids(D, int(math.sqrt(similarity_calulator.get_no_of_phrases())))
-M, C = kmedoids.kMedoids(D, no_of_clusters)
+# split into clusters using kmedoids
+def cluster_kmedoids(no_of_phrases, distances):
+    no_of_clusters = int(math.sqrt(no_of_phrases))-1
 
-results_file = open(RESULTS_PATH+"test", 'w')
+    M, C = kmedoids.kMedoids(distances, no_of_clusters)
+    return M, C
 
-print('medoids:')
-results_file.write('medoids:')
-for point_idx in M:
-    print( phrases[point_idx] )
-    results_file.write( phrases[point_idx] )
+def clustering_results(clusters, medoids=None):
+    results_file = open(RESULTS_PATH+"test", 'w')
+    
+    if medoids != None:
+        print('medoids:')
+        results_file.write('medoids:\n')
+        for point_idx in medoids:
+            print( phrases[point_idx] )
+            results_file.write( phrases[point_idx] )
+            
+    print('')
+    results_file.write('')
+    print('clustering result:')
+    results_file.write('clustering result:\n')
+    for label in clusters:
+        for point_idx in clusters[label]:
+            print('cluster {0}:　{1}'.format(label, phrases[point_idx]))
+            results_file.write('cluster '+str(label)+': '+phrases[point_idx]+'\n')
+            
+    results_file.close()
 
-print('')
-results_file.write('')
-print('clustering result:')
-results_file.write('clustering result:')
-for label in C:
-    for point_idx in C[label]:
-        print('cluster {0}:　{1}'.format(label, phrases[point_idx]))
-        results_file.write('cluster {0}:　{1}'.format(label, phrases[point_idx]))
-        
-results_file.close()
-       
 # create a list of labels
 def get_labels_list(clusters, no_of_phrases):
     """
@@ -75,21 +81,29 @@ def get_labels_list(clusters, no_of_phrases):
             labels[point_idx] = label
     return labels
 
-labels = get_labels_list(C, no_of_phrases)
+
+
+if __name__ == "__main__":
+    phrases = get_phrases_from_file(TARGETS_FILE) #read targets from file
+    D = similarity_calulator.get_distance_matrix(phrases) #distance matrix
+    no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
+    
+    # cluster using kmedoids algorithm
+    M, C = cluster_kmedoids(no_of_phrases, D)
+    
+    clustering_results(C, M) #print and write to a file
+    
+    labels = get_labels_list(C, no_of_phrases)
         
-# get silhoutte_coeff_score 
-silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)
-
-print("silhoutte_coeff_score : ", silhoutte_coeff_score)
-
-evaluated_clusters, evaluated_cluster_names = clustering_evaluator.manual_evaluate(phrases, D, C, M)
-
-print(evaluated_clusters)
-print(evaluated_cluster_names)
-
-evaluated_labels = get_labels_list(evaluated_clusters, no_of_phrases)
-ARI_score = clustering_evaluator.get_manual_eval_ARI(labels, evaluated_labels)
-
-print("ARI_score : ", ARI_score)
-
-#if __name__ == "__main__":
+    # get silhoutte_coeff_score 
+    silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)    
+    print("silhoutte_coeff_score : ", silhoutte_coeff_score)
+    
+    evaluated_clusters, evaluated_cluster_names = clustering_evaluator.manual_evaluate(phrases, D, C, M)
+    
+    print(evaluated_clusters)
+    print(evaluated_cluster_names)
+    
+    evaluated_labels = get_labels_list(evaluated_clusters, no_of_phrases)
+    ARI_score = clustering_evaluator.get_manual_eval_ARI(labels, evaluated_labels)
+    print("ARI_score : ", ARI_score)
