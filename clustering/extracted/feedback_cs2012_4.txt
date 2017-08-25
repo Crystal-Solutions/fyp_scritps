@@ -1,0 +1,126 @@
+It 	0
+oop cleared 	86
+time 	139
+lecture 	264
+time 	399
+time 	484
+Mr. Lecturer _ y 's lecture 	521
+He 	586
+Mr. Lecturer _ y 	689
+lecture 	792
+lecture on CSE conference 	825
+lecture 	923
+new things like transition diagrams , 	973
+CRC modeling 	1010
+You 	1026
+time 	1228
+lecture 	1246
+session 	1339
+lecture 	1372
+corporate world applications 	1481
+time 	1613
+lecture 	1744
+ample examples 	1784
+It 	1811
+It 	1872
+session 	1987
+lecture 	2029
+It 	2232
+lecture 	2249
+examples ( Real Software 	2299
+lecture 	2375
+examples 	2390
+He 	2455
+It 	2491
+lecture 	2521
+lecture 	2610
+talked about uml diagrams 	2686
+books 	2775
+their content 	2814
+exemplary features from you 	3001
+lecture 	3045
+lecture 	3089
+He 	3116
+lecture Mr. Lecturer _ y 	3201
+abstraction in that lecture 	3252
+event explanation 	3404
+It 	3456
+lecture 	3489
+sharp lecture 	3533
+Verb Analysis , 	3665
+CRC Modeling , 	3680
+OO Principles - 	3694
+SOLID theories 	3709
+Polymorphism from JAVA 	3909
+session 	4052
+session 	4151
+examples 	4285
+It 	4416
+session 	4470
+sessions 	4521
+It 	4552
+lecture 	4882
+lecture 	5033
+Lecture 	5066
+lecture 	5120
+explanations of Abstraction 	5540
+UML diagrams 	5572
+time to discuss other topics 	5633
+It 	5695
+polymorphism explanation 	5744
+guest lecture 	5825
+examples 	5847
+guest lecture 	6092
+examples 	6153
+concepts 	6201
+lecture 	6228
+It 	6329
+lecture 	6351
+It 	6362
+State Transition diagrams 	6415
+OO principles 	6470
+references 	6537
+lecture 	6641
+It 	6683
+lecture 	6905
+It 	6968
+real life aspects 	7068
+session 	7172
+it 	7250
+He 	7326
+example for that concepts 	7349
+techniques of software analysis 	7823
+Best Regards , 	8078
+Undergraduate of Computer Science 	8113
+Engineering , 	8151
+lecture 	8212
+He 	8246
+some of the concepts 	8389
+lecture sir , 	8453
+lecture lecture 	8546
+lecture 	8774
+states , 	8805
+abstraction 	8813
+references 	8873
+They 	8903
+lecture 	8968
+examples 	9195
+lecture 	9384
+lecture 	9399
+Examples 	9450
+It 	9532
+lecture 	9550
+session 	9628
+It 	9676
+UML 	9728
+lecture 	9829
+lecture 	10185
+it 	10299
+noun / verb analysis 	10353
+ways of referring books 	10523
+guest lecture 	10641
+lecture 	10695
+lecture slides 	10807
+guest lecture 	10835
+Abstraction , 	10936
+Polymorphism 	10949

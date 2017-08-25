@@ -1,0 +1,86 @@
+Lecture series 	0
+Both lecturers 	33
+class 	115
+lecture 	150
+project 	326
+time 	506
+design patterns 	539
+lectures 	564
+Lecture 	671
+Lecture series 	710
+Lectures 	751
+In class exercises 	781
+project evaluation 	986
+semester project 	1277
+lecture series 	1337
+Lecture series 	1366
+time to discuss coding examples , 	1413
+lectures 	1518
+lecture notes ( slides 	1596
+design patterns 	1665
+module 	1775
+Overall lectures 	1870
+Design Patterns 	1933
+lecture series 	1985
+design patterns 	2069
+Lecture series 	2090
+White background slides 	2119
+design patterns 	2187
+design pattern 	2240
+practical examples 	2322
+questions on design pattern 	2345
+lecture series 	2501
+lectures 	2592
+Lecture series 	2658
+lectures 	2705
+practical examples 	2808
+Project 	2859
+Module 	2894
+project 	3086
+Design patterns 	3168
+lecture series 	3235
+slides 	3306
+Lecture series 	3351
+lecture series 	3416
+Overall course 	3436
+lectures 	3481
+time to teach design patterns than others , 	3588
+lecture 	3658
+design pattern 	3768
+lecture series 	3811
+lecturer 	3847
+Explanation of the lesson 	3911
+practical examples on design pattern 	3970
+Everything 	4012
+Worked examples 	4044
+lecture series 	4069
+semester project 	4101
+design patterns 	4336
+time for semester project 	4390
+Some explanations 	4421
+explanations 	4524
+lecture series 	4691
+module 	4744
+lecture series 	4878
+time 	4923
+questions 	5136
+design patterns part 	5221
+presentation slides 	5291
+Lectures 	5401
+time allocated for design patterns 	5449
+they 	5492
+best lecture series 	5526
+speed of the lectures 	5599
+Design pattern lecture 	5626
+time 	5668
+examples 	5681
+applications 	5694
+Duration 	5727
+example codes 	5987
+overall lecture series 	6074
+lecturer 	6115
+relevant examples 	6251
+design patterns 	6303
+Group project 	6341
+exercises 	6420
+working examples similar to exam questions 	6434

@@ -1,0 +1,105 @@
+It 	0
+chosen part 	121
+workshop 	216
+two lecturers 	284
+workshop 	365
+workshop 	485
+workshop 	627
+workshop 	660
+important points 	785
+My suggestion 	816
+time 	843
+it 	884
+basic concepts 	934
+lecture session 	1034
+Distributing gifts 	1053
+lecture 	1099
+speed of lecturing 	1203
+teaching places like classes 	1261
+this lecture 	1566
+references 	1905
+meaning of symbols 	2006
+time for the session 	2445
+it 	2496
+first part 	2524
+'magic of c plus plus ' part 	2588
+Workshop 	2927
+Some students 	2964
+It 	3110
+Session 	3318
+Session 	3318
+workshop 	3469
+advanced topics 	3495
+workshop 	3608
+It 	3643
+workshop 	3780
+It 	4031
+workshop 	4155
+It 	4167
+time allocated for the workshop 	4262
+presenter 	4382
+session 	4509
+session 	4761
+assignment 	4877
+time 	4928
+It 	4991
+slides 	5062
+lecture 	5089
+lecture 	5158
+content 	5219
+syntax of the language 	5316
+subjects contents 	5550
+lot of new things 	5665
+they 	5690
+session 	6095
+time 	6316
+workshop 	6598
+sessions 	6694
+It 	6852
+Workshop 	6882
+industrial applications 	6939
+workshop 	7043
+time 	7110
+lecturer 's voice 	7260
+lecture 	7338
+workshop 	7450
+time to work on the language 	7705
+examples on each topics , 	7758
+examples of codes 	7905
+workshop 	7932
+session 	8028
+workshop 	8091
+Company _ x ! 	8189
+workshop 	8380
+It 	8470
+anything 	8513
+It 	8537
+workshop 	8838
+programming part 	8863
+lecturer 's speaking style 	8902
+basic questions 	8989
+It 	9038
+speaker 	9090
+Company _ x 	9270
+workshop 	9547
+scope 	9611
+workshop 	9685
+assignment , 	9702
+Giving gifts 	9915
+time limitation 	9990
+lecture 	10035
+pace of the lecture 	10109
+some points 	10193
+lecture 	10406
+lecturer 	10450
+It 	10667
+C plus plus 	10759
+workshop 	10894
+It 	10971
+it 	11228
+workshop 	11239
+Company _ x ! 	11583
+workshop 	11603
+Session 	11685
+session 	11870
+basic OOP implementations 	11940

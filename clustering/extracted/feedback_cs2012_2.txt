@@ -1,0 +1,137 @@
+Overall content 	0
+Lectures 	34
+tutorial classes 	99
+lecture series 	143
+tutorial class 	236
+tutorial class 	378
+course 	455
+lecture 	632
+tutorial class 	746
+Lectures 	872
+Explanations 	915
+Examples 	941
+exercises 	993
+Lecture slides 	1012
+Tutorial class 	1054
+examples 	1108
+course 	1159
+Tutorial classes 	1284
+lectures 	1355
+Examples 	1397
+homework questions 	1410
+Lectures 	1693
+tutorial classes 	1851
+tutorial classes 	2332
+series of lectures 	2447
+tutorial classes 	2532
+examples 	2564
+It 	2576
+lecturer 	2655
+lecturer 	2828
+lecture series 	2842
+thread and observer observable design 	2956
+code example 	3069
+examples 	3160
+explanations 	3238
+lectures 	3300
+labs 	3313
+examples 	3397
+tutorial class 	3423
+it 	3442
+course 	3581
+Tutorial classes 	3624
+Lectures 	3718
+Course 	3884
+Work load 	3904
+Continuous assessment 	3931
+Madam Lecturer _ x 	3987
+it 	4055
+Extra classes 	4122
+Semester project 	4157
+Lectures 	4718
+tutorial class 	4731
+lectures 	4826
+tutorial 	4863
+lecture slides 	4910
+teachings 	4933
+tutorials 	5040
+time slot 	5167
+teaching approaches 	5206
+this subject 	5242
+tutorial 	5363
+lectures 	5457
+lectures 	5520
+Course 	5628
+module 	5716
+oop concepts 	5765
+Discussing past papers within the class 	5794
+tutorial classes 	5906
+tutorial classes 	5972
+lectures 	6062
+approaches to instill the concepts 	6115
+lectures 	6240
+examples 	6253
+Applying threads 	6281
+examples on threads 	6319
+Tutorial classes 	6377
+Lectures 	6454
+tutorial class 	6467
+tutorial class conducts tomorrow 	6548
+examples 	6600
+Additional class 	6782
+coding 	6810
+lecture series 	7061
+descriptive sample codes 	7130
+Tutorials 	7182
+Module 	7217
+lectures 	7265
+In class exercises 	7317
+Tutorial class 	7376
+in class exercises with practical scenarios 	7801
+it 	7871
+in class exercises 	7892
+additional exercise 	7980
+course 	8009
+lecturers commitment 	8121
+lecture series 	8205
+Tutorial class 	8263
+tutorial class 	8324
+tutorial class 	8371
+Tutorial 	8470
+project bt some exercises 	8550
+event handling 	8601
+tutorial classes 	8764
+Lab sessions 	8800
+Lectures 	8924
+teaching speed 	9018
+overall lecturing pattern 	9054
+Tutorial classes 	9102
+Course 	9188
+time 	9283
+Tutorial classes 	9305
+lecture slides 	9381
+Lecture Explanations 	9411
+introducing tutorials 	9541
+lecture series 	9675
+project 	9837
+Lectures 	9961
+OOP concepts using real world examples 	10006
+Mid examination 	10048
+examples 	10123
+tutorial classes 	10145
+practice writing codes 	10229
+lectures 	10259
+discussions among students 	10281
+lecturer 	10380
+Overall teaching 	10419
+practicals 	10470
+Tutorial 	10509
+model questions 	10569
+lot of things 	10621
+lecture series 	10646
+lecture slides 	10670
+Tutorials 	10755
+course 	11044
+Tutorials 	11082
+fundamentals of OOP 	11135
+lecture series 	11170

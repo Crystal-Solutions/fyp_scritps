@@ -1,0 +1,133 @@
+workshop 	4
+time for the workshop 	91
+You 	180
+examples 	367
+it 	430
+workshop 	598
+It 	650
+It 	673
+workshops 	793
+time 	810
+Junit 	868
+Git 	878
+workshop 	915
+workshop 	943
+time period 	960
+workshop 	1078
+time 	1239
+IntelliJ Introduction 	1261
+Git 	1453
+version control systems 	1461
+workshop 	1498
+latter part of the workshop 	1540
+explanations 	1631
+It 	1664
+terminal , 	1746
+IDE , 	1756
+build tools , 	1761
+ANT , 	1774
+Unit test 	1779
+Jenkins 	1793
+Workshop 	1918
+session 	2077
+today 's session 	2198
+workshops 	2367
+teaching Jenkins , 	2475
+workshop 	2560
+lot of new things 	2600
+time for practicals 	2657
+workshop 	2747
+workshop 	2773
+ant 	2793
+It 	2855
+session 	3235
+time 	3345
+session 	3235
+prior arrangements ( downloading 	3264
+time 	3345
+session 	3468
+software tools 	3513
+time to test sample codes 	3574
+It 	3832
+time on ANT , 	3928
+JUNIT , 	3941
+Jenkins 	3948
+workshop 	3988
+Session 	4105
+time limit 	4238
+It 	4269
+prerequisites 	4404
+examples 	4697
+speed of the 	4865
+presentation 	4881
+maximum 	4921
+it 	5269
+It 	5317
+workshop 	5427
+content 	5459
+time 	5593
+time 	5703
+It 	5713
+workshop 	5794
+industrial related software development practicals 	5845
+duration 	5929
+first part of workshop 	5957
+last part 	6020
+content 	6091
+workshop 	6119
+It 	6206
+workshop 	6396
+time on ANT 	6501
+JUNIT 	6517
+workshop 	6704
+session 	6723
+JUnit , 	6790
+IntelliJ idea 	6797
+Final half of the session 	6814
+examples 	6977
+tutorials on apache ant environment 	6990
+whole workshop 	7095
+session 	7347
+workshop 	7601
+explanations 	7632
+workshop 	7814
+It 	7826
+It 	7888
+It 	8114
+session 	8291
+last part 	8316
+workshop 	8490
+topic 	8630
+workshop 	8661
+time on the topics 	8790
+workshop 	8836
+first part 	8868
+time on java basics , 	8965
+remaining parts 	9015
+last facts 	9072
+topics 	9176
+examples 	9220
+workshop 	9244
+IntelliJ IDE 	9424
+Workshop 	9442
+time to grasp 	9552
+workshop 	9680
+Organization of the workshop 	9846
+it 	9972
+workshop 	10004
+time 	10021
+presentation 	10077
+workshop 	10160
+It 	10202
+lectures 	10276
+sessions 	10426
+session on JUnit 	10467
+JUnit 	10617
+ANT session 	10661
+workshop 	10839
+tips about programming 	10910
+programming practices 	10942
+information on the build tools , 	10971
+version control systems 	11003
+time 	11090
+presentations 	11127

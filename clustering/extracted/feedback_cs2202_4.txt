@@ -1,0 +1,120 @@
+later part 	111
+they 	270
+it 	295
+unit testing 	337
+last part of the session 	373
+Maven ) 	449
+session 	465
+session 	508
+delivery of content 	523
+presenter 	564
+session 	711
+content of the workshop 	787
+lectures 	905
+Workshop 	943
+content 	975
+IDE part 	1041
+other part 	1070
+workshop 	1240
+It 	1380
+workshop 	1449
+workshop 	1499
+Build tools part 	1540
+continuous integration part 	1561
+Maven 	1637
+it 	1650
+It 	1707
+lecture slides 	1806
+lecture 	1979
+session 	2443
+relevant java files 	2519
+part of the file 	2551
+its 	2771
+last lecture 	2793
+it 	2842
+session 	2897
+unit testing part 	2930
+maven 	2997
+Workshop 	3008
+problem 	3031
+important stuff 	3073
+session 	3253
+session 	3468
+workshop 	3522
+last section 	3550
+workshop 	3628
+maven , 	3783
+junit 	3790
+session 	3806
+maven 	3847
+maven in detail 	3933
+workshop 	3959
+Ideas , 	4012
+Junit , 	4019
+Maven 	4026
+continuous integration 	4036
+workshop 	4219
+Session 	4233
+Voice 	4253
+Presenters 	4286
+workshop 	4338
+things 	4385
+Workshop 	4409
+instructors 	4582
+MySQL workshop 	4678
+It 	4934
+concepts about Maven 	4957
+time 	5010
+Maven 	5050
+it 	5101
+it 	5126
+maven 	5177
+matters 	5205
+time 	5292
+Reasons behind using dev tools 	5314
+session 	5394
+content 	5436
+them 	5503
+them 	5530
+Session 	5540
+commitment 	5595
+this steps 	5904
+workshop 	6381
+time 	6462
+Workshop 	6506
+time 	6573
+session 	6635
+Last part of the workshop 	6665
+workshop 	6809
+session 	6827
+unit testing part of the session 	6876
+session 	6916
+building tools 	6934
+building tools 	7022
+Previous weeks ' feedback 	7042
+SQL workshop 	7143
+workshop series 	7272
+quiz 	7382
+Workshop 	7877
+new 	7921
+junit 	7986
+time 	8053
+it 	8112
+they 	8133
+It 	8229
+guest speakers 	8608
+time 	8953
+importance of those tools 	9028
+everyone involved ! 	9219
+workshop 	9367
+time 	9416
+lecture hours 	9432
+workshop , 	9673
+workshop 	9823
+required tool 	9931
+Workshop 	9984
+Time for this workshop 	10004
+it 	10052
+continuous integration 	10166
+version control , 	10227
+GIT 	10244

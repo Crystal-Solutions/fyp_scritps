@@ -1,0 +1,95 @@
+series of lectures on OOP 	19
+It 	48
+lectures 	127
+lecture series 	178
+lectures 	236
+Lectures 	266
+real examples 	420
+real life examples 	512
+examples with answers 	542
+series of lectures 	638
+basics of OOP 	704
+interactive exercises 	839
+slides 	1067
+teaching OOP concepts 	1133
+workload 	1192
+real world examples on concurrency 	1429
+Lecture series 	1696
+examples , 	1801
+lecturer 	1930
+fundamentals of programming in JAVA 	1957
+semester project 	2051
+project 	2272
+teaching techniques 	2363
+lecture slides 	2690
+lecture series 	2738
+examples 	2801
+Lecturing method 	2833
+slides 	2887
+Final lectures 	2920
+lecture series 	2965
+In class activities 	3013
+examples on particular theory parts 	3098
+course 	3153
+in class activities 	3196
+in class activities 	3283
+lecturer 	3314
+in class exercises , 	3481
+sample answers 	3501
+Madam , 	3548
+basics concepts 	3777
+overall course 	4051
+speed of the concepts like concurrency 	4097
+practical cases 	4235
+It 	4295
+examples 	4334
+concepts 	4394
+examples 	4448
+in - class exercises 	4464
+discussions 	4528
+questions on practical problems 	4584
+lecture 	4834
+Some topics 	4880
+in class 	4907
+problems 	4952
+Semester project evaluation criteria 	5036
+It 	5208
+Lecture series 	5244
+examples on relevant theory parts 	5323
+examples from java language 	5370
+In class activities 	5401
+Lectures 	5508
+details in the slides 	5540
+interaction with students 	5611
+Examples 	5836
+examples for thread interruptions 	5901
+slides 	5979
+slides 	6080
+lectures 	6105
+group activities ) 	6247
+Subject 	6402
+real world examples 	6513
+lecture slides 	6542
+lecturer 	6585
+modeling type 	6726
+Lecture Slides 	6821
+Semester project 	6839
+GUI 	6901
+OOP concepts 	6909
+Group Activities 	6927
+examples 	7009
+English 	7161
+Lecture slides 	7262
+Group discussions 	7315
+threads 	7433
+explanation 	7458
+your lectures 	7975
+Lecture 	8027
+examples provided 	8146
+OOP with java 	8321
+conflicts with threads 	8401
+way of teaching 	8650
+in class activity 	8770
+Real life examples 	8864
+lecture series 	8914
+explanations 	8949

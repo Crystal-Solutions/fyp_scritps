@@ -1,0 +1,95 @@
+examples within the class 	16
+OOP 	554
+Lecture series 	736
+practical examples 	807
+Lecture series 	854
+handling UI components 	938
+tutorials regarding each lecture 	1099
+examples 	1300
+tutorials 	1313
+module 	1343
+concurrency part 	1526
+lectures 	1657
+practical side 	1692
+cons 	1886
+Java 	1972
+coding , 	2317
+everything 	2325
+course 	2567
+learning on GUI building 	2681
+example code 	2782
+Threads lesson 	2955
+details 	3105
+Reasons for using OOP concepts 	3153
+lecture series 	3296
+practical examples 	3326
+2 lecturers 	3402
+practical examples 	3498
+coding examples 	3551
+Content 	3591
+lecture series 	3683
+real world application questions of OOP concepts 	3736
+Letters 	3999
+lecture note 	4234
+practical series 	4289
+examples in UML class diagrams 	4607
+some in - class UML class diagram 	4687
+Semester project 	4725
+starting lectures 	4944
+oop 	5044
+It 	5051
+lectures 	5267
+example codes 	5390
+lecture slides 	5435
+spot tests 	5476
+end of the lecture 	5494
+databases 	5793
+lecture series 	5849
+Both lecturers 	5938
+complex topics like Concurrency come , 	6285
+lectures 	6323
+that attempt 	6554
+Lecturers 	6592
+time allocated for the subject 	6634
+lectures 	7039
+covering the slides 	7074
+lecture series 	7248
+Honor Code pledges 	7338
+module 	8507
+coding examples 	8684
+lecture series 	8752
+practical problems 	8849
+examples in the lectures 	9276
+examples 	9375
+workload 	9445
+lecture series 	9484
+GUI implementations 	9541
+Both lecturers 	10057
+lectures 	10086
+He 	10112
+course 	10218
+lecture series 	10257
+time with new topics like event handling 	10311
+Lecture 	10382
+It 	10406
+lecture 	10615
+overall teaching of the subject 	10654
+speed of the lecturer 	10713
+Some concepts 	10801
+semester project 	10853
+Everything 	10987
+time to practice examples 	11105
+overall lecture series 	11523
+teach Java language 	11635
+module 	11699
+lecture series 	11747
+lectures , 	11780
+simple examples 	11815
+Lecture series 	12047
+feedback on the codes 	12106
+lecture series 	12157
+Guest lectures 	12175
+examples codes 	12231
+Lecture series 	12486
+time 	12521
+examples for final sessions 	12591

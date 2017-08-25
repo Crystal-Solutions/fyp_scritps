@@ -1,0 +1,56 @@
+workshop 	28
+It 	66
+session 	346
+Last 10 min 	436
+unit testing via netbeans IDE 	548
+workshop 	655
+session 	683
+workshop 	753
+workshop 	767
+testing tools 	820
+It 	839
+It 	875
+time 	901
+It 	1094
+selenium part 	1142
+workshop 	1177
+workshop 	1228
+workshop 	1263
+informations 	1291
+It 	1309
+session 	1361
+people 	1464
+Workshop 	1658
+workshops 	1720
+unit testing 	1786
+workshop 	1877
+workshop team 	1893
+workshop 	1989
+time on them 	2027
+workshop 	2340
+Workshop 	2373
+session 	2461
+lot of new things 	2490
+it 	2655
+It 	2685
+testing techniques 	2727
+workshop 	2756
+workshop 	2988
+way workshop 	3011
+workshop goals 	3150
+JUnit 	3230
+TestNG scopes 	3240
+workshop 	3278
+new things 	3371
+Company _ x team ! 	3419
+workshop 	3444
+content 	3467
+workshop 	3627
+basic concepts 	3653
+session 	3750
+workshop 	3814
+pace of teaching 	3853
+session 	4050
+Presenter 	4061
+session 	4165
+Workshop 	4178
