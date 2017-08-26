@@ -1,162 +1,162 @@
 medoids:
-Lecturesoop conceptsAll the 7 lecturesExamplesadequate examplesItLecture slidesexamplesway of teachingteaching stylelecturesItcodesclustering result:
-cluster 0: Lectures
-cluster 0: lecturer
+oop conceptsExamplesAll the 7 lecturesTeachingLecture slidesprevious lectureItin class activitieslot of new thingsLecture slidesteaching speedscenario examplesLecturesclustering result:
 cluster 0: board
+cluster 0: oop concepts
 cluster 0: exercises
-cluster 0: lecture time
-cluster 0: lectures
-cluster 0: in class activities ( writing programs )
-cluster 0: lectures
-cluster 0: lectures
-cluster 0: lecture session
-cluster 0: lectures
-cluster 0: lectures
-cluster 0: lecture series
+cluster 0: things regarding basic OOP concepts
+cluster 0: Practicing codes
 cluster 0: It
-cluster 0: lectures
+cluster 0: Coding demonstrations
 cluster 0: Discussing a question using java everyday
-cluster 0: lectures
 cluster 0: lessons
 cluster 0: They
-cluster 0: in class activities
 cluster 0: Recap segment
-cluster 0: previous lecture
-cluster 0: in class test
 cluster 0: explanations
-cluster 0: Lectures
+cluster 0: OOP concepts
 cluster 0: advises
 cluster 0: It
 cluster 0: content
-cluster 0: In class exercises
-cluster 0: lecturer
-cluster 0: lot of new things
-cluster 0: In class activities
-cluster 0: lectures
-cluster 0: lecture series
-cluster 0: things
+cluster 0: OOP concepts with examples
+cluster 0: OOP
 cluster 0: practical exercises on the subject
-cluster 0: Lecture series
-cluster 0: lecture
-cluster 0: lecture ,
-cluster 0: lecture series
+cluster 0: oop concepts
+cluster 0: object oriented programming concepts
 cluster 0: interaction with students
-cluster 0: In class activities
 cluster 0: department
-cluster 0: Lectures
 cluster 0: Semester project
-cluster 0: lecture series
 cluster 0: It
-cluster 0: lectures
-cluster 0: lectures
-cluster 0: lectures
-cluster 0: lecturer
-cluster 0: in class activities
+cluster 0: sample codes
 cluster 0: Learning environment
-cluster 0: class
+cluster 0: Concepts
 cluster 0: ideas of the topics
-cluster 0: lectures
 cluster 0: contact with students
-cluster 0: last seven lectures
-cluster 0: Lectures
-cluster 0: lecturer
-cluster 0: lectures
-cluster 0: in class working activity
-cluster 0: Lectures
 cluster 0: It
 cluster 0: labs
-cluster 0: Lectures
-cluster 0: Lectures
-cluster 0: lectures
+cluster 0: principles of OOP
+cluster 0: solutions of coding exercises
+cluster 0: codes
+cluster 0: coding practices
+cluster 0: oop concepts
 cluster 0: explanations
-cluster 0: lectures
-cluster 0: Lectures
+cluster 0: some codes on white board
+cluster 0: Writing code
 cluster 0: presentations
 cluster 0: Ms Surangika
-cluster 0: lectures
 cluster 0: projections on that white background
 cluster 0: Ms. Surangika
-cluster 0: lectures
 cluster 0: upload them on Sunday evening
-cluster 0: lectures
 cluster 0: writings on the board
 cluster 0: board
-cluster 0: lectures
-cluster 0: Lectures
-cluster 0: lectures
-cluster 0: lectures
-cluster 1: oop concepts
-cluster 1: things regarding basic OOP concepts
-cluster 1: OOP concepts
-cluster 1: OOP concepts with examples
-cluster 1: OOP
-cluster 1: oop concepts
-cluster 1: object oriented programming concepts
-cluster 1: Concepts
-cluster 1: principles of OOP
-cluster 1: oop concepts
+cluster 1: concepts using examples
+cluster 1: Practical examples
+cluster 1: Examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: adequate examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: principles by counter examples
+cluster 1: examples
+cluster 1: real world examples
+cluster 1: examples
+cluster 1: example questions within the classroom
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: concepts by examples
+cluster 1: in class examples
+cluster 1: examples in the classroom ,
 cluster 2: All the 7 lectures
 cluster 2: first 7 lectures
-cluster 3: concepts using examples
-cluster 3: Practical examples
-cluster 3: Examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: principles by counter examples
-cluster 3: examples
-cluster 3: real world examples
-cluster 3: examples
-cluster 3: example questions within the classroom
-cluster 3: examples
-cluster 3: examples
-cluster 3: examples
-cluster 3: scenario examples
-cluster 3: concepts by examples
-cluster 3: in class examples
-cluster 3: examples in the classroom ,
-cluster 4: adequate examples
-cluster 6: Lecture slides
-cluster 6: lecture slides
-cluster 6: lecture slides
-cluster 6: Slides
-cluster 6: Lecture slides
-cluster 6: Lecture slides
-cluster 6: Lecture slides
-cluster 6: Lecture slides
-cluster 6: Presentation slides
-cluster 6: Lecture slides
-cluster 6: lecture slides
-cluster 6: lecture slides ,
-cluster 6: lecture slides
-cluster 6: lecture slides
-cluster 8: current way of teaching
-cluster 8: way of teaching
-cluster 8: interesting way of teaching
-cluster 8: way of teaching
-cluster 9: teaching style
-cluster 9: Teaching
-cluster 9: teaching style
-cluster 9: teaching method
-cluster 9: lecturer 's teaching method
-cluster 9: teaching style
-cluster 9: teaching style of the lecturer
-cluster 9: teaching style
-cluster 9: teaching
-cluster 9: teaching speed
-cluster 9: teaching
-cluster 9: teaching style
-cluster 12: Practicing codes
-cluster 12: Coding demonstrations
-cluster 12: in class coding activities
-cluster 12: sample codes
-cluster 12: solutions of coding exercises
-cluster 12: codes
-cluster 12: coding practices
-cluster 12: some codes on white board
-cluster 12: Writing code
+cluster 3: teaching style
+cluster 3: Teaching
+cluster 3: teaching style
+cluster 3: teaching method
+cluster 3: lecturer 's teaching method
+cluster 3: current way of teaching
+cluster 3: teaching style
+cluster 3: way of teaching
+cluster 3: teaching style of the lecturer
+cluster 3: interesting way of teaching
+cluster 3: teaching style
+cluster 3: teaching
+cluster 3: way of teaching
+cluster 3: teaching
+cluster 3: teaching style
+cluster 4: Lecture slides
+cluster 4: lecture slides
+cluster 4: lecture slides
+cluster 4: Slides
+cluster 4: Lecture slides
+cluster 4: Lecture slides
+cluster 4: Lecture slides
+cluster 4: Lecture slides
+cluster 4: Presentation slides
+cluster 4: Lecture slides
+cluster 4: lecture slides
+cluster 4: lecture slides ,
+cluster 4: lecture slides
+cluster 4: lecture slides
+cluster 5: previous lecture
+cluster 7: in class activities ( writing programs )
+cluster 7: in class activities
+cluster 7: in class test
+cluster 7: in class coding activities
+cluster 7: In class exercises
+cluster 7: In class activities
+cluster 7: In class activities
+cluster 7: in class activities
+cluster 7: class
+cluster 7: in class working activity
+cluster 8: lot of new things
+cluster 8: things
+cluster 10: teaching speed
+cluster 11: scenario examples
+cluster 12: Lectures
+cluster 12: lecturer
+cluster 12: lecture time
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lecture session
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lecture series
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: Lectures
+cluster 12: lecturer
+cluster 12: lectures
+cluster 12: lecture series
+cluster 12: Lecture series
+cluster 12: lecture
+cluster 12: lecture ,
+cluster 12: lecture series
+cluster 12: Lectures
+cluster 12: lecture series
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lecturer
+cluster 12: lectures
+cluster 12: last seven lectures
+cluster 12: Lectures
+cluster 12: lecturer
+cluster 12: lectures
+cluster 12: Lectures
+cluster 12: Lectures
+cluster 12: Lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: Lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: lectures
+cluster 12: Lectures
+cluster 12: lectures
+cluster 12: lectures

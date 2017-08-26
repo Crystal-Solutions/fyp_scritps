@@ -21,6 +21,8 @@ TARGETS_PATH = "./extracted/"
 #change the file name of the targets file to evaluate
 TARGETS_FILE = "feedback_cs2012_1.txt" #eg: feedback_cs2012_2.txt
 
+SCORES_FILE = "scores.txt"
+
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
            "what's on the board", "board", "lectures", "All the 7 lectures", "content",
@@ -90,6 +92,9 @@ def get_labels_list(clusters, no_of_phrases):
 
 
 if __name__ == "__main__":
+    scores_file = open(SCORES_FILE, 'a')
+    scores_file.write(TARGETS_FILE+'\n')
+    
     phrases = get_phrases_from_file(TARGETS_PATH+TARGETS_FILE) #read targets from file
     D = similarity_calulator.get_distance_matrix(phrases) #distance matrix
     no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
@@ -104,6 +109,7 @@ if __name__ == "__main__":
     # get silhoutte_coeff_score 
     silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)    
     print("silhoutte_coeff_score : ", silhoutte_coeff_score)
+    scores_file.write("silhoutte_coeff_score : "+ str(silhoutte_coeff_score)+'\n')
     
     evaluated_clusters, evaluated_cluster_names = clustering_evaluator.manual_evaluate(phrases, D, C, M, TARGETS_FILE)
     
@@ -113,4 +119,7 @@ if __name__ == "__main__":
     evaluated_labels = get_labels_list(evaluated_clusters, no_of_phrases)
     ARI_score = clustering_evaluator.get_manual_eval_ARI(labels, evaluated_labels)
     print("ARI_score : ", ARI_score)
+    scores_file.write("ARI_score : "+ str(ARI_score)+'\n\n')
+    
+    scores_file.close()
   
