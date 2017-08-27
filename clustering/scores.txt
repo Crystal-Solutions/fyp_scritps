@@ -1,8 +1,20 @@
-feedback_cs2012_3.txt
-silhoutte_coeff_score : 0.239035230329
+feedback_cs2012_1.txt
+silhoutte_coeff_score : 0.366824061498
+ARI_score : 0.705614310694
+
+feedback_cs2202_4.txt
+silhoutte_coeff_score : 0.338759765883
+ARI_score : 0.742821858598
+
+feedback_cs2202_3.txt
+silhoutte_coeff_score : 0.625
 ARI_score : 1.0
 
-feedback_cs2012_3.txt
-silhoutte_coeff_score : 0.184854279853
-ARI_score : 0.940474430871
+feedback_cs2202_5.txt
+silhoutte_coeff_score : 0.310272238013
+ARI_score : 0.566162715187
+
+feedback_cs2202_12.txt
+silhoutte_coeff_score : 0.498712826264
+ARI_score : 0.904459542241
 
