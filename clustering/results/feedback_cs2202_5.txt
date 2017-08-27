@@ -1,0 +1,73 @@
+medoids:
+sessionsessionsessiontoday 's GIT sessionsessionGitWorkshopItTheir speedclustering result:
+cluster 0: They
+cluster 0: session
+cluster 0: it
+cluster 0: It
+cluster 0: version control
+cluster 0: session
+cluster 0: session
+cluster 0: facilitators
+cluster 0: Job
+cluster 0: It
+cluster 0: session
+cluster 0: Presentations
+cluster 0: two lectures
+cluster 0: time given for the demos
+cluster 0: 1st lecturer
+cluster 0: second lecturer
+cluster 0: examples
+cluster 0: quiz closing date
+cluster 0: resource persons
+cluster 0: presentation
+cluster 0: session
+cluster 0: it to version controlling
+cluster 0: session
+cluster 0: It
+cluster 0: session
+cluster 0: session
+cluster 0: lot of things
+cluster 0: session
+cluster 0: session
+cluster 0: way they presented
+cluster 0: introduction part
+cluster 0: It
+cluster 0: underlying concepts of version control
+cluster 0: power
+cluster 0: it
+cluster 0: session
+cluster 0: session
+cluster 0: Presenter
+cluster 0: It
+cluster 0: session
+cluster 3: Today 's workshop
+cluster 3: today 's GIT session
+cluster 3: session today
+cluster 3: concepts of the today 's session
+cluster 5: workshop done on git
+cluster 5: basics of GIT ,
+cluster 5: Git
+cluster 5: git
+cluster 5: git explanations
+cluster 5: explaining git using Linux
+cluster 5: Git
+cluster 5: things about git !
+cluster 5: git
+cluster 6: Workshop
+cluster 6: workshop
+cluster 6: Workshop
+cluster 6: workshop
+cluster 6: workshop flow
+cluster 6: Workshop
+cluster 6: Workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: workshop
+cluster 6: Workshop
+cluster 8: Their speed

@@ -1,0 +1,10 @@
+medoids:
+sessionworkshopeveryone involvedclustering result:
+cluster 0: paper plane activity
+cluster 0: session
+cluster 0: session
+cluster 0: session
+cluster 0: Session
+cluster 1: workshop
+cluster 1: Workshop !
+cluster 2: everyone involved

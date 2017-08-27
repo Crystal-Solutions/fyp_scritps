@@ -1,0 +1,162 @@
+medoids:
+in class coding activitiesTeachingLecturesoop conceptsDiscussing a question using java everydayTheyExampleslast seven lecturesItupload them on Sunday eveningexample questions within the classroomLectureslecturesclustering result:
+cluster 0: board
+cluster 0: exercises
+cluster 0: in class activities ( writing programs )
+cluster 0: Practicing codes
+cluster 0: It
+cluster 0: Coding demonstrations
+cluster 0: lessons
+cluster 0: They
+cluster 0: in class activities
+cluster 0: Recap segment
+cluster 0: Slides
+cluster 0: in class test
+cluster 0: explanations
+cluster 0: advises
+cluster 0: It
+cluster 0: in class coding activities
+cluster 0: content
+cluster 0: In class exercises
+cluster 0: lot of new things
+cluster 0: In class activities
+cluster 0: things
+cluster 0: practical exercises on the subject
+cluster 0: interaction with students
+cluster 0: In class activities
+cluster 0: department
+cluster 0: Semester project
+cluster 0: It
+cluster 0: sample codes
+cluster 0: in class activities
+cluster 0: Learning environment
+cluster 0: class
+cluster 0: ideas of the topics
+cluster 0: contact with students
+cluster 0: in class working activity
+cluster 0: Presentation slides
+cluster 0: It
+cluster 0: labs
+cluster 0: solutions of coding exercises
+cluster 0: codes
+cluster 0: coding practices
+cluster 0: explanations
+cluster 0: some codes on white board
+cluster 0: Writing code
+cluster 0: presentations
+cluster 0: Ms Surangika
+cluster 0: projections on that white background
+cluster 0: Ms. Surangika
+cluster 0: writings on the board
+cluster 0: board
+cluster 1: teaching style
+cluster 1: Teaching
+cluster 1: teaching style
+cluster 1: teaching method
+cluster 1: lecturer 's teaching method
+cluster 1: current way of teaching
+cluster 1: teaching style
+cluster 1: way of teaching
+cluster 1: teaching style of the lecturer
+cluster 1: interesting way of teaching
+cluster 1: teaching style
+cluster 1: teaching
+cluster 1: teaching speed
+cluster 1: way of teaching
+cluster 1: teaching
+cluster 1: teaching style
+cluster 2: Lectures
+cluster 2: lecturer
+cluster 2: All the 7 lectures
+cluster 2: lecture time
+cluster 2: Lecture slides
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: first 7 lectures
+cluster 2: lectures
+cluster 2: lecture session
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: lecture series
+cluster 2: lecture slides
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: lecture slides
+cluster 2: previous lecture
+cluster 2: Lectures
+cluster 2: lecturer
+cluster 2: lectures
+cluster 2: lecture series
+cluster 2: Lecture series
+cluster 2: lecture
+cluster 2: lecture ,
+cluster 2: lecture series
+cluster 2: Lectures
+cluster 2: Lecture slides
+cluster 2: lecture series
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: Lecture slides
+cluster 2: Lecture slides
+cluster 2: lectures
+cluster 2: lecturer
+cluster 2: lectures
+cluster 2: Lectures
+cluster 2: Lecture slides
+cluster 2: lecturer
+cluster 2: lectures
+cluster 2: Lectures
+cluster 2: Lecture slides
+cluster 2: Lectures
+cluster 2: lecture slides
+cluster 2: Lectures
+cluster 2: lectures
+cluster 2: lecture slides ,
+cluster 2: lectures
+cluster 2: Lectures
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: lecture slides
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: Lectures
+cluster 2: lectures
+cluster 2: lectures
+cluster 2: lecture slides
+cluster 3: oop concepts
+cluster 3: things regarding basic OOP concepts
+cluster 3: OOP concepts
+cluster 3: OOP concepts with examples
+cluster 3: OOP
+cluster 3: oop concepts
+cluster 3: object oriented programming concepts
+cluster 3: Concepts
+cluster 3: principles of OOP
+cluster 3: oop concepts
+cluster 4: Discussing a question using java everyday
+cluster 6: concepts using examples
+cluster 6: Practical examples
+cluster 6: Examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: adequate examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: principles by counter examples
+cluster 6: examples
+cluster 6: real world examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: scenario examples
+cluster 6: concepts by examples
+cluster 6: in class examples
+cluster 7: last seven lectures
+cluster 9: upload them on Sunday evening
+cluster 10: example questions within the classroom
+cluster 10: examples in the classroom ,
