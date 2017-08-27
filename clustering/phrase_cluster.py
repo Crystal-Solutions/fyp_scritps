@@ -19,7 +19,7 @@ TARGETS_PATH = "./extracted/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
-TARGETS_FILE = "feedback_cs2012_1.txt" #eg: feedback_cs2012_2.txt
+TARGETS_FILE = "feedback_cs2012_3.txt" #eg: feedback_cs2012_2.txt
 
 SCORES_FILE = "scores.txt"
 
@@ -52,7 +52,7 @@ def get_phrases_from_file(file_name):
 
 # split into clusters using kmedoids
 def cluster_kmedoids(no_of_phrases, distances):
-    no_of_clusters = int(math.sqrt(no_of_phrases))+1
+    no_of_clusters = int(math.sqrt(no_of_phrases))+2
 
     M, C = kmedoids.kMedoids(distances, no_of_clusters)
     return M, C
@@ -65,10 +65,10 @@ def clustering_results(clusters, medoids=None):
         results_file.write('medoids:\n')
         for point_idx in medoids:
             print( phrases[point_idx] )
-            results_file.write( phrases[point_idx] )
+            results_file.write( phrases[point_idx]+'\n' )
             
     print('')
-    results_file.write('')
+    results_file.write('\n')
     print('clustering result:')
     results_file.write('clustering result:\n')
     for label in clusters:

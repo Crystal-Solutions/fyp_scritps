@@ -1,0 +1,8 @@
+feedback_cs2012_3.txt
+silhoutte_coeff_score : 0.239035230329
+ARI_score : 1.0
+
+feedback_cs2012_3.txt
+silhoutte_coeff_score : 0.184854279853
+ARI_score : 0.940474430871
+

@@ -7,11 +7,13 @@ Created on Wed Aug  2 14:14:18 2017
 import nltk
 import string
 import numpy as np
+import gensim
 #import os
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 
+GENSIM_W2V_MODEL = './models/model.bin'
 
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
@@ -51,6 +53,19 @@ def get_similarity_matrix(phrases):
 #    print(sim_mat)
     return sim_mat
 
+def get_w2v_similarity_matrix(phrases):
+    model = gensim.models.Word2Vec.load(GENSIM_W2V_MODEL) 
+    for item in phrases:
+        token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
+    
+    sim_mat = []
+    for w1 in token_list:
+        sim_mat_w1 = []
+        for w2 in token_list:
+            sim_mat_w1.append(model.n_similarity(w1.split(),w2.split()))
+        sim_mat.append(sim_mat_w1)
+    return sim_mat
+
 def get_distance_matrix(phrases):
     sim_mat = get_similarity_matrix(phrases)
     dist_arr = [[(1-y) for y in x] for x in sim_mat]
@@ -64,6 +79,8 @@ def get_no_of_phrases(phrases):
 if __name__ == "__main__":
     sim_mat = get_similarity_matrix(phrases)
     print(sim_mat)
+    w2v_sim_mat = get_w2v_similarity_matrix(phrases)
+    print(w2v_sim_mat)
     mat = get_distance_matrix(phrases)
     print(mat)
     

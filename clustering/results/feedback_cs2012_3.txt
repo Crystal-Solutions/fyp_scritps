@@ -1,0 +1,109 @@
+medoids:
+Lecture series
+lecture note
+lectures
+practical examples
+lecture series
+course
+Lecture
+example code
+module
+lectures ,
+examples for final sessions
+
+clustering result:
+cluster 0: OOP
+cluster 0: Lecture series
+cluster 0: Lecture series
+cluster 0: handling UI components
+cluster 0: tutorials
+cluster 0: concurrency part
+cluster 0: cons
+cluster 0: Java
+cluster 0: everything
+cluster 0: learning on GUI building
+cluster 0: Threads lesson
+cluster 0: details
+cluster 0: Reasons for using OOP concepts
+cluster 0: lecture series
+cluster 0: Content
+cluster 0: lecture series
+cluster 0: real world application questions of OOP concepts
+cluster 0: Letters
+cluster 0: some in - class UML class diagram
+cluster 0: Semester project
+cluster 0: oop
+cluster 0: It
+cluster 0: spot tests
+cluster 0: databases
+cluster 0: lecture series
+cluster 0: complex topics like Concurrency come ,
+cluster 0: that attempt
+cluster 0: time allocated for the subject
+cluster 0: covering the slides
+cluster 0: lecture series
+cluster 0: lecture series
+cluster 0: workload
+cluster 0: lecture series
+cluster 0: GUI implementations
+cluster 0: He
+cluster 0: lecture series
+cluster 0: time with new topics like event handling
+cluster 0: It
+cluster 0: overall teaching of the subject
+cluster 0: Some concepts
+cluster 0: semester project
+cluster 0: Everything
+cluster 0: overall lecture series
+cluster 0: teach Java language
+cluster 0: lecture series
+cluster 0: Lecture series
+cluster 0: lecture series
+cluster 0: Lecture series
+cluster 0: time
+cluster 1: lecture note
+cluster 2: tutorials regarding each lecture
+cluster 2: lectures
+cluster 2: 2 lecturers
+cluster 2: starting lectures
+cluster 2: lectures
+cluster 2: lecture slides
+cluster 2: end of the lecture
+cluster 2: Both lecturers
+cluster 2: lectures
+cluster 2: Lecturers
+cluster 2: lectures
+cluster 2: examples in the lectures
+cluster 2: Both lecturers
+cluster 2: lectures
+cluster 2: Lecture
+cluster 2: lecture
+cluster 2: speed of the lecturer
+cluster 2: lectures ,
+cluster 2: Guest lectures
+cluster 3: practical examples
+cluster 3: practical side
+cluster 3: practical examples
+cluster 3: practical examples
+cluster 3: practical series
+cluster 3: practical problems
+cluster 3: time to practice examples
+cluster 5: course
+cluster 5: course
+cluster 7: examples within the class
+cluster 7: examples
+cluster 7: coding ,
+cluster 7: example code
+cluster 7: coding examples
+cluster 7: examples in UML class diagrams
+cluster 7: example codes
+cluster 7: Honor Code pledges
+cluster 7: coding examples
+cluster 7: examples
+cluster 7: simple examples
+cluster 7: feedback on the codes
+cluster 7: examples codes
+cluster 8: module
+cluster 8: module
+cluster 8: module
+cluster 10: examples for final sessions
