@@ -1,0 +1,63 @@
+module 	5
+some workshops 	171
+content of those workshop 	223
+time 	289
+workshops 	339
+it 	398
+networking workshop 	770
+workshops 	866
+GIT , 	889
+log4j , 	894
+junit , 	901
+Net , 	911
+MySQL , 	916
+Debugging , 	923
+Scrum , 	934
+Extreme 	941
+Spring 	953
+workshops 	976
+them 	996
+content of those workshop 	1175
+methods 	1221
+best practices 	1233
+important sections 	1357
+workshops 	1750
+number of workshops 	1869
+assignments 	1893
+module 	1957
+workshop series 	2043
+work with the industry , 	2159
+some assignments 	2190
+course 	2227
+some workshops , 	2337
+short time 	2418
+explanations 	2488
+how to use these tools practically ( 	2518
+Git ) 	2562
+they 	2614
+new technologies 	2692
+number of topics 	2806
+topics 	2845
+module 	2953
+programming project 	3027
+assignments 	3051
+series of workshops 	3114
+work with industry people 	3180
+some workshops 	3328
+module 	3664
+workshops 	3692
+new things 	3742
+time to do assignments 	3790
+Some workshops 	3881
+Some workshops 	3927
+workload 	3956
+workshop series 	3987
+module 	4022
+workshop series 	4057
+workshops 	4270
+course 	4297
+this 	4332
+Some assignments 	4507
+experience - 	4605
+technologies used in the industry 	4640
+assignments 	4681

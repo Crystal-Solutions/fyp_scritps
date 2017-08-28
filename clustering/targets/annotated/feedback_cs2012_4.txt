@@ -1,0 +1,146 @@
+It 	0
+time 	139
+lecture 	264
+lecture 	315
+time 	399
+time 	484
+Mr. Lecturer _ y 's lecture 	521
+He 	586
+real world examples 	628
+Mr. Lecturer _ y 	689
+today 's lecture 	784
+lecture on CSE conference 	825
+lecture 	923
+you 	935
+new things like transition diagrams , 	973
+CRC modeling 	1010
+You 	1026
+verb - noun technique 	1078
+time 	1228
+session 	1339
+lecture 	1372
+time 	1613
+lecture 	1744
+ample examples 	1784
+It 	1811
+It 	1872
+session 	1987
+lecture 	2029
+program 	2177
+lecture 	2249
+examples ( 	2299
+lecture 	2375
+examples 	2390
+theories of OOP 	2436
+He 	2455
+It 	2491
+lecture 	2521
+lecture 	2610
+what you 've talked about uml diagrams 	2674
+their content 	2814
+you 	3025
+lecture 	3045
+lecture 	3089
+He 	3116
+lecture 	3201
+Mr. Lecturer _ y 	3209
+You 	3283
+event explanation 	3404
+It 	3456
+lecture 	3489
+lecture 	3539
+Noun / Verb Analysis , 	3660
+CRC Modeling , 	3680
+OO Principles - SOLID theories 	3694
+Polymorphism from JAVA 	3909
+session 	4052
+object oriented programming concepts 	4083
+session 	4151
+It 	4185
+All the facts 	4246
+examples 	4285
+It 	4416
+session 	4470
+follow up sessions 	4511
+It 	4552
+it 	4800
+lecture 	4882
+lecture 	5033
+Lecture 	5066
+lecture 	5120
+concept of OOP , 	5156
+time 	5257
+last part 	5277
+art of programming 	5417
+what the industrial background of CS engineer 	5478
+explanations of Abstraction and UML diagrams 	5540
+time 	5633
+It 	5695
+abstract 	5731
+polymorphism explanation 	5744
+guest lecture 	5825
+Your examples 	5842
+You 	5923
+guest lecture 	6092
+examples taken by Lecturer _ y sir to explain the concepts 	6153
+lecture 	6228
+It 	6329
+lecture 	6351
+It 	6362
+What is a state and the State Transition diagrams 	6391
+you 	6449
+references given 	6537
+lecture 	6641
+It 	6683
+lecture 	6905
+It 	6968
+session 	7172
+it 	7250
+example for that concepts 	7349
+diagrams such as state diagram , class diagram etc , 	7427
+his teaching experience 	7584
+e - resources 	7630
+book for references 	7647
+lecture , 	7699
+guest lecture 	7792
+time slot 	7980
+lecture 	8212
+He 	8246
+He 	8349
+lecture 	8453
+material 	8478
+it 	8501
+references 	8587
+lecture 	8774
+states , 	8805
+abstraction 	8813
+polymorphism 	8829
+references 	8873
+They 	8903
+lecture 	8968
+examples 	9195
+lecture 	9384
+lecture 	9399
+Examples 	9450
+lecture 	9550
+ideas 	9590
+session 	9628
+It 	9676
+OOP principles 	9709
+UML 	9728
+state diagrams 	9736
+information you shared 	9781
+lecture 	9829
+lecture 	10185
+important of the OOP concept , when we work in industry 	10219
+it 	10299
+noun / verb analysis 	10353
+CRC modeling 	10376
+it 	10431
+ways of referring books 	10523
+guest lecture 	10641
+lecture 	10695
+lecture slides given in the guest lecture 	10807
+important concepts 	10909
+Abstraction , 	10936
+Polymorphism 	10949

@@ -1,0 +1,127 @@
+session 	42
+Workshop 	97
+cmd 	299
+Github 	339
+GitHub 	383
+workshop 	501
+It 	537
+workload 	667
+time for students to grasp the ideas ) 	721
+Workshop 	801
+It 	827
+time to discuss about the fork / pull - request processes 	909
+workshop 	1006
+last part 	1059
+workshop 	1214
+develop our programming challenge project 	1311
+speed 	1450
+it 	1536
+Git 	1582
+workshop 	1668
+some of the contents 	1769
+it 	1848
+workshop 	1922
+big project ( I mean like netbeans project ) with Git , 	1983
+workshop 	2082
+It 	2096
+workshop 	2236
+workshop 	2255
+workshop 	2421
+Instructions 	2451
+practical instructions 	2468
+some instructions 	2531
+instructions 	2596
+Today 's workshop 	2631
+some of the important areas 	2743
+workshop 	2847
+Today 's workshop 	2631
+some of the important areas 	2743
+workshop 	2847
+workshop 	2882
+GIT 	2928
+It 	2991
+workshop 	3070
+things 	3108
+workshop 	3159
+Explanations 	3212
+speed 	3245
+everything 	3285
+It 	3314
+many thing 	3350
+It 	3364
+Git 	3449
+Git 	3449
+Git Vcs 	3474
+Company _ y 	3522
+overall workshop 	3541
+first half of the workshop 	3586
+lecturer 	3657
+later half , 	3680
+presenter 	3759
+Github 	3882
+Git - Version Control System Workshop 	4017
+session 	4095
+Git 	4153
+how to work on GitHub 	4161
+team 	4190
+workshop 	4439
+It 	4485
+It 	4523
+code 	4612
+workshop ! 	4692
+lecture 	4788
+workshops 	4867
+session on GIT 	4934
+limited time 	4977
+it 	5122
+program 	5189
+git , 	5222
+github 	5227
+workshop 	5330
+workshop on git and github 	5547
+practicals 	5613
+it 	5635
+workshop 	5753
+workshop 	5791
+It 	5803
+workshop 	5857
+workshop 	6008
+Lecture 	6134
+all instructors 	6146
+workshop 	6231
+git 	6287
+github 	6295
+workshop 	6331
+Git 	6372
+version control systems 	6380
+close to the ending 	6478
+people to help and resolve our problems 	6629
+limited time period 	6833
+it 	6898
+Workshop 	6917
+It 	6993
+workshop 	7069
+workshop 	7126
+version controlling systems , 	7152
+session on github 	7281
+this one 	7333
+lecture note 	7519
+It 	7537
+speed 	7625
+new things 	7667
+clarifications 	7815
+presentation 	7837
+workshop 	7879
+Git 	8001
+GitHub 	8009
+workshop 	8108
+end 	8187
+last 30 min of the workshop 	8247
+workshop 	8301
+it 	8341
+workshop 	8475
+it 	8518
+presenters ( 	8528
+presentation 	8732
+it 	8777
+workshop 	9119

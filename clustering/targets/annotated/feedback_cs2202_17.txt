@@ -1,0 +1,26 @@
+this program 	21
+examples in class 	113
+workshop 	157
+speed of the workshop 	173
+time 	229
+this workshop 	387
+understanding the code 	523
+fundamentals of TDD 	576
+javascript 	617
+workshop 	696
+it 	723
+Testing Tools workshop 	772
+It 	909
+the way you presented 	979
+advices given 	1018
+workshop 	1049
+session 	1103
+session 	1296
+session 	1412
+session 	1489
+You 	1563
+jasmine 	1868
+workshop 	2008
+time 	2148
+workshop 	2218
+TDD and it 's benefits 	2251

@@ -1,0 +1,143 @@
+It 	67
+later part they done ( apache maven ) 	111
+they 	172
+they 	270
+unit testing 	337
+last part of the session 	373
+session 	465
+delivery of content 	523
+session 	711
+latter part of the lecture 	840
+lectures 	905
+Workshop 	943
+content 	975
+IDE part 	1041
+other part 	1070
+it 	1165
+workshop 	1240
+workshop 	1312
+It 	1380
+content 	1427
+workshop 	1449
+workshop 	1499
+Build tools part 	1540
+continuous integration part 	1561
+Maven 	1637
+it 	1650
+them 	1747
+lecture slides 	1806
+lecture 	1979
+details to the slides 	2030
+those tools 	2130
+session 	2443
+relevant java files 	2519
+its 	2771
+last lecture 	2793
+session 	2897
+unit testing part 	2930
+maven 	2997
+Workshop 	3008
+speed 	3052
+important stuff 	3073
+session 	3253
+session 	3468
+workshop 	3522
+last section 	3550
+aven ' 	3615
+workshop 	3628
+maven , 	3783
+junit 	3790
+This session 	3801
+maven 	3847
+IntelliJ 	3868
+maven 	3933
+workshop 	3959
+Ideas , 	4012
+Junit , 	4019
+Maven 	4026
+continuous integration 	4036
+some of the points 	4082
+it 	4154
+workshop 	4219
+Session 	4233
+Voice 	4253
+Presenters 	4286
+workshop 	4338
+things 	4385
+Workshop 	4409
+IntelliJ idea 	4493
+some places 	4521
+instructors 	4582
+MySQL workshop 	4678
+this 	4755
+It 	4763
+lecture 	4825
+workshop 	4895
+It 	4934
+concepts about Maven 	4957
+time 	5010
+it 	5101
+it 	5126
+maven 	5177
+time 	5292
+Reasons behind using dev tools 	5314
+session 	5394
+content 	5436
+Session 	5540
+installing and using maven 	5746
+steps even after installation to make the environment 	5909
+programming tools 	6242
+new things 	6278
+workshop 	6381
+concepts 	6443
+time 	6462
+Workshop 	6506
+time 	6573
+session 	6635
+Last part of the workshop 	6665
+workshop 	6809
+session 	6827
+unit testing part of the session 	6876
+session about the building tools 	6916
+session about building tools 	7008
+SQL workshop 	7143
+workshops 	7243
+workshop 	7336
+quiz 	7382
+maven " 	7507
+basics of a selected software 	7577
+presentations 	7827
+Workshop 	7877
+new and useful things 	7921
+time 	8053
+it 	8112
+much of that 	8201
+It 	8229
+IDE 	8301
+this 	8551
+professional tools 	8720
+session 	8800
+time 	8953
+them 	8970
+those tools 	9042
+sessions on this area 	9124
+maven 	9294
+workshop 	9367
+time 	9416
+lecture hours 	9432
+handout on examples 	9529
+install that software 	9597
+today workshop 	9648
+workshop , 	9673
+advance stuff 	9696
+workshop 	9805
+workshop 	9823
+required tool 	9931
+Workshop 	9984
+Time for this workshop 	10004
+it 	10052
+areas 	10092
+continuous integration 	10166
+version control , 	10227
+GIT 	10244
+Jenkins work 	10252

@@ -1,0 +1,114 @@
+series of lectures on OOP 	19
+It 	48
+lectures 	127
+lecture series 	178
+lectures 	236
+Lectures 	266
+real examples 	420
+real life examples 	512
+examples with answers 	542
+series of lectures 	638
+basics of OOP 	704
+concurrency 	762
+interactive exercises 	839
+our participation 	875
+subject 	938
+slides 	1067
+workload during the semester 	1192
+Madam 	1239
+questions 	1310
+real world examples on concurrency 	1429
+It 	1500
+module 	1569
+java language 	1635
+Lecture series 	1696
+examples , 	1801
+in classes 	1858
+lecturer 	1930
+fundamentals of programming in JAVA 	1957
+project 	2272
+teaching techniques 	2363
+lecture slides 	2690
+lecture series 	2738
+examples 	2801
+Lecturing method 	2833
+slides 	2887
+Final lectures 	2920
+lecture series 	2965
+In class activities 	3013
+examples on particular theory parts 	3098
+course 	3153
+in class activities 	3196
+in class activities 	3283
+lecturer 	3314
+in class exercises , 	3481
+kindness 	3572
+basics concepts 	3777
+examples 	3971
+overall course 	4051
+speed of the concepts like concurrency 	4097
+It 	4295
+examples 	4334
+concepts 	4394
+examples 	4448
+in - class exercises 	4464
+discussions 	4528
+questions on practical problems 	4584
+lecture 	4834
+Some topics 	4880
+UML , 	4934
+problems related to OOP concepts 	4952
+Semester project evaluation criteria 	5036
+OOP 	5235
+Lecture series 	5244
+examples on relevant theory parts 	5323
+examples from java language 	5370
+In class activities 	5401
+Lectures 	5508
+details in the slides 	5540
+interaction with students 	5611
+Short Point slideshows 	5645
+Examples 	5836
+Threads 	5880
+examples for thread interruptions 	5901
+slides 	5979
+slides 	6080
+lectures 	6105
+questions 	6198
+questions in group activities ) 	6234
+Subject 	6402
+real world examples 	6513
+lecture slides 	6542
+lecturer 	6585
+group activities 	6660
+modeling type questions 	6726
+example to learn modeling 	6785
+Lecture Slides 	6821
+Semester project 	6839
+Group Activities 	6927
+examples in netbeans or eclipse 	7009
+OOP concepts 	7101
+outer world examples 	7120
+English 	7161
+Lecture slides 	7262
+Group discussions 	7315
+concurrency 	7417
+threads 	7433
+Mr. Sulakshana 	7618
+Mr. Sulakshan 	7876
+lectures 	7980
+Lecture 	8027
+time 	8085
+examples 	8146
+the way those were explained 	8168
+OOP with java 	8321
+threads 	8416
+practice 	8452
+oop , 	8621
+way of teaching 	8650
+in class activity 	8770
+resources to reference 	8833
+Real life examples 	8864
+lecture series 	8914
+explanations 	8949
+deep concepts of java , 	8991

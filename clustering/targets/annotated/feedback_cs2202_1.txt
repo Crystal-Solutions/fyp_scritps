@@ -1,0 +1,122 @@
+It 	0
+end 	26
+workshop 	49
+it 	81
+end of the chosen part 	110
+workshop 	216
+two lecturers 	284
+MIT 	335
+workshop 	365
+workshop 	485
+workshop 	660
+it 	734
+important points 	785
+time 	843
+session 	905
+lecture session 	1034
+Distributing gifts 	1053
+speed of lecturing 	1203
+how to create an object from the class 	1344
+lecture 	1571
+lectures 	1657
+references and pointers 	1905
+time to upload the assignment 	2385
+time for the session 	2445
+it 	2496
+first part 	2524
+Workshop 	2927
+work ! 	3099
+It 	3110
+giving bags , 	3238
+Session 	3318
+basics 	3387
+Session 	3318
+basics 	3387
+workshop 	3469
+advanced topics 	3495
+they 	3515
+workshop 	3608
+It 	3643
+workshop 	3780
+break in the middle 	3810
+seminar room 	3942
+experience 	4015
+It 	4031
+It 	4062
+workshop 	4155
+It 	4167
+time allocated for the workshop 	4262
+use the whiteboard 	4398
+session 	4509
+software 	4575
+session 	4761
+presenters 	4858
+assignment 	4877
+time 	4928
+It 	4991
+slides 	5062
+lecture 	5089
+lecture 	5158
+content 	5219
+workshop 	5300
+syntax of the language 	5316
+programs 	5404
+subjects contents 	5550
+session 	6095
+other programming language 	6244
+time 	6316
+workshop 	6598
+It 	6852
+Workshop 	6882
+workshop 	7043
+time to explain 	7110
+coding 	7193
+lecturer 's voice 	7260
+lecture 	7338
+workshop 	7450
+introduction approach on C plus plus 	7651
+time to work on the language 	7705
+examples on each topics , 	7758
+examples of codes 	7905
+workshop 	7932
+session 	8028
+workshop 	8091
+Company _ x ! 	8189
+workshop 	8380
+It 	8470
+It 	8537
+session 	8725
+workshop 	8838
+programming part 	8863
+lecturer 's speaking style 	8902
+It 	9038
+speaker 	9090
+second speaker 	9158
+Company _ x 	9270
+workshop 	9547
+scope 	9611
+workshop 	9685
+assignment , 	9702
+Giving gifts 	9915
+time limitation 	9990
+lecture 	10035
+speed 	10055
+pace of the lecture 	10109
+submit the code 	10327
+lecture 	10406
+lecturer 	10450
+It 	10667
+workshop 	10894
+c plus plus concepts 	11022
+present some gifts 	11108
+workshop 	11239
+Presenter _ x 	11404
+tone 	11426
+Company _ x ! 	11583
+workshop 	11603
+It 	11643
+Session 	11685
+C plus plus 	11714
+discussing all the key elements of the language , 	11795
+primary key points of the language 	11897
+basic OOP implementations 	11940

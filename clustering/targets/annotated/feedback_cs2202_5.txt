@@ -1,0 +1,83 @@
+Workshop 	0
+things 	44
+workshop 	127
+They 	148
+things 	241
+Workshop 	279
+one 	321
+workshop done on git 	357
+session 	396
+basics of GIT , 	424
+sessions 	546
+it 	560
+new things ! 	593
+It 	634
+version control 	711
+workshop 	755
+session 	873
+Git 	915
+session 	928
+workshop flow 	1004
+facilitators 	1039
+Job 	1092
+Workshop 	1112
+github 	1190
+It 	1242
+session 	1274
+Workshop 	1336
+Presentations 	1382
+git 	1453
+two lectures 	1464
+git 	1506
+time given for the demos by 1st lecturer 	1521
+real world applications , 	1646
+examples 	1671
+git explanations 	1712
+explaining git using Linux 	1743
+Many 	1821
+directory structures 	1844
+quiz closing date 	1893
+Today 's workshop 	2013
+resource persons 	2047
+today 's GIT session 	2203
+presentation 	2259
+workshop 	2297
+session 	2317
+things about Git 	2354
+session 	2420
+workshop 	2541
+workshop 	2671
+it 	2691
+session 	2743
+things 	2889
+workshop 	2941
+session 	2998
+things 	3084
+session 	3098
+session today 	3155
+new things 	3205
+way they presented 	3241
+git ! 	3421
+workshop 	3436
+workshop 	3454
+introduction part 	3533
+rest of the workshop 	3570
+It 	3613
+underlying concepts of version control 	3938
+it 	4011
+base ' 	4146
+erge ' 	4158
+it 	4218
+git 	4271
+session 	4326
+git 	4381
+session 	4432
+presenters 	4520
+workshop 	4603
+Their speed 	4615
+Presenter 	4660
+Workshop 	4745
+using git 	4798
+session 	4896
+it 's 	4931
+it 	4969

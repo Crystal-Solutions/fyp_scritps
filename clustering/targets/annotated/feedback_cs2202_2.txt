@@ -1,0 +1,178 @@
+workshop 	39
+introduction 	96
+MySQL 	133
+session 	210
+knowledge about databases 	235
+program 	270
+databases 	378
+Speed 	414
+Workshop 	465
+it 	531
+session 	559
+that 	597
+Workshop 	766
+It 	875
+session 	926
+it 	1031
+MySQL 	1137
+session 	1188
+relevant coding examples 	1307
+everything 	1443
+workshop 	1523
+all codes 	1561
+notes 	1575
+tasks 	1619
+it 	1659
+MySQL 	1697
+workshop 	1750
+workshop 	1833
+workshop 	1894
+It 	1973
+workshop 	2028
+lot of things 	2051
+it 	2146
+it 	2276
+it 	2317
+workshop 	2392
+workshop 	2548
+Workshop 	2657
+connecting MySQL to a project 	2708
+that part 	2771
+workshop 	2925
+Workshop 	2939
+Presenter 	2959
+his speed 	3000
+important facts 	3050
+workshop ! 	3159
+MySQL 	3211
+workshop 	3239
+session on MySQL 	3276
+session 	3354
+resource person 	3414
+time 	3508
+session on MySQL 	3276
+session 	3354
+resource person 	3414
+time 	3508
+all the basic things 	3607
+Session 	3747
+presenter 	3782
+It 	3836
+MySQL 	3906
+related videos ' links 	3941
+workshop 	4009
+Lecturer 	4038
+lot of examples 	4091
+lecture 	4135
+workshop 	4204
+MySQL 	4275
+exercises 	4323
+examples 	4337
+it 	4499
+session 	4533
+time 	4550
+It 	4585
+Today 's workshop 	4619
+basics of MySQL 	4666
+lecture 	4689
+Presentation 	4722
+time that give for the examples at the beginning 	4802
+Workshop 	4912
+MySQL 	4944
+workshop 	5005
+workshop 	5023
+SQL basics 	5080
+slides 	5098
+examples 	5117
+presenter 	5154
+using SQL 	5250
+workshop 	5369
+It 	5417
+it 	5477
+session 	5501
+Session 	5556
+It 	5584
+session 	5644
+Workshop 	5684
+lot of new things 	5723
+Presenter 	5744
+facts 	5789
+MySQL 	5929
+all the guys 	5939
+sessions 	6036
+MySQL workshop 	6060
+additional recommended resources ( 	6157
+MySQL workshop 	6060
+additional recommended resources ( 	6157
+speed of the lecture 	6235
+Workshop 	6270
+MySQL 	6406
+It 	6456
+they 	6480
+They 	6519
+MySQL 	6569
+It 	6580
+session 	6742
+introduction about MySQL 	6770
+Overall session 	6916
+Discussed topic 	6944
+session 	6992
+coding activity 	7044
+Lecturing style 	7065
+lecture slides 	7140
+time for our questions 	7264
+advanced concepts of MySQL 	7357
+Session 	7389
+Presenter 	7409
+workshop ! 	7477
+lot of new things 	7516
+Company _ y 	7552
+Workshop 	7604
+practical examples 	7631
+It 	7669
+anything 	7713
+It 	7737
+It 	7807
+everything 	7852
+time to learn SQL 	7900
+quiz 	7933
+quiz 	7956
+MySQL 	8082
+session 	8134
+workshop 	8160
+workshop 	8250
+time 	8319
+workshop 	8376
+MySQL 	8429
+teacher 	8453
+workshop 	8504
+workshop 	8624
+It 	8716
+You 	8774
+It 	8818
+workshop 	8907
+workshop 	8957
+teaching from very beginning 	8987
+middle of the workshop 	9055
+workshop 	9125
+workshop 	9244
+It 	9289
+time is allocated for the workshop 	9389
+workshop 	9450
+workshop 	9612
+It 	9720
+database program 	9748
+lecture 	9870
+This lecture 	9929
+instructions to install MySQL 	10038
+version of MySQL for windows 	10246
+workshop 	10397
+speaker 	10427
+content 	10473
+example codes 	10545
+flow of the workshop 	10604
+everything 	10650
+time for the workshop 	10776
+practical issues 	10825
+workshop 	10851
+letters in the presentations 	10922

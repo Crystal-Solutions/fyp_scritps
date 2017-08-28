@@ -1,0 +1,155 @@
+Overall content 	0
+Lectures 	34
+tutorial classes 	99
+lecture series 	143
+questions 	187
+tutorial class 	236
+Discussing past papers 	344
+tutorial class 	378
+lecture 	632
+tutorial class 	746
+lecture 	846
+Lectures 	872
+Explanations 	915
+Examples 	941
+exercises 	993
+Lecture slides 	1012
+Tutorial class 	1054
+Past paper 	1093
+examples 	1108
+course 	1159
+Tutorial classes 	1284
+lectures 	1355
+Examples 	1397
+homework questions 	1410
+Madam , 	1463
+tutorial class 	1545
+questions as assessments within the class 	1598
+Lectures 	1693
+It 	1762
+tutorial classes 	1851
+tutorials 	1930
+tutorial classes 	2332
+lectures 	2457
+lot of new things 	2493
+tutorial classes 	2532
+doing more examples 	2553
+It 	2576
+lecturer 	2655
+lecturer 	2828
+lecture series 	2842
+Basic concepts 	2914
+thread 	2956
+observer observable design 	2967
+example with sufficient description 	3074
+examples 	3160
+on threads 	3191
+explanations 	3238
+lectures 	3300
+labs 	3313
+examples 	3397
+tutorial class 	3423
+questions 	3506
+course 	3581
+Tutorial classes 	3624
+Lectures 	3718
+basics of OOP 	3774
+Course 	3884
+Work load 	3904
+Continuous assessment 	3931
+it 	4055
+Extra classes 	4122
+Semester project 	4157
+this one 	4343
+subject 	4420
+OOP 	4493
+JAVA 	4508
+madam , 	4669
+Lectures 	4718
+tutorial class 	4731
+lectures 	4826
+tutorial 	4863
+lecture slides 	4910
+teachings 	4933
+tutorials 	5040
+teaching approaches 	5206
+this subject 	5242
+this subject 	5339
+Overall learning outcome 	5395
+lectures 	5457
+code practice 	5491
+lectures 	5520
+Course 	5628
+This module 	5711
+oop concepts 	5765
+Discussing past papers within the class 	5794
+tutorial classes 	5906
+tutorial classes 	5972
+how the course is conducted 	6025
+lectures 	6062
+approaches to instill the concepts 	6115
+viva for the mid- evaluation 	6180
+lectures 	6240
+examples 	6253
+Applying threads 	6281
+examples on threads 	6319
+Tutorial classes 	6377
+Lectures 	6454
+tutorial class 	6467
+examples 	6600
+objected oriented programming 	6669
+Additional class 	6782
+post sample answers 	6932
+lecture series 	7061
+descriptive sample codes 	7130
+Tutorials 	7182
+Module 	7217
+lectures 	7265
+In class exercises 	7317
+Tutorial class 	7376
+poop 	7537
+course 	7603
+code what had been taught ( 	7660
+in class exercises with practical scenarios 	7801
+in class exercises 	7892
+additional exercise 	7980
+course 	8009
+lecturers commitment 	8121
+lecture series 	8205
+Tutorial class 	8263
+tutorial class 	8324
+tutorial class 	8371
+you 	8461
+Tutorial 	8470
+tutorial classes 	8764
+Lab sessions 	8800
+Lectures 	8924
+teaching speed 	9018
+overall lecturing pattern 	9054
+Tutorial classes 	9102
+Course 	9188
+evaluate the game after the exam 	9220
+Tutorial classes 	9305
+lecture slides 	9381
+Lecture Explanations 	9411
+introducing tutorials 	9541
+lecture series 	9675
+Lectures 	9961
+Mid examination 	10048
+viva 	10072
+examples discussed in tutorial classes 	10123
+lectures 	10259
+lecturer 	10380
+Overall teaching 	10419
+practicals 	10470
+Tutorial classed 	10509
+lecture series 	10646
+lecture slides 	10670
+tutorial 	10736
+Tutorials 	10755
+threads 	11008
+event handling 	11020
+course 	11044
+Tutorials 	11082
+fundamentals of OOP 	11135
+lecture series 	11170

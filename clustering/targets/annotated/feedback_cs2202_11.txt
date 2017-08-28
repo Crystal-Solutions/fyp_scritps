@@ -1,0 +1,156 @@
+workshop 	4
+time 	91
+some examples 	362
+later topics 	412
+session 	472
+workshop 	598
+It 	650
+It 	673
+workshops 	793
+time 	810
+Junit 	868
+Git 	878
+workshop 	915
+workshop 	943
+time period 	960
+workshop 	1078
+Ant 	1145
+topics 	1197
+time 	1239
+IntelliJ Introduction 	1261
+Git 	1453
+version control systems 	1461
+workshop 	1498
+latter part of the workshop 	1540
+explanations 	1631
+It 	1664
+compilation using terminal , 	1728
+IDE , 	1756
+build tools , 	1761
+ANT , 	1774
+Unit test 	1779
+Jenkins 	1793
+time 	1830
+Workshop 	1918
+time 	1952
+session 	2077
+today 's session 	2198
+workshops 	2367
+Jenkins , 	2484
+ant 	2493
+workshop 	2560
+lot of new things 	2600
+time 	2657
+practicals 	2666
+workshop 	2747
+workshop 	2773
+ant 	2793
+It 	2855
+time 	3225
+session 	3235
+prior arrangements ( 	3264
+session 	3235
+prior arrangements ( 	3264
+session 	3468
+software tools 	3513
+time to test sample codes 	3574
+help given by the team 	3622
+area to cover during the session 	3764
+It 	3832
+what industry expect from us 	3881
+ANT , 	3936
+JUNIT , 	3941
+Jenkins 	3948
+workshop 	3988
+Company _ y members 	4030
+Session 	4105
+content 	4128
+time limit 	4238
+It 	4269
+It 	4334
+target 	4460
+examples 	4697
+clarifications 	4724
+last part of the session 	4825
+speed 	4865
+presentation 	4881
+They 	4899
+time 	4961
+they 	5091
+relate them to the real work work environments 	5140
+you all 	5224
+it 	5269
+It 	5317
+workshop 	5427
+content 	5459
+time allocated 	5593
+time 	5703
+It 	5713
+workshop 	5794
+industrial related software development practicals 	5845
+duration 	5929
+first part of workshop 	5957
+last part 	6020
+content 	6091
+It 	6206
+workshop 	6396
+new IDE 	6428
+time on ANT and JUNIT 	6501
+session 	6723
+JUnit , 	6790
+IntelliJ idea 	6797
+Final half of the session 	6814
+examples 	6977
+tutorials on apache ant environment 	6990
+whole workshop 	7095
+time 	7212
+information on ANT 	7231
+session 	7347
+this workshop 	7495
+workshop 	7601
+explanations 	7632
+workshop 	7814
+It 	7888
+It 	8114
+their part 	8131
+workshop 	8159
+session 	8291
+last part 	8316
+practicals 	8425
+workshop 	8490
+topic 	8630
+workshop 	8661
+time on the topics 	8790
+workshop 	8836
+first part 	8868
+time on java basics , 	8965
+remaining parts 	9015
+last facts 	9072
+workshop 	9244
+workshop , 	9311
+IntelliJ IDE 	9424
+Workshop 	9442
+time 	9552
+This 	9577
+workshop 	9680
+build tools 	9714
+concepts 	9730
+prerequisites 	9791
+Organization of the workshop 	9846
+version control system 	9928
+junit 	9955
+Overall it 	9964
+workshop 	10004
+time 	10021
+workshop 	10160
+It 	10202
+lectures 	10276
+areas touched 	10373
+sessions 	10426
+session on JUnit 	10467
+ANT session 	10661
+workshop 	10839
+information on the build tools , 	10971
+version control systems 	11003
+time 	11090
+presentations 	11127
