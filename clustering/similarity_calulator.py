@@ -32,8 +32,6 @@ phrases = ["Lectures", "you", "lecturer explains most of the concepts using exam
            "In class exercises", "Homework given every day", "lecturer", "lot of new things",
            "In class activities", "lectures", "current way of teaching"]
 
-token_list = []
-
 
 def tokenize(text):
     tokens = nltk.word_tokenize(text)
@@ -44,6 +42,7 @@ def tokenize(text):
 
 
 def get_similarity_matrix(phrases):
+    token_list = []
     for item in phrases:
         token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
     
@@ -55,8 +54,10 @@ def get_similarity_matrix(phrases):
 
 def get_w2v_similarity_matrix(phrases):
     model = gensim.models.Word2Vec.load(GENSIM_W2V_MODEL) 
+    token_list = []
     for item in phrases:
-        token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
+        #token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
+        token_list.append(item.lower())
     
     sim_mat = []
     for w1 in token_list:

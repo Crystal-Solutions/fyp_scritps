@@ -12,8 +12,8 @@ Created on Wed Aug  2 07:27:56 2017
 @author: Shanika Ediriweera
 """
 
-ANNOTATED_CLUSTERS = "./annotated/"
-TARGETS_PATH = "./extracted/"
+ANNOTATED_CLUSTERS = "./clusters/annotated/"
+TARGETS_PATH = "./targets/extracted/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
@@ -29,6 +29,12 @@ def get_phrases_from_file(file_name):
     phrases = [x.strip() for x in phrases]
     return phrases
 
+# get phrases from extracted targets - coref resolved
+def get_coref_resolved_phrases(file_name):
+    with open(file_name) as f:
+        content = f.readlines()  
+    phrases = [x.strip() for x in content]
+    return phrases
 
 def annotate_clusters(phrases, feedback_file="test"):
     annotated_clusters = {}
