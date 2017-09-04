@@ -1,0 +1,119 @@
+clusters-
+
+cluster 0-
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: session
+cluster 0: session
+cluster 0: Workshop
+cluster 0: workshops
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshops
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: the way workshop was conducted
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: session
+cluster 0: Workshop
+
+cluster 1-
+cluster 1: Company _ x
+cluster 1: Company _ x
+
+cluster 2-
+cluster 2: It
+cluster 2: It
+cluster 2: It
+cluster 2: It
+cluster 2: It
+cluster 2: it
+cluster 2: It
+cluster 2: It
+
+cluster 3-
+cluster 3: how to write unit tests
+cluster 3: unit testing via netbeans IDE
+cluster 3: unit testing
+cluster 3: testing
+
+cluster 4-
+cluster 4: Millenium
+
+cluster 5-
+cluster 5: teach
+cluster 5: way of presenting
+
+cluster 6-
+cluster 6: Last 10 min
+
+cluster 7-
+cluster 7: organized
+
+cluster 8-
+cluster 8: this
+
+cluster 9-
+cluster 9: testing tools
+cluster 9: test engines
+cluster 9: new tools
+
+cluster 10-
+cluster 10: time
+
+cluster 11-
+cluster 11: selenium part
+cluster 11: selenium IDE
+
+cluster 12-
+cluster 12: workshop team
+cluster 12: Company _ x team !
+
+cluster 13-
+cluster 13: debugging
+
+cluster 14-
+cluster 14: ice breaking exercises
+
+cluster 15-
+cluster 15: workshop goals
+
+cluster 16-
+cluster 16: JUnit
+
+cluster 17-
+cluster 17: TestNG
+
+cluster 18-
+cluster 18: Overall feedback -
+
+cluster 19-
+cluster 19: content
+
+cluster 20-
+cluster 20: basic concepts
+
+cluster 21-
+cluster 21: pace of teaching
+
+cluster 22-
+cluster 22: Presenter
+
+clusters object-
+{0: [0, 4, 9, 12, 13, 14, 15, 22, 23, 24, 26, 27, 29, 30, 32, 34, 36, 37, 38, 39, 45, 47, 48, 55, 58, 60, 61, 63, 66], 1: [1, 46], 2: [2, 17, 18, 20, 25, 43, 44, 57], 3: [3, 10, 31, 40], 4: [5], 5: [6, 65], 6: [7], 7: [8], 8: [11], 9: [16, 28, 35], 10: [19], 11: [21, 42], 12: [33, 54], 13: [41], 14: [49], 15: [50], 16: [51], 17: [52], 18: [53], 19: [56], 20: [59], 21: [62], 22: [64]}
+cluster names- 
+['workshop', 'Company _ x', 'It', 'unit testing', 'Millenium', 'way of presenting', 'Last 10 min', 'organized', 'this', 'testing tools', 'time', 'selenium part', 'workshop team', 'debugging', 'ice breaking exercises', 'workshop goals', 'JUnit', 'TestNG', 'Overall feedback -', 'content', 'basic concepts', 'pace of teaching', 'Presenter']

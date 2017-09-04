@@ -1,0 +1,131 @@
+clusters-
+
+cluster 0-
+cluster 0: module
+cluster 0: module
+cluster 0: course
+cluster 0: module
+cluster 0: module
+cluster 0: module
+cluster 0: course
+
+cluster 1-
+cluster 1: some workshops
+cluster 1: workshops
+cluster 1: workshops
+cluster 1: workshops
+cluster 1: workshops
+cluster 1: workshop series
+cluster 1: some workshops ,
+cluster 1: series of workshops
+cluster 1: some workshops
+cluster 1: workshops
+cluster 1: Some workshops
+cluster 1: Some workshops
+cluster 1: workshop series
+cluster 1: workshop series
+cluster 1: workshops
+
+cluster 2-
+cluster 2: content of those workshop
+cluster 2: content of those workshop
+
+cluster 3-
+cluster 3: time
+cluster 3: short time
+
+cluster 4-
+cluster 4: it
+
+cluster 5-
+cluster 5: networking workshop
+
+cluster 6-
+cluster 6: GIT ,
+cluster 6: Git )
+
+cluster 7-
+cluster 7: log4j ,
+
+cluster 8-
+cluster 8: junit ,
+
+cluster 9-
+cluster 9: Net ,
+
+cluster 10-
+cluster 10: MySQL ,
+
+cluster 11-
+cluster 11: Debugging ,
+
+cluster 12-
+cluster 12: Scrum ,
+
+cluster 13-
+cluster 13: Extreme
+
+cluster 14-
+cluster 14: Spring
+
+cluster 15-
+cluster 15: them
+cluster 15: they
+
+cluster 16-
+cluster 16: methods
+
+cluster 17-
+cluster 17: best practices
+
+cluster 18-
+cluster 18: important sections
+
+cluster 19-
+cluster 19: number of workshops
+
+cluster 20-
+cluster 20: assignments
+cluster 20: some assignments
+cluster 20: assignments
+cluster 20: Some assignments
+cluster 20: assignments
+
+cluster 21-
+cluster 21: work with the industry ,
+cluster 21: work with industry people
+
+cluster 22-
+cluster 22: explanations
+
+cluster 23-
+cluster 23: how to use these tools practically (
+
+cluster 24-
+cluster 24: new technologies
+cluster 24: new things
+cluster 24: technologies used in the industry
+
+cluster 25-
+cluster 25: number of topics
+cluster 25: topics
+
+cluster 26-
+cluster 26: programming project
+
+cluster 27-
+cluster 27: time to do assignments
+
+cluster 28-
+cluster 28: workload
+
+cluster 29-
+cluster 29: this
+
+cluster 30-
+cluster 30: experience -
+
+clusters object-
+{0: [0, 26, 30, 40, 46, 54, 57], 1: [1, 4, 7, 17, 23, 27, 31, 43, 45, 47, 50, 51, 53, 55, 56], 2: [2, 19], 3: [3, 32], 4: [5], 5: [6], 6: [8, 35], 7: [9], 8: [10], 9: [11], 10: [12], 11: [13], 12: [14], 13: [15], 14: [16], 15: [18, 36], 16: [20], 17: [21], 18: [22], 19: [24], 20: [25, 29, 42, 59, 62], 21: [28, 44], 22: [33], 23: [34], 24: [37, 48, 61], 25: [38, 39], 26: [41], 27: [49], 28: [52], 29: [58], 30: [60]}
+cluster names- 
+['module', 'workshops', 'content of those workshop', 'time', 'it', 'networking workshop', 'GIT ,', 'log4j ,', 'junit ,', 'Net ,', 'MySQL ,', 'Debugging ,', 'Scrum ,', 'Extreme', 'Spring', 'them', 'methods', 'best practices', 'important sections', 'number of workshops', 'assignments', 'work with industry people', 'explanations', 'how to use these tools practically (', 'new technologies', 'topics', 'programming project', 'time to do assignments', 'workload', 'this', 'experience -']
