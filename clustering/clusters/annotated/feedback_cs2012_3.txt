@@ -1,0 +1,234 @@
+clusters-
+
+cluster 0-
+cluster 0: examples within the class
+cluster 0: practical examples
+cluster 0: worked examples
+cluster 0: example code
+cluster 0: practical examples
+cluster 0: practical examples
+cluster 0: coding examples
+cluster 0: example codes
+cluster 0: coding examples
+cluster 0: examples in the lectures
+cluster 0: examples
+cluster 0: simple examples
+cluster 0: examples codes
+cluster 0: examples for final sessions
+
+cluster 1-
+cluster 1: Lecture series
+cluster 1: Lecture series
+cluster 1: lectures
+cluster 1: lecture series
+cluster 1: lecture series
+cluster 1: lecture series
+cluster 1: lectures
+cluster 1: lecture
+cluster 1: lectures
+cluster 1: this lecture series
+cluster 1: lecture series
+cluster 1: lectures
+cluster 1: lecture series
+cluster 1: Lecture
+cluster 1: lecture
+cluster 1: overall lecture series
+cluster 1: lecture series
+cluster 1: lectures ,
+cluster 1: Lecture series
+cluster 1: lecture series
+cluster 1: Lecture series
+
+cluster 2-
+cluster 2: handling UI components
+cluster 2: UI
+
+cluster 3-
+cluster 3: tutorials
+cluster 3: tutorials
+
+cluster 4-
+cluster 4: your efforts on teaching
+cluster 4: you
+cluster 4: overall teaching of the subject
+
+cluster 5-
+cluster 5: concurrency part
+cluster 5: Concurrency
+
+cluster 6-
+cluster 6: other lecturer
+cluster 6: helping lecturer ,
+
+cluster 7-
+cluster 7: project
+cluster 7: Semester project
+cluster 7: semester project (
+cluster 7: project ,
+cluster 7: project
+cluster 7: project
+
+cluster 8-
+cluster 8: everything
+cluster 8: Everything
+
+cluster 9-
+cluster 9: GUI building
+cluster 9: GUI implementations
+cluster 9: GUI
+
+cluster 10-
+cluster 10: demonstrations ,
+
+cluster 11-
+cluster 11: Threads lesson
+
+cluster 12-
+cluster 12: swimming competition
+cluster 12: Swimming Competition )
+
+cluster 13-
+cluster 13: databases
+cluster 13: adding a database to our semester project
+cluster 13: databases
+
+cluster 14-
+cluster 14: Reasons for using OOP concepts
+
+cluster 15-
+cluster 15: 2 lecturers
+cluster 15: Both lecturers
+cluster 15: Lecturers
+cluster 15: Both lecturers
+
+cluster 16-
+cluster 16: guest lecturer
+cluster 16: Guest lectures
+
+cluster 17-
+cluster 17: Content
+
+cluster 18-
+cluster 18: real world application questions of OOP concepts
+
+cluster 19-
+cluster 19: Letters
+
+cluster 20-
+cluster 20: marker pens
+
+cluster 21-
+cluster 21: architecture practical series
+cluster 21: practical series
+
+cluster 22-
+cluster 22: lecture note
+
+cluster 23-
+cluster 23: OOP practical sessions
+cluster 23: OOP
+cluster 23: Object Oriented Programming
+
+cluster 24-
+cluster 24: Some websites
+
+cluster 25-
+cluster 25: starting lectures
+
+cluster 26-
+cluster 26: she
+
+cluster 27-
+cluster 27: spot tests
+cluster 27: in - class tests
+
+cluster 28-
+cluster 28: MVC architecture
+
+cluster 29-
+cluster 29: quiz at the end
+
+cluster 30-
+cluster 30: lecturer
+
+cluster 31-
+cluster 31: that attempt
+
+cluster 32-
+cluster 32: time allocated for the subject
+cluster 32: time
+
+cluster 33-
+cluster 33: schedule !
+
+cluster 34-
+cluster 34: teaching - learning process
+
+cluster 35-
+cluster 35: module
+cluster 35: course
+cluster 35: course
+cluster 35: module
+cluster 35: module
+
+cluster 36-
+cluster 36: practical problems
+
+cluster 37-
+cluster 37: workload
+
+cluster 38-
+cluster 38: final phase of the project
+
+cluster 39-
+cluster 39: mid semester exam
+
+cluster 40-
+cluster 40: He
+
+cluster 41-
+cluster 41: time with new topics like event handling
+
+cluster 42-
+cluster 42: It
+cluster 42: It
+
+cluster 43-
+cluster 43: some subject
+
+cluster 44-
+cluster 44: java
+cluster 44: teach Java language
+
+cluster 45-
+cluster 45: speed of the lecturer
+
+cluster 46-
+cluster 46: Some concepts
+
+cluster 47-
+cluster 47: time to practice examples
+
+cluster 48-
+cluster 48: Manufacturing Engineering "
+
+cluster 49-
+cluster 49: non- CS modules
+
+cluster 50-
+cluster 50: submit their project
+cluster 50: deadline of the semester project
+
+cluster 51-
+cluster 51: feedback on the codes
+
+cluster 52-
+cluster 52: concepts of observer observable
+
+cluster 53-
+cluster 53: time we had to take notes
+
+clusters object-
+{0: [0, 2, 7, 17, 23, 26, 27, 42, 67, 72, 73, 108, 114, 118], 1: [1, 3, 12, 22, 29, 47, 54, 55, 62, 68, 75, 81, 85, 88, 93, 103, 106, 107, 110, 112, 116], 2: [4, 5], 3: [6, 8], 4: [9, 65, 94], 5: [10, 53], 6: [11, 40], 7: [13, 38, 51, 60, 70, 71], 8: [14, 97], 9: [15, 76, 91], 10: [16], 11: [18], 12: [19, 52], 13: [20, 45, 46], 14: [21], 15: [24, 48, 58, 80], 16: [25, 113], 17: [28], 18: [30], 19: [31], 20: [32], 21: [33, 35], 22: [34], 23: [36, 50, 99], 24: [37], 25: [39], 26: [41], 27: [43, 79], 28: [44], 29: [49], 30: [56], 31: [57], 32: [59, 64], 33: [61], 34: [63], 35: [66, 83, 84, 102, 105], 36: [69], 37: [74], 38: [77], 39: [78], 40: [82], 41: [86], 42: [87, 89], 43: [90], 44: [92, 104], 45: [95], 46: [96], 47: [98], 48: [100], 49: [101], 50: [109, 119], 51: [111], 52: [115], 53: [117]}
+cluster names- 
+['examples', 'lectures', 'UI', 'tutorials', 'your efforts on teaching', 'Concurrency', 'other lecturer', 'project', 'everything', 'GUI', 'demonstrations ,', 'Threads lesson', 'swimming competition', 'databases', 'Reasons for using OOP concepts', 'Both lecturers', 'guest lecturer', 'Content', 'real world application questions of OOP concepts', 'Letters', 'marker pens', 'practical series', 'lecture note', 'OOP', 'Some websites', 'starting lectures', 'she', 'in - class tests', 'MVC architecture', 'quiz at the end', 'lecturer', 'that attempt', 'time', 'schedule !', 'teaching - learning process', 'module', 'practical problems', 'workload', 'final phase of the project', 'mid semester exam', 'He', 'time with new topics like event handling', 'It', 'some subject', 'java', 'speed of the lecturer', 'Some concepts', 'time to practice examples', 'Manufacturing Engineering "', 'non- CS modules', 'deadline of the semester project', 'feedback on the codes', 'concepts of observer observable', 'time we had to take notes']

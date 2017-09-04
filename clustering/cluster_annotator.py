@@ -13,11 +13,11 @@ Created on Wed Aug  2 07:27:56 2017
 """
 
 ANNOTATED_CLUSTERS = "./clusters/annotated/"
-TARGETS_PATH = "./targets/extracted/"
+TARGETS_PATH = "./targets/annotated/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
-TARGETS_FILE = "feedback_cs2012_3.txt" #eg: feedback_cs2012_2.txt
+TARGETS_FILE = "feedback_cs2202_10.txt" #eg: feedback_cs2012_2.txt
 
 # get phrases from extracted targets
 def get_phrases_from_file(file_name):
@@ -71,19 +71,25 @@ def annotate_clusters(phrases, feedback_file="test"):
     annotated_file.write("\n")
     annotated_file.write('clusters object-\n')
     annotated_file.write(str(annotated_clusters))
+    annotated_file.close()
+    
     #take cluster names
+    annotated_file = open(ANNOTATED_CLUSTERS+feedback_file, 'a')
     print('')
     annotated_file.write("\n")
     print('cluster names-')
     annotated_file.write("cluster names- \n")
     for i in range(len(annotated_clusters)):
-        index = -1
-        while( index not in annotated_clusters[i] ):
-            cluster_name = input("Enter cluster name for cluster "+str(i)+" :")
-            try: 
-                index = phrases.index(cluster_name)
-            except ValueError:
-                index = -1
+        if len(annotated_clusters[i]) == 1:
+            cluster_name = phrases[annotated_clusters[i][0]]
+        else:
+            index = -1
+            while( index not in annotated_clusters[i] ):
+                cluster_name = input("Enter cluster name for cluster "+str(i)+" :")
+                try: 
+                    index = phrases.index(cluster_name)
+                except ValueError:
+                    index = -1
         annotated_labels.append(cluster_name)
     #save annotated cluster names to file
     annotated_file.write(str(annotated_labels))
