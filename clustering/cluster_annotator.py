@@ -13,11 +13,11 @@ Created on Wed Aug  2 07:27:56 2017
 """
 
 ANNOTATED_CLUSTERS = "./clusters/annotated/"
-TARGETS_PATH = "./targets/extracted/"
+TARGETS_PATH = "./targets/annotated/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
-TARGETS_FILE = "feedback_cs2012_3.txt" #eg: feedback_cs2012_2.txt
+TARGETS_FILE = "feedback_cs2012_2.txt" #eg: feedback_cs2012_2.txt
 
 # get phrases from extracted targets
 def get_phrases_from_file(file_name):
