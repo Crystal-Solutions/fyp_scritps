@@ -18,3 +18,195 @@ feedback_cs2202_12.txt
 silhoutte_coeff_score : 0.498712826264
 ARI_score : 0.904459542241
 
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.232108998072
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.300130184754
+ARI_score : 0.179779701023
+Normalized Mutual Information Score : 0.640094863235
+Adjusted Mutual Information Score : 0.235171605005
+homogeneity : 0.482565242788
+completeness : 0.849048786798
+v_measure : 0.615375664174
+Fowlkes Mallows Score : 0.296742612018
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.167867878342
+ARI_score : 0.0743421296812
+Normalized Mutual Information Score : 0.548136574893
+Adjusted Mutual Information Score : 0.156173370799
+homogeneity : 0.351098013337
+completeness : 0.855754499661
+v_measure : 0.497912879162
+Fowlkes Mallows Score : 0.238867878914
+Purity : 0.425
+
+feedback_cs2012_4.txt
+Silhoutte Coefficient Score : 0.156687920153
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.255825150888
+ARI_score : 0.138243284033
+Normalized Mutual Information Score : 0.605104762149
+Adjusted Mutual Information Score : 0.204549363089
+homogeneity : 0.423105561144
+completeness : 0.865391067386
+v_measure : 0.568339512992
+Fowlkes Mallows Score : 0.283479489681
+Purity : 0.425
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score : 0.261340848921
+ARI_score : 0.243531955801
+Normalized Mutual Information Score : 0.654680221142
+Adjusted Mutual Information Score : 0.344620726773
+homogeneity : 0.494437167162
+completeness : 0.866856742211
+v_measure : 0.629704120474
+Fowlkes Mallows Score : 0.402201465571
+Purity : 0.5350877192982456
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score : 0.135930590301
+ARI_score : 0.0355232461924
+Normalized Mutual Information Score : 0.364713032037
+Adjusted Mutual Information Score : 0.0875780459734
+homogeneity : 0.193263078892
+completeness : 0.688261806139
+v_measure : 0.30178523147
+Fowlkes Mallows Score : 0.330697104363
+Purity : 0.4016393442622951
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score : 0.36233204421
+ARI_score : 0.167329126261
+Normalized Mutual Information Score : 0.463720056404
+Adjusted Mutual Information Score : 0.164237270755
+homogeneity : 0.316543191603
+completeness : 0.679326854646
+v_measure : 0.431856127256
+Fowlkes Mallows Score : 0.420348161326
+Purity : 0.4925373134328358
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score : 0.372939147975
+ARI_score : 0.145381819216
+Normalized Mutual Information Score : 0.61281955234
+Adjusted Mutual Information Score : 0.201825940993
+homogeneity : 0.435004733404
+completeness : 0.863318890328
+v_measure : 0.578511854618
+Fowlkes Mallows Score : 0.310859146856
+Purity : 0.5079365079365079
+
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.25671879478
+ARI_score : 0.229577389539
+Normalized Mutual Information Score : 0.634025755611
+Adjusted Mutual Information Score : 0.229860990235
+homogeneity : 0.452704441525
+completeness : 0.887971537068
+v_measure : 0.599680556969
+Fowlkes Mallows Score : 0.385740307437
+Purity : 0.43333333333333335
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score : 0.254443930866
+ARI_score : 0.250357639635
+Normalized Mutual Information Score : 0.640823265336
+Adjusted Mutual Information Score : 0.329616666371
+homogeneity : 0.471056683473
+completeness : 0.871772913546
+v_measure : 0.611625567843
+Fowlkes Mallows Score : 0.415923464433
+Purity : 0.5350877192982456
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score : 0.324481509734
+ARI_score : 0.119143872832
+Normalized Mutual Information Score : 0.502486022977
+Adjusted Mutual Information Score : 0.195640965621
+homogeneity : 0.367063300172
+completeness : 0.687871010719
+v_measure : 0.478688010581
+Fowlkes Mallows Score : 0.316439557022
+Purity : 0.4918032786885246
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score : 0.483442480728
+ARI_score : 0.466067867781
+Normalized Mutual Information Score : 0.687437109688
+Adjusted Mutual Information Score : 0.40852000311
+homogeneity : 0.576134335986
+completeness : 0.820242346724
+v_measure : 0.676851433612
+Fowlkes Mallows Score : 0.58755156203
+Purity : 0.7014925373134329
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score : 0.375425307371
+ARI_score : 0.324373410825
+Normalized Mutual Information Score : 0.688459911425
+Adjusted Mutual Information Score : 0.282398017075
+homogeneity : 0.495390989041
+completeness : 0.956773659845
+v_measure : 0.652786927437
+Fowlkes Mallows Score : 0.489294253998
+Purity : 0.5238095238095238
+
+Average
+avg_silhoutte_coeff_score :0.338902404696feedback_cs2012_3.txt
+Silhoutte Coefficient Score : 0.135423024364
+ARI_score : 0.124678708496
+Normalized Mutual Information Score : 0.585400726457
+Adjusted Mutual Information Score : 0.173754606276
+homogeneity : 0.386841755664
+completeness : 0.885876474083
+v_measure : 0.538522985726
+Fowlkes Mallows Score : 0.317395376061
+Purity : 0.45
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score : 0.3217373767
+ARI_score : 0.407686188494
+Normalized Mutual Information Score : 0.733479540397
+Adjusted Mutual Information Score : 0.448555506286
+homogeneity : 0.59516793954
+completeness : 0.903933495808
+v_measure : 0.717752946526
+Fowlkes Mallows Score : 0.522596088132
+Purity : 0.6140350877192983
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score : 0.349794453509
+ARI_score : 0.0926072142078
+Normalized Mutual Information Score : 0.477268890033
+Adjusted Mutual Information Score : 0.177366359174
+homogeneity : 0.333709006057
+completeness : 0.682587491673
+v_measure : 0.4482660206
+Fowlkes Mallows Score : 0.303938369705
+Purity : 0.5163934426229508
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score : 0.464780624755
+ARI_score : 0.369745625549
+Normalized Mutual Information Score : 0.605804603254
+Adjusted Mutual Information Score : 0.307576844902
+homogeneity : 0.466359585488
+completeness : 0.786944728369
+v_measure : 0.585650608981
+Fowlkes Mallows Score : 0.532304572338
+Purity : 0.6567164179104478
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score : 0.290519408149
+ARI_score : 0.270734032412
+Normalized Mutual Information Score : 0.664971646492
+Adjusted Mutual Information Score : 0.253949484097
+homogeneity : 0.452167252266
+completeness : 0.977928605891
+v_measure : 0.61840230935
+Fowlkes Mallows Score : 0.465437683129
+Purity : 0.5396825396825397
+
+Average
+avg_silhoutte_coeff_score :0.312450977495avg_ARI_score :0.253090353832avg_NMI_score :0.613385081327avg_AMI_score :0.272240560147avg_homogeneity :0.446849107803avg_completeness :0.847454159165avg_v_measure :0.581718974236avg_fowlkes_mallows_score :0.428334417873avg_purity :0.5553654975870473

@@ -15,13 +15,17 @@ from kmedoids import kmedoids
 
 RESULTS_PATH = "./results/"
 EVALUATED_RESULTS = "./evaluated/"
-TARGETS_PATH = "./extracted/"
+TARGETS_PATH = "./targets/annotated/"
+CLUSTERS_PATH = "./clusters/annotated/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
 TARGETS_FILE = "feedback_cs2012_3.txt" #eg: feedback_cs2012_2.txt
 
 SCORES_FILE = "scores.txt"
+
+anno_cluster_files = ['feedback_cs2012_3.txt', 'feedback_cs2012_5.txt',
+                              'feedback_cs2202_1.txt', 'feedback_cs2202_7.txt', 'feedback_cs2202_10.txt']
 
 #extracted phrases list - example
 phrases = ["Lectures", "you", "lecturer explains most of the concepts using examples",
@@ -89,37 +93,96 @@ def get_labels_list(clusters, no_of_phrases):
             labels[point_idx] = label
     return labels
 
-
-
-if __name__ == "__main__":
+def clustering_evaluate():
     scores_file = open(SCORES_FILE, 'a')
-    scores_file.write(TARGETS_FILE+'\n')
     
-    phrases = get_phrases_from_file(TARGETS_PATH+TARGETS_FILE) #read targets from file
-    D = similarity_calulator.get_distance_matrix(phrases) #distance matrix
-    no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
-    
-    # cluster using kmedoids algorithm
-    M, C = cluster_kmedoids(no_of_phrases, D)
-    
-    clustering_results(C, M) #print and write to a file
-    
-    labels = get_labels_list(C, no_of_phrases)
+    avg_silhoutte_coeff_score = 0
+    avg_ARI_score = 0 
+    avg_NMI_score = 0
+    avg_AMI_score = 0
+    avg_homogeneity = 0 
+    avg_completeness = 0
+    avg_v_measure = 0
+    avg_fowlkes_mallows_score = 0
+    avg_purity = 0
+    for file in anno_cluster_files:
+        print(file)
+        scores_file.write(file+'\n')
         
-    # get silhoutte_coeff_score 
-    silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, labels)    
-    print("silhoutte_coeff_score : ", silhoutte_coeff_score)
-    scores_file.write("silhoutte_coeff_score : "+ str(silhoutte_coeff_score)+'\n')
+        phrases = get_phrases_from_file(TARGETS_PATH+file) #read targets from file
+        D = similarity_calulator.get_distance_matrix(phrases) #distance matrix
+        no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
+        
+        # cluster using kmedoids algorithm
+        M, C = cluster_kmedoids(no_of_phrases, D)
+        #clustering_results(C, M) #print and write to a file        
+        cluster_labels = get_labels_list(C, no_of_phrases)
+            
+        # get silhoutte_coeff_score 
+        silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, cluster_labels)    
+        avg_silhoutte_coeff_score += silhoutte_coeff_score
+        print("silhoutte_Coeff_score : ", silhoutte_coeff_score)
+        scores_file.write("Silhoutte Coefficient Score : "+ str(silhoutte_coeff_score)+'\n')
+        
+        anno_clusters = clustering_evaluator.get_annotated_cluster_obj(CLUSTERS_PATH+file)
+        anno_labels  = get_labels_list(anno_clusters, no_of_phrases)
+        
+        ARI_score = clustering_evaluator.get_ARI(cluster_labels, anno_labels)
+        avg_ARI_score += ARI_score
+        print("ARI_score : ", ARI_score)
+        scores_file.write("ARI_score : "+ str(ARI_score)+'\n')
+        
+        norm_score, adj_score = clustering_evaluator.get_mutual_information_score(cluster_labels, anno_labels)
+        avg_NMI_score += norm_score
+        avg_AMI_score += adj_score
+        print("Normalized Mutual Information Score : ", norm_score)
+        print("Adjusted Mutual Information Score : ", adj_score)
+        scores_file.write("Normalized Mutual Information Score : "+ str(norm_score)+'\n')
+        scores_file.write("Adjusted Mutual Information Score : "+ str(adj_score)+'\n')
+        
+        h, c, v = clustering_evaluator.get_homogeneity_completeness_v_measure(cluster_labels, anno_labels)
+        avg_homogeneity += h
+        avg_completeness += c
+        avg_v_measure += v
+        print("homogeneity : "+ str(h))
+        print("completeness : "+ str(c))
+        print("v_measure : "+ str(v))
+        scores_file.write("homogeneity : "+ str(h)+'\n')
+        scores_file.write("completeness : "+ str(c)+'\n')
+        scores_file.write("v_measure : "+ str(v)+'\n')
+        
+        fowlkes_mallows_score = clustering_evaluator.get_fowlkes_mallows_score(cluster_labels, anno_labels)
+        avg_fowlkes_mallows_score += fowlkes_mallows_score
+        print("fowlkes_mallows_score : ", fowlkes_mallows_score)
+        scores_file.write("Fowlkes Mallows Score : "+ str(fowlkes_mallows_score)+'\n')
+        
+        purity = clustering_evaluator.get_purity(cluster_labels, anno_labels)
+        avg_purity += purity
+        print("purity : "+ str(purity)+"\n")
+        scores_file.write("Purity : "+ str(purity)+'\n\n')
     
-    evaluated_clusters, evaluated_cluster_names = clustering_evaluator.manual_evaluate(phrases, D, C, M, TARGETS_FILE)
-    
-    print(evaluated_clusters)
-    print(evaluated_cluster_names)
-    
-    evaluated_labels = get_labels_list(evaluated_clusters, no_of_phrases)
-    ARI_score = clustering_evaluator.get_manual_eval_ARI(labels, evaluated_labels)
-    print("ARI_score : ", ARI_score)
-    scores_file.write("ARI_score : "+ str(ARI_score)+'\n\n')
-    
+    print("Average")
+    print("avg_silhoutte_coeff_score :", avg_silhoutte_coeff_score/len(anno_cluster_files))
+    print("avg_ARI_score :", avg_ARI_score/len(anno_cluster_files))
+    print("avg_NMI_score :", avg_NMI_score/len(anno_cluster_files))
+    print("avg_AMI_score :", avg_AMI_score/len(anno_cluster_files))
+    print("avg_homogeneity :", avg_homogeneity/len(anno_cluster_files))
+    print("avg_completeness :", avg_completeness/len(anno_cluster_files))
+    print("avg_v_measure :", avg_v_measure/len(anno_cluster_files))
+    print("avg_fowlkes_mallows_score :", avg_fowlkes_mallows_score/len(anno_cluster_files))
+    print("avg_purity :", avg_purity/len(anno_cluster_files))
+    scores_file.write("Average\n")
+    scores_file.write("avg_silhoutte_coeff_score :"+ str(avg_silhoutte_coeff_score/len(anno_cluster_files)))
+    scores_file.write("avg_ARI_score :"+ str(avg_ARI_score/len(anno_cluster_files)))
+    scores_file.write("avg_NMI_score :"+ str(avg_NMI_score/len(anno_cluster_files)))
+    scores_file.write("avg_AMI_score :"+ str(avg_AMI_score/len(anno_cluster_files)))
+    scores_file.write("avg_homogeneity :"+ str(avg_homogeneity/len(anno_cluster_files)))
+    scores_file.write("avg_completeness :"+ str(avg_completeness/len(anno_cluster_files)))
+    scores_file.write("avg_v_measure :"+ str(avg_v_measure/len(anno_cluster_files)))
+    scores_file.write("avg_fowlkes_mallows_score :"+ str(avg_fowlkes_mallows_score/len(anno_cluster_files)))
+    scores_file.write("avg_purity :"+ str(avg_purity/len(anno_cluster_files)))
     scores_file.close()
+        
+if __name__ == "__main__":
+    clustering_evaluate()
   

@@ -1,0 +1,185 @@
+clusters-
+
+cluster 0-
+cluster 0: session
+cluster 0: session
+cluster 0: lecture
+cluster 0: session on GIT
+cluster 0: Lecture
+cluster 0: session on github
+
+cluster 1-
+cluster 1: Workshop
+cluster 1: workshop
+cluster 1: Workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: Today 's workshop
+cluster 1: workshop
+cluster 1: Today 's workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: overall workshop
+cluster 1: first half of the workshop
+cluster 1: workshop
+cluster 1: workshop !
+cluster 1: workshops
+cluster 1: workshop
+cluster 1: workshop on git and github
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: Workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+cluster 1: workshop
+
+cluster 2-
+cluster 2: cmd
+
+cluster 3-
+cluster 3: Github
+cluster 3: GitHub
+cluster 3: Git
+cluster 3: GIT
+cluster 3: Git
+cluster 3: Git
+cluster 3: Git Vcs
+cluster 3: Github
+cluster 3: Git - Version Control System Workshop
+cluster 3: Git
+cluster 3: how to work on GitHub
+cluster 3: git ,
+cluster 3: github
+cluster 3: git
+cluster 3: github
+cluster 3: Git
+cluster 3: version control systems
+cluster 3: version controlling systems ,
+cluster 3: Git
+cluster 3: GitHub
+
+cluster 4-
+cluster 4: It
+cluster 4: It
+cluster 4: it
+cluster 4: it
+cluster 4: It
+cluster 4: It
+cluster 4: It
+cluster 4: It
+cluster 4: It
+cluster 4: It
+cluster 4: it
+cluster 4: it
+cluster 4: It
+cluster 4: it
+cluster 4: It
+cluster 4: It
+cluster 4: it
+cluster 4: it
+cluster 4: it
+
+cluster 5-
+cluster 5: workload
+
+cluster 6-
+cluster 6: time for students to grasp the ideas )
+cluster 6: time to discuss about the fork / pull - request processes
+cluster 6: limited time
+cluster 6: limited time period
+
+cluster 7-
+cluster 7: last part
+
+cluster 8-
+cluster 8: develop our programming challenge project
+
+cluster 9-
+cluster 9: speed
+cluster 9: speed
+cluster 9: speed
+
+cluster 10-
+cluster 10: some of the contents
+
+cluster 11-
+cluster 11: big project ( I mean like netbeans project ) with Git ,
+
+cluster 12-
+cluster 12: Instructions
+cluster 12: practical instructions
+cluster 12: some instructions
+cluster 12: instructions
+
+cluster 13-
+cluster 13: some of the important areas
+cluster 13: some of the important areas
+
+cluster 14-
+cluster 14: things
+cluster 14: many thing
+cluster 14: new things
+
+cluster 15-
+cluster 15: Explanations
+cluster 15: clarifications
+
+cluster 16-
+cluster 16: everything
+
+cluster 17-
+cluster 17: Company _ y
+
+cluster 18-
+cluster 18: lecturer
+cluster 18: all instructors
+cluster 18: people to help and resolve our problems
+cluster 18: presenters (
+
+cluster 19-
+cluster 19: later half ,
+cluster 19: presenter
+cluster 19: close to the ending
+cluster 19: end
+cluster 19: last 30 min of the workshop
+
+cluster 20-
+cluster 20: team
+
+cluster 21-
+cluster 21: code
+cluster 21: program
+
+cluster 22-
+cluster 22: practicals
+
+cluster 23-
+cluster 23: this one
+
+cluster 24-
+cluster 24: lecture note
+
+cluster 25-
+cluster 25: presentation
+cluster 25: presentation
+
+clusters object-
+{0: [0, 62, 71, 73, 88, 105], 1: [1, 5, 9, 12, 14, 19, 22, 24, 26, 27, 28, 33, 35, 36, 38, 39, 42, 44, 55, 56, 66, 70, 72, 79, 80, 83, 84, 86, 87, 90, 93, 100, 102, 103, 113, 116, 119, 121, 126], 2: [2], 3: [3, 4, 18, 40, 51, 52, 53, 60, 61, 63, 64, 77, 78, 91, 92, 94, 95, 104, 114, 115], 4: [6, 10, 17, 21, 25, 41, 48, 50, 67, 68, 75, 82, 85, 99, 101, 108, 120, 122, 125], 5: [7], 6: [8, 11, 74, 98], 7: [13], 8: [15], 9: [16, 46, 109], 10: [20], 11: [23], 12: [29, 30, 31, 32], 13: [34, 37], 14: [43, 49, 110], 15: [45, 111], 16: [47], 17: [54], 18: [57, 89, 97, 123], 19: [58, 59, 96, 117, 118], 20: [65], 21: [69, 76], 22: [81], 23: [106], 24: [107], 25: [112, 124]}
+cluster names- 
+['session', 'workshop', 'cmd', 'git', 'it', 'workload', 'limited time', 'last part', 'develop our programming challenge project', 'speed', 'some of the contents', 'big project ( I mean like netbeans project ) with Git ,', 'instructions', 'some of the important areas', 'things', 'Explanations', 'everything', 'Company _ y', 'all instructors', 'close to the ending', 'team', 'code', 'practicals', 'this one', 'lecture note', 'presentation']

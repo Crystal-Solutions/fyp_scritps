@@ -1,0 +1,263 @@
+clusters-
+
+cluster 0-
+cluster 0: Lectures
+cluster 0: lectures
+cluster 0: All the 7 lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: first 7 lectures
+cluster 0: lectures
+cluster 0: overall lecture session
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: lecture series
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: Lectures
+cluster 0: lectures
+cluster 0: lecture series
+cluster 0: Lecture series until now
+cluster 0: this module
+cluster 0: lecture series
+cluster 0: Lectures
+cluster 0: lecture series
+cluster 0: lectures
+cluster 0: Overall lectures
+cluster 0: lectures
+cluster 0: class
+cluster 0: lectures
+cluster 0: last seven lectures
+cluster 0: Lectures
+cluster 0: lectures
+cluster 0: Lectures
+cluster 0: Lectures
+cluster 0: Lectures
+cluster 0: first 7 lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: Lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: Lectures
+cluster 0: lectures
+
+cluster 1-
+cluster 1: you
+cluster 1: She
+cluster 1: They
+cluster 1: you
+cluster 1: You
+cluster 1: you
+cluster 1: they
+cluster 1: Writing code
+cluster 1: Ms Surangika
+cluster 1: Ms. Surangika
+
+cluster 2-
+cluster 2: lecturer
+cluster 2: lecturer
+cluster 2: lecturer
+cluster 2: lecturer
+
+cluster 3-
+cluster 3: what 's on the board
+cluster 3: board
+cluster 3: codes you write in the board
+cluster 3: some codes on white board
+cluster 3: writings on the board
+cluster 3: board
+
+cluster 4-
+cluster 4: content
+cluster 4: lots of things
+cluster 4: lessons
+cluster 4: concepts
+cluster 4: content
+cluster 4: lesson
+cluster 4: Concepts
+cluster 4: everything what you have been teaching in previous 7 lectures
+cluster 4: ideas of the topics
+cluster 4: its concepts
+cluster 4: topic
+cluster 4: basic concepts
+
+cluster 5-
+cluster 5: oop concepts
+cluster 5: basic OOP concepts
+cluster 5: polymorphism
+cluster 5: OOP
+cluster 5: oop
+cluster 5: OOP concepts
+cluster 5: OOP concepts with examples
+cluster 5: oop concepts
+cluster 5: object oriented programming concepts
+cluster 5: principles of OOP
+cluster 5: oop concepts
+cluster 5: OOP
+
+cluster 6-
+cluster 6: Practical examples that used to explain concepts
+cluster 6: exercises
+cluster 6: Examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples were used in the lecture slides
+cluster 6: examples
+cluster 6: practical exercises
+cluster 6: examples
+cluster 6: examples
+cluster 6: adequate examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: example questions within the classroom
+cluster 6: examples
+cluster 6: examples
+cluster 6: examples
+cluster 6: scenario examples
+cluster 6: suitable examples
+cluster 6: in class examples
+cluster 6: examples
+
+cluster 7-
+cluster 7: Lecture slides
+cluster 7: lecture slides
+cluster 7: Slides
+cluster 7: Lecture slides
+cluster 7: Lecture slides
+cluster 7: Lecture slides
+cluster 7: Lecture slides
+cluster 7: Presentation slides
+cluster 7: Lecture slides
+cluster 7: lecture slides
+cluster 7: lecture slides ,
+cluster 7: projections on that white background
+cluster 7: lecture slides
+cluster 7: lecture slides
+
+cluster 8-
+cluster 8: teaching style
+cluster 8: Teaching
+cluster 8: teaching style
+cluster 8: teaching method
+cluster 8: lecturer 's teaching method
+cluster 8: current way of teaching
+cluster 8: teaching style
+cluster 8: teaching style
+cluster 8: way of teaching
+cluster 8: teaching style
+cluster 8: way of teaching
+cluster 8: teaching style
+cluster 8: teaching
+cluster 8: way the subject had been taught
+cluster 8: Everything about the teaching
+cluster 8: That way of teaching
+cluster 8: teaching
+cluster 8: teaching style
+
+cluster 9-
+cluster 9: That
+
+cluster 10-
+cluster 10: in class activities ( writing programs )
+cluster 10: questions
+cluster 10: in class activities
+cluster 10: in class test
+cluster 10: in class coding activities
+cluster 10: In class exercises
+cluster 10: In class activities
+cluster 10: In class activities
+cluster 10: giving in class activities
+cluster 10: in class working activity
+
+cluster 11-
+cluster 11: a lot
+cluster 11: lot of new things
+cluster 11: lot of things
+
+cluster 12-
+cluster 12: Java
+cluster 12: Discussing a question using java everyday
+cluster 12: basic principles of java
+cluster 12: java programming
+cluster 12: principles
+
+cluster 13-
+cluster 13: Practicing codes
+cluster 13: Coding demonstrations
+cluster 13: sample codes
+cluster 13: sample codes
+cluster 13: codes
+cluster 13: solutions of coding exercises
+
+cluster 14-
+cluster 14: It
+cluster 14: It
+cluster 14: It
+cluster 14: It
+
+cluster 15-
+cluster 15: everything
+
+cluster 16-
+cluster 16: Recap segment
+cluster 16: recap
+
+cluster 17-
+cluster 17: explanations
+cluster 17: describe the concepts using practical scenarios ,
+cluster 17: answers with explanations
+cluster 17: explanations
+
+cluster 18-
+cluster 18: advises related to the semester project
+cluster 18: Semester project
+
+cluster 19-
+cluster 19: Homework given every day
+
+cluster 20-
+cluster 20: them
+cluster 20: them
+
+cluster 21-
+cluster 21: Asking question during the lecture
+cluster 21: asking questions ,
+cluster 21: given opportunity to ask questions
+cluster 21: letting ask questions
+cluster 21: solved questions
+
+cluster 22-
+cluster 22: interaction with students
+cluster 22: students
+cluster 22: Keeping interactions with students ,
+cluster 22: contact with students
+
+cluster 23-
+cluster 23: functionality
+
+cluster 24-
+cluster 24: discussing them within the class
+
+cluster 25-
+cluster 25: Learning environment
+
+cluster 26-
+cluster 26: teaching speed
+
+cluster 27-
+cluster 27: voice
+
+cluster 28-
+cluster 28: labs
+
+clusters object-
+{0: [0, 6, 7, 15, 18, 19, 21, 24, 25, 27, 29, 40, 43, 44, 61, 73, 75, 78, 81, 87, 91, 97, 101, 103, 110, 125, 132, 138, 139, 144, 149, 153, 162, 165, 167, 175, 180, 183, 190, 193, 194, 196], 1: [1, 46, 50, 111, 112, 122, 176, 177, 182, 185], 2: [2, 5, 69, 113], 3: [3, 4, 158, 174, 191, 192], 4: [8, 28, 47, 52, 65, 119, 127, 130, 131, 169, 195, 198], 5: [9, 22, 23, 31, 56, 60, 66, 82, 86, 156, 160, 168], 6: [10, 11, 16, 26, 34, 39, 49, 77, 79, 80, 93, 95, 105, 108, 128, 133, 136, 148, 155, 159, 161, 163, 173, 181, 189], 7: [12, 53, 57, 92, 104, 107, 140, 147, 151, 154, 170, 184, 186, 197], 8: [13, 20, 36, 41, 45, 74, 85, 96, 98, 114, 120, 121, 129, 135, 137, 166, 178, 188], 9: [14], 10: [17, 48, 54, 58, 64, 67, 72, 90, 117, 145], 11: [30, 70, 76], 12: [32, 42, 51, 83, 124], 13: [33, 38, 106, 109, 126, 157], 14: [35, 63, 100, 150], 15: [37], 16: [55, 142], 17: [59, 102, 164, 171], 18: [62, 94], 19: [68], 20: [71, 187], 21: [84, 116, 141, 172, 179], 22: [88, 89, 115, 134], 23: [99], 24: [118], 25: [123], 26: [143], 27: [146], 28: [152]}
+cluster names- 
+['Lectures', 'You', 'lecturer', 'board', 'concepts', 'oop', 'examples', 'lecture slides', 'teaching style', 'That', 'in class activities', 'lot of things', 'Java', 'sample codes', 'It', 'everything', 'recap', 'explanations', 'Semester project', 'Homework given every day', 'them', 'letting ask questions', 'students', 'functionality', 'discussing them within the class', 'Learning environment', 'teaching speed', 'voice', 'labs']

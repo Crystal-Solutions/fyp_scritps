@@ -1,0 +1,23 @@
+clusters-
+
+cluster 0-
+cluster 0: session
+cluster 0: workshop !
+cluster 0: workshop
+cluster 0: session
+cluster 0: Workshop
+cluster 0: workshop
+
+cluster 1-
+cluster 1: time with the workshop
+
+cluster 2-
+cluster 2: in class assignment
+
+cluster 3-
+cluster 3: UI making part
+
+clusters object-
+{0: [0, 1, 3, 4, 6, 8], 1: [2], 2: [5], 3: [7]}
+cluster names- 
+['workshop', 'time with the workshop', 'in class assignment', 'UI making part']

@@ -1,0 +1,173 @@
+clusters-
+
+cluster 0-
+cluster 0: Lecture series
+cluster 0: Both lecturers
+cluster 0: class
+cluster 0: lecture
+cluster 0: lectures
+cluster 0: Lecture
+cluster 0: Lecture series
+cluster 0: Lectures
+cluster 0: lecture series
+cluster 0: Lecture series
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: Lecture series
+cluster 0: lecture series
+cluster 0: this course
+cluster 0: Lecture series
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: lecture series
+cluster 0: Lecture series
+cluster 0: lecture series
+cluster 0: Overall course
+cluster 0: lectures
+cluster 0: every lecture
+cluster 0: lecture
+cluster 0: lecture series
+cluster 0: lecturer
+cluster 0: lecture series
+cluster 0: lectures
+cluster 0: lecture series
+cluster 0: module
+cluster 0: lecture series
+cluster 0: Lectures
+cluster 0: lecture series
+cluster 0: overall lecture series
+
+cluster 1-
+cluster 1: project
+cluster 1: semester project
+cluster 1: Project
+cluster 1: semester project
+cluster 1: projects
+cluster 1: project
+cluster 1: semester project
+
+cluster 2-
+cluster 2: time
+cluster 2: time
+
+cluster 3-
+cluster 3: design patterns
+cluster 3: design patterns
+cluster 3: Design Patterns
+cluster 3: design patterns
+cluster 3: design patterns
+cluster 3: design pattern
+cluster 3: questions on design pattern
+cluster 3: Design patterns
+cluster 3: design pattern
+cluster 3: design patterns
+cluster 3: design patterns part
+cluster 3: Design pattern lecture
+cluster 3: design patterns
+
+cluster 4-
+cluster 4: they
+
+cluster 5-
+cluster 5: In class exercises
+
+cluster 6-
+cluster 6: mid term
+
+cluster 7-
+cluster 7: in class quizzes after each lecture
+
+cluster 8-
+cluster 8: project evaluation
+
+cluster 9-
+cluster 9: time to discuss coding examples ,
+
+cluster 10-
+cluster 10: printed lecture notes ( slides )
+cluster 10: slides
+cluster 10: presentation slides
+
+cluster 11-
+cluster 11: module
+cluster 11: Module
+
+cluster 12-
+cluster 12: White background slides
+
+cluster 13-
+cluster 13: practical examples
+cluster 13: practical examples
+cluster 13: Worked examples
+cluster 13: examples
+cluster 13: example codes
+cluster 13: relevant examples
+cluster 13: working examples similar to exam questions
+
+cluster 14-
+cluster 14: That
+
+cluster 15-
+cluster 15: Some lectures
+
+cluster 16-
+cluster 16: time and weight for documentation of the project
+
+cluster 17-
+cluster 17: implementation
+
+cluster 18-
+cluster 18: Syllabus
+
+cluster 19-
+cluster 19: time to teach design patterns
+cluster 19: time allocated for design patterns
+
+cluster 20-
+cluster 20: Explanation of the lesson
+cluster 20: explanations
+cluster 20: explanations
+cluster 20: what u are explaining
+
+cluster 21-
+cluster 21: practical examples on design pattern
+
+cluster 22-
+cluster 22: Everything
+
+cluster 23-
+cluster 23: time for semester project
+cluster 23: Duration for the OOSD semester project
+
+cluster 24-
+cluster 24: semester
+
+cluster 25-
+cluster 25: Madam teaches
+cluster 25: what we were taught
+
+cluster 26-
+cluster 26: questions
+
+cluster 27-
+cluster 27: speed of the lectures
+
+cluster 28-
+cluster 28: applications
+
+cluster 29-
+cluster 29: way we were taught
+
+cluster 30-
+cluster 30: lecturer
+
+cluster 31-
+cluster 31: Group project
+
+cluster 32-
+cluster 32: exercises
+
+clusters object-
+{0: [0, 1, 2, 3, 7, 9, 10, 11, 17, 18, 20, 24, 27, 33, 34, 37, 38, 42, 47, 49, 50, 51, 52, 54, 55, 57, 58, 63, 66, 71, 72, 75, 82, 84, 94], 1: [4, 16, 40, 64, 65, 73, 77], 2: [5, 87], 3: [6, 22, 25, 26, 29, 30, 32, 45, 56, 67, 80, 86, 97], 4: [8], 5: [12], 6: [13], 7: [14], 8: [15], 9: [19], 10: [21, 48, 81], 11: [23, 41], 12: [28], 13: [31, 39, 62, 88, 93, 96, 100], 14: [35], 15: [36], 16: [43], 17: [44], 18: [46], 19: [53, 83], 20: [59, 69, 70, 76], 21: [60], 22: [61], 23: [68, 90], 24: [74], 25: [78, 91], 26: [79], 27: [85], 28: [89], 29: [92], 30: [95], 31: [98], 32: [99]}
+cluster names- 
+['Lectures', 'Project', 'time', 'Design Patterns', 'they', 'In class exercises', 'mid term', 'in class quizzes after each lecture', 'project evaluation', 'time to discuss coding examples ,', 'slides', 'Module', 'White background slides', 'examples', 'That', 'Some lectures', 'time and weight for documentation of the project', 'implementation', 'Syllabus', 'time allocated for design patterns', 'explanations', 'practical examples on design pattern', 'Everything', 'time for semester project', 'semester', 'Madam teaches', 'questions', 'speed of the lectures', 'applications', 'way we were taught', 'lecturer', 'Group project', 'exercises']
