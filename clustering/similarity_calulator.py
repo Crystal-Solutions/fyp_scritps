@@ -56,9 +56,10 @@ def get_w2v_similarity_matrix(phrases):
     model = gensim.models.Word2Vec.load(GENSIM_W2V_MODEL) 
     token_list = []
     for item in phrases:
-        #token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
+#        token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
+        item = item.replace(",", " ")
         token_list.append(item.lower())
-    
+
     sim_mat = []
     for w1 in token_list:
         sim_mat_w1 = []
@@ -71,17 +72,26 @@ def get_distance_matrix(phrases):
     sim_mat = get_similarity_matrix(phrases)
     dist_arr = [[(1-y) for y in x] for x in sim_mat]
     dist_mat = np.asmatrix(dist_arr)
-#    print(dist_mat)
+    return dist_mat
+
+def get_w2v_distance_matrix(phrases):
+    sim_mat = get_w2v_similarity_matrix(phrases)
+    dist_arr = [[(1-y) for y in x] for x in sim_mat]
+    dist_mat = np.asmatrix(dist_arr)
     return dist_mat
 
 def get_no_of_phrases(phrases):
     return len(phrases)
 
+import phrase_cluster
 if __name__ == "__main__":
+    
+    phrases = phrase_cluster.get_phrases_from_file("./targets/annotated/feedback_cs2012_3.txt")
     sim_mat = get_similarity_matrix(phrases)
-    print(sim_mat)
+#    print("sim mat",sim_mat)
     w2v_sim_mat = get_w2v_similarity_matrix(phrases)
-    print(w2v_sim_mat)
-    mat = get_distance_matrix(phrases)
-    print(mat)
+    print("w2w mat===========================", w2v_sim_mat)
+    print("end")
+    mat = get_w2v_distance_matrix(phrases)
+#    print(mat)
     
