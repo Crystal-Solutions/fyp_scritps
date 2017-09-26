@@ -209,4 +209,464 @@ Fowlkes Mallows Score : 0.465437683129
 Purity : 0.5396825396825397
 
 Average
-avg_silhoutte_coeff_score :0.312450977495avg_ARI_score :0.253090353832avg_NMI_score :0.613385081327avg_AMI_score :0.272240560147avg_homogeneity :0.446849107803avg_completeness :0.847454159165avg_v_measure :0.581718974236avg_fowlkes_mallows_score :0.428334417873avg_purity :0.5553654975870473
+avg_silhoutte_coeff_score :0.312450977495avg_ARI_score :0.253090353832avg_NMI_score :0.613385081327avg_AMI_score :0.272240560147avg_homogeneity :0.446849107803avg_completeness :0.847454159165avg_v_measure :0.581718974236avg_fowlkes_mallows_score :0.428334417873avg_purity :0.5553654975870473feedback_cs2012_3.txt
+Silhoutte Coefficient Score [-1, 1]: 0.219441393909
+ARI_score [-1, 1]: 0.0952380952381
+Normalized Mutual Information Score  [0, 1]: 0.562204408117
+Adjusted Mutual Information Score  [0, 1]: 0.172965287544
+homogeneity  [0, 1]: 0.366380042895
+completeness  [0, 1]: 0.862693813803
+v_measure  [0, 1]: 0.51432840229
+Fowlkes Mallows Score  [0, 1]: 0.251607974097
+Purity  [0, 1]: 0.38333333333333336
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score [-1, 1]: 0.217651641231
+ARI_score [-1, 1]: 0.137873579346
+Normalized Mutual Information Score  [0, 1]: 0.600233329826
+Adjusted Mutual Information Score  [0, 1]: 0.289165881592
+homogeneity  [0, 1]: 0.449802811324
+completeness  [0, 1]: 0.800973318005
+v_measure  [0, 1]: 0.57609038386
+Fowlkes Mallows Score  [0, 1]: 0.294259310246
+Purity  [0, 1]: 0.5175438596491229
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.255883708076
+ARI_score [-1, 1]: 0.0439008076351
+Normalized Mutual Information Score  [0, 1]: 0.460314856684
+Adjusted Mutual Information Score  [0, 1]: 0.150934176148
+homogeneity  [0, 1]: 0.316530579951
+completeness  [0, 1]: 0.669413259587
+v_measure  [0, 1]: 0.429821169902
+Fowlkes Mallows Score  [0, 1]: 0.281305433142
+Purity  [0, 1]: 0.45081967213114754
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score [-1, 1]: 0.159891644641
+ARI_score [-1, 1]: 0.152384426453
+Normalized Mutual Information Score  [0, 1]: 0.481972000356
+Adjusted Mutual Information Score  [0, 1]: 0.1446530696
+homogeneity  [0, 1]: 0.244167717073
+completeness  [0, 1]: 0.951382975242
+v_measure  [0, 1]: 0.388602525381
+Fowlkes Mallows Score  [0, 1]: 0.516597387304
+Purity  [0, 1]: 0.5671641791044776
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score [-1, 1]: 0.238536162706
+ARI_score [-1, 1]: 0.128149363329
+Normalized Mutual Information Score  [0, 1]: 0.599851738746
+Adjusted Mutual Information Score  [0, 1]: 0.191406781828
+homogeneity  [0, 1]: 0.401486497826
+completeness  [0, 1]: 0.896224681093
+v_measure  [0, 1]: 0.554548830776
+Fowlkes Mallows Score  [0, 1]: 0.31433835483
+Purity  [0, 1]: 0.47619047619047616
+
+Average
+avg_silhoutte_coeff_score [-1, 1]:0.218280910113avg_ARI_score [-1, 1]:0.1115092544avg_NMI_score  [0, 1]:0.540915266746avg_AMI_score  [0, 1]:0.189825039342avg_homogeneity  [0, 1]:0.355673529814avg_completeness  [0, 1]:0.836137609546avg_v_measure  [0, 1]:0.492678262442avg_fowlkes_mallows_score  [0, 1]:0.331621691924avg_purity  [0, 1]:0.4790103040817115feedback_cs2012_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.39279241052
+ARI_score [-1, 1]: 0.371241172479
+Normalized Mutual Information Score  [0, 1]: 0.664400543216
+Adjusted Mutual Information Score  [0, 1]: 0.466039945287
+homogeneity  [0, 1]: 0.567123017715
+completeness  [0, 1]: 0.778363896434
+v_measure  [0, 1]: 0.656161092589
+Fowlkes Mallows Score  [0, 1]: 0.472515808006
+Purity  [0, 1]: 0.6331658291457286
+
+feedback_cs2012_2.txt
+Silhoutte Coefficient Score [-1, 1]: 0.4312266607
+ARI_score [-1, 1]: 0.387737608975
+Normalized Mutual Information Score  [0, 1]: 0.67871973393
+Adjusted Mutual Information Score  [0, 1]: 0.427857850322
+homogeneity  [0, 1]: 0.546922896859
+completeness  [0, 1]: 0.842276817942
+v_measure  [0, 1]: 0.663202665993
+Fowlkes Mallows Score  [0, 1]: 0.503842842546
+Purity  [0, 1]: 0.632258064516129
+
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score [-1, 1]: 0.289673865581
+ARI_score [-1, 1]: 0.200426439232
+Normalized Mutual Information Score  [0, 1]: 0.622653262157
+Adjusted Mutual Information Score  [0, 1]: 0.221122794831
+homogeneity  [0, 1]: 0.435525571715
+completeness  [0, 1]: 0.89018213867
+v_measure  [0, 1]: 0.584890744524
+Fowlkes Mallows Score  [0, 1]: 0.358821771532
+Purity  [0, 1]: 0.43333333333333335
+
+feedback_cs2012_4.txt
+Silhoutte Coefficient Score [-1, 1]: 0.375383453633
+ARI_score [-1, 1]: 0.328577775936
+Normalized Mutual Information Score  [0, 1]: 0.653579367074
+Adjusted Mutual Information Score  [0, 1]: 0.383124361783
+homogeneity  [0, 1]: 0.492618862579
+completeness  [0, 1]: 0.867132831309
+v_measure  [0, 1]: 0.628299991806
+Fowlkes Mallows Score  [0, 1]: 0.495334033846
+Purity  [0, 1]: 0.6301369863013698
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score [-1, 1]: 0.253301064948
+ARI_score [-1, 1]: 0.155791821183
+Normalized Mutual Information Score  [0, 1]: 0.603158442985
+Adjusted Mutual Information Score  [0, 1]: 0.291803891281
+homogeneity  [0, 1]: 0.446121765614
+completeness  [0, 1]: 0.815472669987
+v_measure  [0, 1]: 0.576730678384
+Fowlkes Mallows Score  [0, 1]: 0.316593769401
+Purity  [0, 1]: 0.5087719298245614
+
+feedback_cs2012_6.txt
+Silhoutte Coefficient Score [-1, 1]: 0.0486844423833
+ARI_score [-1, 1]: 0.0598142277638
+Normalized Mutual Information Score  [0, 1]: 0.283478423359
+Adjusted Mutual Information Score  [0, 1]: 0.0725494988022
+homogeneity  [0, 1]: 0.123517029218
+completeness  [0, 1]: 0.650598682777
+v_measure  [0, 1]: 0.207617582914
+Fowlkes Mallows Score  [0, 1]: 0.409249026808
+Purity  [0, 1]: 0.34328358208955223
+
+feedback_cs2062_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.339268173564
+ARI_score [-1, 1]: 0.256169590919
+Normalized Mutual Information Score  [0, 1]: 0.623238701688
+Adjusted Mutual Information Score  [0, 1]: 0.32840829811
+homogeneity  [0, 1]: 0.483940430308
+completeness  [0, 1]: 0.802632834448
+v_measure  [0, 1]: 0.603815561729
+Fowlkes Mallows Score  [0, 1]: 0.408750942055
+Purity  [0, 1]: 0.6237623762376238
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.309886935963
+ARI_score [-1, 1]: 0.0745591710542
+Normalized Mutual Information Score  [0, 1]: 0.472789548669
+Adjusted Mutual Information Score  [0, 1]: 0.167205331249
+homogeneity  [0, 1]: 0.326920704213
+completeness  [0, 1]: 0.683743655418
+v_measure  [0, 1]: 0.442342613946
+Fowlkes Mallows Score  [0, 1]: 0.296355913312
+Purity  [0, 1]: 0.48360655737704916
+
+feedback_cs2202_2.txt
+Silhoutte Coefficient Score [-1, 1]: 0.375790506193
+ARI_score [-1, 1]: 0.185902382374
+Normalized Mutual Information Score  [0, 1]: 0.530154416327
+Adjusted Mutual Information Score  [0, 1]: 0.253430309494
+homogeneity  [0, 1]: 0.385855998013
+completeness  [0, 1]: 0.728416058319
+v_measure  [0, 1]: 0.504479500413
+Fowlkes Mallows Score  [0, 1]: 0.385896468819
+Purity  [0, 1]: 0.5280898876404494
+
+feedback_cs2202_3.txt
+Silhoutte Coefficient Score [-1, 1]: 0.211268708119
+ARI_score [-1, 1]: 0.317019722425
+Normalized Mutual Information Score  [0, 1]: 0.717037079043
+Adjusted Mutual Information Score  [0, 1]: 0.315489156857
+homogeneity  [0, 1]: 0.514142172723
+completeness  [0, 1]: 1.0
+v_measure  [0, 1]: 0.6791200747
+Fowlkes Mallows Score  [0, 1]: 0.540061724867
+Purity  [0, 1]: 0.6363636363636364
+
+feedback_cs2202_4.txt
+Silhoutte Coefficient Score [-1, 1]: 0.399153380478
+ARI_score [-1, 1]: 0.240636075186
+Normalized Mutual Information Score  [0, 1]: 0.605407490699
+Adjusted Mutual Information Score  [0, 1]: 0.2973753645
+homogeneity  [0, 1]: 0.419754291718
+completeness  [0, 1]: 0.873173275477
+v_measure  [0, 1]: 0.566958643461
+Fowlkes Mallows Score  [0, 1]: 0.422735126984
+Purity  [0, 1]: 0.5314685314685315
+
+feedback_cs2202_6.txt
+Silhoutte Coefficient Score [-1, 1]: 0.178862988106
+ARI_score [-1, 1]: 0.141633262595
+Normalized Mutual Information Score  [0, 1]: 0.553406056308
+Adjusted Mutual Information Score  [0, 1]: 0.203446297363
+homogeneity  [0, 1]: 0.368421579104
+completeness  [0, 1]: 0.83127124069
+v_measure  [0, 1]: 0.510561133827
+Fowlkes Mallows Score  [0, 1]: 0.395644934709
+Purity  [0, 1]: 0.4626865671641791
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score [-1, 1]: 0.379075883976
+ARI_score [-1, 1]: 0.224892603557
+Normalized Mutual Information Score  [0, 1]: 0.469089415052
+Adjusted Mutual Information Score  [0, 1]: 0.178566334445
+homogeneity  [0, 1]: 0.314671511287
+completeness  [0, 1]: 0.699284401101
+v_measure  [0, 1]: 0.434032439923
+Fowlkes Mallows Score  [0, 1]: 0.4589678567
+Purity  [0, 1]: 0.5223880597014925
+
+feedback_cs2202_8.txt
+Silhoutte Coefficient Score [-1, 1]: 0.555791269965
+ARI_score [-1, 1]: 0.184466019417
+Normalized Mutual Information Score  [0, 1]: 0.528809290905
+Adjusted Mutual Information Score  [0, 1]: 0.228417962329
+homogeneity  [0, 1]: 0.511156071264
+completeness  [0, 1]: 0.547072179844
+v_measure  [0, 1]: 0.528504631877
+Fowlkes Mallows Score  [0, 1]: 0.501280411828
+Purity  [0, 1]: 0.7777777777777778
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score [-1, 1]: 0.351011974847
+ARI_score [-1, 1]: 0.295969494227
+Normalized Mutual Information Score  [0, 1]: 0.661254910026
+Adjusted Mutual Information Score  [0, 1]: 0.256067611544
+homogeneity  [0, 1]: 0.46772220295
+completeness  [0, 1]: 0.934867007114
+v_measure  [0, 1]: 0.623501240271
+Fowlkes Mallows Score  [0, 1]: 0.467993738254
+Purity  [0, 1]: 0.49206349206349204
+
+feedback_cs2202_11.txt
+Silhoutte Coefficient Score [-1, 1]: 0.165231195983
+ARI_score [-1, 1]: -0.0290660137168
+Normalized Mutual Information Score  [0, 1]: 0.281064831694
+Adjusted Mutual Information Score  [0, 1]: 0.0413215966146
+homogeneity  [0, 1]: 0.134774394071
+completeness  [0, 1]: 0.586145759809
+v_measure  [0, 1]: 0.219157251161
+Fowlkes Mallows Score  [0, 1]: 0.247809389378
+Purity  [0, 1]: 0.34615384615384615
+
+feedback_cs2202_12.txt
+Silhoutte Coefficient Score [-1, 1]: 0.175000746045
+ARI_score [-1, 1]: 0.0675725895198
+Normalized Mutual Information Score  [0, 1]: 0.372641401159
+Adjusted Mutual Information Score  [0, 1]: 0.10080413205
+homogeneity  [0, 1]: 0.158692563693
+completeness  [0, 1]: 0.875035418336
+v_measure  [0, 1]: 0.268661807114
+Fowlkes Mallows Score  [0, 1]: 0.415717132043
+Purity  [0, 1]: 0.3779527559055118
+
+Average
+avg_silhoutte_coeff_score [-1, 1]:0.307729627118avg_ARI_score [-1, 1]:0.203726114302avg_NMI_score  [0, 1]:0.548287230253avg_AMI_score  [0, 1]:0.249001808051avg_homogeneity  [0, 1]:0.393993003709avg_completeness  [0, 1]:0.788568756922avg_v_measure  [0, 1]:0.511649273802avg_fowlkes_mallows_score  [0, 1]:0.417504170064avg_purity  [0, 1]:0.5272507772390744
+
+Average 2017/09/26
+avg_silhoutte_coeff_score [-1, 1]:0.188926045838avg_ARI_score [-1, 1]:0.359310253889avg_NMI_score  [0, 1]:0.639036396051avg_AMI_score  [0, 1]:0.356172654116avg_homogeneity  [0, 1]:0.538898277466avg_completeness  [0, 1]:0.765651561061avg_v_measure  [0, 1]:0.626210343033avg_fowlkes_mallows_score  [0, 1]:0.475655735516avg_purity  [0, 1]:0.604230549723158
+feedback_cs2012_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.0609337835523
+ARI_score [-1, 1]: 0.450259315471
+Normalized Mutual Information Score  [0, 1]: 0.654059239402
+Adjusted Mutual Information Score  [0, 1]: 0.490477427704
+homogeneity  [0, 1]: 0.611894562564
+completeness  [0, 1]: 0.699129416764
+v_measure  [0, 1]: 0.652609708735
+Fowlkes Mallows Score  [0, 1]: 0.501776686762
+Purity  [0, 1]: 0.6080402010050251
+
+
+feedback_cs2012_2.txt
+Silhoutte Coefficient Score [-1, 1]: -0.107408942674
+ARI_score [-1, 1]: 0.331355790383
+Normalized Mutual Information Score  [0, 1]: 0.657464622973
+Adjusted Mutual Information Score  [0, 1]: 0.436577000335
+homogeneity  [0, 1]: 0.579576562542
+completeness  [0, 1]: 0.745819894036
+v_measure  [0, 1]: 0.652272349629
+Fowlkes Mallows Score  [0, 1]: 0.407166215762
+Purity  [0, 1]: 0.6129032258064516
+
+
+feedback_cs2012_3.txt
+Silhoutte Coefficient Score [-1, 1]: -0.0376783849362
+ARI_score [-1, 1]: 0.242691347143
+Normalized Mutual Information Score  [0, 1]: 0.630531954353
+Adjusted Mutual Information Score  [0, 1]: 0.229021117036
+homogeneity  [0, 1]: 0.478675822078
+completeness  [0, 1]: 0.830563247866
+v_measure  [0, 1]: 0.607330707717
+Fowlkes Mallows Score  [0, 1]: 0.350127375452
+Purity  [0, 1]: 0.43333333333333335
+
+
+feedback_cs2012_4.txt
+Silhoutte Coefficient Score [-1, 1]: 0.259093614127
+ARI_score [-1, 1]: 0.579151623606
+Normalized Mutual Information Score  [0, 1]: 0.68021571185
+Adjusted Mutual Information Score  [0, 1]: 0.461127628617
+homogeneity  [0, 1]: 0.577587643545
+completeness  [0, 1]: 0.801079143257
+v_measure  [0, 1]: 0.671218628136
+Fowlkes Mallows Score  [0, 1]: 0.644864274158
+Purity  [0, 1]: 0.6027397260273972
+
+
+feedback_cs2012_5.txt
+Silhoutte Coefficient Score [-1, 1]: -0.28633994062
+ARI_score [-1, 1]: 0.158177560043
+Normalized Mutual Information Score  [0, 1]: 0.584979567489
+Adjusted Mutual Information Score  [0, 1]: 0.286182485421
+homogeneity  [0, 1]: 0.485488190628
+completeness  [0, 1]: 0.704859769992
+v_measure  [0, 1]: 0.574959769246
+Fowlkes Mallows Score  [0, 1]: 0.259645060032
+Purity  [0, 1]: 0.43859649122807015
+
+
+feedback_cs2012_6.txt
+Silhoutte Coefficient Score [-1, 1]: 0.568383432248
+ARI_score [-1, 1]: 0.640448880935
+Normalized Mutual Information Score  [0, 1]: 0.707380971464
+Adjusted Mutual Information Score  [0, 1]: 0.562655587589
+homogeneity  [0, 1]: 0.662767399504
+completeness  [0, 1]: 0.754997664586
+v_measure  [0, 1]: 0.7058825915
+Fowlkes Mallows Score  [0, 1]: 0.695404031763
+Purity  [0, 1]: 0.7089552238805971
+
+
+feedback_cs2062_1.txt
+Silhoutte Coefficient Score [-1, 1]: 0.261233931049
+ARI_score [-1, 1]: 0.32233194918
+Normalized Mutual Information Score  [0, 1]: 0.602173710219
+Adjusted Mutual Information Score  [0, 1]: 0.313406757006
+homogeneity  [0, 1]: 0.537252276917
+completeness  [0, 1]: 0.674940233589
+v_measure  [0, 1]: 0.598276551185
+Fowlkes Mallows Score  [0, 1]: 0.419823545566
+Purity  [0, 1]: 0.594059405940594
+
+
+feedback_cs2202_1.txt
+Silhoutte Coefficient Score [-1, 1]: -0.0428299890999
+ARI_score [-1, 1]: 0.334269755141
+Normalized Mutual Information Score  [0, 1]: 0.633860385853
+Adjusted Mutual Information Score  [0, 1]: 0.349574106588
+homogeneity  [0, 1]: 0.528294813764
+completeness  [0, 1]: 0.760520410736
+v_measure  [0, 1]: 0.623485789299
+Fowlkes Mallows Score  [0, 1]: 0.438566889474
+Purity  [0, 1]: 0.6065573770491803
+
+
+feedback_cs2202_2.txt
+Silhoutte Coefficient Score [-1, 1]: 0.0797074532178
+ARI_score [-1, 1]: 0.420501359905
+Normalized Mutual Information Score  [0, 1]: 0.625608238596
+Adjusted Mutual Information Score  [0, 1]: 0.390587550908
+homogeneity  [0, 1]: 0.543884908005
+completeness  [0, 1]: 0.719611194277
+v_measure  [0, 1]: 0.619528097462
+Fowlkes Mallows Score  [0, 1]: 0.508835226163
+Purity  [0, 1]: 0.6348314606741573
+
+
+feedback_cs2202_3.txt
+Silhoutte Coefficient Score [-1, 1]: 0.0760128259739
+ARI_score [-1, 1]: 0.524495677233
+Normalized Mutual Information Score  [0, 1]: 0.879749956168
+Adjusted Mutual Information Score  [0, 1]: 0.563283597963
+homogeneity  [0, 1]: 0.773959985378
+completeness  [0, 1]: 1.0
+v_measure  [0, 1]: 0.872578853815
+Fowlkes Mallows Score  [0, 1]: 0.661437827766
+Purity  [0, 1]: 0.7272727272727273
+
+
+feedback_cs2202_4.txt
+Silhoutte Coefficient Score [-1, 1]: 0.318064463374
+ARI_score [-1, 1]: 0.254625929847
+Normalized Mutual Information Score  [0, 1]: 0.615030457755
+Adjusted Mutual Information Score  [0, 1]: 0.311814388424
+homogeneity  [0, 1]: 0.45360629739
+completeness  [0, 1]: 0.833900380447
+v_measure  [0, 1]: 0.587589129405
+Fowlkes Mallows Score  [0, 1]: 0.418896314918
+Purity  [0, 1]: 0.5734265734265734
+
+
+feedback_cs2202_6.txt
+Silhoutte Coefficient Score [-1, 1]: 0.183029110455
+ARI_score [-1, 1]: 0.617766911165
+Normalized Mutual Information Score  [0, 1]: 0.76906215271
+Adjusted Mutual Information Score  [0, 1]: 0.499537289584
+homogeneity  [0, 1]: 0.656492667012
+completeness  [0, 1]: 0.900934046107
+v_measure  [0, 1]: 0.75953056378
+Fowlkes Mallows Score  [0, 1]: 0.687094467759
+Purity  [0, 1]: 0.7014925373134329
+
+
+feedback_cs2202_7.txt
+Silhoutte Coefficient Score [-1, 1]: -0.032329240767
+ARI_score [-1, 1]: 0.699130302973
+Normalized Mutual Information Score  [0, 1]: 0.729259920875
+Adjusted Mutual Information Score  [0, 1]: 0.448775685538
+homogeneity  [0, 1]: 0.590922319645
+completeness  [0, 1]: 0.899982983405
+v_measure  [0, 1]: 0.713418928897
+Fowlkes Mallows Score  [0, 1]: 0.773258996356
+Purity  [0, 1]: 0.6567164179104478
+
+
+feedback_cs2202_8.txt
+Silhoutte Coefficient Score [-1, 1]: 0.514629650443
+ARI_score [-1, 1]: 0.448979591837
+Normalized Mutual Information Score  [0, 1]: 0.751170135985
+Adjusted Mutual Information Score  [0, 1]: 0.444142601177
+homogeneity  [0, 1]: 0.846384859794
+completeness  [0, 1]: 0.666666666667
+v_measure  [0, 1]: 0.745852422509
+Fowlkes Mallows Score  [0, 1]: 0.639009650423
+Purity  [0, 1]: 0.8888888888888888
+
+
+feedback_cs2202_10.txt
+Silhoutte Coefficient Score [-1, 1]: -0.161498166853
+ARI_score [-1, 1]: 0.116671405458
+Normalized Mutual Information Score  [0, 1]: 0.58012648831
+Adjusted Mutual Information Score  [0, 1]: 0.167010277265
+homogeneity  [0, 1]: 0.43672677114
+completeness  [0, 1]: 0.770611660835
+v_measure  [0, 1]: 0.557501912515
+Fowlkes Mallows Score  [0, 1]: 0.24601574657
+Purity  [0, 1]: 0.42857142857142855
+
+
+feedback_cs2202_11.txt
+Silhoutte Coefficient Score [-1, 1]: 0.305969496722
+ARI_score [-1, 1]: 0.402260385638
+Normalized Mutual Information Score  [0, 1]: 0.674577767784
+Adjusted Mutual Information Score  [0, 1]: 0.403355638506
+homogeneity  [0, 1]: 0.572039648799
+completeness  [0, 1]: 0.795495846737
+v_measure  [0, 1]: 0.665511303033
+Fowlkes Mallows Score  [0, 1]: 0.477793499116
+Purity  [0, 1]: 0.6153846153846154
+
+
+feedback_cs2202_12.txt
+Silhoutte Coefficient Score [-1, 1]: 0.297107140354
+ARI_score [-1, 1]: 0.462019600662
+Normalized Mutual Information Score  [0, 1]: 0.614256140306
+Adjusted Mutual Information Score  [0, 1]: 0.381769725072
+homogeneity  [0, 1]: 0.483786891161
+completeness  [0, 1]: 0.779910768145
+v_measure  [0, 1]: 0.597153287616
+Fowlkes Mallows Score  [0, 1]: 0.586019299435
+Purity  [0, 1]: 0.6141732283464567
+
+Average
+avg_silhoutte_coeff_score [-1, 1]:0.132710602151
+avg_ARI_score [-1, 1]:0.412066905095
+avg_NMI_score  [0, 1]:0.669971024829
+avg_AMI_score  [0, 1]:0.396429344984
+avg_homogeneity  [0, 1]:0.57760833058
+avg_completeness  [0, 1]:0.784648431026
+avg_v_measure  [0, 1]:0.659100034969
+avg_fowlkes_mallows_score  [0, 1]:0.51269030044
+avg_purity  [0, 1]:0.6144672271799635

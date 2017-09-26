@@ -1,0 +1,119 @@
+clusters-
+
+cluster 0-
+cluster 0: Workshop content
+cluster 0: content
+cluster 0: Content
+
+cluster 1-
+cluster 1: topic
+
+cluster 2-
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop !
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: This workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: this workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+cluster 2: workshop
+
+cluster 3-
+cluster 3: it
+cluster 3: It
+cluster 3: it
+cluster 3: it
+cluster 3: It
+cluster 3: It
+cluster 3: It
+cluster 3: It
+cluster 3: it
+cluster 3: it
+cluster 3: It
+
+cluster 4-
+cluster 4: setup files
+
+cluster 5-
+cluster 5: facts
+
+cluster 6-
+cluster 6: session
+cluster 6: Session
+cluster 6: session
+cluster 6: this session
+cluster 6: session
+cluster 6: session
+cluster 6: session
+
+cluster 7-
+cluster 7: visual studio
+
+cluster 8-
+cluster 8: how to debug a program using an IDE
+cluster 8: debugging through VS
+
+cluster 9-
+cluster 9: Selecting visual basic
+
+cluster 10-
+cluster 10: slide set
+cluster 10: lecture slides
+
+cluster 11-
+cluster 11: application for the workshop
+
+cluster 12-
+cluster 12: instructions to install software
+cluster 12: installing Visual C plus plus components on VS.
+cluster 12: instruction to install such software
+cluster 12: installing the visual studio
+cluster 12: visual studio installation
+
+cluster 13-
+cluster 13: professionals from Company _ x
+cluster 13: Company _ x
+
+cluster 14-
+cluster 14: configuring the IDE
+
+cluster 15-
+cluster 15: This
+
+cluster 16-
+cluster 16: Event
+
+cluster 17-
+cluster 17: Presenters
+cluster 17: presenters
+
+cluster 18-
+cluster 18: their care on us
+
+cluster 19-
+cluster 19: length
+
+cluster 20-
+cluster 20: c plus plus
+
+cluster 21-
+cluster 21: what they saying
+
+cluster 22-
+cluster 22: presentation
+
+clusters object-
+{0: [0, 3, 52], 1: [1], 2: [2, 4, 11, 13, 14, 16, 27, 30, 36, 37, 38, 40, 44, 47, 48, 50, 54, 56, 60], 3: [5, 10, 17, 20, 23, 31, 32, 34, 55, 59, 62], 4: [6], 5: [7], 6: [8, 9, 26, 35, 42, 45, 46], 7: [12], 8: [15, 22], 9: [18], 10: [19, 33], 11: [21], 12: [24, 25, 39, 41, 61], 13: [28, 58], 14: [29], 15: [43], 16: [49], 17: [51, 66], 18: [53], 19: [57], 20: [63], 21: [64], 22: [65]}
+cluster names- 
+['content', 'topic', 'workshop', 'it', 'setup files', 'facts', 'session', 'visual studio', 'how to debug a program using an IDE', 'Selecting visual basic', 'lecture slides', 'application for the workshop', 'instructions to install software', 'Company _ x', 'configuring the IDE', 'This', 'Event', 'presenters', 'their care on us', 'length', 'c plus plus', 'what they saying', 'presentation']

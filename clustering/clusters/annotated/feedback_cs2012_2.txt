@@ -1,0 +1,225 @@
+clusters-
+
+cluster 0-
+cluster 0: Overall content
+
+cluster 1-
+cluster 1: Lectures
+cluster 1: lecture series
+cluster 1: Lectures
+cluster 1: lectures
+cluster 1: Lectures
+cluster 1: lectures
+cluster 1: lecture series
+cluster 1: lectures
+cluster 1: Lectures
+cluster 1: Lectures
+cluster 1: lectures
+cluster 1: lectures
+cluster 1: lectures
+cluster 1: lectures
+cluster 1: lectures
+cluster 1: Lectures
+cluster 1: lecture series
+cluster 1: lectures
+cluster 1: lecture series
+cluster 1: Lectures
+cluster 1: lecture series
+cluster 1: Lectures
+cluster 1: lectures
+cluster 1: lecture series
+cluster 1: lecture series
+
+cluster 2-
+cluster 2: tutorial classes
+cluster 2: tutorial class
+cluster 2: tutorial class
+cluster 2: tutorial class
+cluster 2: Tutorial class
+cluster 2: Tutorial classes
+cluster 2: tutorial class
+cluster 2: tutorial classes
+cluster 2: tutorials
+cluster 2: tutorial classes
+cluster 2: tutorial classes
+cluster 2: tutorial class
+cluster 2: Tutorial classes
+cluster 2: tutorial class
+cluster 2: tutorial
+cluster 2: tutorials
+cluster 2: tutorial classes
+cluster 2: tutorial classes
+cluster 2: Tutorial classes
+cluster 2: tutorial class
+cluster 2: Tutorials
+cluster 2: Tutorial class
+cluster 2: Tutorial class
+cluster 2: tutorial class
+cluster 2: tutorial class
+cluster 2: Tutorial
+cluster 2: tutorial classes
+cluster 2: Tutorial classes
+cluster 2: Tutorial classes
+cluster 2: introducing tutorials
+cluster 2: Tutorial classed
+cluster 2: tutorial
+cluster 2: Tutorials
+cluster 2: Tutorials
+
+cluster 3-
+cluster 3: questions
+cluster 3: homework questions
+cluster 3: questions
+
+cluster 4-
+cluster 4: Discussing past papers
+cluster 4: Past paper
+cluster 4: Discussing past papers within the class
+
+cluster 5-
+cluster 5: lecture
+cluster 5: lecture
+
+cluster 6-
+cluster 6: Explanations
+cluster 6: explanations
+cluster 6: Lecture Explanations
+
+cluster 7-
+cluster 7: Examples
+cluster 7: examples
+cluster 7: Examples
+cluster 7: doing more examples
+cluster 7: example with sufficient description
+cluster 7: examples
+cluster 7: examples
+cluster 7: examples
+cluster 7: examples
+cluster 7: examples discussed in tutorial classes
+
+cluster 8-
+cluster 8: exercises
+cluster 8: In class exercises
+cluster 8: in class exercises with practical scenarios
+cluster 8: in class exercises
+cluster 8: additional exercise
+
+cluster 9-
+cluster 9: Lecture slides
+cluster 9: lecture slides
+cluster 9: lecture slides
+cluster 9: lecture slides
+
+cluster 10-
+cluster 10: course
+cluster 10: course
+cluster 10: Course
+cluster 10: subject
+cluster 10: this subject
+cluster 10: this subject
+cluster 10: Course
+cluster 10: This module
+cluster 10: how the course is conducted
+cluster 10: Module
+cluster 10: course
+cluster 10: course
+cluster 10: Course
+cluster 10: course
+
+cluster 11-
+cluster 11: Madam ,
+cluster 11: lecturer
+cluster 11: lecturer
+cluster 11: madam ,
+cluster 11: lecturers commitment
+cluster 11: lecturer
+
+cluster 12-
+cluster 12: questions as assessments within the class
+cluster 12: Continuous assessment
+
+cluster 13-
+cluster 13: It
+cluster 13: It
+cluster 13: it
+cluster 13: you
+
+cluster 14-
+cluster 14: lot of new things
+
+cluster 15-
+cluster 15: Basic concepts
+
+cluster 16-
+cluster 16: thread
+cluster 16: on threads
+cluster 16: Applying threads
+cluster 16: examples on threads
+cluster 16: threads
+
+cluster 17-
+cluster 17: observer observable design
+
+cluster 18-
+cluster 18: labs
+cluster 18: Lab sessions
+cluster 18: practicals
+
+cluster 19-
+cluster 19: basics of OOP
+cluster 19: OOP
+cluster 19: oop concepts
+cluster 19: objected oriented programming
+cluster 19: poop
+cluster 19: fundamentals of OOP
+
+cluster 20-
+cluster 20: Work load
+
+cluster 21-
+cluster 21: Extra classes
+cluster 21: Additional class
+
+cluster 22-
+cluster 22: Semester project
+
+cluster 23-
+cluster 23: this one
+
+cluster 24-
+cluster 24: JAVA
+
+cluster 25-
+cluster 25: teachings
+cluster 25: teaching approaches
+cluster 25: teaching speed
+cluster 25: overall lecturing pattern
+cluster 25: Overall teaching
+
+cluster 26-
+cluster 26: Overall learning outcome
+
+cluster 27-
+cluster 27: code practice
+cluster 27: descriptive sample codes
+cluster 27: code what had been taught (
+
+cluster 28-
+cluster 28: approaches to instill the concepts
+
+cluster 29-
+cluster 29: viva for the mid- evaluation
+cluster 29: evaluate the game after the exam
+cluster 29: Mid examination
+cluster 29: viva
+
+cluster 30-
+cluster 30: post sample answers
+
+cluster 31-
+cluster 31: event handling
+
+clusters object-
+{0: [0], 1: [1, 3, 11, 21, 27, 32, 39, 47, 54, 67, 69, 78, 80, 88, 91, 96, 102, 106, 117, 125, 135, 136, 140, 145, 154], 2: [2, 5, 7, 9, 16, 20, 25, 29, 30, 31, 34, 50, 53, 68, 70, 73, 85, 86, 95, 97, 104, 108, 118, 119, 120, 122, 123, 128, 131, 134, 144, 147, 148, 152], 3: [4, 23, 51], 4: [6, 17, 84], 5: [8, 10], 6: [12, 46, 133], 7: [13, 18, 22, 35, 43, 44, 49, 92, 98, 139], 8: [14, 107, 112, 113, 114], 9: [15, 71, 132, 146], 10: [19, 52, 56, 63, 75, 76, 81, 82, 87, 105, 110, 115, 129, 151], 11: [24, 37, 38, 66, 116, 141], 12: [26, 58], 13: [28, 36, 59, 121], 14: [33], 15: [40], 16: [41, 45, 93, 94, 149], 17: [42], 18: [48, 124, 143], 19: [55, 64, 83, 99, 109, 153], 20: [57], 21: [60, 100], 22: [61], 23: [62], 24: [65], 25: [72, 74, 126, 127, 142], 26: [77], 27: [79, 103, 111], 28: [89], 29: [90, 130, 137, 138], 30: [101], 31: [150]}
+cluster names- 
+['Overall content', 'lecture series', 'tutorial classes', 'questions', 'Discussing past papers', 'lecture', 'explanations', 'examples', 'exercises', 'lecture slides', 'course', 'lecturer', 'Continuous assessment', 'it', 'lot of new things', 'Basic concepts', 'threads', 'observer observable design', 'labs', 'OOP', 'Work load', 'Extra classes', 'Semester project', 'this one', 'JAVA', 'teachings', 'Overall learning outcome', 'code practice', 'approaches to instill the concepts', 'viva for the mid- evaluation', 'post sample answers', 'event handling']
