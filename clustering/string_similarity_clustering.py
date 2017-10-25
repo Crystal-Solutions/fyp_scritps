@@ -10,7 +10,7 @@ import similarity_calulator
 def cluster_similar_strings(similarities, threshold = 0.5):
     no_of_clusters = 0
     C = {}
-    for i in range(len(phrases)):
+    for i in range(len(similarities)):
         most_similar = i
         similarity_threshold = threshold
 

@@ -1,0 +1,42 @@
+clusters-
+
+cluster 0-
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: Workshop
+
+cluster 1-
+cluster 1: instructions to install required applications for windows
+
+cluster 2-
+cluster 2: everything
+
+cluster 3-
+cluster 3: force the students to install Linux
+
+cluster 4-
+cluster 4: content !
+
+cluster 5-
+cluster 5: time
+cluster 5: allocated time for this workshop
+
+cluster 6-
+cluster 6: Things
+
+cluster 7-
+cluster 7: some points
+
+cluster 8-
+cluster 8: everyone involved !
+
+cluster 9-
+cluster 9: session
+
+cluster 10-
+cluster 10: end of workshop
+
+clusters object-
+{0: [0, 4, 11], 1: [1], 2: [2], 3: [3], 4: [5], 5: [6, 12], 6: [7], 7: [8], 8: [9], 9: [10], 10: [13]}
+cluster names- 
+['workshop', 'instructions to install required applications for windows', 'everything', 'force the students to install Linux', 'content !', 'time', 'Things', 'some points', 'everyone involved !', 'session', 'end of workshop']

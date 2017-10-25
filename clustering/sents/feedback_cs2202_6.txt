@@ -1,0 +1,38 @@
+Workshop content was very good and a useful topic. Since lot of us could not install the program( Visual studio) properly, we were not able to catch- up everything. But it was a guide to learn. Thank you for your help for us.
+Good workshop. Well organized content.
+The workshop was good.
+it was very interesting.
+some people were struggling with installing VB( because some did not have windows 10 updated in their laptops and they were unable to install VB 2015). so it would be nice if you brought some setup files for those who have not installed the stuff
+Good one. Clearly discussed the facts. Overall good session. Thanks.
+I was absent for this workshop due to bad health.
+Session was very interesting. It will be useful for our upcoming projects as well. Thank you for organizing this session for us
+workshop was good. But it is good if you can relate another IDE other than visual studio.
+A good workshop!. I learned a lot of things about the importance of debugging from this workshop. Got to know about how to debug a program using an IDE.
+The workshop is good. But it is not very interesting.
+Selecting visual basic as your application for the workshop was not a good thing for me and several other other students. And the slide set was not with us. Though you have instructed to install it prior to the workshop, it was not an easy application to download. It would be nice if you could adjust your workshop a little so that we can use code blocks or some other application for the workshop.
+A great endeavor was taken to share the knowledge of debugging through VS. It is appreciated. Be little bit specific when giving the instructions to install software beforehand. Even though students got VS installed with default settings, most of the students didn't aware of that the session will be on Visual C plus plus so that we had to waste time on installing Visual C plus plus components on VS. Apart from that overall session was good.
+Very interesting session. Thank you.
+This workshop was a success as the professionals from Company_x guided us through the debugging of( C plus plus) applications. In the future, it will be great to have instructions- and especially sample programs- for the workshop at least one day before the workshop as today we( plus they) had to waste time( about 45 minutes) until some of our friends finished configuring the IDE.
+Thank you very much for the workshop. It was really interesting.
+It was good and helpful. But I had trouble with catching up, because my visual studio IDE was not working. So I was unable to get focused on subject. Please be more specific when you tell us to get ready,( I.e. Share the correct link to download the setup). and please be kind enough to share the lecture slides. Thank you so much.
+It was good. Learned to work in visual studio IDE. Learned about types of bugs we face when coding and how to resolve them properly. I think this session was very useful for me.
+It has been great workshop help us to understand the mistakes we do and get slight idea about how to handle errors. Nice one
+The workshop was very effective.
+I couldn't get anything from this workshop because the software didn't work properly in my pc. So please give a more instruction to install such software before the workshop.
+the workshop was good. Made an impact on testing as units before the bugs get much more troublesome. Made me- think of unit testing which we learned before. Some missed getting hands on actual problems since they had problems installing the visual studio. Except for that, it was a good session. Learned new things.
+This was very helpful for me to know about debugging techniques.
+The workshop was very useful.
+session was good.
+The session was great. Learnt many tips in programming.
+the workshop is so nice and helpful. We are expecting more workshop like this.
+Event was done very well. Learnt a lot of things and thank you for the lap bag.
+was helpful. would've been better if the workshop continued for two weeks.
+Not good as previous weeks .- Presenters could do a better job than this .- Content was not clear .- They gave priority to distributing their gifts rather than teaching the right concepts. Gifts are good; but the best thing they could give us was not gifts; but their knowledge in better manner. Anyway please extend our thanks to everyone who tried to share their knowledge with us. Highly appreciate their care on us.
+It was great workshop. If you can teach us how to debug a bigger program. I think it will useful for us.
+We always work with bugs .:) so the workshop is very helpful for all of us. thanks
+Learnt a lot. But should have trimmed the length and let everyone try debugging
+Before the workshop, we were used to debugging using print commands, etc and not making much use of the IDEs own debugging tools. I'm grateful to Company_x for conducting this workshop as I feel it was a great help towards our career.
+workshop was good. We had some issues with visual studio installation. But we could do the workshop usefully. It was useful.
+good.
+it should be little bit slow the program. Since we are not very familiar with c plus plus otherwise difficult to understand what they saying. Otherwise good presentation.
+Probably the least organized of the workshops we had. The presenters were not aware of what was happening most of the time and weren't very good at helping out either. If they had at least informed the day before that we would need to code C plus plus on VS, we would have installed C plus plus tools on VS and come prepared.

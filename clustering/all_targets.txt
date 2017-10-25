@@ -1,0 +1,2151 @@
+2 lecturers
+ANT ,
+ANT ,
+ANT session
+Abstraction ,
+Additional class
+All the 7 lectures
+All the facts
+Ant
+Applying threads
+Asking question during the lecture
+Basic concepts
+Both lecturers
+Both lecturers
+Both lecturers
+Build tools part
+C plus plus
+CRC Modeling ,
+CRC modeling
+CRC modeling
+Coding demonstrations
+Company _ x
+Company _ x
+Company _ x
+Company _ x
+Company _ x !
+Company _ x !
+Company _ x team !
+Company _ y
+Company _ y
+Company _ y members
+Concepts
+Concurrency
+Content
+Content
+Continuous assessment
+Course
+Course
+Course
+Debugging ,
+Design Patterns
+Design pattern explanations
+Design pattern lecture
+Design patterns
+Diagrams
+Discussed topic
+Discussing a question using java everyday
+Discussing past papers
+Discussing past papers within the class
+Distributing gifts
+Duration for the OOSD semester project
+English
+Event
+Everything
+Everything
+Everything about the teaching
+Examples
+Examples
+Examples
+Examples
+Examples
+Examples
+Explanation of the lesson
+Explanations
+Explanations
+Extra classes
+Extreme
+Final half of the session
+Final lectures
+Focussing on the fundamentals
+GIT
+GIT
+GIT ,
+GUI
+GUI building
+GUI implementations
+Git
+Git
+Git
+Git
+Git
+Git
+Git
+Git
+Git
+Git )
+Git - Version Control System Workshop
+Git Vcs
+GitHub
+GitHub
+Github
+Github
+Giving gifts
+Group Activities
+Group discussions
+Group project
+Group project
+Group project ,
+Guest lecture
+Guest lectures
+He
+He
+He
+He
+He
+He
+He
+He
+He
+He
+He
+He
+His ideas
+His presentation
+Homework given every day
+IDE
+IDE ,
+IDE part
+Ideas ,
+In class activities
+In class activities
+In class activities
+In class activities
+In class exercises
+In class exercises
+In class exercises
+Instructions
+IntelliJ
+IntelliJ IDE
+IntelliJ Introduction
+IntelliJ idea
+IntelliJ idea
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It
+It 's
+It 's
+It 's
+It 's
+JAVA
+JUNIT ,
+JUnit
+JUnit ,
+Java
+Jenkins
+Jenkins
+Jenkins ,
+Jenkins work
+Job
+Junit
+Junit ,
+Keeping interactions with students ,
+Lab sessions
+Last 10 min
+Last part of the workshop
+Learning environment
+Lecter series
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture
+Lecture Explanations
+Lecture Slides
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series
+Lecture series until now
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture slides
+Lecture topics
+Lecturer
+Lecturer
+Lecturer
+Lecturer
+Lecturer
+Lecturers
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lectures
+Lecturing method
+Lecturing style
+Letters
+MIT
+MVC architecture
+Madam
+Madam ,
+Madam teaches
+Manufacturing Engineering "
+Many
+Maven
+Maven
+Mid examination
+Millenium
+Module
+Module
+Mr. Lecturer _ y
+Mr. Lecturer _ y
+Mr. Lecturer _ y
+Mr. Lecturer _ y
+Mr. Lecturer _ y
+Mr. Lecturer _ y 's lecture
+Mr. Sulakshan
+Mr. Sulakshana
+Mrs. Lecturer _ y
+Ms Surangika
+Ms. Surangika
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL
+MySQL ,
+MySQL workshop
+MySQL workshop
+MySQL workshop
+Net ,
+Noun / Verb Analysis ,
+OO Principles - SOLID theories
+OOP
+OOP
+OOP
+OOP
+OOP
+OOP
+OOP concepts
+OOP concepts
+OOP concepts
+OOP concepts with examples
+OOP practical sessions
+OOP principles
+OOP with java
+OOSD lectr
+Object Oriented Programming
+Organization of the workshop
+Overall content
+Overall course
+Overall feedback -
+Overall it
+Overall learning outcome
+Overall lecture series
+Overall lectures
+Overall session
+Overall teaching
+Past paper
+Polymorphism
+Polymorphism from JAVA
+Practical examples that used to explain concepts
+Practicing codes
+Presentation
+Presentation slides
+Presentations
+Presenter
+Presenter
+Presenter
+Presenter
+Presenter
+Presenter _ x
+Presenters
+Presenters
+Project
+Real life examples
+Reasons behind using dev tools
+Reasons for using OOP concepts
+Recap segment
+SQL basics
+SQL workshop
+Scrum ,
+Selecting visual basic
+Semester project
+Semester project
+Semester project
+Semester project
+Semester project evaluation criteria
+Session
+Session
+Session
+Session
+Session
+Session
+Session
+Session
+Session
+Session
+Session
+She
+Short Point slideshows
+Slides
+Some assignments
+Some concepts
+Some lectures
+Some topics
+Some websites
+Some workshops
+Some workshops
+Speed
+Speed of some theory parts
+Speed of the lecture
+Spring
+Subject
+Swimming Competition )
+Syllabus
+TDD and it 's benefits
+Teaching
+TestNG
+Testing Tools workshop
+That
+That
+That
+That way of teaching
+The way of explaining
+Their speed
+They
+They
+They
+They
+They
+They
+Things
+This
+This
+This lecture
+This lecture
+This module
+This session
+This workshop
+Threads
+Threads lesson
+Time for this workshop
+Today 's workshop
+Today 's workshop
+Today 's workshop
+Today 's workshop
+Tutorial
+Tutorial class
+Tutorial class
+Tutorial class
+Tutorial classed
+Tutorial classes
+Tutorial classes
+Tutorial classes
+Tutorial classes
+Tutorial classes
+Tutorials
+Tutorials
+Tutorials
+UI
+UI making part
+UML
+UML
+UML ,
+Unit test
+Voice
+What is a state and the State Transition diagrams
+White background slides
+Work load
+Worked examples
+Workload
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop
+Workshop !
+Workshop content
+Writing code
+You
+You
+You
+You
+You
+You
+You
+Your examples
+a lot
+abstract
+abstraction
+adding a database to our semester project
+additional exercise
+additional recommended resources (
+additional recommended resources (
+adequate examples
+advance stuff
+advanced concepts of MySQL
+advanced topics
+advantages of using OOP
+advices
+advices given
+advises related to the semester project
+all codes
+all instructors
+all the basic things
+all the guys
+allocated time for this workshop
+ample examples
+answers with explanations
+ant
+ant
+anything
+application for the workshop
+applications
+approaches to instill the concepts
+architecture practical series
+area to cover during the session
+areas
+areas touched
+art of programming
+asking questions ,
+assignment
+assignment ,
+assignments
+assignments
+assignments
+aven '
+base '
+basic OOP concepts
+basic OOP implementations
+basic concepts
+basic concepts
+basic principles of OOP
+basic principles of java
+basics
+basics
+basics concepts
+basics of GIT ,
+basics of MySQL
+basics of OOP
+basics of OOP
+basics of OOP
+basics of Object Oriented Programming
+basics of a selected software
+best practices
+big project ( I mean like netbeans project ) with Git ,
+board
+board
+book
+book for references
+break in the middle
+build tools
+build tools ,
+c plus plus
+c plus plus concepts
+clarifications
+clarifications
+class
+class
+close to the ending
+cmd
+code
+code practice
+code what had been taught (
+codes
+codes you write in the board
+coding
+coding activity
+coding examples
+coding examples
+compilation using terminal ,
+concept of OOP ,
+concepts
+concepts
+concepts
+concepts
+concepts
+concepts about Maven
+concepts of observer observable
+concurrency
+concurrency
+concurrency part
+configuring the IDE
+connecting MySQL to a project
+contact with students
+content
+content
+content
+content
+content
+content
+content
+content
+content
+content
+content
+content
+content
+content !
+content of those workshop
+content of those workshop
+continuous assessments
+continuous integration
+continuous integration
+continuous integration part
+couple of lectures
+course
+course
+course
+course
+course
+course
+course
+course
+course
+course
+course
+course
+covered area
+current way of teaching
+database program
+databases
+databases
+databases
+deadline of the semester project
+debugging
+debugging through VS
+deep concepts of java ,
+delivery of content
+demonstrations ,
+describe the concepts using practical scenarios ,
+descriptive sample codes
+design pattern
+design pattern
+design pattern lesson
+design pattern practice labs
+design patterns
+design patterns
+design patterns
+design patterns
+design patterns
+design patterns
+design patterns
+design patterns
+design patterns part
+details in the slides
+details to the slides
+develop our programming challenge project
+diagrams such as state diagram , class diagram etc ,
+different examples
+directory structures
+discussed in a simple step by step manner
+discussing all the key elements of the language ,
+discussing them within the class
+discussions
+doing more examples
+duration
+e - resources
+end
+end
+end of the chosen part
+end of workshop
+erge '
+evaluate the game after the exam
+event explanation
+event handling
+every lecture
+everyone involved !
+everything
+everything
+everything
+everything
+everything
+everything
+everything
+everything
+everything what you have been teaching in previous 7 lectures
+example code
+example codes
+example codes
+example codes
+example for that concepts
+example in real world
+example questions within the classroom
+example to learn modeling
+example with sufficient description
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples
+examples (
+examples ,
+examples codes
+examples discussed in tutorial classes
+examples for final sessions
+examples for thread interruptions
+examples from java language
+examples in class
+examples in netbeans or eclipse
+examples in the lectures
+examples of codes
+examples on design patterns
+examples on each topics ,
+examples on particular theory parts
+examples on relevant theory parts
+examples on relevant theory parts
+examples on threads
+examples taken by Lecturer _ y sir to explain the concepts
+examples were used in the lecture slides
+examples with answers
+examples within the class
+exercises
+exercises
+exercises
+exercises
+exercises in design patterns
+experience
+experience
+experience -
+explaining git using Linux
+explanation about Abstraction
+explanation using examples
+explanations
+explanations
+explanations
+explanations
+explanations
+explanations
+explanations
+explanations
+explanations
+explanations about OOp
+explanations of Abstraction and UML diagrams
+facilitators
+facts
+facts
+feedback on the codes
+final phase of the project
+first 7 lectures
+first 7 lectures
+first half of the workshop
+first part
+first part
+first part of workshop
+flow of the workshop
+follow up sessions
+force the students to install Linux
+functionality
+fundamentals of OOP
+fundamentals of TDD
+fundamentals of programming in JAVA
+git
+git
+git
+git
+git
+git !
+git ,
+git explanations
+github
+github
+github
+given opportunity to ask questions
+giving bags ,
+giving in class activities
+group activities
+group project
+guest lecture
+guest lecture
+guest lecture
+guest lecture
+guest lecture
+guest lecturer
+guest lectures from Mr Lecturer _ y
+handling UI components
+handout on examples
+he
+he
+he
+help given by the team
+helping lecturer ,
+his lecture
+his speed
+his teaching experience
+homework questions
+how the course is conducted
+how to create an object from the class
+how to debug a program using an IDE
+how to use these tools practically (
+how to work on GitHub
+how to write unit tests
+ice breaking exercises
+ideas
+ideas of the topics
+implementation
+important concepts
+important facts
+important of the OOP concept , when we work in industry
+important points
+important sections
+important stuff
+in - class exercises
+in - class tests
+in class activities
+in class activities
+in class activities
+in class activities ( writing programs )
+in class activity
+in class assignment
+in class coding activities
+in class examples
+in class exercises
+in class exercises ,
+in class exercises with practical scenarios
+in class quizzes after each lecture
+in class test
+in class working activity
+in classes
+industrial related software development practicals
+information on ANT
+information on the build tools ,
+information you shared
+install that software
+installing Visual C plus plus components on VS.
+installing and using maven
+installing the visual studio
+instruction to install such software
+instructions
+instructions to install MySQL
+instructions to install required applications for windows
+instructions to install software
+instructors
+interaction with students
+interaction with students
+interactive exercises
+interactive session
+introducing tutorials
+introduction
+introduction about MySQL
+introduction about him
+introduction approach on C plus plus
+introduction part
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it 's
+it 's
+it 's
+its
+its concepts
+jasmine
+java
+java language
+java programming
+javascript
+junit
+junit
+junit ,
+kindness
+knowledge about databases
+knowledge he had
+labs
+labs
+last 30 min of the workshop
+last facts
+last lecture
+last part
+last part
+last part
+last part
+last part of the session
+last part of the session
+last section
+last seven lectures
+later half ,
+later part they done ( apache maven )
+later topics
+latter part of the lecture
+latter part of the lecture series
+latter part of the workshop
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture
+lecture ,
+lecture ,
+lecture ,
+lecture about OOP concepts
+lecture from him
+lecture hours
+lecture note
+lecture note
+lecture on CSE conference
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series
+lecture series ,
+lecture session
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides
+lecture slides ,
+lecture slides given in the guest lecture
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer
+lecturer 's speaking style
+lecturer 's teaching method
+lecturer 's voice
+lecturers commitment
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures
+lectures ,
+length
+lesson
+lessons
+letters in the presentations
+letting ask questions
+limited time
+limited time period
+log4j ,
+lot of examples
+lot of new things
+lot of new things
+lot of new things
+lot of new things
+lot of new things
+lot of things
+lot of things
+lots of things
+madam
+madam ,
+many thing
+marker pens
+material
+maven
+maven
+maven
+maven
+maven
+maven "
+maven ,
+methods
+mid semester exam
+mid term
+middle of the workshop
+modeling type questions
+module
+module
+module
+module
+module
+module
+module
+module
+module
+module
+module
+much of that
+necessary examples
+networking workshop
+new IDE
+new and useful things
+new technologies
+new things
+new things
+new things
+new things
+new things !
+new things like transition diagrams ,
+new tools
+next session
+non- CS modules
+notes
+noun / verb analysis
+number of topics
+number of workshops
+object oriented programming concepts
+object oriented programming concepts
+objected oriented programming
+observer observable design
+on threads
+one
+oop
+oop ,
+oop concepts
+oop concepts
+oop concepts
+oop concepts
+organization of ideas
+organized
+other lecturer
+other part
+other programming language
+our participation
+outer world examples
+overall course
+overall lecture series
+overall lecture series
+overall lecture session
+overall lecturing pattern
+overall teaching of the subject
+overall workshop
+pace of teaching
+pace of the lecture
+paper plane activity
+passion you teach
+people to help and resolve our problems
+polymorphism
+polymorphism
+polymorphism explanation
+poop
+post sample answers
+practical application
+practical examples
+practical examples
+practical examples
+practical examples
+practical examples
+practical examples
+practical examples on design pattern
+practical exercises
+practical exercises
+practical instructions
+practical issues
+practical problems
+practical series
+practicals
+practicals
+practicals
+practicals
+practice
+prerequisites
+present some gifts
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation slides
+presentations
+presentations
+presenter
+presenter
+presenter
+presenters
+presenters
+presenters
+presenters (
+primary key points of the language
+principles
+principles of OOP
+printed lecture notes ( slides )
+prior arrangements (
+prior arrangements (
+problems
+problems related to OOP concepts
+professional tools
+professionals from Company _ x
+program
+program
+program
+programming part
+programming project
+programming tools
+programs
+project
+project
+project
+project
+project
+project
+project
+project ,
+project evaluation
+project evaluations
+projections on that white background
+projects
+projects
+punctuality ,
+questions
+questions
+questions
+questions
+questions
+questions
+questions
+questions as assessments within the class
+questions in group activities )
+questions on design pattern
+questions on practical problems
+quiz
+quiz
+quiz
+quiz at the end
+quiz closing date
+real examples
+real life examples
+real world application questions of OOP concepts
+real world applications ,
+real world examples
+real world examples
+real world examples
+real world examples on concurrency
+recap
+references
+references
+references and pointers
+references given
+relate them to the real work work environments
+related videos ' links
+relevant coding examples
+relevant examples
+relevant java files
+remaining parts
+report writing part
+required tool
+resource person
+resource person
+resource persons
+resources to reference
+rest of the workshop
+sample codes
+sample codes
+scenario examples
+scenarios
+schedule !
+scope
+scrum
+scrum
+second speaker
+selenium IDE
+selenium part
+semester
+semester project
+semester project
+semester project
+semester project (
+seminar room
+series of lectures
+series of lectures
+series of lectures on OOP
+series of workshops
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session
+session about building tools
+session about the building tools
+session on GIT
+session on JUnit
+session on MySQL
+session on MySQL
+session on github
+session today
+sessions
+sessions
+sessions
+sessions on this area
+setup files
+she
+short time
+simple examples
+sir
+sir
+slide set
+slides
+slides
+slides
+slides
+slides
+slides
+slides
+slides
+slides
+slides prepared by you for first 4 lectures
+software
+software tools
+solutions of coding exercises
+solved questions
+some assignments
+some codes on white board
+some examples
+some explanations
+some instructions
+some of the contents
+some of the important areas
+some of the important areas
+some of the points
+some places
+some points
+some subject
+some workshops
+some workshops
+some workshops ,
+speaker
+speaker
+speed
+speed
+speed
+speed
+speed
+speed
+speed of lecturing
+speed of teaching
+speed of the concepts like concurrency
+speed of the lecture
+speed of the lecture
+speed of the lecturer
+speed of the lectures
+speed of the workshop
+spot tests
+starting lectures
+state diagrams
+states ,
+steps even after installation to make the environment
+students
+subject
+subject
+subject content
+subjects contents
+submit the code
+submit their project
+suitable examples
+swimming competition
+syntax of the language
+taking lessons from an expert in the industry
+target
+tasks
+teach
+teach Java language
+teacher
+teaching
+teaching
+teaching - learning process
+teaching approaches
+teaching from very beginning
+teaching method
+teaching method
+teaching speed
+teaching speed
+teaching style
+teaching style
+teaching style
+teaching style
+teaching style
+teaching style
+teaching style
+teaching techniques
+teachings
+team
+technologies used in the industry
+test engines
+testing
+testing tools
+text book
+textbook
+that
+that attempt
+that lecture
+that part
+the way he presented
+the way those were explained
+the way workshop was conducted
+the way you presented
+their care on us
+their content
+their part
+them
+them
+them
+them
+them
+them
+theories of OOP
+they
+they
+they
+they
+they
+they
+they
+they
+things
+things
+things
+things
+things
+things
+things about Git
+this
+this
+this
+this
+this course
+this course
+this lecture
+this lecture series
+this module
+this one
+this one
+this program
+this session
+this subject
+this subject
+this workshop
+this workshop
+this workshop
+those tools
+those tools
+thread
+threads
+threads
+threads
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time ( 45 min ) to demo our final projects ,
+time :
+time allocated
+time allocated for design patterns
+time allocated for the subject
+time allocated for the workshop
+time and weight for documentation of the project
+time for our questions
+time for semester project
+time for students to grasp the ideas )
+time for the session
+time for the workshop
+time given
+time given for the demos by 1st lecturer
+time is allocated for the workshop
+time limit
+time limitation
+time on ANT and JUNIT
+time on java basics ,
+time on the topics
+time period
+time slot
+time that give for the examples at the beginning
+time to continue his lecture
+time to discuss about the fork / pull - request processes
+time to discuss coding examples ,
+time to discuss examples on each concept
+time to discuss examples on each concept
+time to do assignments
+time to explain
+time to learn SQL
+time to practice examples
+time to read the whole chapters from the recommended book
+time to teach design patterns
+time to test sample codes
+time to upload the assignment
+time to work on the language
+time we had to take notes
+time with new topics like event handling
+time with the workshop
+today 's GIT session
+today 's lecture
+today 's session
+today workshop
+tone
+topic
+topic
+topic
+topics
+topics
+tutorial
+tutorial
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial class
+tutorial classes
+tutorial classes
+tutorial classes
+tutorial classes
+tutorial classes
+tutorial classes
+tutorial classes
+tutorials
+tutorials
+tutorials
+tutorials
+tutorials on apache ant environment
+two lecturers
+two lectures
+underlying concepts of version control
+understanding the code
+unit testing
+unit testing
+unit testing part
+unit testing part of the session
+unit testing via netbeans IDE
+use the whiteboard
+using SQL
+using git
+verb - noun technique
+version control
+version control ,
+version control system
+version control systems
+version control systems
+version control systems
+version controlling systems ,
+version of MySQL for windows
+visual studio
+visual studio installation
+viva
+viva for the mid- evaluation
+voice
+way he explain OOP concepts with examples
+way it was taught
+way of presenting
+way of presenting
+way of teaching
+way of teaching
+way of teaching
+way of teaching
+way the subject had been taught
+way they presented
+way we were taught
+ways of referring books
+what 's on the board
+what industry expect from us
+what the industrial background of CS engineer
+what they saying
+what u are explaining
+what we were taught
+what you 've talked about uml diagrams
+whole lecture
+whole workshop
+work !
+work with industry people
+work with the industry ,
+worked examples
+working examples similar to exam questions
+workload
+workload
+workload
+workload
+workload
+workload
+workload (
+workload during the semester
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop
+workshop !
+workshop !
+workshop !
+workshop !
+workshop !
+workshop ,
+workshop ,
+workshop :
+workshop done on git
+workshop flow
+workshop goals
+workshop on git and github
+workshop series
+workshop series
+workshop series
+workshop team
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+workshops
+writings on the board
+you
+you
+you
+you
+you
+you
+you
+you
+you all
+your availability
+your efforts on teaching
+your lecture
+your lecture
+your lectures
