@@ -13,6 +13,9 @@ resp_count = 0
 set_count = 0
 #process file by file
 counts = {}
+res_counts = []
+sent_counts = []
+
 for file in os.listdir(SRC_DIR):
     if file.endswith(".ann"):
         print(file)
@@ -32,6 +35,8 @@ for file in os.listdir(SRC_DIR):
         print(rc,sc)
         resp_count+=rc
         set_count+=1
+        res_counts.append(rc)
+        sent_counts.append(sc)
         
         counts[course_name] = counts[course_name][0]+ 1,counts[course_name][1]+ rc,counts[course_name][2]+ sc
         
@@ -42,3 +47,14 @@ for (k, v) in counts.items():
     print(k)
     print(v)
     print(v[2]/v[1])
+    
+    
+print("\n]n-Summary")
+print(min(res_counts))
+print(max(res_counts))
+print(sum(res_counts)/len(res_counts))
+print(sum(res_counts))
+print(len(res_counts))
+
+
+print(sum(sent_counts))
