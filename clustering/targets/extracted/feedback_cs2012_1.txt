@@ -1,160 +1,160 @@
-Lectures 	0
-lecturer 	174
-concepts using examples 	204
-board 	363
-All the 7 lectures 	491
-oop concepts 	589
-Practical examples 	625
-exercises 	678
-lecture time 	715
-Lecture slides 	754
-teaching style 	812
-lectures 	898
-Examples 	954
-in class activities ( writing programs ) 	967
-lectures 	1029
-first 7 lectures 	1090
-Teaching 	1132
-lectures 	1190
-things regarding basic OOP concepts 	1415
-lecture session 	1710
-lectures 	1807
-examples 	1892
-lectures 	1919
-lecture series 	2038
-Practicing codes 	2116
-examples 	2212
-It 	2263
-teaching style 	2299
-Coding demonstrations 	2352
-examples 	2432
-lecture slides 	2458
-lectures 	2494
-teaching method 	2549
-Discussing a question using java everyday 	2708
-lectures 	3004
-lecturer 's teaching method 	3040
-lessons 	3099
-They 	3257
-lecture slides 	3521
-in class activities 	3540
-Recap segment 	3602
-previous lecture 	3665
-Slides 	3780
-in class test 	3791
-explanations 	3835
-OOP concepts 	3866
-Lectures 	3892
-advises 	4063
-It 	4138
-in class coding activities 	4191
-content 	4280
-OOP concepts with examples 	4327
-In class exercises 	4357
-lecturer 	4449
-lot of new things 	4496
-OOP 	4567
-In class activities 	4654
-lectures 	4728
-current way of teaching 	4772
-lecture series 	4805
-things 	4877
-practical exercises on the subject 	4897
-Lecture series 	5005
-examples 	5144
-examples 	5210
-oop concepts 	5341
-lecture 	5412
-lecture , 	5558
-object oriented programming concepts 	5567
-lecture series 	5672
-interaction with students 	5736
-In class activities 	5806
-department 	5927
-Lectures 	6156
-Lecture slides 	6230
-adequate examples 	6267
-Semester project 	6321
-examples 	6428
-teaching style 	6517
-lecture series 	6541
-way of teaching 	6653
-It 	6692
-lectures 	6724
-lectures 	6878
-Lecture slides 	6920
-examples 	6939
-Lecture slides 	6920
-examples 	6939
-sample codes 	7006
-lectures 	7052
-lecturer 	7262
-teaching style of the lecturer 	7480
-in class activities 	7575
-interesting way of teaching 	7777
-teaching style 	7815
-Learning environment 	7929
-principles by counter examples 	8004
-class 	8074
-Concepts 	8234
-examples 	8271
-ideas of the topics 	8475
-lectures 	8523
-real world examples 	8556
-contact with students 	8590
-examples 	8760
-teaching 	8836
-last seven lectures 	8921
-Lectures 	8953
-Lecture slides 	8984
-lecturer 	9086
-teaching speed 	9192
-lectures 	9246
-in class working activity 	9288
-Presentation slides 	9458
-example questions within the classroom 	9526
-Lectures 	9624
-It 	9675
-Lecture slides 	9704
-labs 	9723
-Lectures 	9758
-lecture slides 	9804
-examples 	9847
-principles of OOP 	9927
-solutions of coding exercises 	10023
-codes 	10091
-coding practices 	10197
-examples 	10297
-oop concepts 	10344
-examples 	10370
-Lectures 	10382
-scenario examples 	10424
-way of teaching 	10528
-lectures 	10588
-lecture slides , 	10766
-explanations 	10782
-some codes on white board 	10909
-lectures 	10991
-Writing code 	11052
-teaching 	11136
-concepts by examples 	11188
-Lectures 	11330
-presentations 	11364
-in class examples 	11401
-Ms Surangika 	11493
-lectures 	11552
-projections on that white background 	11589
-Ms. Surangika 	11695
-lectures 	11784
-lecture slides 	11829
-upload them on Sunday evening 	11935
-teaching style 	12073
-examples in the classroom , 	12129
-lectures 	12190
-writings on the board 	12310
-board 	12356
-lectures 	12454
-Lectures 	12478
-lectures 	12571
-lectures 	12626
-lecture slides 	12695
+Lectures 	0	Lectures were really good . There were lot of people who came there without any Java knowledge and yet you were very supportive . 5/5 for me . 
+lecturer 	174	It 's really good that the lecturer explains most of the concepts using examples . It helps us to understand them better . But if you are sitting at the back , you can 't properly see what 's on the board because the board is too small and the lecturer writes in small letters due to that . On general lectures are understandable and good . 
+concepts using examples 	204	It 's really good that the lecturer explains most of the concepts using examples . It helps us to understand them better . But if you are sitting at the back , you can 't properly see what 's on the board because the board is too small and the lecturer writes in small letters due to that . On general lectures are understandable and good . 
+board 	363	It 's really good that the lecturer explains most of the concepts using examples . It helps us to understand them better . But if you are sitting at the back , you can 't properly see what 's on the board because the board is too small and the lecturer writes in small letters due to that . On general lectures are understandable and good . 
+All the 7 lectures 	491	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+oop concepts 	589	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+Practical examples 	625	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+exercises 	678	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+lecture time 	715	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+Lecture slides 	754	All the 7 lectures were clearly explained and had a good content also . The way of described the oop concepts were understandable . Practical examples that used to explain concepts and exercises which were done during the lecture time was really helped full . Lecture slides were also good and useful . 
+teaching style 	812	I like your teaching style . That is really helps us to understand the basic principles . 
+lectures 	898	The lectures were well organized and detailed . 
+Examples 	954	Great . Examples and in class activities ( writing programs ) were very helpful . 
+in class activities ( writing programs ) 	967	Great . Examples and in class activities ( writing programs ) were very helpful . 
+lectures 	1029	lectures were well organized and easy to understand . 
+first 7 lectures 	1090	The first 7 lectures have been really good . Teaching is very clear and precise . 
+Teaching 	1132	The first 7 lectures have been really good . Teaching is very clear and precise . 
+lectures 	1190	Surprisingly , the lectures were so friendly and the best thing is giving time to think for an answer in the lecture . It helps us to understand course materials during the lecture . : - ) . 
+things regarding basic OOP concepts 	1415	I attended all the 7 lectures and I learned many things regarding basic OOP concepts specially things that I have not known as I followed some video tutorials before the beginning of the second semester . But the feedback is uncompleted , if I forget to say that there were sometimes we could not understand ex : polymorphism . However overall lecture session was great , well organized and very helpful . Thank you very much madam . 
+lecture session 	1710	I attended all the 7 lectures and I learned many things regarding basic OOP concepts specially things that I have not known as I followed some video tutorials before the beginning of the second semester . But the feedback is uncompleted , if I forget to say that there were sometimes we could not understand ex : polymorphism . However overall lecture session was great , well organized and very helpful . Thank you very much madam . 
+lectures 	1807	The lectures were clear and easy to understand . It is better if madam can do some more examples in the class . 
+examples 	1892	The lectures were clear and easy to understand . It is better if madam can do some more examples in the class . 
+lectures 	1919	lectures were pretty good . Not too fast and not difficult to understand . I learned lots of things . 
+lecture series 	2038	I think the lecture series was very good and I learnt a lot not only OOP but also Java . Practicing codes in the class really helped me to improve writing codes . If you could do more examples in the class it would be even better . 
+Practicing codes 	2116	I think the lecture series was very good and I learnt a lot not only OOP but also Java . Practicing codes in the class really helped me to improve writing codes . If you could do more examples in the class it would be even better . 
+examples 	2212	I think the lecture series was very good and I learnt a lot not only OOP but also Java . Practicing codes in the class really helped me to improve writing codes . If you could do more examples in the class it would be even better . 
+It 	2263	It was very useful . 
+teaching style 	2299	I like your teaching style and you did everything very well . 
+Coding demonstrations 	2352	Coding demonstrations are quite clear . It would be better and helpful if more examples were used in the lecture slides . 
+examples 	2432	Coding demonstrations are quite clear . It would be better and helpful if more examples were used in the lecture slides . 
+lecture slides 	2458	Coding demonstrations are quite clear . It would be better and helpful if more examples were used in the lecture slides . 
+lectures 	2494	One of the best lectures so far . Very easy to understand because the teaching method is great . When I came to the first lecture I didn 't know anything about OOP but now I know something without even putting an extra effort . Discussing a question using java everyday is very helpful to keep track of our mistakes and to improve ourselves . Finally I take this time thank you , so thank you very much madam for your support . 
+teaching method 	2549	One of the best lectures so far . Very easy to understand because the teaching method is great . When I came to the first lecture I didn 't know anything about OOP but now I know something without even putting an extra effort . Discussing a question using java everyday is very helpful to keep track of our mistakes and to improve ourselves . Finally I take this time thank you , so thank you very much madam for your support . 
+Discussing a question using java everyday 	2708	One of the best lectures so far . Very easy to understand because the teaching method is great . When I came to the first lecture I didn 't know anything about OOP but now I know something without even putting an extra effort . Discussing a question using java everyday is very helpful to keep track of our mistakes and to improve ourselves . Finally I take this time thank you , so thank you very much madam for your support . 
+lectures 	3004	In first time I do the java , the lectures help me to set a foundation for java . I feel the lectures are help me a lot . 
+lecturer 's teaching method 	3040	The lecturer 's teaching method is so good . She explained the lessons very well and asked questions in the class . In my opinion , the lecture will be more effective for us if she explain the examples little slower . 
+lessons 	3099	The lecturer 's teaching method is so good . She explained the lessons very well and asked questions in the class . In my opinion , the lecture will be more effective for us if she explain the examples little slower . 
+They 	3257	They were well structured and I were able to learn fundamental concepts of oop . I didn 't know anything about java early but now I adequate to learn more and code in java since I got the basic principles of java . I could understand the concepts well because of lecture slides and in class activities were well arranged as well as punctual . Recap segment was also very useful and helpful to memories the previous lecture as well . 
+lecture slides 	3521	They were well structured and I were able to learn fundamental concepts of oop . I didn 't know anything about java early but now I adequate to learn more and code in java since I got the basic principles of java . I could understand the concepts well because of lecture slides and in class activities were well arranged as well as punctual . Recap segment was also very useful and helpful to memories the previous lecture as well . 
+in class activities 	3540	They were well structured and I were able to learn fundamental concepts of oop . I didn 't know anything about java early but now I adequate to learn more and code in java since I got the basic principles of java . I could understand the concepts well because of lecture slides and in class activities were well arranged as well as punctual . Recap segment was also very useful and helpful to memories the previous lecture as well . 
+Recap segment 	3602	They were well structured and I were able to learn fundamental concepts of oop . I didn 't know anything about java early but now I adequate to learn more and code in java since I got the basic principles of java . I could understand the concepts well because of lecture slides and in class activities were well arranged as well as punctual . Recap segment was also very useful and helpful to memories the previous lecture as well . 
+previous lecture 	3665	They were well structured and I were able to learn fundamental concepts of oop . I didn 't know anything about java early but now I adequate to learn more and code in java since I got the basic principles of java . I could understand the concepts well because of lecture slides and in class activities were well arranged as well as punctual . Recap segment was also very useful and helpful to memories the previous lecture as well . 
+Slides 	3780	I came to cse without any knowledge of oop or java . now I learn quite about oop . Slides and in class test are good . 
+in class test 	3791	I came to cse without any knowledge of oop or java . now I learn quite about oop . Slides and in class test are good . 
+explanations 	3835	there were good explanations . 
+OOP concepts 	3866	I understood OOP concepts very well . Lectures were so good . I struggle a lot with my game because I am new to java . I know you have no time to teach us java but it will be great if you can give some more advises related to the semester project in next lectures . Thank you . 
+Lectures 	3892	I understood OOP concepts very well . Lectures were so good . I struggle a lot with my game because I am new to java . I know you have no time to teach us java but it will be great if you can give some more advises related to the semester project in next lectures . Thank you . 
+advises 	4063	I understood OOP concepts very well . Lectures were so good . I struggle a lot with my game because I am new to java . I know you have no time to teach us java but it will be great if you can give some more advises related to the semester project in next lectures . Thank you . 
+It 	4138	It was very good . It would have been better if the in class coding activities could 've been done on computers rather than on paper . 
+in class coding activities 	4191	It was very good . It would have been better if the in class coding activities could 've been done on computers rather than on paper . 
+content 	4280	The content were well organized . Well taught the OOP concepts with examples . In class exercises were perfect . Homework given every day polished our knowledge . 
+OOP concepts with examples 	4327	The content were well organized . Well taught the OOP concepts with examples . In class exercises were perfect . Homework given every day polished our knowledge . 
+In class exercises 	4357	The content were well organized . Well taught the OOP concepts with examples . In class exercises were perfect . Homework given every day polished our knowledge . 
+lecturer 	4449	The lecturer was punctual . I was able to learn a lot of new things . At the start of the semester , I had no idea about OOP and java . But now I have some knowledge on them with the help of the lectures . In class activities helped a lot to improve the knowledge . Overall , the lectures were good . 
+lot of new things 	4496	The lecturer was punctual . I was able to learn a lot of new things . At the start of the semester , I had no idea about OOP and java . But now I have some knowledge on them with the help of the lectures . In class activities helped a lot to improve the knowledge . Overall , the lectures were good . 
+OOP 	4567	The lecturer was punctual . I was able to learn a lot of new things . At the start of the semester , I had no idea about OOP and java . But now I have some knowledge on them with the help of the lectures . In class activities helped a lot to improve the knowledge . Overall , the lectures were good . 
+In class activities 	4654	The lecturer was punctual . I was able to learn a lot of new things . At the start of the semester , I had no idea about OOP and java . But now I have some knowledge on them with the help of the lectures . In class activities helped a lot to improve the knowledge . Overall , the lectures were good . 
+lectures 	4728	The lecturer was punctual . I was able to learn a lot of new things . At the start of the semester , I had no idea about OOP and java . But now I have some knowledge on them with the help of the lectures . In class activities helped a lot to improve the knowledge . Overall , the lectures were good . 
+current way of teaching 	4772	feel good about the current way of teaching . 
+lecture series 	4805	the lecture series was quite good . Very understandable . Learnt a lot of things . Need more practical exercises on the subject after teaching each theory / concept so we can understand them better . 
+things 	4877	the lecture series was quite good . Very understandable . Learnt a lot of things . Need more practical exercises on the subject after teaching each theory / concept so we can understand them better . 
+practical exercises on the subject 	4897	the lecture series was quite good . Very understandable . Learnt a lot of things . Need more practical exercises on the subject after teaching each theory / concept so we can understand them better . 
+Lecture series 	5005	Lecture series until now was really helpful to improve my knowledge about this subject . I think it will really helpful if there are more examples were discussed during the lecture . 
+examples 	5144	Lecture series until now was really helpful to improve my knowledge about this subject . I think it will really helpful if there are more examples were discussed during the lecture . 
+examples 	5210	Teaches with good examples and easy to understand . Thank you ! . 
+oop concepts 	5341	During last 7 weeks this module was my favorite and I really got big idea about oop concepts as well as java programming . Asking question during the lecture was very helpful to us . I am very happy if Madam continue this teaching style in rest of our semester . 
+lecture 	5412	During last 7 weeks this module was my favorite and I really got big idea about oop concepts as well as java programming . Asking question during the lecture was very helpful to us . I am very happy if Madam continue this teaching style in rest of our semester . 
+lecture , 	5558	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+object oriented programming concepts 	5567	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+lecture series 	5672	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+interaction with students 	5736	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+In class activities 	5806	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+department 	5927	Starting from the very first lecture , object oriented programming concepts were introduced using real life incidents . So I could assure this lecture series would be more interesting to study . Had a good interaction with students and encouraged students to ask questions . In class activities were useful to understand the programming concepts . As a suggestion , it will be a good idea if the department gives a brief idea about OOP in the semester 1 field familiarization program . So the students who are willing to come to CSE department can practice on some programming languages before coming to the department . 
+Lectures 	6156	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+Lecture slides 	6230	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+adequate examples 	6267	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+Semester project 	6321	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+examples 	6428	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+teaching style 	6517	Lectures are very clear and helpful to understand oop basic principles . Lecture slides are well arranged and adequate examples are discussed during the lecture . Semester project is a very good opportunity to develop our coding skills . Madam , If you can discuss more examples at the lecture , it will be very useful . According my opinion , I 'm ok with the teaching style . 
+lecture series 	6541	The lecture series were very useful to me In understanding the basic OOP concepts . great ! . : - ) . 
+way of teaching 	6653	I like your way of teaching and functionality . 
+It 	6692	It is very useful . 
+lectures 	6724	Actually lectures were clear for me . If you can describe the concepts using practical scenarios , I think it will be more helpful for us to understand . Overall lectures were fine . 
+lectures 	6878	Actually lectures were clear for me . If you can describe the concepts using practical scenarios , I think it will be more helpful for us to understand . Overall lectures were fine . 
+Lecture slides 	6920	Lecture slides and examples were well organized and easy to understand . Explain the sample codes a little bit slow . 
+examples 	6939	Lecture slides and examples were well organized and easy to understand . Explain the sample codes a little bit slow . 
+Lecture slides 	6920	Lecture slides and examples were well organized and easy to understand . Explain the sample codes a little bit slow . 
+examples 	6939	Lecture slides and examples were well organized and easy to understand . Explain the sample codes a little bit slow . 
+sample codes 	7006	Lecture slides and examples were well organized and easy to understand . Explain the sample codes a little bit slow . 
+lectures 	7052	lectures were very useful for understanding the OOP . 
+lecturer 	7262	Dear madam , I don 't have any complaints against you . You always motivate us to working on this subject and ask questions . Thank You for being a good lecturer . 
+teaching style of the lecturer 	7480	I really appreciate the teaching style of the lecturer . Keeping interactions with students , asking questions , giving in class activities and discussing them within the class were greatly helpful for me to develop my oop skills . As well it is very easy to concentrate on the lesson throughout the class because of the interesting way of teaching . 
+in class activities 	7575	I really appreciate the teaching style of the lecturer . Keeping interactions with students , asking questions , giving in class activities and discussing them within the class were greatly helpful for me to develop my oop skills . As well it is very easy to concentrate on the lesson throughout the class because of the interesting way of teaching . 
+interesting way of teaching 	7777	I really appreciate the teaching style of the lecturer . Keeping interactions with students , asking questions , giving in class activities and discussing them within the class were greatly helpful for me to develop my oop skills . As well it is very easy to concentrate on the lesson throughout the class because of the interesting way of teaching . 
+teaching style 	7815	Your teaching style helped me to understand basic principles of OOP concepts . I think you taught that very well . 
+Learning environment 	7929	Learning environment was good . It would be better if you can explain the principles by counter examples . ( by using code parts ) Overall the class was good and interesting . 
+principles by counter examples 	8004	Learning environment was good . It would be better if you can explain the principles by counter examples . ( by using code parts ) Overall the class was good and interesting . 
+class 	8074	Learning environment was good . It would be better if you can explain the principles by counter examples . ( by using code parts ) Overall the class was good and interesting . 
+Concepts 	8234	Making us construct codes in the class was good as we could check to how much extent we had learnt the concepts properly . Concepts were taught well . If more examples could be explained for each section it would have been better . 
+examples 	8271	Making us construct codes in the class was good as we could check to how much extent we had learnt the concepts properly . Concepts were taught well . If more examples could be explained for each section it would have been better . 
+ideas of the topics 	8475	got the ideas of the topics discussed . 
+lectures 	8523	well managed lectures . Explain well . Used real world examples . Had a good contact with students during the lecture and gave opportunity to ask any questions regarding to the lesson . 
+real world examples 	8556	well managed lectures . Explain well . Used real world examples . Had a good contact with students during the lecture and gave opportunity to ask any questions regarding to the lesson . 
+contact with students 	8590	well managed lectures . Explain well . Used real world examples . Had a good contact with students during the lecture and gave opportunity to ask any questions regarding to the lesson . 
+examples 	8760	I really liked the way the subject had been taught . The examples helped a lot in understanding the concepts . Everything about the teaching suits me . I couldn 't find anything that requires alteration . 
+teaching 	8836	I really liked the way the subject had been taught . The examples helped a lot in understanding the concepts . Everything about the teaching suits me . I couldn 't find anything that requires alteration . 
+last seven lectures 	8921	Honestly last seven lectures are good . Lectures are understandable . Lecture slides are very useful to self- study also . The given opportunity to ask questions from the lecturer is appreciative . 
+Lectures 	8953	Honestly last seven lectures are good . Lectures are understandable . Lecture slides are very useful to self- study also . The given opportunity to ask questions from the lecturer is appreciative . 
+Lecture slides 	8984	Honestly last seven lectures are good . Lectures are understandable . Lecture slides are very useful to self- study also . The given opportunity to ask questions from the lecturer is appreciative . 
+lecturer 	9086	Honestly last seven lectures are good . Lectures are understandable . Lecture slides are very useful to self- study also . The given opportunity to ask questions from the lecturer is appreciative . 
+teaching speed 	9192	Good : ) . please do recap at class starting it 's better for us . Sometimes teaching speed is very high . Thanks ! . : ) . 
+lectures 	9246	The lectures are good . But a bit speed . A in class working activity is a must one . So please take another hour in Thursdays madame . 
+in class working activity 	9288	The lectures are good . But a bit speed . A in class working activity is a must one . So please take another hour in Thursdays madame . 
+Presentation slides 	9458	We can hear your voice clearly and can understand the things you teach . Presentation slides also good source to refer . Lf you can do more example questions within the classroom and it will help us to understand the principles well . 
+example questions within the classroom 	9526	We can hear your voice clearly and can understand the things you teach . Presentation slides also good source to refer . Lf you can do more example questions within the classroom and it will help us to understand the principles well . 
+Lectures 	9624	Lectures was well structured and well organized . It was easy to understand . Lecture slides and labs were also well organized . 
+It 	9675	Lectures was well structured and well organized . It was easy to understand . Lecture slides and labs were also well organized . 
+Lecture slides 	9704	Lectures was well structured and well organized . It was easy to understand . Lecture slides and labs were also well organized . 
+labs 	9723	Lectures was well structured and well organized . It was easy to understand . Lecture slides and labs were also well organized . 
+Lectures 	9758	Lectures were good . understandable . 
+lecture slides 	9804	The lecture slides were well organized and the examples done in the class helped a lot to learn this new language and also the principles of OOP . Motivated to well . Would have been better if we discussed more about the solutions of coding exercises . 
+examples 	9847	The lecture slides were well organized and the examples done in the class helped a lot to learn this new language and also the principles of OOP . Motivated to well . Would have been better if we discussed more about the solutions of coding exercises . 
+principles of OOP 	9927	The lecture slides were well organized and the examples done in the class helped a lot to learn this new language and also the principles of OOP . Motivated to well . Would have been better if we discussed more about the solutions of coding exercises . 
+solutions of coding exercises 	10023	The lecture slides were well organized and the examples done in the class helped a lot to learn this new language and also the principles of OOP . Motivated to well . Would have been better if we discussed more about the solutions of coding exercises . 
+codes 	10091	I think I learned a lot from the codes you write in the board . When I compare my codes with yours I can learn about my mistakes and good coding practices that I should follow . Therefore I think it would be great if we can discuss more examples in the class . 
+coding practices 	10197	I think I learned a lot from the codes you write in the board . When I compare my codes with yours I can learn about my mistakes and good coding practices that I should follow . Therefore I think it would be great if we can discuss more examples in the class . 
+examples 	10297	I think I learned a lot from the codes you write in the board . When I compare my codes with yours I can learn about my mistakes and good coding practices that I should follow . Therefore I think it would be great if we can discuss more examples in the class . 
+oop concepts 	10344	madam explained the oop concepts clearly with examples . Lectures were interesting . We want more scenario examples and answers with explanations in future . 
+examples 	10370	madam explained the oop concepts clearly with examples . Lectures were interesting . We want more scenario examples and answers with explanations in future . 
+Lectures 	10382	madam explained the oop concepts clearly with examples . Lectures were interesting . We want more scenario examples and answers with explanations in future . 
+scenario examples 	10424	madam explained the oop concepts clearly with examples . Lectures were interesting . We want more scenario examples and answers with explanations in future . 
+way of teaching 	10528	I satisfy about first 7 lectures . That way of teaching is really good for coming lectures too . 
+lectures 	10588	lectures are very good . Take good effort to make understand every student in the room . Very helpful . 
+lecture slides , 	10766	lecture slides , explanations were very clear . it 's very good to letting ask questions and explain again with suitable examples . sometimes , some codes on white board were unclear at the back . Overall very good ! . 
+explanations 	10782	lecture slides , explanations were very clear . it 's very good to letting ask questions and explain again with suitable examples . sometimes , some codes on white board were unclear at the back . Overall very good ! . 
+some codes on white board 	10909	lecture slides , explanations were very clear . it 's very good to letting ask questions and explain again with suitable examples . sometimes , some codes on white board were unclear at the back . Overall very good ! . 
+lectures 	10991	The lectures were good and clear . And they weren 't too fast . Writing code was somewhat confusing because I didn 't know java before . 
+Writing code 	11052	The lectures were good and clear . And they weren 't too fast . Writing code was somewhat confusing because I didn 't know java before . 
+teaching 	11136	Actually teaching is very good and can understand easily the concepts by examples which are given in the class . It will be more helpful if provide solved questions as well ! . thank you . 
+concepts by examples 	11188	Actually teaching is very good and can understand easily the concepts by examples which are given in the class . It will be more helpful if provide solved questions as well ! . thank you . 
+Lectures 	11330	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+presentations 	11364	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+in class examples 	11401	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+Ms Surangika 	11493	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+lectures 	11552	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+projections on that white background 	11589	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+Ms. Surangika 	11695	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+lectures 	11784	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+lecture slides 	11829	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+upload them on Sunday evening 	11935	Lectures were well organized with presentations to back them up . The in class examples helped to understand the subject matter in a more interactive way because Ms Surangika went around the class asking questions . The lectures were quite clear . But the projections on that white background were not sometimes clearly visible to the people in the back rows . Ms. Surangika encouraged us to ask questions if there 's any doubt and proceeded with the lectures in a more interactive manner . The lecture slides were uploaded to the moodle every week . And I think it would be much better if you could upload them on Sunday evening because then us the students will have time to go through the slides before coming to the lecture . 
+teaching style 	12073	Your teaching style is very attractive . If you can do more examples in the classroom , we can learn more things . 
+examples in the classroom , 	12129	Your teaching style is very attractive . If you can do more examples in the classroom , we can learn more things . 
+lectures 	12190	The lectures were good as they were constructed in an understandable manner . But there is a slight issue . Sometimes the writings on the board are not so clear as the board is too small . You have to erase it and write the rest . It may cause some ambiguity . 
+writings on the board 	12310	The lectures were good as they were constructed in an understandable manner . But there is a slight issue . Sometimes the writings on the board are not so clear as the board is too small . You have to erase it and write the rest . It may cause some ambiguity . 
+board 	12356	The lectures were good as they were constructed in an understandable manner . But there is a slight issue . Sometimes the writings on the board are not so clear as the board is too small . You have to erase it and write the rest . It may cause some ambiguity . 
+lectures 	12454	lectures were good . 
+Lectures 	12478	Lectures were good ! . Well structured ! . 
+lectures 	12571	Able to get clear understanding on the topic as lectures were gradually developed . In my opinion the lectures were well constructed and recommended good . 
+lectures 	12626	Able to get clear understanding on the topic as lectures were gradually developed . In my opinion the lectures were well constructed and recommended good . 
+lecture slides 	12695	Good . The lecture slides were well prepared with appropriate examples . I was able to understand the basic concepts well . 

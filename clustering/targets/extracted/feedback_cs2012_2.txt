@@ -1,137 +1,137 @@
-Overall content 	0
-Lectures 	34
-tutorial classes 	99
-lecture series 	143
-tutorial class 	236
-tutorial class 	378
-course 	455
-lecture 	632
-tutorial class 	746
-Lectures 	872
-Explanations 	915
-Examples 	941
-exercises 	993
-Lecture slides 	1012
-Tutorial class 	1054
-examples 	1108
-course 	1159
-Tutorial classes 	1284
-lectures 	1355
-Examples 	1397
-homework questions 	1410
-Lectures 	1693
-tutorial classes 	1851
-tutorial classes 	2332
-series of lectures 	2447
-tutorial classes 	2532
-examples 	2564
-It 	2576
-lecturer 	2655
-lecturer 	2828
-lecture series 	2842
-thread and observer observable design 	2956
-code example 	3069
-examples 	3160
-explanations 	3238
-lectures 	3300
-labs 	3313
-examples 	3397
-tutorial class 	3423
-it 	3442
-course 	3581
-Tutorial classes 	3624
-Lectures 	3718
-Course 	3884
-Work load 	3904
-Continuous assessment 	3931
-Madam Lecturer _ x 	3987
-it 	4055
-Extra classes 	4122
-Semester project 	4157
-Lectures 	4718
-tutorial class 	4731
-lectures 	4826
-tutorial 	4863
-lecture slides 	4910
-teachings 	4933
-tutorials 	5040
-time slot 	5167
-teaching approaches 	5206
-this subject 	5242
-tutorial 	5363
-lectures 	5457
-lectures 	5520
-Course 	5628
-module 	5716
-oop concepts 	5765
-Discussing past papers within the class 	5794
-tutorial classes 	5906
-tutorial classes 	5972
-lectures 	6062
-approaches to instill the concepts 	6115
-lectures 	6240
-examples 	6253
-Applying threads 	6281
-examples on threads 	6319
-Tutorial classes 	6377
-Lectures 	6454
-tutorial class 	6467
-tutorial class conducts tomorrow 	6548
-examples 	6600
-Additional class 	6782
-coding 	6810
-lecture series 	7061
-descriptive sample codes 	7130
-Tutorials 	7182
-Module 	7217
-lectures 	7265
-In class exercises 	7317
-Tutorial class 	7376
-in class exercises with practical scenarios 	7801
-it 	7871
-in class exercises 	7892
-additional exercise 	7980
-course 	8009
-lecturers commitment 	8121
-lecture series 	8205
-Tutorial class 	8263
-tutorial class 	8324
-tutorial class 	8371
-Tutorial 	8470
-project bt some exercises 	8550
-event handling 	8601
-tutorial classes 	8764
-Lab sessions 	8800
-Lectures 	8924
-teaching speed 	9018
-overall lecturing pattern 	9054
-Tutorial classes 	9102
-Course 	9188
-time 	9283
-Tutorial classes 	9305
-lecture slides 	9381
-Lecture Explanations 	9411
-introducing tutorials 	9541
-lecture series 	9675
-project 	9837
-Lectures 	9961
-OOP concepts using real world examples 	10006
-Mid examination 	10048
-examples 	10123
-tutorial classes 	10145
-practice writing codes 	10229
-lectures 	10259
-discussions among students 	10281
-lecturer 	10380
-Overall teaching 	10419
-practicals 	10470
-Tutorial 	10509
-model questions 	10569
-lot of things 	10621
-lecture series 	10646
-lecture slides 	10670
-Tutorials 	10755
-course 	11044
-Tutorials 	11082
-fundamentals of OOP 	11135
-lecture series 	11170
+Overall content 	0	Overall content is pretty good . Lectures were comprehensive . It would have been better if more tutorial classes were arranged . 
+Lectures 	34	Overall content is pretty good . Lectures were comprehensive . It would have been better if more tutorial classes were arranged . 
+tutorial classes 	99	Overall content is pretty good . Lectures were comprehensive . It would have been better if more tutorial classes were arranged . 
+lecture series 	143	All the lecture series were understandable and many questions were discussed during the class . The tutorial class really helped to solve our problems in implementing concepts that taught in the classroom . Discussing past papers during the tutorial class was really helped to get an idea about the paper and also the course . We felt free to ask question during the class time and we were able solve our questions in the classroom . So we were able to finish the course successfully . 
+tutorial class 	236	All the lecture series were understandable and many questions were discussed during the class . The tutorial class really helped to solve our problems in implementing concepts that taught in the classroom . Discussing past papers during the tutorial class was really helped to get an idea about the paper and also the course . We felt free to ask question during the class time and we were able solve our questions in the classroom . So we were able to finish the course successfully . 
+tutorial class 	378	All the lecture series were understandable and many questions were discussed during the class . The tutorial class really helped to solve our problems in implementing concepts that taught in the classroom . Discussing past papers during the tutorial class was really helped to get an idea about the paper and also the course . We felt free to ask question during the class time and we were able solve our questions in the classroom . So we were able to finish the course successfully . 
+course 	455	All the lecture series were understandable and many questions were discussed during the class . The tutorial class really helped to solve our problems in implementing concepts that taught in the classroom . Discussing past papers during the tutorial class was really helped to get an idea about the paper and also the course . We felt free to ask question during the class time and we were able solve our questions in the classroom . So we were able to finish the course successfully . 
+lecture 	632	The lecture is clear and understandable . But the person who know nothing in java could trouble at start . So If he tutorial class is conducted from the beginning it would be better . It 's pleasure studying in your lecture . Thank you . 
+tutorial class 	746	The lecture is clear and understandable . But the person who know nothing in java could trouble at start . So If he tutorial class is conducted from the beginning it would be better . It 's pleasure studying in your lecture . Thank you . 
+Lectures 	872	Lectures were good enough to understand . Explanations were good . Examples were adequate but there might be some more exercises too . 
+Explanations 	915	Lectures were good enough to understand . Explanations were good . Examples were adequate but there might be some more exercises too . 
+Examples 	941	Lectures were good enough to understand . Explanations were good . Examples were adequate but there might be some more exercises too . 
+exercises 	993	Lectures were good enough to understand . Explanations were good . Examples were adequate but there might be some more exercises too . 
+Lecture slides 	1012	Lecture slides were easy to understand . Tutorial class is very useful to me . Past paper and examples help to understand theory . Overall this course is good to me . 
+Tutorial class 	1054	Lecture slides were easy to understand . Tutorial class is very useful to me . Past paper and examples help to understand theory . Overall this course is good to me . 
+examples 	1108	Lecture slides were easy to understand . Tutorial class is very useful to me . Past paper and examples help to understand theory . Overall this course is good to me . 
+course 	1159	Lecture slides were easy to understand . Tutorial class is very useful to me . Past paper and examples help to understand theory . Overall this course is good to me . 
+Tutorial classes 	1284	The best thing I saw is that we could ask questions during the class and clear out our problems . Tutorial classes was much helpful . 
+lectures 	1355	All the lectures were well organized and great . Examples and homework questions are good and motivating . 
+Examples 	1397	All the lectures were well organized and great . Examples and homework questions are good and motivating . 
+homework questions 	1410	All the lectures were well organized and great . Examples and homework questions are good and motivating . 
+Lectures 	1693	Lectures was well structured to target the necessary theory parts . It helps to understand easily . Well describe the theories at the lectures . Specially tutorial classes helps to understand the facts through the problems . I think tutorials will help to the end exam also . I think it is better to continue these ways to this module in future also and wish to do so in future . 
+tutorial classes 	1851	Lectures was well structured to target the necessary theory parts . It helps to understand easily . Well describe the theories at the lectures . Specially tutorial classes helps to understand the facts through the problems . I think tutorials will help to the end exam also . I think it is better to continue these ways to this module in future also and wish to do so in future . 
+tutorial classes 	2332	I 'm really appreciate your dedications to teach this module from the start of this semester . Also we gained a great improvements through the tutorial classes . And I don 't have any complaints regarding this module . Thank you . 
+series of lectures 	2447	It was overall a great series of lectures . We were able to learn a lot of new things . Thanks for having tutorial classes and doing more examples . It helped us a lot . We expect Lecturer _ x to take the whole lectures . 
+tutorial classes 	2532	It was overall a great series of lectures . We were able to learn a lot of new things . Thanks for having tutorial classes and doing more examples . It helped us a lot . We expect Lecturer _ x to take the whole lectures . 
+examples 	2564	It was overall a great series of lectures . We were able to learn a lot of new things . Thanks for having tutorial classes and doing more examples . It helped us a lot . We expect Lecturer _ x to take the whole lectures . 
+It 	2576	It was overall a great series of lectures . We were able to learn a lot of new things . Thanks for having tutorial classes and doing more examples . It helped us a lot . We expect Lecturer _ x to take the whole lectures . 
+lecturer 	2655	the lecturer is very friendly and very enthusiastic to answer question . She put extra classes in order to help us to understand things more clearly . Pleasure to have a such lecturer . 
+lecturer 	2828	the lecturer is very friendly and very enthusiastic to answer question . She put extra classes in order to help us to understand things more clearly . Pleasure to have a such lecturer . 
+lecture series 	2842	lecture series is sufficient for get understand about OOP principles . Basic concepts you taught are good . But thread and observer observable design is not good enough like those . I think it will good if we are given more code example with sufficient description for make understand the coding practice . 
+thread and observer observable design 	2956	lecture series is sufficient for get understand about OOP principles . Basic concepts you taught are good . But thread and observer observable design is not good enough like those . I think it will good if we are given more code example with sufficient description for make understand the coding practice . 
+code example 	3069	lecture series is sufficient for get understand about OOP principles . Basic concepts you taught are good . But thread and observer observable design is not good enough like those . I think it will good if we are given more code example with sufficient description for make understand the coding practice . 
+examples 	3160	More examples should have been done on threads to explain the whole section . The explanations given in other sections were sufficient . 
+explanations 	3238	More examples should have been done on threads to explain the whole section . The explanations given in other sections were sufficient . 
+lectures 	3300	The lectures and labs were well organized in the whole lecture series . Madam , you tried to do more examples even arranging a tutorial class and it was very useful to us . It 's better if you can do some more questions taking a part of the time reserved to lab sessions . 
+labs 	3313	The lectures and labs were well organized in the whole lecture series . Madam , you tried to do more examples even arranging a tutorial class and it was very useful to us . It 's better if you can do some more questions taking a part of the time reserved to lab sessions . 
+examples 	3397	The lectures and labs were well organized in the whole lecture series . Madam , you tried to do more examples even arranging a tutorial class and it was very useful to us . It 's better if you can do some more questions taking a part of the time reserved to lab sessions . 
+tutorial class 	3423	The lectures and labs were well organized in the whole lecture series . Madam , you tried to do more examples even arranging a tutorial class and it was very useful to us . It 's better if you can do some more questions taking a part of the time reserved to lab sessions . 
+it 	3442	The lectures and labs were well organized in the whole lecture series . Madam , you tried to do more examples even arranging a tutorial class and it was very useful to us . It 's better if you can do some more questions taking a part of the time reserved to lab sessions . 
+course 	3581	Actually course was really good and well planned . Tutorial classes were really beneficial and if motivated to do past papers . Thank you ! . 
+Tutorial classes 	3624	Actually course was really good and well planned . Tutorial classes were really beneficial and if motivated to do past papers . Thank you ! . 
+Lectures 	3718	Lectures were interesting . Was able to understand the basics of OOP . suggestion - a way to cover basic java for students who don 't know java . Thanks . : ) . 
+Course 	3884	Course was great . Work load is acceptable . Continuous assessment tested my abilities well . I got Madam Lecturer _ x for my mid evaluation . Although I got low marks , it helped me to improve my ability , understanding my mistakes . 
+Work load 	3904	Course was great . Work load is acceptable . Continuous assessment tested my abilities well . I got Madam Lecturer _ x for my mid evaluation . Although I got low marks , it helped me to improve my ability , understanding my mistakes . 
+Continuous assessment 	3931	Course was great . Work load is acceptable . Continuous assessment tested my abilities well . I got Madam Lecturer _ x for my mid evaluation . Although I got low marks , it helped me to improve my ability , understanding my mistakes . 
+Madam Lecturer _ x 	3987	Course was great . Work load is acceptable . Continuous assessment tested my abilities well . I got Madam Lecturer _ x for my mid evaluation . Although I got low marks , it helped me to improve my ability , understanding my mistakes . 
+it 	4055	Course was great . Work load is acceptable . Continuous assessment tested my abilities well . I got Madam Lecturer _ x for my mid evaluation . Although I got low marks , it helped me to improve my ability , understanding my mistakes . 
+Extra classes 	4122	Extra classes were very helpful . Semester project was really helpful to understand the practical use of OOP concepts . Since there was no GUI included , there were no confusions . Out of three OOP projects I have done this one was the most helpful and the most clear . I am so glad I took this subject this semester , because I think I obtained . A good knowledge on OOP as well as JAVA . I am really glad since I was able to complete the project on my own and I am very confident now because of that . Looking forward to OSD course . Dear madam , thank you very much for your support . 
+Semester project 	4157	Extra classes were very helpful . Semester project was really helpful to understand the practical use of OOP concepts . Since there was no GUI included , there were no confusions . Out of three OOP projects I have done this one was the most helpful and the most clear . I am so glad I took this subject this semester , because I think I obtained . A good knowledge on OOP as well as JAVA . I am really glad since I was able to complete the project on my own and I am very confident now because of that . Looking forward to OSD course . Dear madam , thank you very much for your support . 
+Lectures 	4718	Lectures and tutorial class were very useful to improve our knowledge on object oriented concepts . 
+tutorial class 	4731	Lectures and tutorial class were very useful to improve our knowledge on object oriented concepts . 
+lectures 	4826	Your lectures were very good and also the tutorial was help us to write answers . 
+tutorial 	4863	Your lectures were very good and also the tutorial was help us to write answers . 
+lecture slides 	4910	The lecture slides and the teachings were clear and well organized and helped me to understand the necessary learning outcomes . The tutorials were important because it was a chance to understand how we should answer the questions . Wish there was a separate time slot from the very beginning . 
+teachings 	4933	The lecture slides and the teachings were clear and well organized and helped me to understand the necessary learning outcomes . The tutorials were important because it was a chance to understand how we should answer the questions . Wish there was a separate time slot from the very beginning . 
+tutorials 	5040	The lecture slides and the teachings were clear and well organized and helped me to understand the necessary learning outcomes . The tutorials were important because it was a chance to understand how we should answer the questions . Wish there was a separate time slot from the very beginning . 
+time slot 	5167	The lecture slides and the teachings were clear and well organized and helped me to understand the necessary learning outcomes . The tutorials were important because it was a chance to understand how we should answer the questions . Wish there was a separate time slot from the very beginning . 
+teaching approaches 	5206	teaching approaches are good . But this subject is very hard to me . I don 't know that how do I work with it . I have interest in this subject . We want tutorial also . Thank you . 
+this subject 	5242	teaching approaches are good . But this subject is very hard to me . I don 't know that how do I work with it . I have interest in this subject . We want tutorial also . Thank you . 
+tutorial 	5363	teaching approaches are good . But this subject is very hard to me . I don 't know that how do I work with it . I have interest in this subject . We want tutorial also . Thank you . 
+lectures 	5457	Well structured lectures . But we want some more code practice . 
+lectures 	5520	conducted lectures were well managed and understandable . I have learned valuable educational things . Thank u . 
+Course 	5628	Course is very useful . Helped to gain the knowledge from the basic concepts . 
+module 	5716	This module was well organized and helped us to learn oop concepts very clearly . Discussing past papers within the class helped us to learn the pattern of answering the questions , moreover the tutorial classes were really important and it is better have more tutorial classes . 
+oop concepts 	5765	This module was well organized and helped us to learn oop concepts very clearly . Discussing past papers within the class helped us to learn the pattern of answering the questions , moreover the tutorial classes were really important and it is better have more tutorial classes . 
+Discussing past papers within the class 	5794	This module was well organized and helped us to learn oop concepts very clearly . Discussing past papers within the class helped us to learn the pattern of answering the questions , moreover the tutorial classes were really important and it is better have more tutorial classes . 
+tutorial classes 	5906	This module was well organized and helped us to learn oop concepts very clearly . Discussing past papers within the class helped us to learn the pattern of answering the questions , moreover the tutorial classes were really important and it is better have more tutorial classes . 
+tutorial classes 	5972	This module was well organized and helped us to learn oop concepts very clearly . Discussing past papers within the class helped us to learn the pattern of answering the questions , moreover the tutorial classes were really important and it is better have more tutorial classes . 
+lectures 	6062	The lectures were well structured and informative . The approaches to instill the concepts in us were really good . The viva for the mid- evaluation was a good experience . 
+approaches to instill the concepts 	6115	The lectures were well structured and informative . The approaches to instill the concepts in us were really good . The viva for the mid- evaluation was a good experience . 
+lectures 	6240	The lectures and examples done were clear . Applying threads is confusing . More examples on threads would have been better . 
+examples 	6253	The lectures and examples done were clear . Applying threads is confusing . More examples on threads would have been better . 
+Applying threads 	6281	The lectures and examples done were clear . Applying threads is confusing . More examples on threads would have been better . 
+examples on threads 	6319	The lectures and examples done were clear . Applying threads is confusing . More examples on threads would have been better . 
+Tutorial classes 	6377	Tutorial classes were helped us to get more knowledge about this module . 
+Lectures 	6454	Lectures and tutorial class is very good and very helpful . It will be a really good help if tutorial class conducts tomorrow . 
+tutorial class 	6467	Lectures and tutorial class is very good and very helpful . It will be a really good help if tutorial class conducts tomorrow . 
+tutorial class conducts tomorrow 	6548	Lectures and tutorial class is very good and very helpful . It will be a really good help if tutorial class conducts tomorrow . 
+examples 	6600	great . More examples will be more helpful . 
+Additional class 	6782	Additional class to do more coding helped us a lot . I think that time should be more than 1 hour . If not it would be better at least if you could post sample answers for few problems like that so we could check answers ourselves and correct our faults . However I think the lecture series went well . Thank you . 
+coding 	6810	Additional class to do more coding helped us a lot . I think that time should be more than 1 hour . If not it would be better at least if you could post sample answers for few problems like that so we could check answers ourselves and correct our faults . However I think the lecture series went well . Thank you . 
+lecture series 	7061	Additional class to do more coding helped us a lot . I think that time should be more than 1 hour . If not it would be better at least if you could post sample answers for few problems like that so we could check answers ourselves and correct our faults . However I think the lecture series went well . Thank you . 
+descriptive sample codes 	7130	Good . Better if more descriptive sample codes are given and explained . Tutorials were really helpful . 
+Tutorials 	7182	Good . Better if more descriptive sample codes are given and explained . Tutorials were really helpful . 
+Module 	7217	Module was confident to learn about poop as all lectures were well structured and well organized . In class exercises were also useful to learn the module . Tutorial class is more valuable than them because it is easy to understand theories after doing self- studies . I can ensure that I got a clear knowledge about poop and how to apply them in practically . 
+lectures 	7265	Module was confident to learn about poop as all lectures were well structured and well organized . In class exercises were also useful to learn the module . Tutorial class is more valuable than them because it is easy to understand theories after doing self- studies . I can ensure that I got a clear knowledge about poop and how to apply them in practically . 
+In class exercises 	7317	Module was confident to learn about poop as all lectures were well structured and well organized . In class exercises were also useful to learn the module . Tutorial class is more valuable than them because it is easy to understand theories after doing self- studies . I can ensure that I got a clear knowledge about poop and how to apply them in practically . 
+Tutorial class 	7376	Module was confident to learn about poop as all lectures were well structured and well organized . In class exercises were also useful to learn the module . Tutorial class is more valuable than them because it is easy to understand theories after doing self- studies . I can ensure that I got a clear knowledge about poop and how to apply them in practically . 
+in class exercises with practical scenarios 	7801	I really liked the course . After the mid semester I found it difficult to code what had been taught ( as I have no previous knowledge in coding in Java ) . Madam , I suggest it would have been better if you give more in class exercises with practical scenarios earlier rather than doing it at the end . The in class exercises help a lot in understanding the theory plus coding it . 
+it 	7871	I really liked the course . After the mid semester I found it difficult to code what had been taught ( as I have no previous knowledge in coding in Java ) . Madam , I suggest it would have been better if you give more in class exercises with practical scenarios earlier rather than doing it at the end . The in class exercises help a lot in understanding the theory plus coding it . 
+in class exercises 	7892	I really liked the course . After the mid semester I found it difficult to code what had been taught ( as I have no previous knowledge in coding in Java ) . Madam , I suggest it would have been better if you give more in class exercises with practical scenarios earlier rather than doing it at the end . The in class exercises help a lot in understanding the theory plus coding it . 
+additional exercise 	7980	Need more additional exercise . 
+course 	8009	The course is really good . But I feel that it would be better if we can have a java class running parallel . The lecturers commitment can be clearly seen and should be appreciated . 
+lecturers commitment 	8121	The course is really good . But I feel that it would be better if we can have a java class running parallel . The lecturers commitment can be clearly seen and should be appreciated . 
+lecture series 	8205	I think the lecture series was great . There is no much to change . Tutorial class was extremely helpful . I learned a lot from tutorial class . Thank you for conducting the tutorial class spending your valuable time madam . It was a great pleasure learning from you . 
+Tutorial class 	8263	I think the lecture series was great . There is no much to change . Tutorial class was extremely helpful . I learned a lot from tutorial class . Thank you for conducting the tutorial class spending your valuable time madam . It was a great pleasure learning from you . 
+tutorial class 	8324	I think the lecture series was great . There is no much to change . Tutorial class was extremely helpful . I learned a lot from tutorial class . Thank you for conducting the tutorial class spending your valuable time madam . It was a great pleasure learning from you . 
+tutorial class 	8371	I think the lecture series was great . There is no much to change . Tutorial class was extremely helpful . I learned a lot from tutorial class . Thank you for conducting the tutorial class spending your valuable time madam . It was a great pleasure learning from you . 
+Tutorial 	8470	Tutorial is good to develop answering to papers . 
+project bt some exercises 	8550	Give lab not only for semi project bt some exercises especially in thread and event handling . Give some sample coding to fill . And give a startup cls in the beginning apart from oop for java language . 
+event handling 	8601	Give lab not only for semi project bt some exercises especially in thread and event handling . Give some sample coding to fill . And give a startup cls in the beginning apart from oop for java language . 
+tutorial classes 	8764	We got more advantages from the tutorial classes . But I think the Lab sessions were not used efficiently . If every lab session had a submission of semester project it could be useful . 
+Lab sessions 	8800	We got more advantages from the tutorial classes . But I think the Lab sessions were not used efficiently . If every lab session had a submission of semester project it could be useful . 
+Lectures 	8924	Lectures are well structured , so we can . Catch points of the lesson easily . But sometimes teaching speed was very high . But overall lecturing pattern was satisfactory . 
+teaching speed 	9018	Lectures are well structured , so we can . Catch points of the lesson easily . But sometimes teaching speed was very high . But overall lecturing pattern was satisfactory . 
+overall lecturing pattern 	9054	Lectures are well structured , so we can . Catch points of the lesson easily . But sometimes teaching speed was very high . But overall lecturing pattern was satisfactory . 
+Tutorial classes 	9102	Tutorial classes helped me to understand the lessons properly , with the examples . 
+Course 	9188	Course was good . Good idea to evaluate the game after the exam because then we can give more time to develop it . Tutorial classes were very helpful . Sometimes I felt details were less in lecture slides . 
+time 	9283	Course was good . Good idea to evaluate the game after the exam because then we can give more time to develop it . Tutorial classes were very helpful . Sometimes I felt details were less in lecture slides . 
+Tutorial classes 	9305	Course was good . Good idea to evaluate the game after the exam because then we can give more time to develop it . Tutorial classes were very helpful . Sometimes I felt details were less in lecture slides . 
+lecture slides 	9381	Course was good . Good idea to evaluate the game after the exam because then we can give more time to develop it . Tutorial classes were very helpful . Sometimes I felt details were less in lecture slides . 
+Lecture Explanations 	9411	Madam , . Lecture Explanations are very good and enough , Can you explain about the semi exam paper model ? . We want a coding exercise . 
+introducing tutorials 	9541	introducing tutorials was great . : - ) . I really participated in each and every tutorial and participated all of the lectures because lecture series were so efficient and interesting . Madame I think it would have been better if regular tasks were given in the labs instead of carrying a single project throughout the semester . 
+lecture series 	9675	introducing tutorials was great . : - ) . I really participated in each and every tutorial and participated all of the lectures because lecture series were so efficient and interesting . Madame I think it would have been better if regular tasks were given in the labs instead of carrying a single project throughout the semester . 
+project 	9837	introducing tutorials was great . : - ) . I really participated in each and every tutorial and participated all of the lectures because lecture series were so efficient and interesting . Madame I think it would have been better if regular tasks were given in the labs instead of carrying a single project throughout the semester . 
+Lectures 	9961	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+OOP concepts using real world examples 	10006	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+Mid examination 	10048	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+examples 	10123	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+tutorial classes 	10145	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+practice writing codes 	10229	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+lectures 	10259	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+discussions among students 	10281	Lectures were well planned and explained the OOP concepts using real world examples . Mid examination and the viva helped me to check my knowledge in OOP . The examples discussed in tutorial classes were very useful to get an understanding about the concepts and to practice writing codes . The lectures were kind of discussions among students and students were free to ask questions about the subject . 
+lecturer 	10380	friendly lecturer . Help us in any question . Overall teaching can be recommended as good . But practicals are not well organized . 
+Overall teaching 	10419	friendly lecturer . Help us in any question . Overall teaching can be recommended as good . But practicals are not well organized . 
+practicals 	10470	friendly lecturer . Help us in any question . Overall teaching can be recommended as good . But practicals are not well organized . 
+Tutorial 	10509	Tutorial classed in which we discussed past exam papers and model questions were really helpful . 
+model questions 	10569	Tutorial classed in which we discussed past exam papers and model questions were really helpful . 
+lot of things 	10621	I learnt a lot of things during the lecture series and also lecture slides were very useful . I sincerely grateful about the tutorial also . 
+lecture series 	10646	I learnt a lot of things during the lecture series and also lecture slides were very useful . I sincerely grateful about the tutorial also . 
+lecture slides 	10670	I learnt a lot of things during the lecture series and also lecture slides were very useful . I sincerely grateful about the tutorial also . 
+Tutorials 	10755	Tutorials which conducted by you were very helpful . So we had a proper idea how to answer questions in the paper and got a wide and clear idea about the subject matter while answering the practical related questions . 
+course 	11044	The course was done in a proper manner . Tutorials are useful . I was able to understand the fundamentals of OOP . 
+Tutorials 	11082	The course was done in a proper manner . Tutorials are useful . I was able to understand the fundamentals of OOP . 
+fundamentals of OOP 	11135	The course was done in a proper manner . Tutorials are useful . I was able to understand the fundamentals of OOP . 
+lecture series 	11170	very good lecture series . Madam could you please upload the 2014 OOP exam paper . 

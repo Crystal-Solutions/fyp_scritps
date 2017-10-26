@@ -14,8 +14,6 @@ import clustering_evaluator
 from kmedoids import kmedoids
 import string_similarity_clustering
 
-RESULTS_PATH = "./results/" #folder to save clustering results
-EVALUATED_RESULTS = "./evaluated/" #folder to save after evaluating clusters - NOT USED
 TARGETS_PATH = "./targets/annotated/" #folder which contains targets files
 #folder to save annotated clusters - [annotated- extracted-using annotated targets, extracted-using extracted targets]
 CLUSTERS_PATH = "./clusters/annotated/" 
@@ -70,27 +68,6 @@ def cluster_kmedoids(no_of_phrases, distances):
 def cluster_string_similarity(similarities):
     C = string_similarity_clustering.cluster_similar_strings(similarities)
     return C
-
-def clustering_results(clusters, medoids=None):
-    results_file = open(RESULTS_PATH+TARGETS_FILE, 'w')
-    
-    if medoids != None:
-        print('medoids:')
-        results_file.write('medoids:\n')
-        for point_idx in medoids:
-            print( phrases[point_idx] )
-            results_file.write( phrases[point_idx]+'\n' )
-            
-    print('')
-    results_file.write('\n')
-    print('clustering result:')
-    results_file.write('clustering result:\n')
-    for label in clusters:
-        for point_idx in clusters[label]:
-            print('cluster {0}:　{1}'.format(label, phrases[point_idx]))
-            results_file.write('cluster '+str(label)+': '+phrases[point_idx]+'\n')
-            
-    results_file.close()
 
 # create a list of labels
 def get_labels_list(clusters, no_of_phrases):

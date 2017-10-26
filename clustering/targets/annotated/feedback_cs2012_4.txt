@@ -1,146 +1,146 @@
-It 	0
-time 	139
-lecture 	264
-lecture 	315
-time 	399
-time 	484
-Mr. Lecturer _ y 's lecture 	521
-He 	586
-real world examples 	628
-Mr. Lecturer _ y 	689
-today 's lecture 	784
-lecture on CSE conference 	825
-lecture 	923
-you 	935
-new things like transition diagrams , 	973
-CRC modeling 	1010
-You 	1026
-verb - noun technique 	1078
-time 	1228
-session 	1339
-lecture 	1372
-time 	1613
-lecture 	1744
-ample examples 	1784
-It 	1811
-It 	1872
-session 	1987
-lecture 	2029
-program 	2177
-lecture 	2249
-examples ( 	2299
-lecture 	2375
-examples 	2390
-theories of OOP 	2436
-He 	2455
-It 	2491
-lecture 	2521
-lecture 	2610
-what you 've talked about uml diagrams 	2674
-their content 	2814
-you 	3025
-lecture 	3045
-lecture 	3089
-He 	3116
-lecture 	3201
-Mr. Lecturer _ y 	3209
-You 	3283
-event explanation 	3404
-It 	3456
-lecture 	3489
-lecture 	3539
-Noun / Verb Analysis , 	3660
-CRC Modeling , 	3680
-OO Principles - SOLID theories 	3694
-Polymorphism from JAVA 	3909
-session 	4052
-object oriented programming concepts 	4083
-session 	4151
-It 	4185
-All the facts 	4246
-examples 	4285
-It 	4416
-session 	4470
-follow up sessions 	4511
-It 	4552
-it 	4800
-lecture 	4882
-lecture 	5033
-Lecture 	5066
-lecture 	5120
-concept of OOP , 	5156
-time 	5257
-last part 	5277
-art of programming 	5417
-what the industrial background of CS engineer 	5478
-explanations of Abstraction and UML diagrams 	5540
-time 	5633
-It 	5695
-abstract 	5731
-polymorphism explanation 	5744
-guest lecture 	5825
-Your examples 	5842
-You 	5923
-guest lecture 	6092
-examples taken by Lecturer _ y sir to explain the concepts 	6153
-lecture 	6228
-It 	6329
-lecture 	6351
-It 	6362
-What is a state and the State Transition diagrams 	6391
-you 	6449
-references given 	6537
-lecture 	6641
-It 	6683
-lecture 	6905
-It 	6968
-session 	7172
-it 	7250
-example for that concepts 	7349
-diagrams such as state diagram , class diagram etc , 	7427
-his teaching experience 	7584
-e - resources 	7630
-book for references 	7647
-lecture , 	7699
-guest lecture 	7792
-time slot 	7980
-lecture 	8212
-He 	8246
-He 	8349
-lecture 	8453
-material 	8478
-it 	8501
-references 	8587
-lecture 	8774
-states , 	8805
-abstraction 	8813
-polymorphism 	8829
-references 	8873
-They 	8903
-lecture 	8968
-examples 	9195
-lecture 	9384
-lecture 	9399
-Examples 	9450
-lecture 	9550
-ideas 	9590
-session 	9628
-It 	9676
-OOP principles 	9709
-UML 	9728
-state diagrams 	9736
-information you shared 	9781
-lecture 	9829
-lecture 	10185
-important of the OOP concept , when we work in industry 	10219
-it 	10299
-noun / verb analysis 	10353
-CRC modeling 	10376
-it 	10431
-ways of referring books 	10523
-guest lecture 	10641
-lecture 	10695
-lecture slides given in the guest lecture 	10807
-important concepts 	10909
-Abstraction , 	10936
-Polymorphism 	10949
+It 	0	It was very informative and interesting . I personally got many unclear things about oop cleared during this lecture . Unfortunately the time was not enough . I would like to thank Mr. Lecturer _ y for Sacrificing his valuable time and effort . 
+time 	139	It was very informative and interesting . I personally got many unclear things about oop cleared during this lecture . Unfortunately the time was not enough . I would like to thank Mr. Lecturer _ y for Sacrificing his valuable time and effort . 
+lecture 	264	It was a great lecture . I have learnt a lot of things from that lecture like practical use of abstraction . It would be better if he had some more time because I think in the lecture he had to speed up because he had not got enough time . Thank you very much sir . 
+lecture 	315	It was a great lecture . I have learnt a lot of things from that lecture like practical use of abstraction . It would be better if he had some more time because I think in the lecture he had to speed up because he had not got enough time . Thank you very much sir . 
+time 	399	It was a great lecture . I have learnt a lot of things from that lecture like practical use of abstraction . It would be better if he had some more time because I think in the lecture he had to speed up because he had not got enough time . Thank you very much sir . 
+time 	484	It was a great lecture . I have learnt a lot of things from that lecture like practical use of abstraction . It would be better if he had some more time because I think in the lecture he had to speed up because he had not got enough time . Thank you very much sir . 
+Mr. Lecturer _ y 's lecture 	521	Mr. Lecturer _ y 's lecture was very informative and interesting . He explained theories using well matching real world examples . We happy to have another lecture from Mr. Lecturer _ y . 
+He 	586	Mr. Lecturer _ y 's lecture was very informative and interesting . He explained theories using well matching real world examples . We happy to have another lecture from Mr. Lecturer _ y . 
+real world examples 	628	Mr. Lecturer _ y 's lecture was very informative and interesting . He explained theories using well matching real world examples . We happy to have another lecture from Mr. Lecturer _ y . 
+Mr. Lecturer _ y 	689	Mr. Lecturer _ y 's lecture was very informative and interesting . He explained theories using well matching real world examples . We happy to have another lecture from Mr. Lecturer _ y . 
+today 's lecture 	784	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+lecture on CSE conference 	825	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+lecture 	923	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+you 	935	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+new things like transition diagrams , 	973	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+CRC modeling 	1010	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+You 	1026	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+verb - noun technique 	1078	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+time 	1228	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+session 	1339	First of all thank you for allocating your valuable time for us . I found today 's lecture very informative . Your lecture on CSE conference was very interesting . When I saw you today I looked forward to a good lecture and you did a fine job . I learned about new things like transition diagrams , CRC modeling . You did brush up my knowledge . I believe that the verb - noun technique you taught to identify objects , methods will be very useful during this semester as well in future . I wished that you had more time complete the lecture . Nothing bad I can think of to point out . Hope to see you in another informative session . Thanks again . 
+lecture 	1372	The lecture was amazing and provided us an insight into practical applications of OOP concepts and about how the corporate world applications use them . We got a summary of what we had learned so far . The only regret was we did not have more time for the lecture . 
+time 	1613	The lecture was amazing and provided us an insight into practical applications of OOP concepts and about how the corporate world applications use them . We got a summary of what we had learned so far . The only regret was we did not have more time for the lecture . 
+lecture 	1744	We are grateful to Mr. Lecturer _ y for conducting the guest lecture on Object oriented programming . The lecture was easy to understand with the ample examples provided . It helped to clear certain doubts we had on the subject . 
+ample examples 	1784	We are grateful to Mr. Lecturer _ y for conducting the guest lecture on Object oriented programming . The lecture was easy to understand with the ample examples provided . It helped to clear certain doubts we had on the subject . 
+It 	1811	We are grateful to Mr. Lecturer _ y for conducting the guest lecture on Object oriented programming . The lecture was easy to understand with the ample examples provided . It helped to clear certain doubts we had on the subject . 
+It 	1872	It was very much interesting . It would be better if we would have a another session . 
+session 	1987	Actually it was a great session . We got lot of things from your lecture . Specially regarding industrial side aspects . It will be really helpful for us in near future . Thank you sir . 
+lecture 	2029	Actually it was a great session . We got lot of things from your lecture . Specially regarding industrial side aspects . It will be really helpful for us in near future . Thank you sir . 
+program 	2177	It was a successful program than I thought and learnt many new things . 
+lecture 	2249	It was very good lecture actually , It is better if there were more examples ( Real Software projects ) when describing things . 
+examples ( 	2299	It was very good lecture actually , It is better if there were more examples ( Real Software projects ) when describing things . 
+lecture 	2375	It was a good lecture . The examples given made it easy to understand the theories of OOP . He suggested books for reference . It was very useful . 
+examples 	2390	It was a good lecture . The examples given made it easy to understand the theories of OOP . He suggested books for reference . It was very useful . 
+theories of OOP 	2436	It was a good lecture . The examples given made it easy to understand the theories of OOP . He suggested books for reference . It was very useful . 
+He 	2455	It was a good lecture . The examples given made it easy to understand the theories of OOP . He suggested books for reference . It was very useful . 
+It 	2491	It was a good lecture . The examples given made it easy to understand the theories of OOP . He suggested books for reference . It was very useful . 
+lecture 	2521	Great lecture . Learned lot of things from you . Thank you for your time . 
+lecture 	2610	It was a great lecture which talked to all basic aspects of OOP . Especially , what you 've talked about uml diagrams gave me a great interest to study more about it . I found the books which you asked and I think that their content is much important . Thank you sir for giving such references . And the last but not the least , having lecture with you , a great figure in Software Industry , I learnt many exemplary features from you and you did the lecture so openly . Thank you sir . 
+what you 've talked about uml diagrams 	2674	It was a great lecture which talked to all basic aspects of OOP . Especially , what you 've talked about uml diagrams gave me a great interest to study more about it . I found the books which you asked and I think that their content is much important . Thank you sir for giving such references . And the last but not the least , having lecture with you , a great figure in Software Industry , I learnt many exemplary features from you and you did the lecture so openly . Thank you sir . 
+their content 	2814	It was a great lecture which talked to all basic aspects of OOP . Especially , what you 've talked about uml diagrams gave me a great interest to study more about it . I found the books which you asked and I think that their content is much important . Thank you sir for giving such references . And the last but not the least , having lecture with you , a great figure in Software Industry , I learnt many exemplary features from you and you did the lecture so openly . Thank you sir . 
+you 	3025	It was a great lecture which talked to all basic aspects of OOP . Especially , what you 've talked about uml diagrams gave me a great interest to study more about it . I found the books which you asked and I think that their content is much important . Thank you sir for giving such references . And the last but not the least , having lecture with you , a great figure in Software Industry , I learnt many exemplary features from you and you did the lecture so openly . Thank you sir . 
+lecture 	3045	It was a great lecture which talked to all basic aspects of OOP . Especially , what you 've talked about uml diagrams gave me a great interest to study more about it . I found the books which you asked and I think that their content is much important . Thank you sir for giving such references . And the last but not the least , having lecture with you , a great figure in Software Industry , I learnt many exemplary features from you and you did the lecture so openly . Thank you sir . 
+lecture 	3089	The lecture was really good . He was very interactive . Hope to hear from him again . 
+He 	3116	The lecture was really good . He was very interactive . Hope to hear from him again . 
+lecture 	3201	It was really an awesome lecture Mr. Lecturer _ y . I understood a lot about abstraction in that lecture . You explained that concept simply but with all the facts that would help our mind to create a picture abstraction . The event explanation was good too . Thanks a lot . 
+Mr. Lecturer _ y 	3209	It was really an awesome lecture Mr. Lecturer _ y . I understood a lot about abstraction in that lecture . You explained that concept simply but with all the facts that would help our mind to create a picture abstraction . The event explanation was good too . Thanks a lot . 
+You 	3283	It was really an awesome lecture Mr. Lecturer _ y . I understood a lot about abstraction in that lecture . You explained that concept simply but with all the facts that would help our mind to create a picture abstraction . The event explanation was good too . Thanks a lot . 
+event explanation 	3404	It was really an awesome lecture Mr. Lecturer _ y . I understood a lot about abstraction in that lecture . You explained that concept simply but with all the facts that would help our mind to create a picture abstraction . The event explanation was good too . Thanks a lot . 
+It 	3456	It was very good and interesting lecture . 
+lecture 	3489	It was very good and interesting lecture . 
+lecture 	3539	Your brief but resourceful and sharp lecture was very helpful to get an " out of box " idea about what we were learning during last few weeks . I am sure that Noun / Verb Analysis , CRC Modeling , OO Principles - SOLID theories that you taught us on that day , will make our lives easier when developing a new program . But as we are learning OOP concepts by JAVA , it would be more effective if you had explained Polymorphism from JAVA instead of C plus plus . Thank you sir very much for spending your valuable time for us . 
+Noun / Verb Analysis , 	3660	Your brief but resourceful and sharp lecture was very helpful to get an " out of box " idea about what we were learning during last few weeks . I am sure that Noun / Verb Analysis , CRC Modeling , OO Principles - SOLID theories that you taught us on that day , will make our lives easier when developing a new program . But as we are learning OOP concepts by JAVA , it would be more effective if you had explained Polymorphism from JAVA instead of C plus plus . Thank you sir very much for spending your valuable time for us . 
+CRC Modeling , 	3680	Your brief but resourceful and sharp lecture was very helpful to get an " out of box " idea about what we were learning during last few weeks . I am sure that Noun / Verb Analysis , CRC Modeling , OO Principles - SOLID theories that you taught us on that day , will make our lives easier when developing a new program . But as we are learning OOP concepts by JAVA , it would be more effective if you had explained Polymorphism from JAVA instead of C plus plus . Thank you sir very much for spending your valuable time for us . 
+OO Principles - SOLID theories 	3694	Your brief but resourceful and sharp lecture was very helpful to get an " out of box " idea about what we were learning during last few weeks . I am sure that Noun / Verb Analysis , CRC Modeling , OO Principles - SOLID theories that you taught us on that day , will make our lives easier when developing a new program . But as we are learning OOP concepts by JAVA , it would be more effective if you had explained Polymorphism from JAVA instead of C plus plus . Thank you sir very much for spending your valuable time for us . 
+Polymorphism from JAVA 	3909	Your brief but resourceful and sharp lecture was very helpful to get an " out of box " idea about what we were learning during last few weeks . I am sure that Noun / Verb Analysis , CRC Modeling , OO Principles - SOLID theories that you taught us on that day , will make our lives easier when developing a new program . But as we are learning OOP concepts by JAVA , it would be more effective if you had explained Polymorphism from JAVA instead of C plus plus . Thank you sir very much for spending your valuable time for us . 
+session 	4052	It was a very informative session . Gained knowledge on object oriented programming concepts . 
+object oriented programming concepts 	4083	It was a very informative session . Gained knowledge on object oriented programming concepts . 
+session 	4151	It was a very informative session . Thank you . : - ) . 
+It 	4185	It was great help for me to understand some points in OOP . All the facts were clearly taught with examples . So we did not have to think much to understand lots of them . Thank you very much for sacrificing your time for us . It was a great help for me . 
+All the facts 	4246	It was great help for me to understand some points in OOP . All the facts were clearly taught with examples . So we did not have to think much to understand lots of them . Thank you very much for sacrificing your time for us . It was a great help for me . 
+examples 	4285	It was great help for me to understand some points in OOP . All the facts were clearly taught with examples . So we did not have to think much to understand lots of them . Thank you very much for sacrificing your time for us . It was a great help for me . 
+It 	4416	It was great help for me to understand some points in OOP . All the facts were clearly taught with examples . So we did not have to think much to understand lots of them . Thank you very much for sacrificing your time for us . It was a great help for me . 
+session 	4470	It was an interesting session . It 's better if there are some follow up sessions too . Thank you . 
+follow up sessions 	4511	It was an interesting session . It 's better if there are some follow up sessions too . Thank you . 
+It 	4552	It was really helpful to find the relevance of oop in software developing . Even though I 'd gone through the theorems and definitions off oop to a certain extent , still I find it somewhat difficult to apply ones it comes to the design phase . So it helped be a great deal to enhance OOP thinking pattern . 
+it 	4800	It was really helpful to find the relevance of oop in software developing . Even though I 'd gone through the theorems and definitions off oop to a certain extent , still I find it somewhat difficult to apply ones it comes to the design phase . So it helped be a great deal to enhance OOP thinking pattern . 
+lecture 	4882	It 's a interesting lecture and I got a good understand about how to apply OOP concepts to real practical things . I would like to thank Mr. Lecturer _ y to give us a good lecture . 
+lecture 	5033	It 's a interesting lecture and I got a good understand about how to apply OOP concepts to real practical things . I would like to thank Mr. Lecturer _ y to give us a good lecture . 
+Lecture 	5066	Excellent Lecture . Thank you very much Sir . 
+lecture 	5120	It was a good lecture . We learnt more about the concept of OOP , and clear some doubts about the subject matters . It had been better if you had the time to explain the last part of the lecture more briefly . Thank you sir for your valuable time and the effort contributed to improve our knowledge about the art of programming . 
+concept of OOP , 	5156	It was a good lecture . We learnt more about the concept of OOP , and clear some doubts about the subject matters . It had been better if you had the time to explain the last part of the lecture more briefly . Thank you sir for your valuable time and the effort contributed to improve our knowledge about the art of programming . 
+time 	5257	It was a good lecture . We learnt more about the concept of OOP , and clear some doubts about the subject matters . It had been better if you had the time to explain the last part of the lecture more briefly . Thank you sir for your valuable time and the effort contributed to improve our knowledge about the art of programming . 
+last part 	5277	It was a good lecture . We learnt more about the concept of OOP , and clear some doubts about the subject matters . It had been better if you had the time to explain the last part of the lecture more briefly . Thank you sir for your valuable time and the effort contributed to improve our knowledge about the art of programming . 
+art of programming 	5417	It was a good lecture . We learnt more about the concept of OOP , and clear some doubts about the subject matters . It had been better if you had the time to explain the last part of the lecture more briefly . Thank you sir for your valuable time and the effort contributed to improve our knowledge about the art of programming . 
+what the industrial background of CS engineer 	5478	I think it is helps us to understand what the industrial background of CS engineer . Further your explanations of Abstraction and UML diagrams are interest . We are luckiest , if we had more time to discuss other topics . Thank you very much Sir ! . 
+explanations of Abstraction and UML diagrams 	5540	I think it is helps us to understand what the industrial background of CS engineer . Further your explanations of Abstraction and UML diagrams are interest . We are luckiest , if we had more time to discuss other topics . Thank you very much Sir ! . 
+time 	5633	I think it is helps us to understand what the industrial background of CS engineer . Further your explanations of Abstraction and UML diagrams are interest . We are luckiest , if we had more time to discuss other topics . Thank you very much Sir ! . 
+It 	5695	It is very useful . Especially the abstract and polymorphism explanation is very good . 
+abstract 	5731	It is very useful . Especially the abstract and polymorphism explanation is very good . 
+polymorphism explanation 	5744	It is very useful . Especially the abstract and polymorphism explanation is very good . 
+guest lecture 	5825	Thank you sir for having an excellent guest lecture . Your examples are brilliant . Thank you for sharing your experiences with us . You told really good ways to study . And you showed us that we must search and learn more on modern software trends which always change . Thank you sir again . 
+Your examples 	5842	Thank you sir for having an excellent guest lecture . Your examples are brilliant . Thank you for sharing your experiences with us . You told really good ways to study . And you showed us that we must search and learn more on modern software trends which always change . Thank you sir again . 
+You 	5923	Thank you sir for having an excellent guest lecture . Your examples are brilliant . Thank you for sharing your experiences with us . You told really good ways to study . And you showed us that we must search and learn more on modern software trends which always change . Thank you sir again . 
+guest lecture 	6092	The guest lecture was very interesting and informative ! . 
+examples taken by Lecturer _ y sir to explain the concepts 	6153	The examples taken by Lecturer _ y sir to explain the concepts were great . The lecture was inspiring us to do our best . 
+lecture 	6228	The examples taken by Lecturer _ y sir to explain the concepts were great . The lecture was inspiring us to do our best . 
+It 	6329	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+lecture 	6351	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+It 	6362	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+What is a state and the State Transition diagrams 	6391	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+you 	6449	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+references given 	6537	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+lecture 	6641	Thank you Sir for spending your valuable time for us . It was really a great lecture . It gave us a good idea about What is a state and the State Transition diagrams . Also you reminded us some OO principles and explain them to renew our memory . Moreover the references given by you are very important . Again thank you very much Sir for conducting such a great lecture and hope you will never stop . 
+It 	6683	It was great . I got to know about lot of people who are related on this field and I read some articles published by them , kind of new experience to me , things that I never thought of . Superb . 
+lecture 	6905	It was a very helpful lecture to know the real use of what we have learned so far . It gave us a good opportunity to improve our software designs because of the knowledge we got about real life aspects and their proper usage than just applying all we learned in class . I appreciate the session and expect more in future so that we can be better over the time . 
+It 	6968	It was a very helpful lecture to know the real use of what we have learned so far . It gave us a good opportunity to improve our software designs because of the knowledge we got about real life aspects and their proper usage than just applying all we learned in class . I appreciate the session and expect more in future so that we can be better over the time . 
+session 	7172	It was a very helpful lecture to know the real use of what we have learned so far . It gave us a good opportunity to improve our software designs because of the knowledge we got about real life aspects and their proper usage than just applying all we learned in class . I appreciate the session and expect more in future so that we can be better over the time . 
+it 	7250	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+example for that concepts 	7349	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+diagrams such as state diagram , class diagram etc , 	7427	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+his teaching experience 	7584	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+e - resources 	7630	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+book for references 	7647	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+lecture , 	7699	it was very useful I further understand the basic concept of oop clearly . He told . Interesting example for that concepts that were unforgettable . And aslo he taught about diagrams such as state diagram , class diagram etc , very well . And also very interesting things in lecture are he told his experience about his studies and his teaching experience and also he gave many e - resources and book for references . Thank you sir for your great lecture , . p. s - I expect your lecture in future ! . 
+guest lecture 	7792	Dear Sir , . It was a very important guest lecture of OOP concepts , techniques of software analysis and designs . Thank you very much for sharing your knowledge and experiences with us . It would be better if we had a long time slot about 4- 5 hours . Hope to have another lecture from you sir . Thank you very much . Best Regards , . Chanaka Lakmal . Undergraduate of Computer Science and Engineering , . University of Moratuwa , . Moratuwa . 
+time slot 	7980	Dear Sir , . It was a very important guest lecture of OOP concepts , techniques of software analysis and designs . Thank you very much for sharing your knowledge and experiences with us . It would be better if we had a long time slot about 4- 5 hours . Hope to have another lecture from you sir . Thank you very much . Best Regards , . Chanaka Lakmal . Undergraduate of Computer Science and Engineering , . University of Moratuwa , . Moratuwa . 
+lecture 	8212	The lecture was really interesting . He motivated us to do extra reading apart from just managing to cover up every - day compulsory work . He gave a general idea on how and where some of the concepts we learned are actually applied . 
+He 	8246	The lecture was really interesting . He motivated us to do extra reading apart from just managing to cover up every - day compulsory work . He gave a general idea on how and where some of the concepts we learned are actually applied . 
+He 	8349	The lecture was really interesting . He motivated us to do extra reading apart from just managing to cover up every - day compulsory work . He gave a general idea on how and where some of the concepts we learned are actually applied . 
+lecture 	8453	Great lecture sir , really good material and above all it was more informative than any other guest lecture lecture we had . Thanks for the references as well . State diagrams will come in handy for us sooner rather than later . Once again thanks for your kind concern for us despite your rather busy work schedule . 
+material 	8478	Great lecture sir , really good material and above all it was more informative than any other guest lecture lecture we had . Thanks for the references as well . State diagrams will come in handy for us sooner rather than later . Once again thanks for your kind concern for us despite your rather busy work schedule . 
+it 	8501	Great lecture sir , really good material and above all it was more informative than any other guest lecture lecture we had . Thanks for the references as well . State diagrams will come in handy for us sooner rather than later . Once again thanks for your kind concern for us despite your rather busy work schedule . 
+references 	8587	Great lecture sir , really good material and above all it was more informative than any other guest lecture lecture we had . Thanks for the references as well . State diagrams will come in handy for us sooner rather than later . Once again thanks for your kind concern for us despite your rather busy work schedule . 
+lecture 	8774	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+states , 	8805	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+abstraction 	8813	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+polymorphism 	8829	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+references 	8873	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+They 	8903	Good lecture . Got good idea about states , abstraction and polymorphism . Thank you very much for the references you gave us sir . They are very useful . Thanks . 
+lecture 	8968	Sir , . It was a very useful lecture . I wanted to know how a software engineer in the field deals up with the concepts that we learn today . So I got what I wanted and it was the best thing . And the things you made taking with some really explainable examples made the facts registered in our brain . Thank You Sir . 
+examples 	9195	Sir , . It was a very useful lecture . I wanted to know how a software engineer in the field deals up with the concepts that we learn today . So I got what I wanted and it was the best thing . And the things you made taking with some really explainable examples made the facts registered in our brain . Thank You Sir . 
+lecture 	9384	Dear Lecturer _ y sir ; . First of all I would like to thank you for spend your valuable time to give us such a valuable lecture . The lecture was totally organized and well arranged . Examples were much familiar for us . And we love share your golden experience . It was not just a lecture you gave us many other valuable ideas too . Thank you again . 
+lecture 	9399	Dear Lecturer _ y sir ; . First of all I would like to thank you for spend your valuable time to give us such a valuable lecture . The lecture was totally organized and well arranged . Examples were much familiar for us . And we love share your golden experience . It was not just a lecture you gave us many other valuable ideas too . Thank you again . 
+Examples 	9450	Dear Lecturer _ y sir ; . First of all I would like to thank you for spend your valuable time to give us such a valuable lecture . The lecture was totally organized and well arranged . Examples were much familiar for us . And we love share your golden experience . It was not just a lecture you gave us many other valuable ideas too . Thank you again . 
+lecture 	9550	Dear Lecturer _ y sir ; . First of all I would like to thank you for spend your valuable time to give us such a valuable lecture . The lecture was totally organized and well arranged . Examples were much familiar for us . And we love share your golden experience . It was not just a lecture you gave us many other valuable ideas too . Thank you again . 
+ideas 	9590	Dear Lecturer _ y sir ; . First of all I would like to thank you for spend your valuable time to give us such a valuable lecture . The lecture was totally organized and well arranged . Examples were much familiar for us . And we love share your golden experience . It was not just a lecture you gave us many other valuable ideas too . Thank you again . 
+session 	9628	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+It 	9676	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+OOP principles 	9709	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+UML 	9728	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+state diagrams 	9736	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+information you shared 	9781	The session was rather informative and inspiring . It helped us a lot to understand OOP principles and UML and state diagrams . Thank you for the valuable information you shared with us . 
+lecture 	9829	Sir , . The lecture was great . Actually I didn 't like the OOP before because it looked like a waste of memory and processing power but after your lecture I realized that why it is so important . Further , thank you for inspiring us about the founders of these concepts . As you said I will try to read those books form 'c over to cover ' . Thanks . 
+lecture 	10185	it was a good lecture to me . I understand the important of the OOP concept , when we work in industry . Thank You . 
+important of the OOP concept , when we work in industry 	10219	it was a good lecture to me . I understand the important of the OOP concept , when we work in industry . Thank You . 
+it 	10299	Really it was very important for me . Got an idea about the noun / verb analysis and CRC modeling for the first time . In my point of view it was good that you touched several parts of OOP concepts . The things you told about the ways of referring books were very important . Hope we would have more . Thank you . 
+noun / verb analysis 	10353	Really it was very important for me . Got an idea about the noun / verb analysis and CRC modeling for the first time . In my point of view it was good that you touched several parts of OOP concepts . The things you told about the ways of referring books were very important . Hope we would have more . Thank you . 
+CRC modeling 	10376	Really it was very important for me . Got an idea about the noun / verb analysis and CRC modeling for the first time . In my point of view it was good that you touched several parts of OOP concepts . The things you told about the ways of referring books were very important . Hope we would have more . Thank you . 
+it 	10431	Really it was very important for me . Got an idea about the noun / verb analysis and CRC modeling for the first time . In my point of view it was good that you touched several parts of OOP concepts . The things you told about the ways of referring books were very important . Hope we would have more . Thank you . 
+ways of referring books 	10523	Really it was very important for me . Got an idea about the noun / verb analysis and CRC modeling for the first time . In my point of view it was good that you touched several parts of OOP concepts . The things you told about the ways of referring books were very important . Hope we would have more . Thank you . 
+guest lecture 	10641	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 
+lecture 	10695	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 
+lecture slides given in the guest lecture 	10807	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 
+important concepts 	10909	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 
+Abstraction , 	10936	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 
+Polymorphism 	10949	I would like to say that the guest lecture was really helpful to all of us . That lecture help me to fine tune the object oriented concepts which I learned before in OOP lecture . And also the lecture slides given in the guest lecture was really helpful to revise what we learned so far . Some important concepts such as Abstraction , Polymorphism were explained in very practical way . I think having a lecture of experienced guest lecture like Mr Lecturer _ y is a great privilege for all of us . Thank you . 

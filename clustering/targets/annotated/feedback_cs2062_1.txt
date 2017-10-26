@@ -1,101 +1,101 @@
-Lecture series 	0
-Both lecturers 	33
-class 	115
-lecture 	150
-project 	326
-time 	506
-design patterns 	539
-lectures 	564
-they 	634
-Lecture 	671
-Lecture series 	710
-Lectures 	751
-In class exercises 	781
-mid term 	885
-in class quizzes after each lecture 	905
-project evaluation 	986
-semester project 	1277
-lecture series 	1337
-Lecture series 	1366
-time to discuss coding examples , 	1413
-lectures 	1518
-printed lecture notes ( slides ) 	1588
-design patterns 	1665
-module 	1775
-lectures 	1878
-Design Patterns 	1933
-design patterns 	2069
-Lecture series 	2090
-White background slides 	2119
-design patterns 	2187
-design pattern 	2240
-practical examples 	2322
-questions on design pattern 	2345
-lecture series 	2501
-this course 	2546
-That 	2561
-Some lectures 	2587
-Lecture series 	2658
-lectures 	2705
-practical examples 	2808
-Project 	2859
-Module 	2894
-lectures 	2955
-time and weight for documentation of the project 	3045
-implementation 	3148
-Design patterns 	3168
-Syllabus 	3222
-lecture series 	3235
-slides 	3306
-Lecture series 	3351
-lecture series 	3416
-Overall course 	3436
-lectures 	3481
-time to teach design patterns 	3588
-every lecture 	3652
-lecture 	3721
-design pattern 	3768
-lecture series 	3811
-lecturer 	3847
-Explanation of the lesson 	3911
-practical examples on design pattern 	3970
-Everything 	4012
-Worked examples 	4044
-lecture series 	4069
-semester project 	4101
-projects 	4185
-lectures 	4287
-design patterns 	4336
-time for semester project 	4390
-explanations 	4426
-explanations 	4524
-lecture series 	4691
-module 	4744
-project 	4831
-semester 	4857
-lecture series 	4878
-what u are explaining 	4943
-semester project 	4985
-Madam teaches 	5085
-questions 	5136
-design patterns part 	5221
-presentation slides 	5291
-Lectures 	5401
-time allocated for design patterns 	5449
-lecture series 	5531
-speed of the lectures 	5599
-Design pattern lecture 	5626
-time 	5668
-examples 	5681
-applications 	5694
-Duration for the OOSD semester project 	5727
-what we were taught 	5902
-way we were taught 	5930
-example codes 	5987
-overall lecture series 	6074
-lecturer 	6115
-relevant examples 	6251
-design patterns 	6303
-Group project 	6341
-exercises 	6420
-working examples similar to exam questions 	6434
+Lecture series 	0	Lecture series is very good . 
+Both lecturers 	33	Both lecturers did a good job on delivering the subject matter efficiently . The class was not boring . 
+class 	115	Both lecturers did a good job on delivering the subject matter efficiently . The class was not boring . 
+lecture 	150	Best lecture in the semester . 
+project 	326	Throughout the whole semester our focus was on to complete the project on time . But only 40 percent of the module 's marks were allocated to the project . So I would like to suggest that allocate at least 50 percent of the marks to the project to satisfy the effort of the students . 
+time 	506	The only issue I found is that , more time should be allocated for the design patterns . Those lectures went in a rush and we almost like got no time to catch up as they are bit hard to understand . 
+design patterns 	539	The only issue I found is that , more time should be allocated for the design patterns . Those lectures went in a rush and we almost like got no time to catch up as they are bit hard to understand . 
+lectures 	564	The only issue I found is that , more time should be allocated for the design patterns . Those lectures went in a rush and we almost like got no time to catch up as they are bit hard to understand . 
+they 	634	The only issue I found is that , more time should be allocated for the design patterns . Those lectures went in a rush and we almost like got no time to catch up as they are bit hard to understand . 
+Lecture 	671	Lecture was interesting . 
+Lecture series 	710	Lecture series structured very well . 
+Lectures 	751	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+In class exercises 	781	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+mid term 	885	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+in class quizzes after each lecture 	905	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+project evaluation 	986	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+semester project 	1277	Lectures were really great . In class exercises helped a lot in understanding the practical side of the theory we learnt . Having a mid term and having in class quizzes after each lecture is also a good thing . Other than that , the project evaluation would have been better if the multi layered architecture is evaluated . This is mainly because that we spent most of the project time for designing inside of the application rather than the gui . Hence some feedback on that would have helped us a lot . Except that the semester project was a great experience . 
+lecture series 	1337	As a whole the lecture series was good . 
+Lecture series 	1366	Lecture series was very good . If we had more time to discuss coding examples , it would have been better to understand the usage of some concepts . 
+time to discuss coding examples , 	1413	Lecture series was very good . If we had more time to discuss coding examples , it would have been better to understand the usage of some concepts . 
+lectures 	1518	lectures were good . 
+printed lecture notes ( slides ) 	1588	It would be helpful for us if you can provide printed lecture notes ( slides ) . 
+design patterns 	1665	It would have been better if things like design patterns were taught before , so that we would have more time to try to use them in our project . This module is great because we get to implement what we learn and realize the value of them : ) . 
+module 	1775	It would have been better if things like design patterns were taught before , so that we would have more time to try to use them in our project . This module is great because we get to implement what we learn and realize the value of them : ) . 
+lectures 	1878	Overall lectures were good . But it would have been better if Design Patterns were taught as in the middle of the lecture series . Last three weeks wouldn 't give us enough time to get our hands on design patterns . 
+Design Patterns 	1933	Overall lectures were good . But it would have been better if Design Patterns were taught as in the middle of the lecture series . Last three weeks wouldn 't give us enough time to get our hands on design patterns . 
+design patterns 	2069	Overall lectures were good . But it would have been better if Design Patterns were taught as in the middle of the lecture series . Last three weeks wouldn 't give us enough time to get our hands on design patterns . 
+Lecture series 	2090	Lecture series was good . 
+White background slides 	2119	White background slides are not much clear . 
+design patterns 	2187	As there are lot of design patterns sometimes it is hard to select which design pattern is actually suitable for given scenario . So if you can give more practical examples and questions on design pattern will be great help for us to understand them better . 
+design pattern 	2240	As there are lot of design patterns sometimes it is hard to select which design pattern is actually suitable for given scenario . So if you can give more practical examples and questions on design pattern will be great help for us to understand them better . 
+practical examples 	2322	As there are lot of design patterns sometimes it is hard to select which design pattern is actually suitable for given scenario . So if you can give more practical examples and questions on design pattern will be great help for us to understand them better . 
+questions on design pattern 	2345	As there are lot of design patterns sometimes it is hard to select which design pattern is actually suitable for given scenario . So if you can give more practical examples and questions on design pattern will be great help for us to understand them better . 
+lecture series 	2501	Nothing to point - out as a weak point or area . Overall it was a good lecture series . 
+this course 	2546	I am highly appreciating this course . That was interesting . 
+That 	2561	I am highly appreciating this course . That was interesting . 
+Some lectures 	2587	Some lectures couldn 't understand since it was conducted too fast . 
+Lecture series 	2658	Lecture series can be recommended as good . 
+lectures 	2705	lectures was well structured to gain the learning outcomes . But it would be better if there are more practical examples discussed in the class . 
+practical examples 	2808	lectures was well structured to gain the learning outcomes . But it would be better if there are more practical examples discussed in the class . 
+Project 	2859	Project was a good experience . 
+Module 	2894	Module was done perfectly well . 
+lectures 	2955	This was one of the best lectures I have sat so far . As just like oop in 2nd sem there was lot to learn , I think time and weight for documentation of the project is too much . Considerable amount should be given to implementation . 
+time and weight for documentation of the project 	3045	This was one of the best lectures I have sat so far . As just like oop in 2nd sem there was lot to learn , I think time and weight for documentation of the project is too much . Considerable amount should be given to implementation . 
+implementation 	3148	This was one of the best lectures I have sat so far . As just like oop in 2nd sem there was lot to learn , I think time and weight for documentation of the project is too much . Considerable amount should be given to implementation . 
+Design patterns 	3168	Design patterns are some difficult to understand . 
+Syllabus 	3222	Syllabus and lecture series was good . It is better if the lecturer can upload the slides to the moodle before the lecture . 
+lecture series 	3235	Syllabus and lecture series was good . It is better if the lecturer can upload the slides to the moodle before the lecture . 
+slides 	3306	Syllabus and lecture series was good . It is better if the lecturer can upload the slides to the moodle before the lecture . 
+Lecture series 	3351	Lecture series was good and well organized . 
+lecture series 	3416	Good lecture series . 
+Overall course 	3436	Overall course was good . 
+lectures 	3481	I think all the lectures were very important and could understand the subject well . 
+time to teach design patterns 	3588	I think , if lecturer can take more time to teach design patterns than others , it will be good . 
+every lecture 	3652	every lecture was well structured and detailed . 
+lecture 	3721	This is the only lecture which I never felt lazy to attend . 
+design pattern 	3768	design pattern should be more discussed in lecture series . 
+lecture series 	3811	design pattern should be more discussed in lecture series . 
+lecturer 	3847	one of the good lecturer . Please don 't change the lecturer in future . 
+Explanation of the lesson 	3911	Explanation of the lesson is very good . 
+practical examples on design pattern 	3970	expecting more practical examples on design pattern . 
+Everything 	4012	Everything is good . Need more Worked examples . 
+Worked examples 	4044	Everything is good . Need more Worked examples . 
+lecture series 	4069	The lecture series was good but the semester project was really tough . 
+semester project 	4101	The lecture series was good but the semester project was really tough . 
+projects 	4185	it would be great have more attention to the projects since we have no idea at the begin how to start implement . 
+lectures 	4287	I think it would better to do lectures little bit more slowly as some facts in design patterns are hard to understand . 
+design patterns 	4336	I think it would better to do lectures little bit more slowly as some facts in design patterns are hard to understand . 
+time for semester project 	4390	Need more time for semester project . 
+explanations 	4426	Some explanations were really hard to understand , but some students could . It would be better if the explanations were clear and simple enough such that even the student who are weak at the subject also get a chance to understand . 
+explanations 	4524	Some explanations were really hard to understand , but some students could . It would be better if the explanations were clear and simple enough such that even the student who are weak at the subject also get a chance to understand . 
+lecture series 	4691	On the whole , the lecture series could be recommended as good . 
+module 	4744	The module was well structured . But with other modules we had tough time in managing the project . It was a tough semester . 
+project 	4831	The module was well structured . But with other modules we had tough time in managing the project . It was a tough semester . 
+semester 	4857	The module was well structured . But with other modules we had tough time in managing the project . It was a tough semester . 
+lecture series 	4878	Useful lecture series . 
+what u are explaining 	4943	sometime time it 's not clear what u are explaining . 
+semester project 	4985	Because of the semester project we got hands on experience about how a real information system is implemented . 
+Madam teaches 	5085	Madam teaches well . 
+questions 	5136	It would be better if more questions were discussed . 
+design patterns part 	5221	It would have been better if design patterns part was started bit earlier . 
+presentation slides 	5291	It is better if the presentation slides are provided before the lecture . Then we can study it before coming to the lecture . 
+Lectures 	5401	Lectures were really good . 
+time allocated for design patterns 	5449	Increase the time allocated for design patterns because they are vital important . 
+lecture series 	5531	The best lecture series in the semester . 
+speed of the lectures 	5599	Better if you can slow down the speed of the lectures . 
+Design pattern lecture 	5626	Design pattern lecture was not given much time . Also examples and applications are not enough . 
+time 	5668	Design pattern lecture was not given much time . Also examples and applications are not enough . 
+examples 	5681	Design pattern lecture was not given much time . Also examples and applications are not enough . 
+applications 	5694	Design pattern lecture was not given much time . Also examples and applications are not enough . 
+Duration for the OOSD semester project 	5727	Duration for the OOSD semester project should extend to the 4th semester as in ICE stream . Because it will help students to come up with better product . 
+what we were taught 	5902	Impressed about what we were taught and the way we were taught . 
+way we were taught 	5930	Impressed about what we were taught and the way we were taught . 
+example codes 	5987	It is better if you can give the example codes that were discussed in the class to understand concepts clearly . 
+overall lecture series 	6074	the overall lecture series was good . 
+lecturer 	6115	The lecturer gave enough time to understand things and repeated as necessary . Highly appreciate that . 
+relevant examples 	6251	It would be better if some more relevant examples discussed in the class related to design patterns . 
+design patterns 	6303	It would be better if some more relevant examples discussed in the class related to design patterns . 
+Group project 	6341	Group project helped us to understand the concepts clearly . 
+exercises 	6420	Expecting more exercises and working examples similar to exam questions and practical things . 
+working examples similar to exam questions 	6434	Expecting more exercises and working examples similar to exam questions and practical things . 

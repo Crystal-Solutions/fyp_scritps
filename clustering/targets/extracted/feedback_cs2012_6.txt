@@ -1,118 +1,118 @@
-lecture 	4
-lecture 	103
-lecture 	145
-He 	156
-session 	192
-it 	223
-remaining session 	405
-latter part of the semester 	430
-this lecture 	550
-It 	568
-He 	589
-Lecture 	724
-lecture 	792
-lecture 	821
-lecture 	1050
-basic principles of OOP 	1138
-It 	1167
-lecture 	1435
-It 	1446
-It 	1542
-way of explaining 	1568
-Focussing on the fundamentals 	1622
-Mr. Lecturer _ y 	1724
-lecture 	1828
-Mr. Lecturer _ y 	1862
-ideas 	1941
-field 	2097
-lecture 	2160
-lecture 	2225
-time 	2279
-lectures 	2345
-It 	2359
-lectures 	2382
-The way he explain OOP concepts with examples 	2426
-practical world scenarios 	2616
-lecture from a person 	2704
-lecture , 	2786
-It 	2901
-lecture 	3166
-Lecture 	3258
-it 	3287
-time 	3440
-It 	3467
-Guest lecture 	3602
-concepts 	3698
-examples 	3729
-lecture 	3876
-It 's 	4004
-He 	4023
-lecture 	4071
-It 's 	4185
-time : ) 	4302
-lecture 	4465
-lecturer 	4548
-lecturer 	4633
-It 	5053
-lecture about OOP concepts 	5222
-informations about the industry 	5268
-time 	5319
-important things from his lecture 	5449
-He 	5486
-It 	5623
-session 	5840
-session 	5937
-Mr Lecturer _ y 	6036
-It 	6055
-It 	6070
-valuable lectures from people 	6178
-It 	6232
-lecture 	6247
-guest lecture 	6412
-basics of OOP 	6489
-Mr. Lecturer _ y about OOP 	6687
-lecture 	6722
-your lecture 	6889
-It 	6988
-time given 	7008
-lecture 	7143
-It 	7236
-teaching method 	7290
-taught concepts 	7350
-lecture 	7524
-lecture 	7628
-remaining slides 	7711
-it 's 	7828
-It 	7843
-it 	8010
-OOp 	8139
-real world examples 	8189
-It 's 	8265
-lecture 	8351
-it 	8364
-It 	8445
-It 	8476
-basics of Object Oriented Programming 	8517
-it 	8621
-Lecture 	8690
-Lecturer 	8710
-Diagrams 	8928
-some 	8978
-core concepts of OOP 	9080
-time 	9248
-He 	9423
-examples 	9436
-Lecture 	9486
-covered area 	9523
-It 	9567
-lecture , 	9586
-lecture 	9780
-lecture 	9810
-lecture 	9851
-Mr. Lecturer _ y 	9905
-organization of ideas 	9965
-way of presenting 	9995
-way he presented 	10083
-lecture 	10149
-It 	10162
-His presentation 	10237
+lecture 	4	The lecture was inspiring and was a good start as fresh CSE students . I hope to hear the rest of the lecture as well . 
+lecture 	103	The lecture was inspiring and was a good start as fresh CSE students . I hope to hear the rest of the lecture as well . 
+lecture 	145	It is very important lecture . He did it nicely . 
+He 	156	It is very important lecture . He did it nicely . 
+session 	192	It was a good session and really appreciated it . Since OOP is something new to me , I was much benefited from it and could grasp some tips . Better if we can have the rest of the lecture on another day . Please schedule the remaining session to the latter part of the semester because we can gain some knowledge from our module and that knowledge could be revised from this lecture . 
+it 	223	It was a good session and really appreciated it . Since OOP is something new to me , I was much benefited from it and could grasp some tips . Better if we can have the rest of the lecture on another day . Please schedule the remaining session to the latter part of the semester because we can gain some knowledge from our module and that knowledge could be revised from this lecture . 
+remaining session 	405	It was a good session and really appreciated it . Since OOP is something new to me , I was much benefited from it and could grasp some tips . Better if we can have the rest of the lecture on another day . Please schedule the remaining session to the latter part of the semester because we can gain some knowledge from our module and that knowledge could be revised from this lecture . 
+latter part of the semester 	430	It was a good session and really appreciated it . Since OOP is something new to me , I was much benefited from it and could grasp some tips . Better if we can have the rest of the lecture on another day . Please schedule the remaining session to the latter part of the semester because we can gain some knowledge from our module and that knowledge could be revised from this lecture . 
+this lecture 	550	It was a good session and really appreciated it . Since OOP is something new to me , I was much benefited from it and could grasp some tips . Better if we can have the rest of the lecture on another day . Please schedule the remaining session to the latter part of the semester because we can gain some knowledge from our module and that knowledge could be revised from this lecture . 
+It 	568	It is very useful . He gave so many advices which which are very helpful to our studies . I request our dept to organize his guest lecture in future . 
+He 	589	It is very useful . He gave so many advices which which are very helpful to our studies . I request our dept to organize his guest lecture in future . 
+Lecture 	724	Lecture was really good and he described simply . I understood his lecture really well . 
+lecture 	792	Lecture was really good and he described simply . I understood his lecture really well . 
+lecture 	821	The lecture was fine but I guess it is better to conduct such a lecture may be late part of the module or even at the mid of the module because at the very beginning of the module we have a little knowledge about the subjects . The lecture was fine I guess better to do it latter part . 
+lecture 	1050	The lecture was fine but I guess it is better to conduct such a lecture may be late part of the module or even at the mid of the module because at the very beginning of the module we have a little knowledge about the subjects . The lecture was fine I guess better to do it latter part . 
+basic principles of OOP 	1138	great , I could understand the basic principles of OOP . 
+It 	1167	It was really good and interesting . Personally I did not know much about object oriented programming . By that lecture I learn some basics and I was able to understand them at the lecture . 
+lecture 	1435	He gave a good lecture . It was interesting and insightful . But I think he could have done more in the given time . 
+It 	1446	He gave a good lecture . It was interesting and insightful . But I think he could have done more in the given time . 
+It 	1542	It was really good . The way of explaining is well paced and well organized . Focussing on the fundamentals is very good since most of us are new to OOP . Hope to learn more from Mr. Lecturer _ y . 
+way of explaining 	1568	It was really good . The way of explaining is well paced and well organized . Focussing on the fundamentals is very good since most of us are new to OOP . Hope to learn more from Mr. Lecturer _ y . 
+Focussing on the fundamentals 	1622	It was really good . The way of explaining is well paced and well organized . Focussing on the fundamentals is very good since most of us are new to OOP . Hope to learn more from Mr. Lecturer _ y . 
+Mr. Lecturer _ y 	1724	It was really good . The way of explaining is well paced and well organized . Focussing on the fundamentals is very good since most of us are new to OOP . Hope to learn more from Mr. Lecturer _ y . 
+lecture 	1828	The lecture was really interesting as Mr. Lecturer _ y was explaining the theories with real world applications . The ideas and the concepts were discussed in a simple step by step manner enabling us to grasp easily . The experience and the knowledge he had related to the field made him trustworthy . And it was really helpful as the lecture was conducted in our 2nd week in the department . 
+Mr. Lecturer _ y 	1862	The lecture was really interesting as Mr. Lecturer _ y was explaining the theories with real world applications . The ideas and the concepts were discussed in a simple step by step manner enabling us to grasp easily . The experience and the knowledge he had related to the field made him trustworthy . And it was really helpful as the lecture was conducted in our 2nd week in the department . 
+ideas 	1941	The lecture was really interesting as Mr. Lecturer _ y was explaining the theories with real world applications . The ideas and the concepts were discussed in a simple step by step manner enabling us to grasp easily . The experience and the knowledge he had related to the field made him trustworthy . And it was really helpful as the lecture was conducted in our 2nd week in the department . 
+field 	2097	The lecture was really interesting as Mr. Lecturer _ y was explaining the theories with real world applications . The ideas and the concepts were discussed in a simple step by step manner enabling us to grasp easily . The experience and the knowledge he had related to the field made him trustworthy . And it was really helpful as the lecture was conducted in our 2nd week in the department . 
+lecture 	2160	The lecture was really interesting as Mr. Lecturer _ y was explaining the theories with real world applications . The ideas and the concepts were discussed in a simple step by step manner enabling us to grasp easily . The experience and the knowledge he had related to the field made him trustworthy . And it was really helpful as the lecture was conducted in our 2nd week in the department . 
+lecture 	2225	The lecture was good . It would be better if he had more time . 
+time 	2279	The lecture was good . It would be better if he had more time . 
+lectures 	2345	it will be very useful if he could do another couple of lectures . 
+It 	2359	It was one of the best lectures we had during our first 2 weeks . The way he explain OOP concepts with examples is really great . What we noticed is , he has ready - made examples which goes in parallel with the learning . Pls let us get familiar with the practical world scenarios as often as possible . 
+lectures 	2382	It was one of the best lectures we had during our first 2 weeks . The way he explain OOP concepts with examples is really great . What we noticed is , he has ready - made examples which goes in parallel with the learning . Pls let us get familiar with the practical world scenarios as often as possible . 
+The way he explain OOP concepts with examples 	2426	It was one of the best lectures we had during our first 2 weeks . The way he explain OOP concepts with examples is really great . What we noticed is , he has ready - made examples which goes in parallel with the learning . Pls let us get familiar with the practical world scenarios as often as possible . 
+practical world scenarios 	2616	It was one of the best lectures we had during our first 2 weeks . The way he explain OOP concepts with examples is really great . What we noticed is , he has ready - made examples which goes in parallel with the learning . Pls let us get familiar with the practical world scenarios as often as possible . 
+lecture from a person 	2704	it was a great experience to have a lecture from a person in the field , thank you very much . 
+lecture , 	2786	absolutely brilliant lecture , we got to have clear understanding about oop . Hope that he may visit again to cover the rest of it . 
+It 	2901	It was very helpful for us to have a better understanding about basic concepts of OOP concepts . I got an good idea about OOP concepts after this lecture . Thank you very much sir . I suggest that it is better if we have another lecture session . 
+lecture 	3166	I think the lecture was good but it is better to conduct such a lecture at last part of the module . 
+Lecture 	3258	Lecture was interesting . 
+it 	3287	it was very useful for me . It would be better if he teach us another day . 
+time 	3440	Thank you sir for your lecture . It is nice and helpful to learn . But time seems very short . 
+It 	3467	It was very helpful to to get an idea on what is OOP with his practical examples . I wish if he was able to complete the lecture . 
+Guest lecture 	3602	Guest lecture by Mr. Lecturer _ y was one of the best , well- organized lectures I ever had . The concepts were clear as he used examples . As I am a beginner for Object Oriented Programming , it was a good chance for me to understand the concepts . It was great to have the lecture at the beginning of the semester . I hope that he will continue his service for our junior batches as well . 
+concepts 	3698	Guest lecture by Mr. Lecturer _ y was one of the best , well- organized lectures I ever had . The concepts were clear as he used examples . As I am a beginner for Object Oriented Programming , it was a good chance for me to understand the concepts . It was great to have the lecture at the beginning of the semester . I hope that he will continue his service for our junior batches as well . 
+examples 	3729	Guest lecture by Mr. Lecturer _ y was one of the best , well- organized lectures I ever had . The concepts were clear as he used examples . As I am a beginner for Object Oriented Programming , it was a good chance for me to understand the concepts . It was great to have the lecture at the beginning of the semester . I hope that he will continue his service for our junior batches as well . 
+lecture 	3876	Guest lecture by Mr. Lecturer _ y was one of the best , well- organized lectures I ever had . The concepts were clear as he used examples . As I am a beginner for Object Oriented Programming , it was a good chance for me to understand the concepts . It was great to have the lecture at the beginning of the semester . I hope that he will continue his service for our junior batches as well . 
+It 's 	4004	Yes . It 's quite good . He simply teach us from the basics . Very good lecture for beginners to know what is object oriented language and how it is working . Really appreciate it . 
+He 	4023	Yes . It 's quite good . He simply teach us from the basics . Very good lecture for beginners to know what is object oriented language and how it is working . Really appreciate it . 
+lecture 	4071	Yes . It 's quite good . He simply teach us from the basics . Very good lecture for beginners to know what is object oriented language and how it is working . Really appreciate it . 
+It 's 	4185	It 's very useful for us . We are expecting another lecture . 
+time : ) 	4302	good . It would be best if he could have some more time : ) . 
+lecture 	4465	The lecture was quite interesting and understandable . I appreciate the fact that the lecturer took long enough to explain on subject matters and make it clearer . 
+lecturer 	4548	The lecture was quite interesting and understandable . I appreciate the fact that the lecturer took long enough to explain on subject matters and make it clearer . 
+lecturer 	4633	The lecturer was very audible and clear to the students . I got to understand about abstraction clearly , which I couldn 't get a clear image from the books . It 's unfortunate that the lecturer couldn 't finish the whole lecture within the allocated time . But he could have covered more in the time where he took to give a lengthy introduction about him . Hope to see him in the future giving the rest of the lecture . 
+It 	5053	It was really helpful to get an idea about OOP concepts . It is better if there is any possibility of inviting him for another session . 
+lecture about OOP concepts 	5222	It was a really interesting lecture about OOP concepts and some important informations about the industry . But I think the time is not enough so it will be a great chance if you can do another lecture . Thank you . 
+informations about the industry 	5268	It was a really interesting lecture about OOP concepts and some important informations about the industry . But I think the time is not enough so it will be a great chance if you can do another lecture . Thank you . 
+time 	5319	It was a really interesting lecture about OOP concepts and some important informations about the industry . But I think the time is not enough so it will be a great chance if you can do another lecture . Thank you . 
+important things from his lecture 	5449	As a beginner to OOP I got lot of important things from his lecture . He made a clear view on the topic . I 'm really thank you if you could kind enough to arrange another lecture from him . Thank You . 
+He 	5486	As a beginner to OOP I got lot of important things from his lecture . He made a clear view on the topic . I 'm really thank you if you could kind enough to arrange another lecture from him . Thank You . 
+It 	5623	It was very helpful . He explains the things deeply and finely . But he couldn 't cover the entire things . I expect that he would cover those things in another lecture . I expect another session from him . 
+session 	5840	The session was really successful . Got to know a lot about the stuff I didn 't know earlier . This session increased my interest to OOP . Hope that there would be more and more guest lectures from Mr Lecturer _ y . 
+session 	5937	The session was really successful . Got to know a lot about the stuff I didn 't know earlier . This session increased my interest to OOP . Hope that there would be more and more guest lectures from Mr Lecturer _ y . 
+Mr Lecturer _ y 	6036	The session was really successful . Got to know a lot about the stuff I didn 't know earlier . This session increased my interest to OOP . Hope that there would be more and more guest lectures from Mr Lecturer _ y . 
+It 	6055	It was good . It was good to see and share the experiences someone who works in this field . Hope we will be having more valuable lectures from people like him . 
+It 	6070	It was good . It was good to see and share the experiences someone who works in this field . Hope we will be having more valuable lectures from people like him . 
+valuable lectures from people 	6178	It was good . It was good to see and share the experiences someone who works in this field . Hope we will be having more valuable lectures from people like him . 
+It 	6232	Dear Sir , It was a great lecture that we learnt much . Sir , I think it is our privilege to be in your lecture . Please extend this lecture for us in another session . Thank you ! . 
+lecture 	6247	Dear Sir , It was a great lecture that we learnt much . Sir , I think it is our privilege to be in your lecture . Please extend this lecture for us in another session . Thank you ! . 
+guest lecture 	6412	The guest lecture was very good , we were able to get a very good knowledge about basics of OOP and what we need to become to adapt to the industry . And also we got an idea about the advantages of using OOP to create systems . We will look forward to have another session from Mr. Lecturer _ y about OOP . 
+basics of OOP 	6489	The guest lecture was very good , we were able to get a very good knowledge about basics of OOP and what we need to become to adapt to the industry . And also we got an idea about the advantages of using OOP to create systems . We will look forward to have another session from Mr. Lecturer _ y about OOP . 
+Mr. Lecturer _ y about OOP 	6687	The guest lecture was very good , we were able to get a very good knowledge about basics of OOP and what we need to become to adapt to the industry . And also we got an idea about the advantages of using OOP to create systems . We will look forward to have another session from Mr. Lecturer _ y about OOP . 
+lecture 	6722	This lecture is actually very much useful to us . Actually I understood everything he said , please give him another day or two to complete that lecture , . 
+your lecture 	6889	Sir , I think your lecture was a very important and successful one . Wish to participate more . Thank you . 
+It 	6988	It was good but the time given was not enough . Couldn 't follow the explanation about Abstraction . Hope that he will do another lecture on OOP . 
+time given 	7008	It was good but the time given was not enough . Couldn 't follow the explanation about Abstraction . Hope that he will do another lecture on OOP . 
+lecture 	7143	The lecture was beneficial for us who were struggling to grasp the object oriented concepts . 
+It 	7236	It was very good and able to understand well with the teaching method . We were able to logically understand the taught concepts within the class . Thank you . 
+teaching method 	7290	It was very good and able to understand well with the teaching method . We were able to logically understand the taught concepts within the class . Thank you . 
+taught concepts 	7350	It was very good and able to understand well with the teaching method . We were able to logically understand the taught concepts within the class . Thank you . 
+lecture 	7524	On those days I had a huge confusion on OOP . But after the lecture I was able to get the main idea of OOP and UML . The lecture was well organized that anyone can understand even the beginners in OOP and it was not a boring lecture at all . We would be grateful you sir if you manage time for us to do the remaining slides on another day . 
+lecture 	7628	On those days I had a huge confusion on OOP . But after the lecture I was able to get the main idea of OOP and UML . The lecture was well organized that anyone can understand even the beginners in OOP and it was not a boring lecture at all . We would be grateful you sir if you manage time for us to do the remaining slides on another day . 
+remaining slides 	7711	On those days I had a huge confusion on OOP . But after the lecture I was able to get the main idea of OOP and UML . The lecture was well organized that anyone can understand even the beginners in OOP and it was not a boring lecture at all . We would be grateful you sir if you manage time for us to do the remaining slides on another day . 
+it 's 	7828	it 's good . 
+It 	7843	It was really interesting . And we could a lot about basics and the way should adapt to CSE from the beginning . I hope he will conduct more lectures in future . 
+it 	8010	it was really good . Helped us a lot . would be better if he could come again couple of times more . 
+OOp 	8139	His explanations about OOp were really good and he gave some really good real world examples . We 'd be glad to have a another lecture from him . 
+real world examples 	8189	His explanations about OOp were really good and he gave some really good real world examples . We 'd be glad to have a another lecture from him . 
+It 's 	8265	It 's very useful to us . We know many new information and we get new ideas from that lecture . 
+lecture 	8351	It 's very useful to us . We know many new information and we get new ideas from that lecture . 
+it 	8364	it was good . Looking forward to his next guest lecture . ( missed part ) . 
+It 	8445	It was really interesting . 
+It 	8476	It was good and was helpful to learn the basics of Object Oriented Programming . Looking forward to attend more lectures like that . 
+basics of Object Oriented Programming 	8517	It was good and was helpful to learn the basics of Object Oriented Programming . Looking forward to attend more lectures like that . 
+it 	8621	I think it is very useful . I think it is better if we have that later . 
+Lecture 	8690	Lecture was fine . Lecturer gave us many information about the field and current trends of the CS arena . If possible please conduct another lecture at the end of the course module . Thank you . 
+Lecturer 	8710	Lecture was fine . Lecturer gave us many information about the field and current trends of the CS arena . If possible please conduct another lecture at the end of the course module . Thank you . 
+Diagrams 	8928	First thank you for your lectures . Diagrams which you gave for inheritance and other some are very useful . If u can take a another lectures for balance part . 
+some 	8978	First thank you for your lectures . Diagrams which you gave for inheritance and other some are very useful . If u can take a another lectures for balance part . 
+core concepts of OOP 	9080	Having him explain the core concepts of OOP was extremely useful , as we have zero to nil knowledge on the subject and he is quite good at explaining them . I believe he should be given more time to continue his lecture so that we can finish his lesson . All in all , it was great to have a lecture from him . 
+time 	9248	Having him explain the core concepts of OOP was extremely useful , as we have zero to nil knowledge on the subject and he is quite good at explaining them . I believe he should be given more time to continue his lecture so that we can finish his lesson . All in all , it was great to have a lecture from him . 
+He 	9423	Good . He took good examples to explain OOP concept . Thank you . 
+examples 	9436	Good . He took good examples to explain OOP concept . Thank you . 
+Lecture 	9486	Lecture was quite good . Though the covered area was small , described well . 
+covered area 	9523	Lecture was quite good . Though the covered area was small , described well . 
+It 	9567	It was very useful lecture , but some explanations didn 't get correctly as we are new to object oriented programming . However we are given more knowledge within few hours . 
+lecture , 	9586	It was very useful lecture , but some explanations didn 't get correctly as we are new to object oriented programming . However we are given more knowledge within few hours . 
+lecture 	9780	got a glimpse of OOP . Interesting lecture . Very good . 
+lecture 	9810	the lecture was good I couldn 't focus on the lecture because I not get much from that . 
+lecture 	9851	the lecture was good I couldn 't focus on the lecture because I not get much from that . 
+Mr. Lecturer _ y 	9905	I think Mr. Lecturer _ y did fascinatingly well in the lecture . His organization of ideas and the way of presenting was marvelous . His ideas clearly curved in our minds because of the way he presented . Look forward to see him again to continue the lecture . 
+organization of ideas 	9965	I think Mr. Lecturer _ y did fascinatingly well in the lecture . His organization of ideas and the way of presenting was marvelous . His ideas clearly curved in our minds because of the way he presented . Look forward to see him again to continue the lecture . 
+way of presenting 	9995	I think Mr. Lecturer _ y did fascinatingly well in the lecture . His organization of ideas and the way of presenting was marvelous . His ideas clearly curved in our minds because of the way he presented . Look forward to see him again to continue the lecture . 
+way he presented 	10083	I think Mr. Lecturer _ y did fascinatingly well in the lecture . His organization of ideas and the way of presenting was marvelous . His ideas clearly curved in our minds because of the way he presented . Look forward to see him again to continue the lecture . 
+lecture 	10149	I think Mr. Lecturer _ y did fascinatingly well in the lecture . His organization of ideas and the way of presenting was marvelous . His ideas clearly curved in our minds because of the way he presented . Look forward to see him again to continue the lecture . 
+It 	10162	It was a great experience taking lessons from an expert in the industry . His presentation was well prepared and succinct . I was sensing a real world sense of programming . 
+His presentation 	10237	It was a great experience taking lessons from an expert in the industry . His presentation was well prepared and succinct . I was sensing a real world sense of programming . 

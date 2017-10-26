@@ -1,67 +1,67 @@
-Workshop content 	0
-topic 	44
-workshop 	241
-content 	268
-workshop 	285
-it 	308
-setup files 	531
-facts 	625
-session 	647
-Session 	724
-It 	756
-workshop 	861
-visual studio 	938
-workshop ! 	964
-workshop 	1047
-how to debug a program using an IDE 	1077
-workshop 	1122
-it 	1146
-Selecting visual basic 	1178
-slide set 	1310
-it 	1403
-application for the workshop 	1554
-debugging through VS 	1641
-It 	1665
-instructions to install software 	1725
-installing Visual C plus plus components on VS. 	1949
-session 	2060
-This workshop 	2086
-professionals from Company _ x 	2121
-configuring the IDE 	2451
-workshop 	2504
-It 	2516
-It 	2547
-lecture slides 	2854
-It 	2895
-this session 	3042
-workshop 	3101
-workshop 	3219
-this workshop 	3281
-instruction to install such software 	3371
-workshop 	3437
-installing the visual studio 	3665
-session 	3728
-This 	3763
-workshop 	3836
-session 	3866
-session 	3892
-workshop 	3954
-workshop 	4011
-Event 	4035
-workshop 	4164
-Presenters 	4232
-Content 	4278
-their care on us 	4610
-workshop 	4645
-it 	4718
-workshop 	4784
-length 	4882
-Company _ x 	5073
-it 	5122
-workshop 	5166
-visual studio installation 	5211
-It 	5282
-c plus plus 	5391
-what they saying 	5437
-presentation 	5472
-presenters 	5550
+Workshop content 	0	Workshop content was very good and a useful topic . Since lot of us could not install the program ( Visual studio ) properly , we were not able to catch - up everything . But it was a guide to learn . Thank you for your help for us . 
+topic 	44	Workshop content was very good and a useful topic . Since lot of us could not install the program ( Visual studio ) properly , we were not able to catch - up everything . But it was a guide to learn . Thank you for your help for us . 
+workshop 	241	Good workshop . Well organized content . 
+content 	268	Good workshop . Well organized content . 
+workshop 	285	The workshop was good . 
+it 	308	it was very interesting . 
+setup files 	531	some people were struggling with installing VB ( because some did not have windows 10 updated in their laptops and they were unable to install VB 2015 ) . so it would be nice if you brought some setup files for those who have not installed the stuff . 
+facts 	625	Good one . Clearly discussed the facts . Overall good session . Thanks . 
+session 	647	Good one . Clearly discussed the facts . Overall good session . Thanks . 
+Session 	724	Session was very interesting . It will be useful for our upcoming projects as well . Thank you for organizing this session for us . 
+It 	756	Session was very interesting . It will be useful for our upcoming projects as well . Thank you for organizing this session for us . 
+workshop 	861	workshop was good . But it is good if you can relate another IDE other than visual studio . 
+visual studio 	938	workshop was good . But it is good if you can relate another IDE other than visual studio . 
+workshop ! 	964	A good workshop ! . I learned a lot of things about the importance of debugging from this workshop . Got to know about how to debug a program using an IDE . 
+workshop 	1047	A good workshop ! . I learned a lot of things about the importance of debugging from this workshop . Got to know about how to debug a program using an IDE . 
+how to debug a program using an IDE 	1077	A good workshop ! . I learned a lot of things about the importance of debugging from this workshop . Got to know about how to debug a program using an IDE . 
+workshop 	1122	The workshop is good . But it is not very interesting . 
+it 	1146	The workshop is good . But it is not very interesting . 
+Selecting visual basic 	1178	Selecting visual basic as your application for the workshop was not a good thing for me and several other other students . And the slide set was not with us . Though you have instructed to install it prior to the workshop , it was not an easy application to download . It would be nice if you could adjust your workshop a little so that we can use code blocks or some other application for the workshop . 
+slide set 	1310	Selecting visual basic as your application for the workshop was not a good thing for me and several other other students . And the slide set was not with us . Though you have instructed to install it prior to the workshop , it was not an easy application to download . It would be nice if you could adjust your workshop a little so that we can use code blocks or some other application for the workshop . 
+it 	1403	Selecting visual basic as your application for the workshop was not a good thing for me and several other other students . And the slide set was not with us . Though you have instructed to install it prior to the workshop , it was not an easy application to download . It would be nice if you could adjust your workshop a little so that we can use code blocks or some other application for the workshop . 
+application for the workshop 	1554	Selecting visual basic as your application for the workshop was not a good thing for me and several other other students . And the slide set was not with us . Though you have instructed to install it prior to the workshop , it was not an easy application to download . It would be nice if you could adjust your workshop a little so that we can use code blocks or some other application for the workshop . 
+debugging through VS 	1641	A great endeavor was taken to share the knowledge of debugging through VS . It is appreciated . Be little bit specific when giving the instructions to install software beforehand . Even though students got VS installed with default settings , most of the students didn 't aware of that the session will be on Visual C plus plus so that we had to waste time on installing Visual C plus plus components on VS. Apart from that overall session was good . 
+It 	1665	A great endeavor was taken to share the knowledge of debugging through VS . It is appreciated . Be little bit specific when giving the instructions to install software beforehand . Even though students got VS installed with default settings , most of the students didn 't aware of that the session will be on Visual C plus plus so that we had to waste time on installing Visual C plus plus components on VS. Apart from that overall session was good . 
+instructions to install software 	1725	A great endeavor was taken to share the knowledge of debugging through VS . It is appreciated . Be little bit specific when giving the instructions to install software beforehand . Even though students got VS installed with default settings , most of the students didn 't aware of that the session will be on Visual C plus plus so that we had to waste time on installing Visual C plus plus components on VS. Apart from that overall session was good . 
+installing Visual C plus plus components on VS. 	1949	A great endeavor was taken to share the knowledge of debugging through VS . It is appreciated . Be little bit specific when giving the instructions to install software beforehand . Even though students got VS installed with default settings , most of the students didn 't aware of that the session will be on Visual C plus plus so that we had to waste time on installing Visual C plus plus components on VS. Apart from that overall session was good . 
+session 	2060	Very interesting session . Thank you . 
+This workshop 	2086	This workshop was a success as the professionals from Company _ x guided us through the debugging of ( C plus plus ) applications . In the future , it will be great to have instructions - and especially sample programs - for the workshop at least one day before the workshop as today we ( plus they ) had to waste time ( about 45 minutes ) until some of our friends finished configuring the IDE . 
+professionals from Company _ x 	2121	This workshop was a success as the professionals from Company _ x guided us through the debugging of ( C plus plus ) applications . In the future , it will be great to have instructions - and especially sample programs - for the workshop at least one day before the workshop as today we ( plus they ) had to waste time ( about 45 minutes ) until some of our friends finished configuring the IDE . 
+configuring the IDE 	2451	This workshop was a success as the professionals from Company _ x guided us through the debugging of ( C plus plus ) applications . In the future , it will be great to have instructions - and especially sample programs - for the workshop at least one day before the workshop as today we ( plus they ) had to waste time ( about 45 minutes ) until some of our friends finished configuring the IDE . 
+workshop 	2504	Thank you very much for the workshop . It was really interesting . 
+It 	2516	Thank you very much for the workshop . It was really interesting . 
+It 	2547	It was good and helpful . But I had trouble with catching up , because my visual studio IDE was not working . So I was unable to get focused on subject . Please be more specific when you tell us to get ready , ( I.e . Share the correct link to download the setup ) . and please be kind enough to share the lecture slides . Thank you so much . 
+lecture slides 	2854	It was good and helpful . But I had trouble with catching up , because my visual studio IDE was not working . So I was unable to get focused on subject . Please be more specific when you tell us to get ready , ( I.e . Share the correct link to download the setup ) . and please be kind enough to share the lecture slides . Thank you so much . 
+It 	2895	It was good . Learned to work in visual studio IDE . Learned about types of bugs we face when coding and how to resolve them properly . I think this session was very useful for me . 
+this session 	3042	It was good . Learned to work in visual studio IDE . Learned about types of bugs we face when coding and how to resolve them properly . I think this session was very useful for me . 
+workshop 	3101	It has been great workshop help us to understand the mistakes we do and get slight idea about how to handle errors . Nice one . 
+workshop 	3219	The workshop was very effective . 
+this workshop 	3281	I couldn 't get anything from this workshop because the software didn 't work properly in my pc . So please give a more instruction to install such software before the workshop . 
+instruction to install such software 	3371	I couldn 't get anything from this workshop because the software didn 't work properly in my pc . So please give a more instruction to install such software before the workshop . 
+workshop 	3437	the workshop was good . Made an impact on testing as units before the bugs get much more troublesome . Made me - think of unit testing which we learned before . Some missed getting hands on actual problems since they had problems installing the visual studio . Except for that , it was a good session . Learned new things . 
+installing the visual studio 	3665	the workshop was good . Made an impact on testing as units before the bugs get much more troublesome . Made me - think of unit testing which we learned before . Some missed getting hands on actual problems since they had problems installing the visual studio . Except for that , it was a good session . Learned new things . 
+session 	3728	the workshop was good . Made an impact on testing as units before the bugs get much more troublesome . Made me - think of unit testing which we learned before . Some missed getting hands on actual problems since they had problems installing the visual studio . Except for that , it was a good session . Learned new things . 
+This 	3763	This was very helpful for me to know about debugging techniques . 
+workshop 	3836	The workshop was very useful . 
+session 	3866	session was good . 
+session 	3892	The session was great . Learnt many tips in programming . 
+workshop 	3954	the workshop is so nice and helpful . We are expecting more workshop like this . 
+workshop 	4011	the workshop is so nice and helpful . We are expecting more workshop like this . 
+Event 	4035	Event was done very well . Learnt a lot of things and thank you for the lap bag . 
+workshop 	4164	was helpful . would 've been better if the workshop continued for two weeks . 
+Presenters 	4232	Not good as previous weeks .- Presenters could do a better job than this .- Content was not clear .- They gave priority to distributing their gifts rather than teaching the right concepts . Gifts are good ; but the best thing they could give us was not gifts ; but their knowledge in better manner . Anyway please extend our thanks to everyone who tried to share their knowledge with us . Highly appreciate their care on us . 
+Content 	4278	Not good as previous weeks .- Presenters could do a better job than this .- Content was not clear .- They gave priority to distributing their gifts rather than teaching the right concepts . Gifts are good ; but the best thing they could give us was not gifts ; but their knowledge in better manner . Anyway please extend our thanks to everyone who tried to share their knowledge with us . Highly appreciate their care on us . 
+their care on us 	4610	Not good as previous weeks .- Presenters could do a better job than this .- Content was not clear .- They gave priority to distributing their gifts rather than teaching the right concepts . Gifts are good ; but the best thing they could give us was not gifts ; but their knowledge in better manner . Anyway please extend our thanks to everyone who tried to share their knowledge with us . Highly appreciate their care on us . 
+workshop 	4645	It was great workshop . If you can teach us how to debug a bigger program . I think it will useful for us . 
+it 	4718	It was great workshop . If you can teach us how to debug a bigger program . I think it will useful for us . 
+workshop 	4784	We always work with bugs . : ) so the workshop is very helpful for all of us . thanks . 
+length 	4882	Learnt a lot . But should have trimmed the length and let everyone try debugging . 
+Company _ x 	5073	Before the workshop , we were used to debugging using print commands , etc and not making much use of the IDEs own debugging tools . I 'm grateful to Company _ x for conducting this workshop as I feel it was a great help towards our career . 
+it 	5122	Before the workshop , we were used to debugging using print commands , etc and not making much use of the IDEs own debugging tools . I 'm grateful to Company _ x for conducting this workshop as I feel it was a great help towards our career . 
+workshop 	5166	workshop was good . We had some issues with visual studio installation . But we could do the workshop usefully . It was useful . 
+visual studio installation 	5211	workshop was good . We had some issues with visual studio installation . But we could do the workshop usefully . It was useful . 
+It 	5282	workshop was good . We had some issues with visual studio installation . But we could do the workshop usefully . It was useful . 
+c plus plus 	5391	it should be little bit slow the program . Since we are not very familiar with c plus plus otherwise difficult to understand what they saying . Otherwise good presentation . 
+what they saying 	5437	it should be little bit slow the program . Since we are not very familiar with c plus plus otherwise difficult to understand what they saying . Otherwise good presentation . 
+presentation 	5472	it should be little bit slow the program . Since we are not very familiar with c plus plus otherwise difficult to understand what they saying . Otherwise good presentation . 
+presenters 	5550	Probably the least organized of the workshops we had . The presenters were not aware of what was happening most of the time and weren 't very good at helping out either . If they had at least informed the day before that we would need to code C plus plus on VS , we would have installed C plus plus tools on VS and come prepared . 

@@ -1,10 +1,10 @@
-Workshop 	0
-instructions to install required applications for windows 	64
-everything 	202
-workshop 	449
-content ! 	474
-time for this workshop 	550
-session 	700
-Workshop 	749
-time for this workshop 	813
-workshop things 	877
+Workshop 	0	Workshop has been conducted well . But we haven 't given proper instructions to install required applications for windows . Therefore I have spent whole the time with downloading things . Except that everything was perfect . 
+instructions to install required applications for windows 	64	Workshop has been conducted well . But we haven 't given proper instructions to install required applications for windows . Therefore I have spent whole the time with downloading things . Except that everything was perfect . 
+everything 	202	Workshop has been conducted well . But we haven 't given proper instructions to install required applications for windows . Therefore I have spent whole the time with downloading things . Except that everything was perfect . 
+workshop 	449	Good workshop and very useful content ! . But it is really better if we could prepare more and spend more time for this workshop . Things went really fast and we couldn 't grab some points . Anyway please extend our thanks to everyone involved ! . 
+content ! 	474	Good workshop and very useful content ! . But it is really better if we could prepare more and spend more time for this workshop . Things went really fast and we couldn 't grab some points . Anyway please extend our thanks to everyone involved ! . 
+time for this workshop 	550	Good workshop and very useful content ! . But it is really better if we could prepare more and spend more time for this workshop . Things went really fast and we couldn 't grab some points . Anyway please extend our thanks to everyone involved ! . 
+session 	700	This session was interesting and well structured . 
+Workshop 	749	Workshop is really good and we learn a lot . But the allocated time for this workshop should be extended because at the end of workshop things go really fast and it is difficult to catch up . 
+time for this workshop 	813	Workshop is really good and we learn a lot . But the allocated time for this workshop should be extended because at the end of workshop things go really fast and it is difficult to catch up . 
+workshop things 	877	Workshop is really good and we learn a lot . But the allocated time for this workshop should be extended because at the end of workshop things go really fast and it is difficult to catch up . 

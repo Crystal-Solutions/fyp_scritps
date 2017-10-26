@@ -1,122 +1,122 @@
-It 	0
-end 	26
-workshop 	49
-it 	81
-end of the chosen part 	110
-workshop 	216
-two lecturers 	284
-MIT 	335
-workshop 	365
-workshop 	485
-workshop 	660
-it 	734
-important points 	785
-time 	843
-session 	905
-lecture session 	1034
-Distributing gifts 	1053
-speed of lecturing 	1203
-how to create an object from the class 	1344
-lecture 	1571
-lectures 	1657
-references and pointers 	1905
-time to upload the assignment 	2385
-time for the session 	2445
-it 	2496
-first part 	2524
-Workshop 	2927
-work ! 	3099
-It 	3110
-giving bags , 	3238
-Session 	3318
-basics 	3387
-Session 	3318
-basics 	3387
-workshop 	3469
-advanced topics 	3495
-they 	3515
-workshop 	3608
-It 	3643
-workshop 	3780
-break in the middle 	3810
-seminar room 	3942
-experience 	4015
-It 	4031
-It 	4062
-workshop 	4155
-It 	4167
-time allocated for the workshop 	4262
-use the whiteboard 	4398
-session 	4509
-software 	4575
-session 	4761
-presenters 	4858
-assignment 	4877
-time 	4928
-It 	4991
-slides 	5062
-lecture 	5089
-lecture 	5158
-content 	5219
-workshop 	5300
-syntax of the language 	5316
-programs 	5404
-subjects contents 	5550
-session 	6095
-other programming language 	6244
-time 	6316
-workshop 	6598
-It 	6852
-Workshop 	6882
-workshop 	7043
-time to explain 	7110
-coding 	7193
-lecturer 's voice 	7260
-lecture 	7338
-workshop 	7450
-introduction approach on C plus plus 	7651
-time to work on the language 	7705
-examples on each topics , 	7758
-examples of codes 	7905
-workshop 	7932
-session 	8028
-workshop 	8091
-Company _ x ! 	8189
-workshop 	8380
-It 	8470
-It 	8537
-session 	8725
-workshop 	8838
-programming part 	8863
-lecturer 's speaking style 	8902
-It 	9038
-speaker 	9090
-second speaker 	9158
-Company _ x 	9270
-workshop 	9547
-scope 	9611
-workshop 	9685
-assignment , 	9702
-Giving gifts 	9915
-time limitation 	9990
-lecture 	10035
-speed 	10055
-pace of the lecture 	10109
-submit the code 	10327
-lecture 	10406
-lecturer 	10450
-It 	10667
-workshop 	10894
-c plus plus concepts 	11022
-present some gifts 	11108
-workshop 	11239
-Presenter _ x 	11404
-tone 	11426
-Company _ x ! 	11583
-workshop 	11603
-It 	11643
-Session 	11685
-C plus plus 	11714
-discussing all the key elements of the language , 	11795
-primary key points of the language 	11897
-basic OOP implementations 	11940
+It 	0	It was good . But at the end we got lost in the workshop . Maybe it is because it was conducted fast in the end of the chosen part was too much since most of students are new to c plus plus . 
+end 	26	It was good . But at the end we got lost in the workshop . Maybe it is because it was conducted fast in the end of the chosen part was too much since most of students are new to c plus plus . 
+workshop 	49	It was good . But at the end we got lost in the workshop . Maybe it is because it was conducted fast in the end of the chosen part was too much since most of students are new to c plus plus . 
+it 	81	It was good . But at the end we got lost in the workshop . Maybe it is because it was conducted fast in the end of the chosen part was too much since most of students are new to c plus plus . 
+end of the chosen part 	110	It was good . But at the end we got lost in the workshop . Maybe it is because it was conducted fast in the end of the chosen part was too much since most of students are new to c plus plus . 
+workshop 	216	It was a very good workshop . It convince me that how important is C plus plus . The two lecturers was well prepared . Finally I thank MIT for doing such a valuable workshop and I request for another workshop on C plus plus on how C plus plus helps in OOP concepts . 
+two lecturers 	284	It was a very good workshop . It convince me that how important is C plus plus . The two lecturers was well prepared . Finally I thank MIT for doing such a valuable workshop and I request for another workshop on C plus plus on how C plus plus helps in OOP concepts . 
+MIT 	335	It was a very good workshop . It convince me that how important is C plus plus . The two lecturers was well prepared . Finally I thank MIT for doing such a valuable workshop and I request for another workshop on C plus plus on how C plus plus helps in OOP concepts . 
+workshop 	365	It was a very good workshop . It convince me that how important is C plus plus . The two lecturers was well prepared . Finally I thank MIT for doing such a valuable workshop and I request for another workshop on C plus plus on how C plus plus helps in OOP concepts . 
+workshop 	485	This is a good workshop for me to improve my knowledge in c plus plus . 
+workshop 	660	It has been a nice workshop . We are really motivated to study cpp further . But as I feel it went through a rush so that I feel that so much important points are missed . My suggestion is that more time should be allocated than today . 
+it 	734	It has been a nice workshop . We are really motivated to study cpp further . But as I feel it went through a rush so that I feel that so much important points are missed . My suggestion is that more time should be allocated than today . 
+important points 	785	It has been a nice workshop . We are really motivated to study cpp further . But as I feel it went through a rush so that I feel that so much important points are missed . My suggestion is that more time should be allocated than today . 
+time 	843	It has been a nice workshop . We are really motivated to study cpp further . But as I feel it went through a rush so that I feel that so much important points are missed . My suggestion is that more time should be allocated than today . 
+session 	905	it was very use full session to us . We got more basic concepts and some advance thinking about c plus plus . thank you so much . 
+lecture session 	1034	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+Distributing gifts 	1053	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+speed of lecturing 	1203	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+how to create an object from the class 	1344	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+lecture 	1571	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+lectures 	1657	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+references and pointers 	1905	Overall useful lecture session . Distributing gifts led me to keep in focus on lecture and helped me to gain lot more out of the lecture . As suggestions , it is much more useful , if speed of lecturing is slower than this . Especially when teaching places like classes and objects . I think you guys missed out to mention how to create an object from the class that we declared . That task may be basic thing . But when I tried to do your assignment , the first thing that I have to find is , how can create an object in C plus plus . However this lecture motivates me to learn c plus plus . I am looking forward to have such useful lectures more . How to create a class . O Access modifiers . O Way of writing Constructor . O Way of declaring method . How to create an object from declared class ( ways ) . How to work with reference in C plus plus ( I 'm still confusing about references and pointers . Are they same or not and how can they use in c plus plus ? ) . What is the meaning of symbols such as * , & , - > . Overloading an operator . In my point of view above are a list of fundamental things that we need to know when we are starting to learn c plus plus . Hence if you can teach them more clearly and in slow speed which everyone can be able to understand , we are much obliged to you for that . Thanks . 
+time to upload the assignment 	2385	it 's better if you could give us more time to upload the assignment . If you could allocate more time for the session it is highly appreciable . 
+time for the session 	2445	it 's better if you could give us more time to upload the assignment . If you could allocate more time for the session it is highly appreciable . 
+it 	2496	it was really good . 
+first part 	2524	The first part is good , learned a few memory tricks . But then the 'magic of c plus plus ' part started and it was all about how c plus plus has magic stuff . Like why would an absolute beginner would be interested in a hardly ever used cast like reinterpret _ cast ? . could have shown what a memory leak actually looks like and it would be really useful when one get a memory leak for the first time . 
+Workshop 	2927	Workshop was good and interesting . Some students weren 't familiar with C plus plus . I think even they were motivated to find and learn more on C plus plus . Excellent work ! . 
+work ! 	3099	Workshop was good and interesting . Some students weren 't familiar with C plus plus . I think even they were motivated to find and learn more on C plus plus . Excellent work ! . 
+It 	3110	It was good , but since I am new to C plus plus , within 3 hours it was hard to get a good idea on the language . But appreciate giving bags , since it motivated students to think and answer the questions . 
+giving bags , 	3238	It was good , but since I am new to C plus plus , within 3 hours it was hard to get a good idea on the language . But appreciate giving bags , since it motivated students to think and answer the questions . 
+Session 	3318	Session was good . But it would be better if it was focused more on basics . 
+basics 	3387	Session was good . But it would be better if it was focused more on basics . 
+Session 	3318	Session was good . But it would be better if it was focused more on basics . 
+basics 	3387	Session was good . But it would be better if it was focused more on basics . 
+workshop 	3469	Most of us didn 't even have a basic knowledge on c plus plus but this workshop started off from advanced topics and they tried to cover lot of areas very quickly . So we didn 't understand most of it . 
+advanced topics 	3495	Most of us didn 't even have a basic knowledge on c plus plus but this workshop started off from advanced topics and they tried to cover lot of areas very quickly . So we didn 't understand most of it . 
+they 	3515	Most of us didn 't even have a basic knowledge on c plus plus but this workshop started off from advanced topics and they tried to cover lot of areas very quickly . So we didn 't understand most of it . 
+workshop 	3608	The workshop was very useful for me . It motivated me to study c plus plus . thanks for Company _ x and our staff . But we hoped that a T - shirt will be given for us . 
+It 	3643	The workshop was very useful for me . It motivated me to study c plus plus . thanks for Company _ x and our staff . But we hoped that a T - shirt will be given for us . 
+workshop 	3780	The workshop was good . Having a break in the middle helped a lot to relax as we are trying a new language . It will be better if we can do this in the labs as the seminar room has limited space for 125 students . 
+break in the middle 	3810	The workshop was good . Having a break in the middle helped a lot to relax as we are trying a new language . It will be better if we can do this in the labs as the seminar room has limited space for 125 students . 
+seminar room 	3942	The workshop was good . Having a break in the middle helped a lot to relax as we are trying a new language . It will be better if we can do this in the labs as the seminar room has limited space for 125 students . 
+experience 	4015	I got a really good experience . 
+It 	4031	It is very useful . good . 
+It 	4062	It was a great help for me to start things with c plus plus . 
+workshop 	4155	thank you very much for the workshop . It was really awesome . But I think it could have been more interesting if you can extend the time allocated for the workshop so we can get to know more things . 
+It 	4167	thank you very much for the workshop . It was really awesome . But I think it could have been more interesting if you can extend the time allocated for the workshop so we can get to know more things . 
+time allocated for the workshop 	4262	thank you very much for the workshop . It was really awesome . But I think it could have been more interesting if you can extend the time allocated for the workshop so we can get to know more things . 
+use the whiteboard 	4398	I think it would be great if the presenter could use the whiteboard more to explain things so that we can understand the concepts well . Overall it was a nice session . 
+session 	4509	I think it would be great if the presenter could use the whiteboard more to explain things so that we can understand the concepts well . Overall it was a nice session . 
+software 	4575	Good . But it was hard to follow the content as the software was not properly working in my computer . I wanted a bag so badly but I missed the chance : ( . It was a quiet impressive way to motivate us . : ) . 
+session 	4761	This was an interesting session which made us understand the power of C plus plus . Highly appreciate the effort by the presenters and the assignment was also enlightening . But a bit more time before the assignment would have made it even better . 
+presenters 	4858	This was an interesting session which made us understand the power of C plus plus . Highly appreciate the effort by the presenters and the assignment was also enlightening . But a bit more time before the assignment would have made it even better . 
+assignment 	4877	This was an interesting session which made us understand the power of C plus plus . Highly appreciate the effort by the presenters and the assignment was also enlightening . But a bit more time before the assignment would have made it even better . 
+time 	4928	This was an interesting session which made us understand the power of C plus plus . Highly appreciate the effort by the presenters and the assignment was also enlightening . But a bit more time before the assignment would have made it even better . 
+It 	4991	It was very good . Gained a lot of things including a backpack : ) . 
+slides 	5062	slides were clear , but the lecture was not clear . It would be better if you could conduct the lecture slowly in two sessions for the junior batch . 
+lecture 	5089	slides were clear , but the lecture was not clear . It would be better if you could conduct the lecture slowly in two sessions for the junior batch . 
+lecture 	5158	slides were clear , but the lecture was not clear . It would be better if you could conduct the lecture slowly in two sessions for the junior batch . 
+content 	5219	The content was good . But I was unable to understand most of the things during the workshop as the syntax of the language is not familiar with me . It is better if you could explain the programs in much detailed manner . 
+workshop 	5300	The content was good . But I was unable to understand most of the things during the workshop as the syntax of the language is not familiar with me . It is better if you could explain the programs in much detailed manner . 
+syntax of the language 	5316	The content was good . But I was unable to understand most of the things during the workshop as the syntax of the language is not familiar with me . It is better if you could explain the programs in much detailed manner . 
+programs 	5404	The content was good . But I was unable to understand most of the things during the workshop as the syntax of the language is not familiar with me . It is better if you could explain the programs in much detailed manner . 
+subjects contents 	5550	It is better if the subjects contents were more descriptive . 
+session 	6095	As a student who had a little knowledge about c plus plus , I learnt a lot of new things . And they were really interesting because most of the things you said are not even included in online tutorials . One drawback was that you should have informed us beforehand that you expect us to know the basic c plus plus things . For some of the guys , this was the first time programming in c plus plus . To them , it was somewhat difficult to grab at the pace you were going . In overall it was a great session and I enjoyed and learnt a lot . Hope to have more sessions from you guys in future . Thank you very much ! . 
+other programming language 	6244	it is good chance to learn other programming language rather than Java . I think it is not enough time to understanding c plus plus syntax and coding by my own while . After the session I used read further about c plus plus . So either we should get a very brief background before the workshop or in the workshop we should learn them step by step . 
+time 	6316	it is good chance to learn other programming language rather than Java . I think it is not enough time to understanding c plus plus syntax and coding by my own while . After the session I used read further about c plus plus . So either we should get a very brief background before the workshop or in the workshop we should learn them step by step . 
+workshop 	6598	It was a very interactive workshop and gave a good start to learn C plus plus . It will be great if you can conduct more sessions like this in future . 
+It 	6852	There was a chance to know about C plus plus . They motivated us to answer the questions . I like it very much . Overall It was very useful to us . 
+Workshop 	6882	Workshop helped me to get the basic idea on what are the industrial applications and also how important it is to know about various programming languages . The workshop would have been easier to catch up if they took some more time to explain things . Felt that they had to rush through . 
+workshop 	7043	Workshop helped me to get the basic idea on what are the industrial applications and also how important it is to know about various programming languages . The workshop would have been easier to catch up if they took some more time to explain things . Felt that they had to rush through . 
+time to explain 	7110	Workshop helped me to get the basic idea on what are the industrial applications and also how important it is to know about various programming languages . The workshop would have been easier to catch up if they took some more time to explain things . Felt that they had to rush through . 
+coding 	7193	when it comes to coding it was bit difficult as I do not know the C plus plus . If lecturer 's voice was bit clear than that it would have been better . But the lecture was useful for me to grow up my interest towards the language . Thank you for your great help . 
+lecturer 's voice 	7260	when it comes to coding it was bit difficult as I do not know the C plus plus . If lecturer 's voice was bit clear than that it would have been better . But the lecture was useful for me to grow up my interest towards the language . Thank you for your great help . 
+lecture 	7338	when it comes to coding it was bit difficult as I do not know the C plus plus . If lecturer 's voice was bit clear than that it would have been better . But the lecture was useful for me to grow up my interest towards the language . Thank you for your great help . 
+workshop 	7450	The workshop helped us gain knowledge but because that C plus plus is a complicated language ( and also because of its related libraries ) , just in a few hours , we can 't learn anything significant . 
+introduction approach on C plus plus 	7651	Good introduction approach on C plus plus . But need more time to work on the language . If they provide more examples on each topics , it would be great . Say Operator overloading . It would be much appreciated if they could explain the concept with more examples of codes . 
+time to work on the language 	7705	Good introduction approach on C plus plus . But need more time to work on the language . If they provide more examples on each topics , it would be great . Say Operator overloading . It would be much appreciated if they could explain the concept with more examples of codes . 
+examples on each topics , 	7758	Good introduction approach on C plus plus . But need more time to work on the language . If they provide more examples on each topics , it would be great . Say Operator overloading . It would be much appreciated if they could explain the concept with more examples of codes . 
+examples of codes 	7905	Good introduction approach on C plus plus . But need more time to work on the language . If they provide more examples on each topics , it would be great . Say Operator overloading . It would be much appreciated if they could explain the concept with more examples of codes . 
+workshop 	7932	The workshop was quite successful in its intentions . However , it would 've been even better if the session was conducted for more than 3 hours . 
+session 	8028	The workshop was quite successful in its intentions . However , it would 've been even better if the session was conducted for more than 3 hours . 
+workshop 	8091	It was a good workshop . I get to know about a lot of things in C plus plus as for the first time . Thank you Company _ x ! . 
+Company _ x ! 	8189	It was a good workshop . I get to know about a lot of things in C plus plus as for the first time . Thank you Company _ x ! . 
+workshop 	8380	The workshop is good but It will be better if the stuff is described much more in detail . 
+It 	8470	It was not that much useful . Didn 't grab anything correctly . 
+It 	8537	It was very useful as we got to know a lot about C plus plus . Before the workshop I basically thought Java is better than C plus plus in every aspect . 
+session 	8725	We could learn a lot from that session . It is better if another session can be arranged to learn some more about C plus plus . 
+workshop 	8838	In general , workshop was good . But programming part was not clear because lecturer 's speaking style was hard to understand . 
+programming part 	8863	In general , workshop was good . But programming part was not clear because lecturer 's speaking style was hard to understand . 
+lecturer 's speaking style 	8902	In general , workshop was good . But programming part was not clear because lecturer 's speaking style was hard to understand . 
+It 	9038	It was good and helpful . It will be better if the speaker is audible enough because I found it hard to understand the second speaker sometimes . Thank you so much . You have taught us many things in just few hours . 
+speaker 	9090	It was good and helpful . It will be better if the speaker is audible enough because I found it hard to understand the second speaker sometimes . Thank you so much . You have taught us many things in just few hours . 
+second speaker 	9158	It was good and helpful . It will be better if the speaker is audible enough because I found it hard to understand the second speaker sometimes . Thank you so much . You have taught us many things in just few hours . 
+Company _ x 	9270	Overall , Company _ x did a great job , but they were so hurry to cover up what they have planned to do . It was somewhat hard for most of our students to learn some concepts . So better to teach most important parts rather than trying to teach all the concepts in the slides . 
+workshop 	9547	A good workshop . They tried hard to deliver their maximum . But the scope is too wide for a short time period like 3 hours . 
+scope 	9611	A good workshop . They tried hard to deliver their maximum . But the scope is too wide for a short time period like 3 hours . 
+workshop 	9685	It was a good workshop but the assignment , in my opinion was not a fair one . As most of us were not familiar with C plus plus we had trouble familiarizing with it within one day ( less than one day ) in order to submit the assignment . 
+assignment , 	9702	It was a good workshop but the assignment , in my opinion was not a fair one . As most of us were not familiar with C plus plus we had trouble familiarizing with it within one day ( less than one day ) in order to submit the assignment . 
+Giving gifts 	9915	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+time limitation 	9990	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+lecture 	10035	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+speed 	10055	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+pace of the lecture 	10109	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+submit the code 	10327	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+lecture 	10406	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+lecturer 	10450	1 . Giving gifts did really motivate us to ask or answer questions . 2 . The time limitation made the speaker conduct the lecture at a faster speed than it was comfortable to us . 3 . Since the pace of the lecture was a little too fast , we weren 't able to completely understand some points . 4 . In a week where we are bombarded with assignments and a competition for engineering skills development , having to submit the code within a few hours is I believe , too much of work . 5 . This lecture could have been much helpful if the lecturer took at least 4 and a half hours instead of 3 . 
+It 	10667	It was helpful for me because , Until now I used only java for programming . But I now know C plus plus is far better than java . I will start learning C plus plus because you guys gave me the perfect foundation for that . 
+workshop 	10894	workshop is good if you can give slides before it we can study and come . 
+c plus plus concepts 	11022	It was very hard to get a good understanding about c plus plus concepts as I am not familiar with this language . It was a good idea to present some gifts to the students those who answer for the questions as it motivated students . 
+present some gifts 	11108	It was very hard to get a good understanding about c plus plus concepts as I am not familiar with this language . It was a good idea to present some gifts to the students those who answer for the questions as it motivated students . 
+workshop 	11239	I really appreciate it . This workshop motivated us to learn c plus plus as well as other new language . Do come again with T - Shirt ( for all ) ; ) . 
+Presenter _ x 	11404	It was hard to grab the words spoken by Mr. Presenter _ x since his tone was not very clear . It will be better if we can do more exercises to study the tweaks of these languages in the future . Please extend our thanks to Company _ x ! . 
+tone 	11426	It was hard to grab the words spoken by Mr. Presenter _ x since his tone was not very clear . It will be better if we can do more exercises to study the tweaks of these languages in the future . Please extend our thanks to Company _ x ! . 
+Company _ x ! 	11583	It was hard to grab the words spoken by Mr. Presenter _ x since his tone was not very clear . It will be better if we can do more exercises to study the tweaks of these languages in the future . Please extend our thanks to Company _ x ! . 
+workshop 	11603	The workshop is so good and very helpful . It motivates me to learn C plus plus . 
+It 	11643	The workshop is so good and very helpful . It motivates me to learn C plus plus . 
+Session 	11685	Session was good but I think C plus plus is relatively hard to grasp within a few hour session . Rather than discussing all the key elements of the language , it would be better if the session was focused on the primary key points of the language such as basic OOP implementations . 
+C plus plus 	11714	Session was good but I think C plus plus is relatively hard to grasp within a few hour session . Rather than discussing all the key elements of the language , it would be better if the session was focused on the primary key points of the language such as basic OOP implementations . 
+discussing all the key elements of the language , 	11795	Session was good but I think C plus plus is relatively hard to grasp within a few hour session . Rather than discussing all the key elements of the language , it would be better if the session was focused on the primary key points of the language such as basic OOP implementations . 
+primary key points of the language 	11897	Session was good but I think C plus plus is relatively hard to grasp within a few hour session . Rather than discussing all the key elements of the language , it would be better if the session was focused on the primary key points of the language such as basic OOP implementations . 
+basic OOP implementations 	11940	Session was good but I think C plus plus is relatively hard to grasp within a few hour session . Rather than discussing all the key elements of the language , it would be better if the session was focused on the primary key points of the language such as basic OOP implementations . 

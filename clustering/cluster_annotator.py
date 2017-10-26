@@ -17,17 +17,20 @@ TARGETS_PATH = "./targets/annotated/"
 
 # IMPORTANT
 #change the file name of the targets file to evaluate
-#TARGETS_FILE = "feedback_cs2012_2.txt" #eg: feedback_cs2012_2.txt
+TARGETS_FILE = "feedback_cs2012_3.txt" #eg: feedback_cs2012_2.txt
 
 # get phrases from extracted targets
 def get_phrases_from_file(file_name):
     with open(file_name) as f:
-        content = f.readlines()  
-    phrases = [x.strip() for x in content]
+        lines = f.readlines()  
+    lines = [x.strip() for x in lines]
     # split the lines from tab and remove the position to take the phrase
-    phrases = [line.split('\t')[0] for line in phrases]
+    phrases = [line.split('\t')[0] for line in lines]
     phrases = [x.strip() for x in phrases]
-    return phrases
+    
+    responses = [line.split('\t')[2] for line in lines]
+    responses = [x.strip() for x in responses]
+    return phrases, responses
 
 # get phrases from extracted targets - coref resolved
 def get_coref_resolved_phrases(file_name):
@@ -36,7 +39,7 @@ def get_coref_resolved_phrases(file_name):
     phrases = [x.strip() for x in content]
     return phrases
 
-def annotate_clusters(phrases, feedback_file="test"):
+def annotate_clusters(phrases, responses, feedback_file="test"):
     annotated_clusters = {}
     annotated_labels = []
     
@@ -48,6 +51,7 @@ def annotate_clusters(phrases, feedback_file="test"):
         #validate this user input
         cluster_no = '-1' #initially cluster number should not be true for isdigit()
         while( not( cluster_no.isdigit() ) or not( int( cluster_no ) < len( annotated_clusters )+1 ) ):
+            print("Response : \""+responses[i]+"\"")
             cluster_no = input("Enter cluster number for '"+phrases[i]+"': ")
         #assign user input to the annotated_clusters obj
         cluster_no = int(cluster_no)
@@ -98,10 +102,12 @@ def annotate_clusters(phrases, feedback_file="test"):
 
 
 if __name__ == "__main__":
-    phrases = get_phrases_from_file(TARGETS_PATH+TARGETS_FILE) #read targets from file
+    phrases, responses = get_phrases_from_file(TARGETS_PATH+TARGETS_FILE) #read targets from file
 
-    annotated_clusters, cluster_names = annotate_clusters(phrases, TARGETS_FILE)
+    annotated_clusters, cluster_names = annotate_clusters(phrases, responses, TARGETS_FILE)
     
     print(annotated_clusters)
     print(cluster_names)
+
+    
   

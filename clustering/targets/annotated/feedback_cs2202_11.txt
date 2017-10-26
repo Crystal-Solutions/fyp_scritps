@@ -1,156 +1,156 @@
-workshop 	4
-time 	91
-some examples 	362
-later topics 	412
-session 	472
-workshop 	598
-It 	650
-It 	673
-workshops 	793
-time 	810
-Junit 	868
-Git 	878
-workshop 	915
-workshop 	943
-time period 	960
-workshop 	1078
-Ant 	1145
-topics 	1197
-time 	1239
-IntelliJ Introduction 	1261
-Git 	1453
-version control systems 	1461
-workshop 	1498
-latter part of the workshop 	1540
-explanations 	1631
-It 	1664
-compilation using terminal , 	1728
-IDE , 	1756
-build tools , 	1761
-ANT , 	1774
-Unit test 	1779
-Jenkins 	1793
-time 	1830
-Workshop 	1918
-time 	1952
-session 	2077
-today 's session 	2198
-workshops 	2367
-Jenkins , 	2484
-ant 	2493
-workshop 	2560
-lot of new things 	2600
-time 	2657
-practicals 	2666
-workshop 	2747
-workshop 	2773
-ant 	2793
-It 	2855
-time 	3225
-session 	3235
-prior arrangements ( 	3264
-session 	3235
-prior arrangements ( 	3264
-session 	3468
-software tools 	3513
-time to test sample codes 	3574
-help given by the team 	3622
-area to cover during the session 	3764
-It 	3832
-what industry expect from us 	3881
-ANT , 	3936
-JUNIT , 	3941
-Jenkins 	3948
-workshop 	3988
-Company _ y members 	4030
-Session 	4105
-content 	4128
-time limit 	4238
-It 	4269
-It 	4334
-target 	4460
-examples 	4697
-clarifications 	4724
-last part of the session 	4825
-speed 	4865
-presentation 	4881
-They 	4899
-time 	4961
-they 	5091
-relate them to the real work work environments 	5140
-you all 	5224
-it 	5269
-It 	5317
-workshop 	5427
-content 	5459
-time allocated 	5593
-time 	5703
-It 	5713
-workshop 	5794
-industrial related software development practicals 	5845
-duration 	5929
-first part of workshop 	5957
-last part 	6020
-content 	6091
-It 	6206
-workshop 	6396
-new IDE 	6428
-time on ANT and JUNIT 	6501
-session 	6723
-JUnit , 	6790
-IntelliJ idea 	6797
-Final half of the session 	6814
-examples 	6977
-tutorials on apache ant environment 	6990
-whole workshop 	7095
-time 	7212
-information on ANT 	7231
-session 	7347
-this workshop 	7495
-workshop 	7601
-explanations 	7632
-workshop 	7814
-It 	7888
-It 	8114
-their part 	8131
-workshop 	8159
-session 	8291
-last part 	8316
-practicals 	8425
-workshop 	8490
-topic 	8630
-workshop 	8661
-time on the topics 	8790
-workshop 	8836
-first part 	8868
-time on java basics , 	8965
-remaining parts 	9015
-last facts 	9072
-workshop 	9244
-workshop , 	9311
-IntelliJ IDE 	9424
-Workshop 	9442
-time 	9552
-This 	9577
-workshop 	9680
-build tools 	9714
-concepts 	9730
-prerequisites 	9791
-Organization of the workshop 	9846
-version control system 	9928
-junit 	9955
-Overall it 	9964
-workshop 	10004
-time 	10021
-workshop 	10160
-It 	10202
-lectures 	10276
-areas touched 	10373
-sessions 	10426
-session on JUnit 	10467
-ANT session 	10661
-workshop 	10839
-information on the build tools , 	10971
-version control systems 	11003
-time 	11090
-presentations 	11127
+workshop 	4	The workshop was a important and interesting one . But it would be better if we have more time for the workshop . 
+time 	91	The workshop was a important and interesting one . But it would be better if we have more time for the workshop . 
+some examples 	362	Firstly , thank you for dedicating your valuable time on us . You gave us a lot within 3 hours . I learnt many things new today and also think that I should look into those Ideas and build tools as it will be very helpful . It may be good if some examples were included and explained more on later topics . 
+later topics 	412	Firstly , thank you for dedicating your valuable time on us . You gave us a lot within 3 hours . I learnt many things new today and also think that I should look into those Ideas and build tools as it will be very helpful . It may be good if some examples were included and explained more on later topics . 
+session 	472	it was really important and much valuable session for me . Although it was the first day I heard about such an area in CSE I studied lots of things . So , it is great workshop and thank Company _ y for conducting it . 
+workshop 	598	it was really important and much valuable session for me . Although it was the first day I heard about such an area in CSE I studied lots of things . So , it is great workshop and thank Company _ y for conducting it . 
+It 	650	It was very helpful . It was especially helpful because we have OOP projects which require continuous code management . 
+It 	673	It was very helpful . It was especially helpful because we have OOP projects which require continuous code management . 
+workshops 	793	This was very good workshops . But time was not enough . It is better if explain more about Junit and Git . But actually it was very good workshop . 
+time 	810	This was very good workshops . But time was not enough . It is better if explain more about Junit and Git . But actually it was very good workshop . 
+Junit 	868	This was very good workshops . But time was not enough . It is better if explain more about Junit and Git . But actually it was very good workshop . 
+Git 	878	This was very good workshops . But time was not enough . It is better if explain more about Junit and Git . But actually it was very good workshop . 
+workshop 	915	This was very good workshops . But time was not enough . It is better if explain more about Junit and Git . But actually it was very good workshop . 
+workshop 	943	It is a great workshop I think time period should be extended . 
+time period 	960	It is a great workshop I think time period should be extended . 
+workshop 	1078	Thank you for spending your valuable time to conduct such workshops for us . The workshop was helpful to get a basic idea about build tools such as Ant . It would have been even better if only a few topics were covered in more detail as the time was limited . 
+Ant 	1145	Thank you for spending your valuable time to conduct such workshops for us . The workshop was helpful to get a basic idea about build tools such as Ant . It would have been even better if only a few topics were covered in more detail as the time was limited . 
+topics 	1197	Thank you for spending your valuable time to conduct such workshops for us . The workshop was helpful to get a basic idea about build tools such as Ant . It would have been even better if only a few topics were covered in more detail as the time was limited . 
+time 	1239	Thank you for spending your valuable time to conduct such workshops for us . The workshop was helpful to get a basic idea about build tools such as Ant . It would have been even better if only a few topics were covered in more detail as the time was limited . 
+IntelliJ Introduction 	1261	IntelliJ Introduction was good . I could not point at least the exact use of each of the other 3 sections , I think it is better to cover only one section per 3 hours . I expected more about Git and version control systems too . 
+Git 	1453	IntelliJ Introduction was good . I could not point at least the exact use of each of the other 3 sections , I think it is better to cover only one section per 3 hours . I expected more about Git and version control systems too . 
+version control systems 	1461	IntelliJ Introduction was good . I could not point at least the exact use of each of the other 3 sections , I think it is better to cover only one section per 3 hours . I expected more about Git and version control systems too . 
+workshop 	1498	The workshop was useful as a whole . But the latter part of the workshop was little ineffective as we were alien to those areas and the explanations were so speedy . 
+latter part of the workshop 	1540	The workshop was useful as a whole . But the latter part of the workshop was little ineffective as we were alien to those areas and the explanations were so speedy . 
+explanations 	1631	The workshop was useful as a whole . But the latter part of the workshop was little ineffective as we were alien to those areas and the explanations were so speedy . 
+It 	1664	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+compilation using terminal , 	1728	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+IDE , 	1756	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+build tools , 	1761	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+ANT , 	1774	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+Unit test 	1779	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+Jenkins 	1793	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+time 	1830	It was very useful to us . We had a chance to know about to do compilation using terminal , IDE , build tools , ANT , Unit test and Jenkins . But we didn 't have enough time to do more practicals for getting more idea about concept during the workshop . 
+Workshop 	1918	Workshop was well structured , but time was a problem . But it occurred because our students were not ready for it . Sorry for that . However it was a great session . 
+time 	1952	Workshop was well structured , but time was a problem . But it occurred because our students were not ready for it . Sorry for that . However it was a great session . 
+session 	2077	Workshop was well structured , but time was a problem . But it occurred because our students were not ready for it . Sorry for that . However it was a great session . 
+today 's session 	2198	First of all I would like to thank all the instructors who dedicated their valuable time to teach for us . today 's session was really helpful to arouse our curiosity on ant and junit . Hope you 'll continually give your support to enhance our knowledge . 
+workshops 	2367	Personally these workshops were very useful me . I could gather many things I didn 't knew . 
+Jenkins , 	2484	It 's better to focus more on teaching Jenkins , ant all other stuff rather than basic knowledge of java : ) . 
+ant 	2493	It 's better to focus more on teaching Jenkins , ant all other stuff rather than basic knowledge of java : ) . 
+workshop 	2560	The workshop was really good . I learned a lot of new things . It is sad that there was not enough time for practicals . Nothing negative to point out . Thanks you all for your wonderful workshop . 
+lot of new things 	2600	The workshop was really good . I learned a lot of new things . It is sad that there was not enough time for practicals . Nothing negative to point out . Thanks you all for your wonderful workshop . 
+time 	2657	The workshop was really good . I learned a lot of new things . It is sad that there was not enough time for practicals . Nothing negative to point out . Thanks you all for your wonderful workshop . 
+practicals 	2666	The workshop was really good . I learned a lot of new things . It is sad that there was not enough time for practicals . Nothing negative to point out . Thanks you all for your wonderful workshop . 
+workshop 	2747	The workshop was really good . I learned a lot of new things . It is sad that there was not enough time for practicals . Nothing negative to point out . Thanks you all for your wonderful workshop . 
+workshop 	2773	It is great workshop . Because ant is very useful for us , for our projects . Thank you . 
+ant 	2793	It is great workshop . Because ant is very useful for us , for our projects . Thank you . 
+It 	2855	It is very useful for us . We studied a lot of unknown thing . Thank you . 
+time 	3225	First I would like to thank everyone who spent their valuable time to do this workshop . Got the basic idea how java files compile , run and how the folders are make when we work with a ide . But I think it will be more benefited if we focus only one or two new concepts as we had limited time . 
+session 	3235	session is useful . But the prior arrangements ( downloading and setting up environmental variable ) took more time because most students were unable to do it . So give CLEAR explanation on how to do them before the session . 
+prior arrangements ( 	3264	session is useful . But the prior arrangements ( downloading and setting up environmental variable ) took more time because most students were unable to do it . So give CLEAR explanation on how to do them before the session . 
+session 	3235	session is useful . But the prior arrangements ( downloading and setting up environmental variable ) took more time because most students were unable to do it . So give CLEAR explanation on how to do them before the session . 
+prior arrangements ( 	3264	session is useful . But the prior arrangements ( downloading and setting up environmental variable ) took more time because most students were unable to do it . So give CLEAR explanation on how to do them before the session . 
+session 	3468	The session was very useful to get an idea about software tools . It would have been better if we get enough time to test sample codes . 
+software tools 	3513	The session was very useful to get an idea about software tools . It would have been better if we get enough time to test sample codes . 
+time to test sample codes 	3574	The session was very useful to get an idea about software tools . It would have been better if we get enough time to test sample codes . 
+help given by the team 	3622	I appreciate the help given by the team when we face problems in installing the IDEs and implementing programs . I think it is better if you select a limited area to cover during the session other than explaining quickly . 
+area to cover during the session 	3764	I appreciate the help given by the team when we face problems in installing the IDEs and implementing programs . I think it is better if you select a limited area to cover during the session other than explaining quickly . 
+It 	3832	It was very useful to get an understanding about what industry expect from us . If we had more time on ANT , JUNIT , Jenkins it will be more useful . 
+what industry expect from us 	3881	It was very useful to get an understanding about what industry expect from us . If we had more time on ANT , JUNIT , Jenkins it will be more useful . 
+ANT , 	3936	It was very useful to get an understanding about what industry expect from us . If we had more time on ANT , JUNIT , Jenkins it will be more useful . 
+JUNIT , 	3941	It was very useful to get an understanding about what industry expect from us . If we had more time on ANT , JUNIT , Jenkins it will be more useful . 
+Jenkins 	3948	It was very useful to get an understanding about what industry expect from us . If we had more time on ANT , JUNIT , Jenkins it will be more useful . 
+workshop 	3988	The workshop was a great experience for us . Company _ y members done a good job there . Thank you for your support . 
+Company _ y members 	4030	The workshop was a great experience for us . Company _ y members done a good job there . Thank you for your support . 
+Session 	4105	Session has reasonable content . 
+content 	4128	Session has reasonable content . 
+time limit 	4238	I could able to understand something we didn 't go through before . Was really useful . But the time limit was not enough . 
+It 	4269	It was really good , covered a lot from a short period of time . It was a whole new experience . We apologize for not covering up the prerequisites beforehand . 
+It 	4334	It was really good , covered a lot from a short period of time . It was a whole new experience . We apologize for not covering up the prerequisites beforehand . 
+target 	4460	It might be better if the target was to educate us on few things in more depth according to the time issue . 
+examples 	4697	A lot of knowledge gained within 3 hours . I was introduced to some new technologies . Thank you for spending your time to give us knowledge . More examples and somewhat slow clarifications may be good . 
+clarifications 	4724	A lot of knowledge gained within 3 hours . I was introduced to some new technologies . Thank you for spending your time to give us knowledge . More examples and somewhat slow clarifications may be good . 
+last part of the session 	4825	It is little bit inconvenience to get the idea what you presented in last part of the session because of the speed of the . presentation . 
+speed 	4865	It is little bit inconvenience to get the idea what you presented in last part of the session because of the speed of the . presentation . 
+presentation 	4881	It is little bit inconvenience to get the idea what you presented in last part of the session because of the speed of the . presentation . 
+They 	4899	They are good but the maximum was not able to grab due to the time constraint . It 'd be great if we were informed a bit earlier to setup out computers to fit the workshops . Other than that they are great but still we find it difficult to relate them to the real work work environments . Thanks . 
+time 	4961	They are good but the maximum was not able to grab due to the time constraint . It 'd be great if we were informed a bit earlier to setup out computers to fit the workshops . Other than that they are great but still we find it difficult to relate them to the real work work environments . Thanks . 
+they 	5091	They are good but the maximum was not able to grab due to the time constraint . It 'd be great if we were informed a bit earlier to setup out computers to fit the workshops . Other than that they are great but still we find it difficult to relate them to the real work work environments . Thanks . 
+relate them to the real work work environments 	5140	They are good but the maximum was not able to grab due to the time constraint . It 'd be great if we were informed a bit earlier to setup out computers to fit the workshops . Other than that they are great but still we find it difficult to relate them to the real work work environments . Thanks . 
+you all 	5224	With the limited time you all did a great job . Learned a lot and it was very informative . Thank you a lot . 
+it 	5269	With the limited time you all did a great job . Learned a lot and it was very informative . Thank you a lot . 
+It 	5317	It was awesome . I have learned technologies that were used in the industry . Thanks for Company _ y . 
+workshop 	5427	The workshop was very useful . The content was very important for CS students . I think these things should be taught to CSE students in the second semester . And the time allocated is not enough therefore it is better if it can be divided into two workshops and allocate more time . 
+content 	5459	The workshop was very useful . The content was very important for CS students . I think these things should be taught to CSE students in the second semester . And the time allocated is not enough therefore it is better if it can be divided into two workshops and allocate more time . 
+time allocated 	5593	The workshop was very useful . The content was very important for CS students . I think these things should be taught to CSE students in the second semester . And the time allocated is not enough therefore it is better if it can be divided into two workshops and allocate more time . 
+time 	5703	The workshop was very useful . The content was very important for CS students . I think these things should be taught to CSE students in the second semester . And the time allocated is not enough therefore it is better if it can be divided into two workshops and allocate more time . 
+It 	5713	It was very helpful to gain the knowledge in area which we didn 't knew . 
+workshop 	5794	This workshop was really useful . We got familiar with industrial related software development practicals via this workshop . I think the duration is not enough . 
+industrial related software development practicals 	5845	This workshop was really useful . We got familiar with industrial related software development practicals via this workshop . I think the duration is not enough . 
+duration 	5929	This workshop was really useful . We got familiar with industrial related software development practicals via this workshop . I think the duration is not enough . 
+first part of workshop 	5957	first part of workshop was fine . But because of lack of time last part was rushed through . not very clear for me . : - ( . 
+last part 	6020	first part of workshop was fine . But because of lack of time last part was rushed through . not very clear for me . : - ( . 
+content 	6091	The content that covered in the workshop was very important and we got the idea we should be aware of those tools . 
+It 	6206	It was very useful for us and thank you all . I learn lot . But I think , it is better that lecture may be slowly few than today . I cannot note some code parts . 
+workshop 	6396	It was really awesome workshop . Got to know about a new IDE and how to work with it . It is better if you can allocate more time on ANT and JUNIT since it was very hard to keep track on those lectures . Anyway we had a good time improving our knowledge in industrial aspects . Thank you very much for conducting this kind of workshop . 
+new IDE 	6428	It was really awesome workshop . Got to know about a new IDE and how to work with it . It is better if you can allocate more time on ANT and JUNIT since it was very hard to keep track on those lectures . Anyway we had a good time improving our knowledge in industrial aspects . Thank you very much for conducting this kind of workshop . 
+time on ANT and JUNIT 	6501	It was really awesome workshop . Got to know about a new IDE and how to work with it . It is better if you can allocate more time on ANT and JUNIT since it was very hard to keep track on those lectures . Anyway we had a good time improving our knowledge in industrial aspects . Thank you very much for conducting this kind of workshop . 
+session 	6723	This session is good and helpful . They taught us many new things like JUnit , IntelliJ idea . Final half of the session was very speed and bit complicated . But I think we can we figure out that things ourselves . 
+JUnit , 	6790	This session is good and helpful . They taught us many new things like JUnit , IntelliJ idea . Final half of the session was very speed and bit complicated . But I think we can we figure out that things ourselves . 
+IntelliJ idea 	6797	This session is good and helpful . They taught us many new things like JUnit , IntelliJ idea . Final half of the session was very speed and bit complicated . But I think we can we figure out that things ourselves . 
+Final half of the session 	6814	This session is good and helpful . They taught us many new things like JUnit , IntelliJ idea . Final half of the session was very speed and bit complicated . But I think we can we figure out that things ourselves . 
+examples 	6977	Actually it is better if can have more examples and tutorials on apache ant environment as we are beginners for those things . Nice attempt . : ) . 
+tutorials on apache ant environment 	6990	Actually it is better if can have more examples and tutorials on apache ant environment as we are beginners for those things . Nice attempt . : ) . 
+whole workshop 	7095	The whole workshop was very productive for us and we got to know a lot of things . My only regret is that we ran out of time . A bit more information on ANT would have been very useful rather than focusing a lot on the SIDE . 
+time 	7212	The whole workshop was very productive for us and we got to know a lot of things . My only regret is that we ran out of time . A bit more information on ANT would have been very useful rather than focusing a lot on the SIDE . 
+information on ANT 	7231	The whole workshop was very productive for us and we got to know a lot of things . My only regret is that we ran out of time . A bit more information on ANT would have been very useful rather than focusing a lot on the SIDE . 
+session 	7347	Got many things from the session . Thank you very much for your contribution . 
+this workshop 	7495	it 's really good to know how to test classes before implementation and bug fixing . Also this workshop useful because we know which requirements they will ask when we go to the industry . 
+workshop 	7601	The workshop was very good and the explanations were quite clear . Could gain a good knowledge and understanding on those areas . Hope that 'll be useful in our future projects . Thank You . 
+explanations 	7632	The workshop was very good and the explanations were quite clear . Could gain a good knowledge and understanding on those areas . Hope that 'll be useful in our future projects . Thank You . 
+workshop 	7814	I really enjoyed the workshop . It was a great and will be extremely useful in my practice . It was well structured and well supported . Looking forward more things from you in the future . 
+It 	7888	I really enjoyed the workshop . It was a great and will be extremely useful in my practice . It was well structured and well supported . Looking forward more things from you in the future . 
+It 	8114	It was good from their part . But since the workshop was for 3 hours we had some problems with following due to technical issues regarding laptop battery life and etc . 
+their part 	8131	It was good from their part . But since the workshop was for 3 hours we had some problems with following due to technical issues regarding laptop battery life and etc . 
+workshop 	8159	It was good from their part . But since the workshop was for 3 hours we had some problems with following due to technical issues regarding laptop battery life and etc . 
+session 	8291	The session was good But the last part were bit complex to understand . We got a brief idea but it would have been great we could do the practicals in the same time as well . 
+last part 	8316	The session was good But the last part were bit complex to understand . We got a brief idea but it would have been great we could do the practicals in the same time as well . 
+practicals 	8425	The session was good But the last part were bit complex to understand . We got a brief idea but it would have been great we could do the practicals in the same time as well . 
+workshop 	8490	actually it was a great workshop to me . Before I come to the workshop I didn 't know much about that . Thank you very much for sharing knowledge with us . 
+topic 	8630	The topic discussed in the today 's workshop were really important . We were not aware about such things discussed today . It is better if the could allocate more time on the topics discussed at last . 
+workshop 	8661	The topic discussed in the today 's workshop were really important . We were not aware about such things discussed today . It is better if the could allocate more time on the topics discussed at last . 
+time on the topics 	8790	The topic discussed in the today 's workshop were really important . We were not aware about such things discussed today . It is better if the could allocate more time on the topics discussed at last . 
+workshop 	8836	The workshop was interesting . The first part where we used command line to compile a program was good , but later we spent a lot of time on java basics , which we already knew . The remaining parts were good . 
+first part 	8868	The workshop was interesting . The first part where we used command line to compile a program was good , but later we spent a lot of time on java basics , which we already knew . The remaining parts were good . 
+time on java basics , 	8965	The workshop was interesting . The first part where we used command line to compile a program was good , but later we spent a lot of time on java basics , which we already knew . The remaining parts were good . 
+remaining parts 	9015	The workshop was interesting . The first part where we used command line to compile a program was good , but later we spent a lot of time on java basics , which we already knew . The remaining parts were good . 
+last facts 	9072	we could not catch up the last facts that were told as they were rushing due to time limits . It will be much better if even few topics were discussed with more details and examples . Overall the workshop is useful and interesting . 
+workshop 	9244	we could not catch up the last facts that were told as they were rushing due to time limits . It will be much better if even few topics were discussed with more details and examples . Overall the workshop is useful and interesting . 
+workshop , 	9311	We had a good time in this workshop , We learned how the java works underneath to compile and run a source file . We also learned about the IntelliJ IDE . 
+IntelliJ IDE 	9424	We had a good time in this workshop , We learned how the java works underneath to compile and run a source file . We also learned about the IntelliJ IDE . 
+Workshop 	9442	Workshop is fine . They need to quickly finish basics and go to the hard parts . Because students need more time to grasp those . 
+time 	9552	Workshop is fine . They need to quickly finish basics and go to the hard parts . Because students need more time to grasp those . 
+This 	9577	This is really useful and helpful for our future and ongoing projects . Thank you . 
+workshop 	9680	It was a great workshop . We learnt a lot about build tools and concepts . We could have save time if you informed us about prerequisites more clearly . Thanks a lot . : ) . 
+build tools 	9714	It was a great workshop . We learnt a lot about build tools and concepts . We could have save time if you informed us about prerequisites more clearly . Thanks a lot . : ) . 
+concepts 	9730	It was a great workshop . We learnt a lot about build tools and concepts . We could have save time if you informed us about prerequisites more clearly . Thanks a lot . : ) . 
+prerequisites 	9791	It was a great workshop . We learnt a lot about build tools and concepts . We could have save time if you informed us about prerequisites more clearly . Thanks a lot . : ) . 
+Organization of the workshop 	9846	Organization of the workshop was excellent . I was able to understand all except version control system and junit . Overall it was good . 
+version control system 	9928	Organization of the workshop was excellent . I was able to understand all except version control system and junit . Overall it was good . 
+junit 	9955	Organization of the workshop was excellent . I was able to understand all except version control system and junit . Overall it was good . 
+Overall it 	9964	Organization of the workshop was excellent . I was able to understand all except version control system and junit . Overall it was good . 
+workshop 	10004	This is a good workshop but the time is not enough . It would be better if you do this presentation in two days instead of rushing through everything in one day . 
+time 	10021	This is a good workshop but the time is not enough . It would be better if you do this presentation in two days instead of rushing through everything in one day . 
+workshop 	10160	The workshop taught us lot of new concepts . It was useful and an eye opener . Thank you for conducting it . But the lectures were conducted a little too fast . It would have been more helpful if there was lesser areas touched but explained to a more depth . 
+It 	10202	The workshop taught us lot of new concepts . It was useful and an eye opener . Thank you for conducting it . But the lectures were conducted a little too fast . It would have been more helpful if there was lesser areas touched but explained to a more depth . 
+lectures 	10276	The workshop taught us lot of new concepts . It was useful and an eye opener . Thank you for conducting it . But the lectures were conducted a little too fast . It would have been more helpful if there was lesser areas touched but explained to a more depth . 
+areas touched 	10373	The workshop taught us lot of new concepts . It was useful and an eye opener . Thank you for conducting it . But the lectures were conducted a little too fast . It would have been more helpful if there was lesser areas touched but explained to a more depth . 
+sessions 	10426	The sessions were really good , Specially the session on JUnit was really interesting . I remember so many times altering main the code , just to check independent parts of code I type . I think JUnit would be very helpful for me there . ANT session was also very good . I was struggling with new android studio and gradle . But now , I think I would understand it better . Thank you Company _ y ! . 
+session on JUnit 	10467	The sessions were really good , Specially the session on JUnit was really interesting . I remember so many times altering main the code , just to check independent parts of code I type . I think JUnit would be very helpful for me there . ANT session was also very good . I was struggling with new android studio and gradle . But now , I think I would understand it better . Thank you Company _ y ! . 
+ANT session 	10661	The sessions were really good , Specially the session on JUnit was really interesting . I remember so many times altering main the code , just to check independent parts of code I type . I think JUnit would be very helpful for me there . ANT session was also very good . I was struggling with new android studio and gradle . But now , I think I would understand it better . Thank you Company _ y ! . 
+workshop 	10839	it was a good workshop . It help to know many thing . 
+information on the build tools , 	10971	We learned about important tips about programming and good programming practices . The information on the build tools , version control systems etc were really helpful . Considering the content clearly the time was not adequate , so if the the presentations were summarized accordingly that could have been great . 
+version control systems 	11003	We learned about important tips about programming and good programming practices . The information on the build tools , version control systems etc were really helpful . Considering the content clearly the time was not adequate , so if the the presentations were summarized accordingly that could have been great . 
+time 	11090	We learned about important tips about programming and good programming practices . The information on the build tools , version control systems etc were really helpful . Considering the content clearly the time was not adequate , so if the the presentations were summarized accordingly that could have been great . 
+presentations 	11127	We learned about important tips about programming and good programming practices . The information on the build tools , version control systems etc were really helpful . Considering the content clearly the time was not adequate , so if the the presentations were summarized accordingly that could have been great . 

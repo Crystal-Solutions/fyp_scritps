@@ -1,67 +1,67 @@
-workshop 	28
-Company _ x 	51
-It 	66
-how to write unit tests 	217
-session 	346
-Millenium 	382
-teach 	419
-Last 10 min 	436
-organized 	484
-workshop 	502
-unit testing via netbeans IDE 	548
-this 	585
-workshop 	655
-session 	683
-workshop 	753
-workshop 	767
-testing tools 	820
-It 	839
-It 	875
-time 	901
-It 	1094
-selenium part 	1142
-workshop 	1177
-workshop 	1228
-workshop 	1263
-It 	1309
-session 	1361
-session 	1496
-test engines 	1642
-Workshop 	1658
-workshops 	1720
-unit testing 	1786
-workshop 	1877
-workshop team 	1893
-workshop 	1989
-new tools 	2064
-workshops 	2085
-workshop 	2340
-Workshop 	2373
-session 	2461
-testing 	2519
-debugging 	2531
-selenium IDE 	2602
-it 	2655
-It 	2685
-workshop 	2756
-Company _ x 	2912
-workshop 	2988
-the way workshop was conducted 	3007
-ice breaking exercises 	3047
-workshop goals 	3150
-JUnit 	3230
-TestNG 	3240
-Overall feedback - 	3290
-Company _ x team ! 	3419
-workshop 	3444
-content 	3467
-It 	3504
-workshop 	3627
-basic concepts 	3653
-session 	3750
-workshop 	3814
-pace of teaching 	3853
-session 	4050
-Presenter 	4061
-way of presenting 	4120
-Workshop 	4178
+workshop 	28	interesting and more useful workshop . Thanks for Company _ x . 
+Company _ x 	51	interesting and more useful workshop . Thanks for Company _ x . 
+It 	66	It was great . I learnt something . 
+how to write unit tests 	217	Had a good understanding about how to write unit tests . Since it took considerable time in explaining the procedure of writing unit tests , it was interesting session . 
+session 	346	Had a good understanding about how to write unit tests . Since it took considerable time in explaining the procedure of writing unit tests , it was interesting session . 
+Millenium 	382	Thanks a lot Millenium . But better if you could teach us more . Last 10 min was just like wasted . 
+teach 	419	Thanks a lot Millenium . But better if you could teach us more . Last 10 min was just like wasted . 
+Last 10 min 	436	Thanks a lot Millenium . But better if you could teach us more . Last 10 min was just like wasted . 
+organized 	484	very well organized . Best workshop until now . 
+workshop 	502	very well organized . Best workshop until now . 
+unit testing via netbeans IDE 	548	learned how to do the unit testing via netbeans IDE . But this could be covered in the previous unit testing workshop . Anyway workshop is good : ) . 
+this 	585	learned how to do the unit testing via netbeans IDE . But this could be covered in the previous unit testing workshop . Anyway workshop is good : ) . 
+workshop 	655	learned how to do the unit testing via netbeans IDE . But this could be covered in the previous unit testing workshop . Anyway workshop is good : ) . 
+session 	683	The session was well planned and clear . Thank you . 
+workshop 	753	Well constructed workshop . 
+workshop 	767	workshop was good . We could get a basic idea about testing tools . 
+testing tools 	820	workshop was good . We could get a basic idea about testing tools . 
+It 	839	It was very interesting and good . It is very helpful . The time you have given us to run and check code during the workshop was more than enough . So reduce that time a little , then it will save time to teach us more . Thank you so much . 
+It 	875	It was very interesting and good . It is very helpful . The time you have given us to run and check code during the workshop was more than enough . So reduce that time a little , then it will save time to teach us more . Thank you so much . 
+time 	901	It was very interesting and good . It is very helpful . The time you have given us to run and check code during the workshop was more than enough . So reduce that time a little , then it will save time to teach us more . Thank you so much . 
+It 	1094	good . It was very useful . But it would be better if selenium part also taught . 
+selenium part 	1142	good . It was very useful . But it would be better if selenium part also taught . 
+workshop 	1177	The workshop was good and interesting . 
+workshop 	1228	Really good workshop . Learnt a lot . 
+workshop 	1263	nice workshop . Got many useful informations . 
+It 	1309	It was good . Clearly explained . 
+session 	1361	It was a good session . Most students were very familiar with java . Hence with both conditions satisfied , I think people made the best out of the session . 
+session 	1496	It was a good session . Most students were very familiar with java . Hence with both conditions satisfied , I think people made the best out of the session . 
+test engines 	1642	I was used to test programs using print commands from early days . Through the workshop I got to know many interesting things about test engines . Workshop was really helpful . Thank you . 
+Workshop 	1658	I was used to test programs using print commands from early days . Through the workshop I got to know many interesting things about test engines . Workshop was really helpful . Thank you . 
+workshops 	1720	One of the best workshops so far . Had the attention to the fullest . Better if unit testing was not repeated ( since it was already done by cakelabs ) . 
+unit testing 	1786	One of the best workshops so far . Had the attention to the fullest . Better if unit testing was not repeated ( since it was already done by cakelabs ) . 
+workshop 	1877	funny and great workshop . The workshop team is best and they taught us how to do programming with in the different tools . 
+workshop team 	1893	funny and great workshop . The workshop team is best and they taught us how to do programming with in the different tools . 
+workshop 	1989	workshop is good we should spend more time on them . 
+new tools 	2064	As always we learn new tools from these workshops . But that question you asked " how many logos you can recognize " forced me to think that how much I know about this industry . I think I have do lot more than I am doing right now to become the person I always wanted to be , an expert . 
+workshops 	2085	As always we learn new tools from these workshops . But that question you asked " how many logos you can recognize " forced me to think that how much I know about this industry . I think I have do lot more than I am doing right now to become the person I always wanted to be , an expert . 
+workshop 	2340	The workshop was very effective . 
+Workshop 	2373	Workshop was successful . 
+session 	2461	The session was good . Learnt a lot of new things related to testing and debugging . It would have been better if you taught us how to use the selenium IDE or at least show a demo using that . 
+testing 	2519	The session was good . Learnt a lot of new things related to testing and debugging . It would have been better if you taught us how to use the selenium IDE or at least show a demo using that . 
+debugging 	2531	The session was good . Learnt a lot of new things related to testing and debugging . It would have been better if you taught us how to use the selenium IDE or at least show a demo using that . 
+selenium IDE 	2602	The session was good . Learnt a lot of new things related to testing and debugging . It would have been better if you taught us how to use the selenium IDE or at least show a demo using that . 
+it 	2655	it was very useful to us . 
+It 	2685	It was great . We could learn more about testing techniques . 
+workshop 	2756	This workshop was very useful because we learnt a simple way to keep our code functioning as it should , and introduce changes without hassle . I 'm grateful for Company _ x for spending their valuable time for us . 
+Company _ x 	2912	This workshop was very useful because we learnt a simple way to keep our code functioning as it should , and introduce changes without hassle . I 'm grateful for Company _ x for spending their valuable time for us . 
+workshop 	2988	It was a really nice workshop . I love the way workshop was conducted and also ice breaking exercises . Thank you very much . I have earned as much as possible . 
+the way workshop was conducted 	3007	It was a really nice workshop . I love the way workshop was conducted and also ice breaking exercises . Thank you very much . I have earned as much as possible . 
+ice breaking exercises 	3047	It was a really nice workshop . I love the way workshop was conducted and also ice breaking exercises . Thank you very much . I have earned as much as possible . 
+workshop goals 	3150	I believe that workshop goals are met . Since we had done JUnit before , it would be better if JUnit and TestNG scopes are covered in a single workshop . Overall feedback - Good . 
+JUnit 	3230	I believe that workshop goals are met . Since we had done JUnit before , it would be better if JUnit and TestNG scopes are covered in a single workshop . Overall feedback - Good . 
+TestNG 	3240	I believe that workshop goals are met . Since we had done JUnit before , it would be better if JUnit and TestNG scopes are covered in a single workshop . Overall feedback - Good . 
+Overall feedback - 	3290	I believe that workshop goals are met . Since we had done JUnit before , it would be better if JUnit and TestNG scopes are covered in a single workshop . Overall feedback - Good . 
+Company _ x team ! 	3419	Better than the last time . We actually learnt some new things and please extend our thanks for the Company _ x team ! . 
+workshop 	3444	The workshop was great and content was very useful and clear . It was conducted in very attractive manner . Thank you for your concern toward us . 
+content 	3467	The workshop was great and content was very useful and clear . It was conducted in very attractive manner . Thank you for your concern toward us . 
+It 	3504	The workshop was great and content was very useful and clear . It was conducted in very attractive manner . Thank you for your concern toward us . 
+workshop 	3627	It was a very good and interactive workshop . We learnt the basic concepts very well . We are looking forward to learn testing beyond unit testing . 
+basic concepts 	3653	It was a very good and interactive workshop . We learnt the basic concepts very well . We are looking forward to learn testing beyond unit testing . 
+session 	3750	The session was really interesting as well as very useful . 
+workshop 	3814	This workshop was actually very good . The pace of teaching was consistent . We felt like everything had been very well organized . However , I would have liked to see some a few CASE studies . 
+pace of teaching 	3853	This workshop was actually very good . The pace of teaching was consistent . We felt like everything had been very well organized . However , I would have liked to see some a few CASE studies . 
+session 	4050	this was fantastic and really interesting session . Presenter could make attraction to his presentation by his way of presenting . Nice day spend with the session . 
+Presenter 	4061	this was fantastic and really interesting session . Presenter could make attraction to his presentation by his way of presenting . Nice day spend with the session . 
+way of presenting 	4120	this was fantastic and really interesting session . Presenter could make attraction to his presentation by his way of presenting . Nice day spend with the session . 
+Workshop 	4178	Workshop is great and we learn lot from it . 

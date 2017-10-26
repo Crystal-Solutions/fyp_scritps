@@ -1,95 +1,95 @@
-series of lectures on OOP 	19
-It 	48
-lectures 	127
-lecture series 	178
-lectures 	236
-Lectures 	266
-real examples 	420
-real life examples 	512
-examples with answers 	542
-series of lectures 	638
-basics of OOP 	704
-interactive exercises 	839
-slides 	1067
-teaching OOP concepts 	1133
-workload 	1192
-real world examples on concurrency 	1429
-Lecture series 	1696
-examples , 	1801
-lecturer 	1930
-fundamentals of programming in JAVA 	1957
-semester project 	2051
-project 	2272
-teaching techniques 	2363
-lecture slides 	2690
-lecture series 	2738
-examples 	2801
-Lecturing method 	2833
-slides 	2887
-Final lectures 	2920
-lecture series 	2965
-In class activities 	3013
-examples on particular theory parts 	3098
-course 	3153
-in class activities 	3196
-in class activities 	3283
-lecturer 	3314
-in class exercises , 	3481
-sample answers 	3501
-Madam , 	3548
-basics concepts 	3777
-overall course 	4051
-speed of the concepts like concurrency 	4097
-practical cases 	4235
-It 	4295
-examples 	4334
-concepts 	4394
-examples 	4448
-in - class exercises 	4464
-discussions 	4528
-questions on practical problems 	4584
-lecture 	4834
-Some topics 	4880
-in class 	4907
-problems 	4952
-Semester project evaluation criteria 	5036
-It 	5208
-Lecture series 	5244
-examples on relevant theory parts 	5323
-examples from java language 	5370
-In class activities 	5401
-Lectures 	5508
-details in the slides 	5540
-interaction with students 	5611
-Examples 	5836
-examples for thread interruptions 	5901
-slides 	5979
-slides 	6080
-lectures 	6105
-group activities ) 	6247
-Subject 	6402
-real world examples 	6513
-lecture slides 	6542
-lecturer 	6585
-modeling type 	6726
-Lecture Slides 	6821
-Semester project 	6839
-GUI 	6901
-OOP concepts 	6909
-Group Activities 	6927
-examples 	7009
-English 	7161
-Lecture slides 	7262
-Group discussions 	7315
-threads 	7433
-explanation 	7458
-your lectures 	7975
-Lecture 	8027
-examples provided 	8146
-OOP with java 	8321
-conflicts with threads 	8401
-way of teaching 	8650
-in class activity 	8770
-Real life examples 	8864
-lecture series 	8914
-explanations 	8949
+series of lectures on OOP 	19	I really liked the series of lectures on OOP . It made me realize a whole new method to approach a programming problem . The lectures were quite clear and interesting . 
+It 	48	I really liked the series of lectures on OOP . It made me realize a whole new method to approach a programming problem . The lectures were quite clear and interesting . 
+lectures 	127	I really liked the series of lectures on OOP . It made me realize a whole new method to approach a programming problem . The lectures were quite clear and interesting . 
+lecture series 	178	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+lectures 	236	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+Lectures 	266	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+real examples 	420	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+real life examples 	512	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+examples with answers 	542	The lecture series can be considered as a good one . All the lectures were done clearly . Lectures were audible enough and all necessary materials were given . And it is not a difficult to dealt with the lecturer . It would be better if more real examples were discussed in the class . It is very easy to understand concepts through real life examples . If more examples with answers were given in the class , we could understand the concepts better . 
+series of lectures 	638	The series of lectures can be considered , as good . I understood the basics of OOP although there are some unclear points with concurrency probably due to its nature and lack of experience . I think the interactive exercises were good but our participation in them were not satisfactory . I liked the subject well since it was one of my personal favorites and due to relatively less workload . 
+basics of OOP 	704	The series of lectures can be considered , as good . I understood the basics of OOP although there are some unclear points with concurrency probably due to its nature and lack of experience . I think the interactive exercises were good but our participation in them were not satisfactory . I liked the subject well since it was one of my personal favorites and due to relatively less workload . 
+interactive exercises 	839	The series of lectures can be considered , as good . I understood the basics of OOP although there are some unclear points with concurrency probably due to its nature and lack of experience . I think the interactive exercises were good but our participation in them were not satisfactory . I liked the subject well since it was one of my personal favorites and due to relatively less workload . 
+slides 	1067	It will be more effective if the slides are more descriptive . 
+teaching OOP concepts 	1133	I think it more effective before teaching OOP concepts teach some java programming . 
+workload 	1192	the workload during the semester was reasonable . Madam promote us for self studying . I think it 's better discuss more questions during the lecture . So it help us to understand the theory very easily . 
+real world examples on concurrency 	1429	It would be more great if more real world examples on concurrency will be discussed in the class . 
+Lecture series 	1696	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+examples , 	1801	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+lecturer 	1930	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+fundamentals of programming in JAVA 	1957	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+semester project 	2051	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+project 	2272	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+teaching techniques 	2363	Lecture series can recommended as good and productive . But it is good if the lecturer can provide more examples , provide the lecturers version of answer to the in classes . Mostly encourages self studying but still I prefer if the lecturer taught more about fundamentals of programming in JAVA . Because most of us started at 0 JAVA knowledge . This semester project was the first JAVA project I did . Even though I succeed in to some extend to learn JAVA myself I saw many of my colleges were struggling to do their project . Most of us were only concerning about the project that made us to skip learning the most important fundamentals . Still I liked the teaching techniques because it was really fun and challenging to do the self studies and finally make our own software with a GUI . I would like if the lecture could give a individual feedback about our semester projects which could really help us to improve our programming techniques . Thank you madam . 
+lecture slides 	2690	It is better if lecture slides could included more details . 
+lecture series 	2738	lecture series was well organized . I suggest to discuss more examples in the class . 
+examples 	2801	lecture series was well organized . I suggest to discuss more examples in the class . 
+Lecturing method 	2833	1 . Lecturing method is interesting . 2 . It is good if slides are more detailed . 3 . Final lectures were little bit fast . 
+slides 	2887	1 . Lecturing method is interesting . 2 . It is good if slides are more detailed . 3 . Final lectures were little bit fast . 
+Final lectures 	2920	1 . Lecturing method is interesting . 2 . It is good if slides are more detailed . 3 . Final lectures were little bit fast . 
+lecture series 	2965	The lecture series can be commented as very good . In class activities helped me to do my best . It would be useful if there were more examples on particular theory parts . 
+In class activities 	3013	The lecture series can be commented as very good . In class activities helped me to do my best . It would be useful if there were more examples on particular theory parts . 
+examples on particular theory parts 	3098	The lecture series can be commented as very good . In class activities helped me to do my best . It would be useful if there were more examples on particular theory parts . 
+course 	3153	It was a good course . Clear and straightforward . The in class activities were good but we were always in a doubt about our solutions to the in class activities . But the lecturer did her best to explain the good and the bad aspects of the solutions of random students . So it was actually our fault not to clarify doubts early . 
+in class activities 	3196	It was a good course . Clear and straightforward . The in class activities were good but we were always in a doubt about our solutions to the in class activities . But the lecturer did her best to explain the good and the bad aspects of the solutions of random students . So it was actually our fault not to clarify doubts early . 
+in class activities 	3283	It was a good course . Clear and straightforward . The in class activities were good but we were always in a doubt about our solutions to the in class activities . But the lecturer did her best to explain the good and the bad aspects of the solutions of random students . So it was actually our fault not to clarify doubts early . 
+lecturer 	3314	It was a good course . Clear and straightforward . The in class activities were good but we were always in a doubt about our solutions to the in class activities . But the lecturer did her best to explain the good and the bad aspects of the solutions of random students . So it was actually our fault not to clarify doubts early . 
+in class exercises , 	3481	for in class exercises , sample answers would have been given . 
+sample answers 	3501	for in class exercises , sample answers would have been given . 
+Madam , 	3548	Dear Madam , . I admire your kindness . It leads us to ask questions and to clarify things . It is good to give those in class type scenarios to be discussed among groups . Sometimes I felt that it is better if you can explain the basics concepts further more . For me this semester was very difficult to manage my work . As I haven 't done programming before , I felt difficult to catch up things . It is better to discuss examples regarding the content which would be done on the particular day . The overall course was good . Thank you . 
+basics concepts 	3777	Dear Madam , . I admire your kindness . It leads us to ask questions and to clarify things . It is good to give those in class type scenarios to be discussed among groups . Sometimes I felt that it is better if you can explain the basics concepts further more . For me this semester was very difficult to manage my work . As I haven 't done programming before , I felt difficult to catch up things . It is better to discuss examples regarding the content which would be done on the particular day . The overall course was good . Thank you . 
+overall course 	4051	Dear Madam , . I admire your kindness . It leads us to ask questions and to clarify things . It is good to give those in class type scenarios to be discussed among groups . Sometimes I felt that it is better if you can explain the basics concepts further more . For me this semester was very difficult to manage my work . As I haven 't done programming before , I felt difficult to catch up things . It is better to discuss examples regarding the content which would be done on the particular day . The overall course was good . Thank you . 
+speed of the concepts like concurrency 	4097	The speed of the concepts like concurrency was a bit high . Otherwise was really good and understandable . 
+practical cases 	4235	Interesting and more practical cases . You try to work out them by ourselves . It was very useful and helpful . More examples may be more valuable . 
+It 	4295	Interesting and more practical cases . You try to work out them by ourselves . It was very useful and helpful . More examples may be more valuable . 
+examples 	4334	Interesting and more practical cases . You try to work out them by ourselves . It was very useful and helpful . More examples may be more valuable . 
+concepts 	4394	I would be better if the concepts were explained more clearly with details and examples . The in - class exercises given were good . According to my view the discussions did not give a clear final answer . 
+examples 	4448	I would be better if the concepts were explained more clearly with details and examples . The in - class exercises given were good . According to my view the discussions did not give a clear final answer . 
+in - class exercises 	4464	I would be better if the concepts were explained more clearly with details and examples . The in - class exercises given were good . According to my view the discussions did not give a clear final answer . 
+discussions 	4528	I would be better if the concepts were explained more clearly with details and examples . The in - class exercises given were good . According to my view the discussions did not give a clear final answer . 
+questions on practical problems 	4584	More questions on practical problems would have been great . Since we all are new to OOP , if we could have at least a weeks time to discuss a paper and get an answer scheme , that would give us a general idea on how to tackle oop questions . Overall the lecture was good and understandable . 
+lecture 	4834	More questions on practical problems would have been great . Since we all are new to OOP , if we could have at least a weeks time to discuss a paper and get an answer scheme , that would give us a general idea on how to tackle oop questions . Overall the lecture was good and understandable . 
+Some topics 	4880	1 . Some topics that discussed in class are too fast ( eg : UML , ) . 2 . The problems related to OOP concepts that discussed in the class are not enough . 3 . Semester project evaluation criteria should be given first , because we are unable to carry out how our project should be . Therefore finally we had to do lot of work . 
+in class 	4907	1 . Some topics that discussed in class are too fast ( eg : UML , ) . 2 . The problems related to OOP concepts that discussed in the class are not enough . 3 . Semester project evaluation criteria should be given first , because we are unable to carry out how our project should be . Therefore finally we had to do lot of work . 
+problems 	4952	1 . Some topics that discussed in class are too fast ( eg : UML , ) . 2 . The problems related to OOP concepts that discussed in the class are not enough . 3 . Semester project evaluation criteria should be given first , because we are unable to carry out how our project should be . Therefore finally we had to do lot of work . 
+Semester project evaluation criteria 	5036	1 . Some topics that discussed in class are too fast ( eg : UML , ) . 2 . The problems related to OOP concepts that discussed in the class are not enough . 3 . Semester project evaluation criteria should be given first , because we are unable to carry out how our project should be . Therefore finally we had to do lot of work . 
+It 	5208	It was quite nice learning OOP . 
+Lecture series 	5244	Lecture series was really good . It will be more effective if there were more examples on relevant theory parts . Specially examples from java language . In class activities were good . It will be more valuable if we can get a model answer after doing it . 
+examples on relevant theory parts 	5323	Lecture series was really good . It will be more effective if there were more examples on relevant theory parts . Specially examples from java language . In class activities were good . It will be more valuable if we can get a model answer after doing it . 
+examples from java language 	5370	Lecture series was really good . It will be more effective if there were more examples on relevant theory parts . Specially examples from java language . In class activities were good . It will be more valuable if we can get a model answer after doing it . 
+In class activities 	5401	Lecture series was really good . It will be more effective if there were more examples on relevant theory parts . Specially examples from java language . In class activities were good . It will be more valuable if we can get a model answer after doing it . 
+Lectures 	5508	Lectures were excellent . More details in the slides is highly appreciated . 
+details in the slides 	5540	Lectures were excellent . More details in the slides is highly appreciated . 
+interaction with students 	5611	Positive . 1 . Good interaction with students . 2 . Short Point slideshows . 3 . Very Good for a student who know at least some concepts . Of oop . Negative . 1 . Very hard for a student who has a bad knowledge about the subject . 2 . Examples are not enough . ( especially in Threads . No proper examples for thread interruptions etc . ) . 
+Examples 	5836	Positive . 1 . Good interaction with students . 2 . Short Point slideshows . 3 . Very Good for a student who know at least some concepts . Of oop . Negative . 1 . Very hard for a student who has a bad knowledge about the subject . 2 . Examples are not enough . ( especially in Threads . No proper examples for thread interruptions etc . ) . 
+examples for thread interruptions 	5901	Positive . 1 . Good interaction with students . 2 . Short Point slideshows . 3 . Very Good for a student who know at least some concepts . Of oop . Negative . 1 . Very hard for a student who has a bad knowledge about the subject . 2 . Examples are not enough . ( especially in Threads . No proper examples for thread interruptions etc . ) . 
+slides 	5979	Nothing bad to point out . The slides were clear and understandable . I usually sit on the last few rows and still I could see the slides well and hear the lectures loudly . I think that it would be better if model answers were given to us for the questions you gave us ( like for the questions in group activities ) . No need to discuss them in lecture time . At least upload the model answers to the moodle so that later , we can go through them . 
+slides 	6080	Nothing bad to point out . The slides were clear and understandable . I usually sit on the last few rows and still I could see the slides well and hear the lectures loudly . I think that it would be better if model answers were given to us for the questions you gave us ( like for the questions in group activities ) . No need to discuss them in lecture time . At least upload the model answers to the moodle so that later , we can go through them . 
+lectures 	6105	Nothing bad to point out . The slides were clear and understandable . I usually sit on the last few rows and still I could see the slides well and hear the lectures loudly . I think that it would be better if model answers were given to us for the questions you gave us ( like for the questions in group activities ) . No need to discuss them in lecture time . At least upload the model answers to the moodle so that later , we can go through them . 
+group activities ) 	6247	Nothing bad to point out . The slides were clear and understandable . I usually sit on the last few rows and still I could see the slides well and hear the lectures loudly . I think that it would be better if model answers were given to us for the questions you gave us ( like for the questions in group activities ) . No need to discuss them in lecture time . At least upload the model answers to the moodle so that later , we can go through them . 
+Subject 	6402	Subject was interesting and it was done in a very good manner by madam . It 's better if would have given more real world examples . 
+real world examples 	6513	Subject was interesting and it was done in a very good manner by madam . It 's better if would have given more real world examples . 
+lecture slides 	6542	The lecture slides were well structured . The lecturer motivated to ask questions . 
+lecturer 	6585	The lecture slides were well structured . The lecturer motivated to ask questions . 
+modeling type 	6726	positive - It is very good to have group activities inside the class . negative - If we discuss more modeling type questions it 's better . We do not have much example to learn modeling . 
+Lecture Slides 	6821	Good Lecture Slides . Semester project gave us lot of knowledge . Especially about GUI and OOP concepts . 
+Semester project 	6839	Good Lecture Slides . Semester project gave us lot of knowledge . Especially about GUI and OOP concepts . 
+GUI 	6901	Good Lecture Slides . Semester project gave us lot of knowledge . Especially about GUI and OOP concepts . 
+OOP concepts 	6909	Good Lecture Slides . Semester project gave us lot of knowledge . Especially about GUI and OOP concepts . 
+Group Activities 	6927	Group Activities are helpful . It would be more understanding if you can do more examples in netbeans or eclipse while explaining theory . However , you succeeded in giving OOP concepts using outer world examples . 
+examples 	7009	Group Activities are helpful . It would be more understanding if you can do more examples in netbeans or eclipse while explaining theory . However , you succeeded in giving OOP concepts using outer world examples . 
+English 	7161	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+Lecture slides 	7262	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+Group discussions 	7315	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+threads 	7433	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+explanation 	7458	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+your lectures 	7975	Good and clear English which is great , otherwise we would have to make a tokenizer before we actually process it . Lecture slides are clear and quite understandable . Group discussions were good and were in fact effective according to my POV . I personally think that concurrency and threads needs a bit more explanation as we found it a a bit difficult to understand and many of our guys have quite different opinion on the same subject matter . Please DO NOT assign Mr. Sulakshana for lab sessions as he is pretty much useless for taking attendance and when it comes to the questions we face in the labs , all we get from him is " " answers . I have no personal issues with him but for the betterment of the next batch taking Mr. Sulakshan as the lab assistance won 't do any good to them . Thank you madam . Really enjoyed your lectures and hope to learn OOSD next time . 
+Lecture 	8027	Lecture was good but little bit fast ; did not have lot of time for both understanding and taking down notes . But the examples provided and the way those were explained was great . Personally OOP is a new concept for me . It took more time to change ourselves to this new concept . I think OOP with java is very comfortable to learn those concepts . But there are some conflicts with threads still working on it . More practice is needed and it is good if we have at least two semester projects with OOP . 
+examples provided 	8146	Lecture was good but little bit fast ; did not have lot of time for both understanding and taking down notes . But the examples provided and the way those were explained was great . Personally OOP is a new concept for me . It took more time to change ourselves to this new concept . I think OOP with java is very comfortable to learn those concepts . But there are some conflicts with threads still working on it . More practice is needed and it is good if we have at least two semester projects with OOP . 
+OOP with java 	8321	Lecture was good but little bit fast ; did not have lot of time for both understanding and taking down notes . But the examples provided and the way those were explained was great . Personally OOP is a new concept for me . It took more time to change ourselves to this new concept . I think OOP with java is very comfortable to learn those concepts . But there are some conflicts with threads still working on it . More practice is needed and it is good if we have at least two semester projects with OOP . 
+conflicts with threads 	8401	Lecture was good but little bit fast ; did not have lot of time for both understanding and taking down notes . But the examples provided and the way those were explained was great . Personally OOP is a new concept for me . It took more time to change ourselves to this new concept . I think OOP with java is very comfortable to learn those concepts . But there are some conflicts with threads still working on it . More practice is needed and it is good if we have at least two semester projects with OOP . 
+way of teaching 	8650	miss , thank you for teaching us . One of the subject learned interestingly is oop , reason for that is your way of teaching . Because of not having in class test or quizzes we can learn without fear , . positive . 1 . I like in class activity we have done . 2 . You had given many more resources to reference . 3 . Real life examples . No negative feedback . 
+in class activity 	8770	miss , thank you for teaching us . One of the subject learned interestingly is oop , reason for that is your way of teaching . Because of not having in class test or quizzes we can learn without fear , . positive . 1 . I like in class activity we have done . 2 . You had given many more resources to reference . 3 . Real life examples . No negative feedback . 
+Real life examples 	8864	miss , thank you for teaching us . One of the subject learned interestingly is oop , reason for that is your way of teaching . Because of not having in class test or quizzes we can learn without fear , . positive . 1 . I like in class activity we have done . 2 . You had given many more resources to reference . 3 . Real life examples . No negative feedback . 
+lecture series 	8914	* lecture series was very good . * explanations was clear well . * learned deep concepts of java , but some of them wasn 't clear . 
+explanations 	8949	* lecture series was very good . * explanations was clear well . * learned deep concepts of java , but some of them wasn 't clear . 

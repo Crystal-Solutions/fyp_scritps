@@ -1,120 +1,120 @@
-later part 	111
-they 	270
-it 	295
-unit testing 	337
-last part of the session 	373
-Maven ) 	449
-session 	465
-session 	508
-delivery of content 	523
-presenter 	564
-session 	711
-content of the workshop 	787
-lectures 	905
-Workshop 	943
-content 	975
-IDE part 	1041
-other part 	1070
-workshop 	1240
-It 	1380
-workshop 	1449
-workshop 	1499
-Build tools part 	1540
-continuous integration part 	1561
-Maven 	1637
-it 	1650
-It 	1707
-lecture slides 	1806
-lecture 	1979
-session 	2443
-relevant java files 	2519
-part of the file 	2551
-its 	2771
-last lecture 	2793
-it 	2842
-session 	2897
-unit testing part 	2930
-maven 	2997
-Workshop 	3008
-problem 	3031
-important stuff 	3073
-session 	3253
-session 	3468
-workshop 	3522
-last section 	3550
-workshop 	3628
-maven , 	3783
-junit 	3790
-session 	3806
-maven 	3847
-maven in detail 	3933
-workshop 	3959
-Ideas , 	4012
-Junit , 	4019
-Maven 	4026
-continuous integration 	4036
-workshop 	4219
-Session 	4233
-Voice 	4253
-Presenters 	4286
-workshop 	4338
-things 	4385
-Workshop 	4409
-instructors 	4582
-MySQL workshop 	4678
-It 	4934
-concepts about Maven 	4957
-time 	5010
-Maven 	5050
-it 	5101
-it 	5126
-maven 	5177
-matters 	5205
-time 	5292
-Reasons behind using dev tools 	5314
-session 	5394
-content 	5436
-them 	5503
-them 	5530
-Session 	5540
-commitment 	5595
-this steps 	5904
-workshop 	6381
-time 	6462
-Workshop 	6506
-time 	6573
-session 	6635
-Last part of the workshop 	6665
-workshop 	6809
-session 	6827
-unit testing part of the session 	6876
-session 	6916
-building tools 	6934
-building tools 	7022
-Previous weeks ' feedback 	7042
-SQL workshop 	7143
-workshop series 	7272
-quiz 	7382
-Workshop 	7877
-new 	7921
-junit 	7986
-time 	8053
-it 	8112
-they 	8133
-It 	8229
-guest speakers 	8608
-time 	8953
-importance of those tools 	9028
-everyone involved ! 	9219
-workshop 	9367
-time 	9416
-lecture hours 	9432
-workshop , 	9673
-workshop 	9823
-required tool 	9931
-Workshop 	9984
-Time for this workshop 	10004
-it 	10052
-continuous integration 	10166
-version control , 	10227
-GIT 	10244
+later part 	111	They introduced a new IDE along with the unit testing technique . It will be very useful in future . But the later part they done ( apache maven ) was not clear . I think they should have taught more techniques involving programming instead of maven . Overall I think they did a good job . 
+they 	270	They introduced a new IDE along with the unit testing technique . It will be very useful in future . But the later part they done ( apache maven ) was not clear . I think they should have taught more techniques involving programming instead of maven . Overall I think they did a good job . 
+it 	295	it was helpful to gain a basic idea about unit testing and other tools . But last part of the session was little bit confusing to understand . ( about Maven ) . 
+unit testing 	337	it was helpful to gain a basic idea about unit testing and other tools . But last part of the session was little bit confusing to understand . ( about Maven ) . 
+last part of the session 	373	it was helpful to gain a basic idea about unit testing and other tools . But last part of the session was little bit confusing to understand . ( about Maven ) . 
+Maven ) 	449	it was helpful to gain a basic idea about unit testing and other tools . But last part of the session was little bit confusing to understand . ( about Maven ) . 
+session 	465	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+session 	508	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+delivery of content 	523	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+presenter 	564	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+session 	711	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+content of the workshop 	787	The session was not as good as the last week 's session . The delivery of content was too fast and the presenter must have thought we already know most of the things which has been presented in the session . It would have been more effective if the session was delivered a little bit slower so the audience can gasp the full content of the workshop . 
+lectures 	905	Couldn 't understand the latter part of the lecture . It 's better if you can conduct the lectures slowly in next sessions . 
+Workshop 	943	Workshop was good . But if the content was bit more detailed , it would have been better . 
+content 	975	Workshop was good . But if the content was bit more detailed , it would have been better . 
+IDE part 	1041	The IDE part was good . But the other part was not clear as it was totally new area for me . So it is good if you can explain it in more detail manner starting from the things most of us know . 
+other part 	1070	The IDE part was good . But the other part was not clear as it was totally new area for me . So it is good if you can explain it in more detail manner starting from the things most of us know . 
+workshop 	1240	The workshop was helpful . But it would 've been better if they started the workshop by giving a basic introduction of how to use the tool . 
+It 	1380	It was useful . But I was unable to catch the content well . 
+workshop 	1449	the workshop was not that much felt . 
+workshop 	1499	Actually the workshop was interesting but I think the Build tools part and continuous integration part was bit unclear . 
+Build tools part 	1540	Actually the workshop was interesting but I think the Build tools part and continuous integration part was bit unclear . 
+continuous integration part 	1561	Actually the workshop was interesting but I think the Build tools part and continuous integration part was bit unclear . 
+Maven 	1637	I got some knowledge about Maven . But it was too fast . 
+it 	1650	I got some knowledge about Maven . But it was too fast . 
+It 	1707	Thank you for your kind guidance . It is very helpful to get to know about them . But I did not understand some . Also I found that lecture slides are not detailed and clear . I think it 's because I 'm completely new and did not know terms and things you just told . So I had trouble to keep up with the lecture . So I think it is better if you add more details to the slides and make it easy to understand ( step by step ) . Since most of us do not know those tools beforehand , give us enough time to try them in our own ( not just unit testing using IntelliJ Idea but every other tool that you mentioned ) . I am really thankful to you , for spend your time on us and share your knowledge with us . Keep up your good work . Thank you again . 
+lecture slides 	1806	Thank you for your kind guidance . It is very helpful to get to know about them . But I did not understand some . Also I found that lecture slides are not detailed and clear . I think it 's because I 'm completely new and did not know terms and things you just told . So I had trouble to keep up with the lecture . So I think it is better if you add more details to the slides and make it easy to understand ( step by step ) . Since most of us do not know those tools beforehand , give us enough time to try them in our own ( not just unit testing using IntelliJ Idea but every other tool that you mentioned ) . I am really thankful to you , for spend your time on us and share your knowledge with us . Keep up your good work . Thank you again . 
+lecture 	1979	Thank you for your kind guidance . It is very helpful to get to know about them . But I did not understand some . Also I found that lecture slides are not detailed and clear . I think it 's because I 'm completely new and did not know terms and things you just told . So I had trouble to keep up with the lecture . So I think it is better if you add more details to the slides and make it easy to understand ( step by step ) . Since most of us do not know those tools beforehand , give us enough time to try them in our own ( not just unit testing using IntelliJ Idea but every other tool that you mentioned ) . I am really thankful to you , for spend your time on us and share your knowledge with us . Keep up your good work . Thank you again . 
+session 	2443	It has been a useful session . No doubt about that . But I hope it could be much better if the relevant java files provided or part of the file is given . So we could change and do necessary modifications to that and learn through it . I never knew how to use build tools like maven . But now I know about it into some extent . Thank you . 
+relevant java files 	2519	It has been a useful session . No doubt about that . But I hope it could be much better if the relevant java files provided or part of the file is given . So we could change and do necessary modifications to that and learn through it . I never knew how to use build tools like maven . But now I know about it into some extent . Thank you . 
+part of the file 	2551	It has been a useful session . No doubt about that . But I hope it could be much better if the relevant java files provided or part of the file is given . So we could change and do necessary modifications to that and learn through it . I never knew how to use build tools like maven . But now I know about it into some extent . Thank you . 
+its 	2771	its was useful . the last lecture was too fast , couldn 't keep up with it . So please slow down next time . 
+last lecture 	2793	its was useful . the last lecture was too fast , couldn 't keep up with it . So please slow down next time . 
+it 	2842	its was useful . the last lecture was too fast , couldn 't keep up with it . So please slow down next time . 
+session 	2897	Overall great session . Thanks . 
+unit testing part 	2930	unit testing part was clear but I didn 't understand anything about maven . 
+maven 	2997	unit testing part was clear but I didn 't understand anything about maven . 
+Workshop 	3008	Workshop was OK . The problem was with the speed . Most of the important stuff was said at quite a pace . To make the matter worst , we didn 't had the chance to use maven . ( Because of some wifi problem ) Though there were some problems the session had many things to learn . To me , the problem was that I didn 't even had any idea about the things you taught . So it took time to get the things into the head . That may be the reason for me saying that session was too fast . Thank you very much . 
+problem 	3031	Workshop was OK . The problem was with the speed . Most of the important stuff was said at quite a pace . To make the matter worst , we didn 't had the chance to use maven . ( Because of some wifi problem ) Though there were some problems the session had many things to learn . To me , the problem was that I didn 't even had any idea about the things you taught . So it took time to get the things into the head . That may be the reason for me saying that session was too fast . Thank you very much . 
+important stuff 	3073	Workshop was OK . The problem was with the speed . Most of the important stuff was said at quite a pace . To make the matter worst , we didn 't had the chance to use maven . ( Because of some wifi problem ) Though there were some problems the session had many things to learn . To me , the problem was that I didn 't even had any idea about the things you taught . So it took time to get the things into the head . That may be the reason for me saying that session was too fast . Thank you very much . 
+session 	3253	Workshop was OK . The problem was with the speed . Most of the important stuff was said at quite a pace . To make the matter worst , we didn 't had the chance to use maven . ( Because of some wifi problem ) Though there were some problems the session had many things to learn . To me , the problem was that I didn 't even had any idea about the things you taught . So it took time to get the things into the head . That may be the reason for me saying that session was too fast . Thank you very much . 
+session 	3468	Workshop was OK . The problem was with the speed . Most of the important stuff was said at quite a pace . To make the matter worst , we didn 't had the chance to use maven . ( Because of some wifi problem ) Though there were some problems the session had many things to learn . To me , the problem was that I didn 't even had any idea about the things you taught . So it took time to get the things into the head . That may be the reason for me saying that session was too fast . Thank you very much . 
+workshop 	3522	This workshop is fine . But the last section was run very fast . I could not understand about 'm aven ' . But workshop is so good and be motivate for me . 
+last section 	3550	This workshop is fine . But the last section was run very fast . I could not understand about 'm aven ' . But workshop is so good and be motivate for me . 
+workshop 	3628	This workshop is fine . But the last section was run very fast . I could not understand about 'm aven ' . But workshop is so good and be motivate for me . 
+maven , 	3783	Before I didn 't know any things about those things . But after your session I got lots of knowledge about maven , junit . 
+junit 	3790	Before I didn 't know any things about those things . But after your session I got lots of knowledge about maven , junit . 
+session 	3806	This session is good . 
+maven 	3847	Got some idea about maven and how to use IntelliJ . But it would be better if you can explain more about maven in detail . 
+maven in detail 	3933	Got some idea about maven and how to use IntelliJ . But it would be better if you can explain more about maven in detail . 
+workshop 	3959	This workshop was very helpful for us to understand about Ideas , Junit , Maven and continuous integration . 
+Ideas , 	4012	This workshop was very helpful for us to understand about Ideas , Junit , Maven and continuous integration . 
+Junit , 	4019	This workshop was very helpful for us to understand about Ideas , Junit , Maven and continuous integration . 
+Maven 	4026	This workshop was very helpful for us to understand about Ideas , Junit , Maven and continuous integration . 
+continuous integration 	4036	This workshop was very helpful for us to understand about Ideas , Junit , Maven and continuous integration . 
+workshop 	4219	I was confused in some of the points that they describe since it is too fast . Sometimes it hardly audible ! . However I learnt a lot of things from this workshop . 
+Session 	4233	Session was good . Voice was clear to understand . Presenters did their best to give us knowledge . 
+Voice 	4253	Session was good . Voice was clear to understand . Presenters did their best to give us knowledge . 
+Presenters 	4286	Session was good . Voice was clear to understand . Presenters did their best to give us knowledge . 
+workshop 	4338	workshop was very useful . We learnt a lot of things . 
+things 	4385	workshop was very useful . We learnt a lot of things . 
+Workshop 	4409	More useful Workshop . Thanks for Company _ y and our academic staff . 
+instructors 	4582	we got a basic idea of IntelliJ idea . There were some places that I still have some doubts of . Some how the instructors helped us a lot in many difficulties we faced with the IDE during the workshop . 
+MySQL workshop 	4678	MySQL workshop was way better than this one . We gained almost nothing from this . It was too boring and it was really hard to catch up with the lecture because we knew nothing prior to this workshop . I hope this workshop will be better next year . 
+It 	4934	It was good . But the concepts about Maven was not clear enough . If more time was allocated for explaining about Maven it would have been better . Other than that it was good . 
+concepts about Maven 	4957	It was good . But the concepts about Maven was not clear enough . If more time was allocated for explaining about Maven it would have been better . Other than that it was good . 
+time 	5010	It was good . But the concepts about Maven was not clear enough . If more time was allocated for explaining about Maven it would have been better . Other than that it was good . 
+Maven 	5050	It was good . But the concepts about Maven was not clear enough . If more time was allocated for explaining about Maven it would have been better . Other than that it was good . 
+it 	5101	It was good . But the concepts about Maven was not clear enough . If more time was allocated for explaining about Maven it would have been better . Other than that it was good . 
+it 	5126	Overall it was good . But I have an unclear picture about maven . 
+maven 	5177	Overall it was good . But I have an unclear picture about maven . 
+matters 	5205	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+time 	5292	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+Reasons behind using dev tools 	5314	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+session 	5394	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+content 	5436	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+them 	5503	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+them 	5530	Since almost all matters discussed were new , except for IDEs ' , they would have done a great job if more time was available . Reasons behind using dev tools were understood , but not their functions . This session could have been more clear if the content was provided even before hand so that we could refer about them and get an idea about them . 
+Session 	5540	Session was conducted wonderfully . I appreciate your commitment and dedication . Thank you for sharing your valuable time with us . However I have a suggestion . Today lot of students faced trouble in installing and using maven . Actually from that point onward we seemed to lost focus and intention . I think if you informed us that we need to do this and this steps even after installation to make the environment of the software ready for use , it would have been better . We can install and come with the several softwares you ask , but if we are not familiar with it previously , we do not know whether it need more attention or work . Thank you ! . 
+commitment 	5595	Session was conducted wonderfully . I appreciate your commitment and dedication . Thank you for sharing your valuable time with us . However I have a suggestion . Today lot of students faced trouble in installing and using maven . Actually from that point onward we seemed to lost focus and intention . I think if you informed us that we need to do this and this steps even after installation to make the environment of the software ready for use , it would have been better . We can install and come with the several softwares you ask , but if we are not familiar with it previously , we do not know whether it need more attention or work . Thank you ! . 
+this steps 	5904	Session was conducted wonderfully . I appreciate your commitment and dedication . Thank you for sharing your valuable time with us . However I have a suggestion . Today lot of students faced trouble in installing and using maven . Actually from that point onward we seemed to lost focus and intention . I think if you informed us that we need to do this and this steps even after installation to make the environment of the software ready for use , it would have been better . We can install and come with the several softwares you ask , but if we are not familiar with it previously , we do not know whether it need more attention or work . Thank you ! . 
+workshop 	6381	As we are getting ready to work with the industry this workshop was very useful . I got a very clear idea about the concepts . 
+time 	6462	More time should be allocated for this module . Workshop was ok . But they could 've done better if there was more time . As a passionate Computer Science student , I found the session very interesting . 
+Workshop 	6506	More time should be allocated for this module . Workshop was ok . But they could 've done better if there was more time . As a passionate Computer Science student , I found the session very interesting . 
+time 	6573	More time should be allocated for this module . Workshop was ok . But they could 've done better if there was more time . As a passionate Computer Science student , I found the session very interesting . 
+session 	6635	More time should be allocated for this module . Workshop was ok . But they could 've done better if there was more time . As a passionate Computer Science student , I found the session very interesting . 
+Last part of the workshop 	6665	Last part of the workshop was rushed through , so I failed in understanding some of the ideas they discussed . Otherwise , overall it was a good workshop . 
+workshop 	6809	Last part of the workshop was rushed through , so I failed in understanding some of the ideas they discussed . Otherwise , overall it was a good workshop . 
+session 	6827	The session held today was interesting . I like the unit testing part of the session . The session about the building tools was not very clear . It is better if you can hold another session about building tools . 
+unit testing part of the session 	6876	The session held today was interesting . I like the unit testing part of the session . The session about the building tools was not very clear . It is better if you can hold another session about building tools . 
+session 	6916	The session held today was interesting . I like the unit testing part of the session . The session about the building tools was not very clear . It is better if you can hold another session about building tools . 
+building tools 	6934	The session held today was interesting . I like the unit testing part of the session . The session about the building tools was not very clear . It is better if you can hold another session about building tools . 
+building tools 	7022	The session held today was interesting . I like the unit testing part of the session . The session about the building tools was not very clear . It is better if you can hold another session about building tools . 
+Previous weeks ' feedback 	7042	Previous weeks ' feedback was a mistake . I have submitted wrong feedback for wrong link . Actually SQL workshop was very useful and I have earned lot during the SQL workshop . It is one of the best workshops I have met in this workshop series . Actually I am not satisfied with this weeks ' workshop . I was not able to even answer the quiz you have provided . I 'm struggling on continuing to study those things as I was unable to even build a foundation for " maven " during the workshop . I feel that if you can provide the very basics of a selected software during a workshop that is more useful than just trying to give here and there knowledge on lot of things during a one workshop . Because if participants are not aware of any of the things then they cannot catch up your presentations based on multiple technologies . 
+SQL workshop 	7143	Previous weeks ' feedback was a mistake . I have submitted wrong feedback for wrong link . Actually SQL workshop was very useful and I have earned lot during the SQL workshop . It is one of the best workshops I have met in this workshop series . Actually I am not satisfied with this weeks ' workshop . I was not able to even answer the quiz you have provided . I 'm struggling on continuing to study those things as I was unable to even build a foundation for " maven " during the workshop . I feel that if you can provide the very basics of a selected software during a workshop that is more useful than just trying to give here and there knowledge on lot of things during a one workshop . Because if participants are not aware of any of the things then they cannot catch up your presentations based on multiple technologies . 
+workshop series 	7272	Previous weeks ' feedback was a mistake . I have submitted wrong feedback for wrong link . Actually SQL workshop was very useful and I have earned lot during the SQL workshop . It is one of the best workshops I have met in this workshop series . Actually I am not satisfied with this weeks ' workshop . I was not able to even answer the quiz you have provided . I 'm struggling on continuing to study those things as I was unable to even build a foundation for " maven " during the workshop . I feel that if you can provide the very basics of a selected software during a workshop that is more useful than just trying to give here and there knowledge on lot of things during a one workshop . Because if participants are not aware of any of the things then they cannot catch up your presentations based on multiple technologies . 
+quiz 	7382	Previous weeks ' feedback was a mistake . I have submitted wrong feedback for wrong link . Actually SQL workshop was very useful and I have earned lot during the SQL workshop . It is one of the best workshops I have met in this workshop series . Actually I am not satisfied with this weeks ' workshop . I was not able to even answer the quiz you have provided . I 'm struggling on continuing to study those things as I was unable to even build a foundation for " maven " during the workshop . I feel that if you can provide the very basics of a selected software during a workshop that is more useful than just trying to give here and there knowledge on lot of things during a one workshop . Because if participants are not aware of any of the things then they cannot catch up your presentations based on multiple technologies . 
+Workshop 	7877	Workshop was really good . Learnt a lot of new and useful things during the workshop . But since maven and junit were completely new topics for some of us I wish we had more time to be familiar with them . Thank you very much ! . 
+new 	7921	Workshop was really good . Learnt a lot of new and useful things during the workshop . But since maven and junit were completely new topics for some of us I wish we had more time to be familiar with them . Thank you very much ! . 
+junit 	7986	Workshop was really good . Learnt a lot of new and useful things during the workshop . But since maven and junit were completely new topics for some of us I wish we had more time to be familiar with them . Thank you very much ! . 
+time 	8053	Workshop was really good . Learnt a lot of new and useful things during the workshop . But since maven and junit were completely new topics for some of us I wish we had more time to be familiar with them . Thank you very much ! . 
+it 	8112	it was useful . but they did most of that part in short time . So we cannot understand much of that in a time . 
+they 	8133	it was useful . but they did most of that part in short time . So we cannot understand much of that in a time . 
+It 	8229	It was conducted too fast . Some students could not even configure the IDE . 
+guest speakers 	8608	Compared to the previous workshops this was quite a failure . There were many problems the guest speakers could not address and it wasn 't their fault either . It 's nearly impossible to learn how to use professional tools in merely 3 hours . It 's better not to hold this particular session for the next batch or break it into a few separate sessions and give more exposure to each topic . 
+time 	8953	It would be better if they could take more time and explain them in detail . We could understand the gravity and the importance of those tools and felt serious on the industry - related knowledge . Please do more sessions on this area within next couple of semesters . Finally , please extend our thanks for everyone involved ! . 
+importance of those tools 	9028	It would be better if they could take more time and explain them in detail . We could understand the gravity and the importance of those tools and felt serious on the industry - related knowledge . Please do more sessions on this area within next couple of semesters . Finally , please extend our thanks for everyone involved ! . 
+everyone involved ! 	9219	It would be better if they could take more time and explain them in detail . We could understand the gravity and the importance of those tools and felt serious on the industry - related knowledge . Please do more sessions on this area within next couple of semesters . Finally , please extend our thanks for everyone involved ! . 
+workshop 	9367	workshop is good but it 's better if we have more time . 
+time 	9416	workshop is good but it 's better if we have more time . 
+lecture hours 	9432	Those lecture hours are very useful for our semester project and so on . Thank you . 
+workshop , 	9673	Good workshop , but too much advance stuff . As we have no knowledge about how industrial things happen it was so hard to understand the workshop . 
+workshop 	9823	The workshop was very helpful . 
+required tool 	9931	Was not very good . At least we were not instructed properly to install the required tool and etc . Could have done better . 
+Workshop 	9984	Workshop is good . Time for this workshop should be increased . 
+Time for this workshop 	10004	Workshop is good . Time for this workshop should be increased . 
+it 	10052	it was good but there were some unclear areas . As we already knew a bit about Ide 's should have focused more on continuous integration . Should like to hear more about how version control , GIT and Jenkins work . 
+continuous integration 	10166	it was good but there were some unclear areas . As we already knew a bit about Ide 's should have focused more on continuous integration . Should like to hear more about how version control , GIT and Jenkins work . 
+version control , 	10227	it was good but there were some unclear areas . As we already knew a bit about Ide 's should have focused more on continuous integration . Should like to hear more about how version control , GIT and Jenkins work . 
+GIT 	10244	it was good but there were some unclear areas . As we already knew a bit about Ide 's should have focused more on continuous integration . Should like to hear more about how version control , GIT and Jenkins work . 
