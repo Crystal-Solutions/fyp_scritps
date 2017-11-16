@@ -1,0 +1,179 @@
+clusters-
+
+cluster 0-
+cluster 0: session
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: Workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: Today 's workshop
+cluster 0: workshop
+cluster 0: Today 's workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: overall workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop !
+cluster 0: lecture
+cluster 0: workshops
+cluster 0: session on GIT
+cluster 0: it
+cluster 0: program
+cluster 0: workshop
+cluster 0: workshop on git and github
+cluster 0: it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: Lecture
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: it
+cluster 0: Workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: session on github
+cluster 0: this one
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: it
+cluster 0: it
+cluster 0: workshop
+
+cluster 1-
+cluster 1: cmd
+
+cluster 2-
+cluster 2: Github
+cluster 2: GitHub
+cluster 2: Git
+cluster 2: GIT
+cluster 2: Git
+cluster 2: Git
+cluster 2: Git Vcs
+cluster 2: Github
+cluster 2: Git - Version Control System Workshop
+cluster 2: Git
+cluster 2: how to work on GitHub
+cluster 2: It
+cluster 2: git ,
+cluster 2: github
+cluster 2: git
+cluster 2: github
+cluster 2: Git
+cluster 2: Git
+cluster 2: GitHub
+
+cluster 3-
+cluster 3: workload
+
+cluster 4-
+cluster 4: time for students to grasp the ideas )
+cluster 4: limited time
+cluster 4: limited time period
+
+cluster 5-
+cluster 5: time to discuss about the fork / pull - request processes
+
+cluster 6-
+cluster 6: last part
+
+cluster 7-
+cluster 7: develop our programming challenge project
+
+cluster 8-
+cluster 8: speed
+cluster 8: speed
+cluster 8: speed
+
+cluster 9-
+cluster 9: some of the contents
+cluster 9: some of the important areas
+cluster 9: some of the important areas
+
+cluster 10-
+cluster 10: big project ( I mean like netbeans project ) with Git ,
+
+cluster 11-
+cluster 11: Instructions
+cluster 11: practical instructions
+cluster 11: some instructions
+cluster 11: instructions
+
+cluster 12-
+cluster 12: things
+cluster 12: many thing
+cluster 12: new things
+
+cluster 13-
+cluster 13: Explanations
+cluster 13: clarifications
+
+cluster 14-
+cluster 14: everything
+
+cluster 15-
+cluster 15: Company _ y
+
+cluster 16-
+cluster 16: first half of the workshop
+
+cluster 17-
+cluster 17: lecturer
+cluster 17: presenter
+cluster 17: team
+cluster 17: all instructors
+cluster 17: people to help and resolve our problems
+cluster 17: presenters (
+
+cluster 18-
+cluster 18: later half ,
+cluster 18: close to the ending
+cluster 18: end
+cluster 18: last 30 min of the workshop
+
+cluster 19-
+cluster 19: code
+
+cluster 20-
+cluster 20: practicals
+
+cluster 21-
+cluster 21: version control systems
+cluster 21: version controlling systems ,
+
+cluster 22-
+cluster 22: lecture note
+cluster 22: presentation
+cluster 22: presentation
+
+clusters object-
+{0: [0, 1, 5, 6, 9, 10, 12, 14, 17, 19, 21, 22, 24, 25, 26, 27, 28, 33, 35, 36, 38, 39, 41, 42, 44, 48, 50, 55, 62, 66, 68, 70, 71, 72, 73, 75, 76, 79, 80, 82, 83, 84, 85, 86, 87, 88, 90, 93, 99, 100, 101, 102, 103, 105, 106, 108, 113, 116, 119, 120, 121, 122, 125, 126], 1: [2], 2: [3, 4, 18, 40, 51, 52, 53, 60, 61, 63, 64, 67, 77, 78, 91, 92, 94, 114, 115], 3: [7], 4: [8, 74, 98], 5: [11], 6: [15], 7: [16, 46, 109], 8: [20, 34, 37], 9: [23], 10: [29, 30, 31, 32], 11: [43, 49, 110], 12: [45, 111], 13: [47], 14: [54], 15: [56], 16: [57, 59, 65, 89, 97, 123], 17: [13, 58, 96, 117, 118], 18: [69], 19: [81], 20: [95, 104], 21: [107, 112, 124]}
+cluster names- 
+['workshop', 'cmd', 'Git', 'workload', 'limited time', 'time to discuss about the fork / pull - request processes', 'last part', 'develop our programming challenge project', 'speed', 'some of the contents', 'big project ( I mean like netbeans project ) with Git ,', 'instructions', 'many thing', 'Explanations', 'everything', 'Company _ y', 'first half of the workshop', 'all instructors', 'close to the ending', 'code', 'practicals', 'version control systems', 'presentation']

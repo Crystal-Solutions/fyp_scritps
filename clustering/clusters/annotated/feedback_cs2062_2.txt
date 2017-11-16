@@ -1,0 +1,180 @@
+clusters-
+
+cluster 0-
+cluster 0: time to read the whole chapters from the recommended book
+
+cluster 1-
+cluster 1: design patterns
+cluster 1: exercises in design patterns
+cluster 1: design patterns
+cluster 1: Design pattern explanations
+cluster 1: examples on design patterns
+cluster 1: design pattern lesson
+cluster 1: design pattern practice labs
+
+cluster 2-
+cluster 2: scenarios
+
+cluster 3-
+cluster 3: examples
+cluster 3: Examples
+cluster 3: examples
+cluster 3: examples
+cluster 3: examples
+cluster 3: different examples
+cluster 3: examples
+cluster 3: necessary examples
+cluster 3: examples on relevant theory parts
+cluster 3: example in real world
+cluster 3: examples
+
+cluster 4-
+cluster 4: way of teaching
+cluster 4: way it was taught
+cluster 4: passion you teach
+
+cluster 5-
+cluster 5: workload
+cluster 5: workload
+cluster 5: workload
+cluster 5: Workload
+cluster 5: workload (
+
+cluster 6-
+cluster 6: lecture series
+cluster 6: lectures
+cluster 6: lecture series ,
+cluster 6: course
+cluster 6: lectures
+cluster 6: Lecture series
+cluster 6: course
+cluster 6: lecture series
+cluster 6: Lecture
+cluster 6: lecture
+cluster 6: Lecture series
+cluster 6: lectures
+cluster 6: Lecture series
+cluster 6: lecture series
+cluster 6: Lecture
+cluster 6: lecture
+cluster 6: lectures
+cluster 6: Overall lecture series
+cluster 6: lecture series
+cluster 6: Lecture series
+cluster 6: Lecture series
+cluster 6: lecture series
+cluster 6: it 's
+cluster 6: lecture series
+cluster 6: lecture series
+cluster 6: Lecter series
+cluster 6: OOSD lectr
+cluster 6: lecture series
+cluster 6: this lecture
+cluster 6: lecture
+cluster 6: lectures
+cluster 6: lecture series
+cluster 6: lecture series
+cluster 6: Lecture series
+cluster 6: this course
+cluster 6: series of lectures
+cluster 6: lecture series
+cluster 6: lecture series
+cluster 6: lecture series
+
+cluster 7-
+cluster 7: slides prepared by you for first 4 lectures
+cluster 7: lecture slides
+cluster 7: slides
+
+cluster 8-
+cluster 8: text book
+cluster 8: book
+cluster 8: textbook
+
+cluster 9-
+cluster 9: lecturer
+cluster 9: Lecturer
+cluster 9: madam
+cluster 9: Lecturer
+cluster 9: lecturer
+cluster 9: Lecturer
+cluster 9: You
+cluster 9: Mrs. Lecturer _ y
+cluster 9: lecturer
+cluster 9: lecturer
+
+cluster 10-
+cluster 10: project evaluations
+
+cluster 11-
+cluster 11: practical application
+cluster 11: it
+
+cluster 12-
+cluster 12: They
+
+cluster 13-
+cluster 13: Speed of some theory parts
+cluster 13: speed of the lecture
+cluster 13: speed of teaching
+cluster 13: Speed of the lecture
+
+cluster 14-
+cluster 14: punctuality ,
+
+cluster 15-
+cluster 15: content
+cluster 15: everything
+cluster 15: subject content
+
+cluster 16-
+cluster 16: group project
+cluster 16: project
+cluster 16: projects
+cluster 16: Group project ,
+cluster 16: Group project
+
+cluster 17-
+cluster 17: report writing part
+cluster 17: it
+
+cluster 18-
+cluster 18: time ( 45 min ) to demo our final projects ,
+
+cluster 19-
+cluster 19: continuous assessments
+
+cluster 20-
+cluster 20: problems
+cluster 20: questions
+
+cluster 21-
+cluster 21: explanation using examples
+
+cluster 22-
+cluster 22: your availability
+
+cluster 23-
+cluster 23: That
+
+cluster 24-
+cluster 24: time to discuss examples on each concept
+cluster 24: time to discuss examples on each concept
+
+cluster 25-
+cluster 25: practical exercises
+
+cluster 26-
+cluster 26: time
+cluster 26: time
+
+cluster 27-
+cluster 27: latter part of the lecture series
+
+cluster 28-
+cluster 28: Lecture topics
+
+clusters object-
+{0: [0], 1: [1, 38, 60, 81, 96, 107, 109], 2: [2], 3: [3, 62, 66, 78, 82, 86, 92, 97, 106, 108, 115], 4: [4, 30, 48], 5: [5, 21, 26, 31, 84], 6: [6, 11, 13, 16, 19, 20, 23, 25, 27, 39, 40, 43, 55, 57, 58, 61, 65, 67, 68, 70, 72, 74, 79, 80, 83, 87, 88, 90, 91, 95, 99, 100, 101, 102, 104, 110, 111, 113, 114], 7: [7, 10, 112], 8: [8, 54, 69], 9: [9, 15, 17, 24, 45, 52, 63, 64, 76, 85], 10: [12], 11: [14, 35], 12: [18], 13: [22, 46, 59, 77], 14: [28], 15: [29, 49, 53], 16: [32, 36, 41, 75, 105], 17: [33, 34], 18: [37], 19: [42], 20: [44, 56], 21: [47], 22: [50], 23: [51], 24: [71, 73], 25: [89], 26: [93, 98], 27: [94], 28: [103]}
+cluster names- 
+['time to read the whole chapters from the recommended book', 'design patterns', 'scenarios', 'examples', 'way of teaching', 'workload', 'lecture series', 'slides', 'textbook', 'lecturer', 'project evaluations', 'practical application', 'They', 'speed of the lecture', 'punctuality ,', 'content', 'group project', 'report writing part', 'time ( 45 min ) to demo our final projects ,', 'continuous assessments', 'questions', 'explanation using examples', 'your availability', 'That', 'time to discuss examples on each concept', 'practical exercises', 'time', 'latter part of the lecture series', 'Lecture topics']

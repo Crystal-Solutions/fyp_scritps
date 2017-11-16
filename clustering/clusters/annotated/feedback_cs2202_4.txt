@@ -1,0 +1,209 @@
+clusters-
+
+cluster 0-
+cluster 0: It
+cluster 0: session
+cluster 0: session
+cluster 0: lectures
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: lecture
+cluster 0: session
+cluster 0: its
+cluster 0: last lecture
+cluster 0: session
+cluster 0: Workshop
+cluster 0: session
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: This session
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: Session
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: this
+cluster 0: It
+cluster 0: lecture
+cluster 0: workshop
+cluster 0: It
+cluster 0: it
+cluster 0: it
+cluster 0: session
+cluster 0: Session
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshops
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: it
+cluster 0: It
+cluster 0: this
+cluster 0: session
+cluster 0: sessions on this area
+cluster 0: workshop
+cluster 0: today workshop
+cluster 0: workshop ,
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: it
+
+cluster 1-
+cluster 1: later part they done ( apache maven )
+cluster 1: last part of the session
+cluster 1: latter part of the lecture
+cluster 1: last section
+cluster 1: Last part of the workshop
+
+cluster 2-
+cluster 2: they
+cluster 2: they
+cluster 2: Presenters
+cluster 2: instructors
+
+cluster 3-
+cluster 3: unit testing
+cluster 3: unit testing part
+cluster 3: unit testing part of the session
+
+cluster 4-
+cluster 4: delivery of content
+
+cluster 5-
+cluster 5: content
+cluster 5: content
+cluster 5: them
+cluster 5: those tools
+cluster 5: content
+cluster 5: programming tools
+cluster 5: concepts
+cluster 5: professional tools
+cluster 5: them
+cluster 5: those tools
+cluster 5: required tool
+
+cluster 6-
+cluster 6: IDE part
+cluster 6: IDE
+
+cluster 7-
+cluster 7: other part
+cluster 7: it
+
+cluster 8-
+cluster 8: Build tools part
+cluster 8: session about the building tools
+cluster 8: session about building tools
+
+cluster 9-
+cluster 9: continuous integration part
+cluster 9: continuous integration
+cluster 9: continuous integration
+
+cluster 10-
+cluster 10: Maven
+cluster 10: it
+cluster 10: maven
+cluster 10: aven '
+cluster 10: maven ,
+cluster 10: maven
+cluster 10: maven
+cluster 10: Maven
+cluster 10: concepts about Maven
+cluster 10: maven
+cluster 10: installing and using maven
+cluster 10: maven "
+cluster 10: maven
+
+cluster 11-
+cluster 11: lecture slides
+cluster 11: presentations
+
+cluster 12-
+cluster 12: details to the slides
+
+cluster 13-
+cluster 13: relevant java files
+
+cluster 14-
+cluster 14: speed
+
+cluster 15-
+cluster 15: important stuff
+cluster 15: new things
+cluster 15: new and useful things
+cluster 15: advance stuff
+
+cluster 16-
+cluster 16: junit
+cluster 16: Junit ,
+
+cluster 17-
+cluster 17: IntelliJ
+cluster 17: Ideas ,
+cluster 17: IntelliJ idea
+
+cluster 18-
+cluster 18: some of the points
+cluster 18: things
+cluster 18: some places
+cluster 18: much of that
+cluster 18: areas
+
+cluster 19-
+cluster 19: Voice
+
+cluster 20-
+cluster 20: MySQL workshop
+cluster 20: SQL workshop
+
+cluster 21-
+cluster 21: time
+cluster 21: time
+cluster 21: time
+cluster 21: time
+cluster 21: time
+cluster 21: time
+cluster 21: time
+cluster 21: lecture hours
+cluster 21: Time for this workshop
+
+cluster 22-
+cluster 22: Reasons behind using dev tools
+
+cluster 23-
+cluster 23: steps even after installation to make the environment
+
+cluster 24-
+cluster 24: quiz
+
+cluster 25-
+cluster 25: basics of a selected software
+
+cluster 26-
+cluster 26: handout on examples
+
+cluster 27-
+cluster 27: install that software
+
+cluster 28-
+cluster 28: version control ,
+cluster 28: GIT
+
+cluster 29-
+cluster 29: Jenkins work
+
+clusters object-
+{0: [0, 6, 8, 10, 11, 16, 17, 18, 20, 21, 28, 31, 33, 34, 35, 38, 41, 42, 43, 46, 49, 53, 59, 60, 61, 64, 66, 71, 72, 73, 74, 75, 78, 79, 83, 85, 90, 93, 95, 97, 98, 103, 104, 109, 112, 114, 116, 118, 122, 124, 129, 130, 132, 133, 135, 137], 1: [1, 5, 9, 44, 96], 2: [2, 3, 63, 69], 3: [4, 36, 99], 4: [7], 5: [12, 19, 26, 30, 84, 88, 91, 117, 120, 121, 134], 6: [13, 115], 7: [14, 15], 8: [22, 100, 101], 9: [23, 57, 139], 10: [24, 25, 37, 45, 47, 50, 52, 56, 76, 80, 86, 106, 123], 11: [27, 108], 12: [29], 13: [32], 14: [39], 15: [40, 89, 110, 131], 16: [48, 55], 17: [51, 54, 67], 18: [58, 65, 68, 113, 138], 19: [62], 20: [70, 102], 21: [77, 81, 92, 94, 111, 119, 125, 126, 136], 22: [82], 23: [87], 24: [105], 25: [107], 26: [127], 27: [128], 28: [140, 141], 29: [142]}
+cluster names- 
+['workshop', 'last section', 'Presenters', 'unit testing part', 'delivery of content', 'content', 'IDE part', 'other part', 'Build tools part', 'continuous integration part', 'maven', 'lecture slides', 'details to the slides', 'relevant java files', 'speed', 'new and useful things', 'junit', 'IntelliJ idea', 'some of the points', 'Voice', 'MySQL workshop', 'time', 'Reasons behind using dev tools', 'steps even after installation to make the environment', 'quiz', 'basics of a selected software', 'handout on examples', 'install that software', 'GIT', 'Jenkins work']

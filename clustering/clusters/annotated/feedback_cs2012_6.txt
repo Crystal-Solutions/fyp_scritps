@@ -1,0 +1,176 @@
+clusters-
+
+cluster 0-
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: session
+cluster 0: it
+cluster 0: lecture
+cluster 0: It
+cluster 0: Lecture
+cluster 0: his lecture
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: It
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: It
+cluster 0: It
+cluster 0: lecture
+cluster 0: it
+cluster 0: lecture
+cluster 0: couple of lectures
+cluster 0: It
+cluster 0: lectures
+cluster 0: lecture ,
+cluster 0: It
+cluster 0: lecture
+cluster 0: Lecture
+cluster 0: it
+cluster 0: It
+cluster 0: It
+cluster 0: lecture
+cluster 0: Guest lecture
+cluster 0: it
+cluster 0: lecture
+cluster 0: It 's
+cluster 0: lecture
+cluster 0: it
+cluster 0: It 's
+cluster 0: lecture
+cluster 0: whole lecture
+cluster 0: It
+cluster 0: lecture about OOP concepts
+cluster 0: lecture
+cluster 0: It
+cluster 0: session
+cluster 0: session
+cluster 0: guest lectures from Mr Lecturer _ y
+cluster 0: It
+cluster 0: It
+cluster 0: lectures
+cluster 0: lecture
+cluster 0: your lecture
+cluster 0: guest lecture
+cluster 0: This lecture
+cluster 0: your lecture
+cluster 0: It
+cluster 0: lecture
+cluster 0: It
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: It 's
+cluster 0: it 's
+cluster 0: It
+cluster 0: it
+cluster 0: It 's
+cluster 0: that lecture
+cluster 0: it
+cluster 0: It
+cluster 0: It
+cluster 0: it
+cluster 0: Lecture
+cluster 0: your lectures
+cluster 0: lecture from him
+cluster 0: Lecture
+cluster 0: It
+cluster 0: lecture ,
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: His presentation
+cluster 0: it
+
+cluster 1-
+cluster 1: He
+cluster 1: He
+cluster 1: he
+cluster 1: Mr. Lecturer _ y
+cluster 1: Mr. Lecturer _ y
+cluster 1: he
+cluster 1: sir
+cluster 1: sir
+cluster 1: He
+cluster 1: lecturer
+cluster 1: lecturer
+cluster 1: lecturer
+cluster 1: He
+cluster 1: He
+cluster 1: he
+cluster 1: Lecturer
+cluster 1: He
+cluster 1: Mr. Lecturer _ y
+
+cluster 2-
+cluster 2: advices
+
+cluster 3-
+cluster 3: basic principles of OOP
+cluster 3: them
+cluster 3: OOP concepts
+cluster 3: concepts
+cluster 3: basics of OOP
+cluster 3: OOP
+cluster 3: explanations about OOp
+cluster 3: basics of Object Oriented Programming
+
+cluster 4-
+cluster 4: The way of explaining
+cluster 4: discussed in a simple step by step manner
+cluster 4: way he explain OOP concepts with examples
+cluster 4: teaching method
+cluster 4: some explanations
+cluster 4: way of presenting
+cluster 4: the way he presented
+
+cluster 5-
+cluster 5: Focussing on the fundamentals
+
+cluster 6-
+cluster 6: next session
+
+cluster 7-
+cluster 7: experience
+
+cluster 8-
+cluster 8: knowledge he had
+
+cluster 9-
+cluster 9: time
+cluster 9: time
+cluster 9: time :
+cluster 9: time
+cluster 9: time given
+cluster 9: time to continue his lecture
+
+cluster 10-
+cluster 10: examples
+cluster 10: real world examples
+cluster 10: examples
+
+cluster 11-
+cluster 11: introduction about him
+
+cluster 12-
+cluster 12: advantages of using OOP
+
+cluster 13-
+cluster 13: explanation about Abstraction
+
+cluster 14-
+cluster 14: UML
+cluster 14: Diagrams
+
+cluster 15-
+cluster 15: covered area
+
+cluster 16-
+cluster 16: organization of ideas
+cluster 16: His ideas
+
+cluster 17-
+cluster 17: taking lessons from an expert in the industry
+
+clusters object-
+{0: [0, 1, 3, 4, 5, 6, 8, 9, 10, 11, 13, 15, 17, 19, 23, 25, 30, 31, 33, 34, 35, 39, 40, 43, 44, 45, 47, 49, 50, 51, 53, 54, 55, 57, 58, 59, 61, 65, 67, 68, 70, 72, 75, 76, 77, 78, 79, 80, 81, 82, 83, 86, 87, 88, 91, 92, 96, 97, 98, 99, 100, 101, 104, 105, 106, 107, 108, 110, 111, 113, 116, 119, 121, 122, 124, 125, 132, 133], 1: [2, 16, 18, 22, 26, 37, 42, 46, 56, 62, 63, 64, 71, 73, 74, 112, 117, 126], 2: [7], 3: [12, 14, 41, 52, 84, 94, 102, 109], 4: [20, 27, 36, 93, 123, 128, 130], 5: [21], 6: [24], 7: [28], 8: [29], 9: [32, 48, 60, 69, 89, 115], 10: [38, 103, 118], 11: [66], 12: [85], 13: [90], 14: [95, 114], 15: [120], 16: [127, 129], 17: [131]}
+cluster names- 
+['lecture', 'lecturer', 'advices', 'basics of Object Oriented Programming', 'The way of explaining', 'Focussing on the fundamentals', 'next session', 'experience', 'knowledge he had', 'time', 'examples', 'introduction about him', 'advantages of using OOP', 'explanation about Abstraction', 'Diagrams', 'covered area', 'His ideas', 'taking lessons from an expert in the industry']

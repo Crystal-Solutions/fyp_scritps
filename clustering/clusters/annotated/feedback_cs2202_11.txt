@@ -1,0 +1,242 @@
+clusters-
+
+cluster 0-
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: workshops
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: Workshop
+cluster 0: session
+cluster 0: today 's session
+cluster 0: workshops
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: session
+cluster 0: session
+cluster 0: session
+cluster 0: It
+cluster 0: workshop
+cluster 0: Session
+cluster 0: It
+cluster 0: It
+cluster 0: it
+cluster 0: It
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: session
+cluster 0: whole workshop
+cluster 0: session
+cluster 0: this workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop ,
+cluster 0: Workshop
+cluster 0: This
+cluster 0: workshop
+cluster 0: Overall it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: lectures
+cluster 0: sessions
+cluster 0: session on JUnit
+cluster 0: workshop
+
+cluster 1-
+cluster 1: time
+cluster 1: time
+cluster 1: time period
+cluster 1: time
+cluster 1: time
+cluster 1: time
+cluster 1: time
+cluster 1: time
+cluster 1: time limit
+cluster 1: time
+cluster 1: time allocated
+cluster 1: time
+cluster 1: duration
+cluster 1: time
+cluster 1: time on the topics
+cluster 1: time
+cluster 1: time
+cluster 1: time
+
+cluster 2-
+cluster 2: some examples
+cluster 2: examples
+cluster 2: examples
+
+cluster 3-
+cluster 3: later topics
+
+cluster 4-
+cluster 4: Junit
+cluster 4: JUNIT ,
+cluster 4: JUnit ,
+cluster 4: junit
+
+cluster 5-
+cluster 5: Git
+cluster 5: Git
+
+cluster 6-
+cluster 6: Ant
+cluster 6: ANT ,
+cluster 6: ant
+cluster 6: ant
+cluster 6: ANT ,
+cluster 6: time on ANT and JUNIT
+cluster 6: information on ANT
+cluster 6: ANT session
+
+cluster 7-
+cluster 7: topics
+cluster 7: content
+cluster 7: content
+
+cluster 8-
+cluster 8: IntelliJ Introduction
+cluster 8: IntelliJ idea
+cluster 8: IntelliJ IDE
+
+cluster 9-
+cluster 9: version control systems
+cluster 9: version control system
+cluster 9: version control systems
+
+cluster 10-
+cluster 10: latter part of the workshop
+cluster 10: last part of the session
+cluster 10: last part
+cluster 10: Final half of the session
+cluster 10: last part
+cluster 10: last facts
+
+cluster 11-
+cluster 11: explanations
+cluster 11: clarifications
+cluster 11: explanations
+
+cluster 12-
+cluster 12: compilation using terminal ,
+
+cluster 13-
+cluster 13: IDE ,
+cluster 13: new IDE
+
+cluster 14-
+cluster 14: build tools ,
+cluster 14: build tools
+cluster 14: information on the build tools ,
+
+cluster 15-
+cluster 15: Unit test
+
+cluster 16-
+cluster 16: Jenkins
+cluster 16: Jenkins ,
+cluster 16: Jenkins
+
+cluster 17-
+cluster 17: lot of new things
+
+cluster 18-
+cluster 18: practicals
+cluster 18: practicals
+
+cluster 19-
+cluster 19: prior arrangements (
+cluster 19: prior arrangements (
+
+cluster 20-
+cluster 20: software tools
+
+cluster 21-
+cluster 21: time to test sample codes
+
+cluster 22-
+cluster 22: help given by the team
+
+cluster 23-
+cluster 23: area to cover during the session
+cluster 23: content
+cluster 23: areas touched
+
+cluster 24-
+cluster 24: what industry expect from us
+
+cluster 25-
+cluster 25: Company _ y members
+cluster 25: They
+cluster 25: they
+cluster 25: you all
+
+cluster 26-
+cluster 26: target
+
+cluster 27-
+cluster 27: speed
+
+cluster 28-
+cluster 28: presentation
+cluster 28: presentations
+
+cluster 29-
+cluster 29: relate them to the real work work environments
+
+cluster 30-
+cluster 30: industrial related software development practicals
+
+cluster 31-
+cluster 31: first part of workshop
+cluster 31: first part
+
+cluster 32-
+cluster 32: tutorials on apache ant environment
+
+cluster 33-
+cluster 33: their part
+
+cluster 34-
+cluster 34: topic
+
+cluster 35-
+cluster 35: time on java basics ,
+
+cluster 36-
+cluster 36: remaining parts
+
+cluster 37-
+cluster 37: concepts
+
+cluster 38-
+cluster 38: prerequisites
+
+cluster 39-
+cluster 39: Organization of the workshop
+
+clusters object-
+{0: [0, 4, 5, 6, 7, 8, 12, 13, 15, 22, 25, 33, 35, 36, 37, 40, 44, 45, 47, 49, 51, 53, 58, 63, 65, 68, 69, 81, 82, 83, 87, 88, 94, 95, 98, 104, 107, 108, 109, 111, 112, 113, 115, 116, 119, 121, 123, 128, 129, 131, 133, 134, 141, 142, 144, 145, 146, 148, 149, 151], 1: [1, 9, 14, 18, 32, 34, 42, 48, 67, 77, 85, 86, 90, 105, 122, 132, 143, 154], 2: [2, 71, 102], 3: [3], 4: [10, 61, 99, 140], 5: [11, 20], 6: [16, 29, 39, 46, 60, 97, 106, 150], 7: [17, 84, 93], 8: [19, 100, 130], 9: [21, 139, 153], 10: [23, 73, 92, 101, 117, 127], 11: [24, 72, 110], 12: [26], 13: [27, 96], 14: [28, 135, 152], 15: [30], 16: [31, 38, 62], 17: [41], 18: [43, 118], 19: [50, 52], 20: [54], 21: [55], 22: [56], 23: [57, 66, 147], 24: [59], 25: [64, 76, 78, 80], 26: [70], 27: [74], 28: [75, 155], 29: [79], 30: [89], 31: [91, 124], 32: [103], 33: [114], 34: [120], 35: [125], 36: [126], 37: [136], 38: [137], 39: [138]}
+cluster names- 
+['workshop', 'time', 'examples', 'later topics', 'Junit', 'Git', 'Ant', 'topics', 'IntelliJ IDE', 'version control systems', 'last part of the session', 'explanations', 'compilation using terminal ,', 'new IDE', 'build tools', 'Unit test', 'Jenkins', 'lot of new things', 'practicals', 'prior arrangements (', 'software tools', 'time to test sample codes', 'help given by the team', 'areas touched', 'what industry expect from us', 'Company _ y members', 'target', 'speed', 'presentation', 'relate them to the real work work environments', 'industrial related software development practicals', 'first part', 'tutorials on apache ant environment', 'their part', 'topic', 'time on java basics ,', 'remaining parts', 'concepts', 'prerequisites', 'Organization of the workshop']

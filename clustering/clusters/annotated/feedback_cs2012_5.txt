@@ -1,0 +1,188 @@
+clusters-
+
+cluster 0-
+cluster 0: series of lectures on OOP
+cluster 0: It
+cluster 0: lectures
+cluster 0: lecture series
+cluster 0: lectures
+cluster 0: Lectures
+cluster 0: series of lectures
+cluster 0: It
+cluster 0: Lecture series
+cluster 0: lecture series
+cluster 0: lecture series
+cluster 0: It
+cluster 0: lecture
+cluster 0: Lecture series
+cluster 0: Lectures
+cluster 0: lectures
+cluster 0: lectures
+cluster 0: Lecture
+cluster 0: lecture series
+
+cluster 1-
+cluster 1: real examples
+cluster 1: real life examples
+cluster 1: examples with answers
+cluster 1: examples ,
+cluster 1: examples
+cluster 1: examples on particular theory parts
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples
+cluster 1: examples on relevant theory parts
+cluster 1: Examples
+cluster 1: real world examples
+cluster 1: outer world examples
+cluster 1: examples
+cluster 1: Real life examples
+
+cluster 2-
+cluster 2: basics of OOP
+cluster 2: basics concepts
+cluster 2: concepts
+cluster 2: problems related to OOP concepts
+cluster 2: OOP
+cluster 2: OOP concepts
+cluster 2: oop ,
+
+cluster 3-
+cluster 3: concurrency
+cluster 3: Threads
+cluster 3: concurrency
+cluster 3: threads
+cluster 3: threads
+
+cluster 4-
+cluster 4: interactive exercises
+cluster 4: interaction with students
+cluster 4: group activities
+cluster 4: Group Activities
+
+cluster 5-
+cluster 5: our participation
+
+cluster 6-
+cluster 6: subject
+cluster 6: module
+cluster 6: course
+cluster 6: overall course
+cluster 6: Subject
+
+cluster 7-
+cluster 7: slides
+cluster 7: lecture slides
+cluster 7: slides
+cluster 7: details in the slides
+cluster 7: Short Point slideshows
+cluster 7: slides
+cluster 7: slides
+cluster 7: lecture slides
+cluster 7: Lecture Slides
+cluster 7: Lecture slides
+
+cluster 8-
+cluster 8: workload during the semester
+
+cluster 9-
+cluster 9: Madam
+cluster 9: lecturer
+cluster 9: lecturer
+cluster 9: lecturer
+
+cluster 10-
+cluster 10: questions
+cluster 10: questions on practical problems
+cluster 10: questions
+
+cluster 11-
+cluster 11: real world examples on concurrency
+
+cluster 12-
+cluster 12: java language
+cluster 12: fundamentals of programming in JAVA
+cluster 12: deep concepts of java ,
+
+cluster 13-
+cluster 13: in classes
+cluster 13: In class activities
+cluster 13: in class activities
+cluster 13: in class activities
+cluster 13: in class exercises ,
+cluster 13: in - class exercises
+cluster 13: In class activities
+cluster 13: in class activity
+
+cluster 14-
+cluster 14: project
+cluster 14: Semester project
+
+cluster 15-
+cluster 15: teaching techniques
+cluster 15: Lecturing method
+cluster 15: the way those were explained
+cluster 15: way of teaching
+cluster 15: explanations
+
+cluster 16-
+cluster 16: Final lectures
+
+cluster 17-
+cluster 17: kindness
+
+cluster 18-
+cluster 18: speed of the concepts like concurrency
+
+cluster 19-
+cluster 19: discussions
+cluster 19: Group discussions
+
+cluster 20-
+cluster 20: Some topics
+cluster 20: UML ,
+
+cluster 21-
+cluster 21: Semester project evaluation criteria
+
+cluster 22-
+cluster 22: examples from java language
+
+cluster 23-
+cluster 23: examples for thread interruptions
+
+cluster 24-
+cluster 24: questions in group activities )
+
+cluster 25-
+cluster 25: modeling type questions
+
+cluster 26-
+cluster 26: example to learn modeling
+
+cluster 27-
+cluster 27: examples in netbeans or eclipse
+
+cluster 28-
+cluster 28: English
+
+cluster 29-
+cluster 29: Mr. Sulakshana
+cluster 29: Mr. Sulakshan
+
+cluster 30-
+cluster 30: time
+
+cluster 31-
+cluster 31: OOP with java
+
+cluster 32-
+cluster 32: practice
+
+cluster 33-
+cluster 33: resources to reference
+
+clusters object-
+{0: [0, 1, 2, 3, 4, 5, 9, 20, 23, 31, 36, 49, 56, 62, 66, 75, 98, 99, 111], 1: [6, 7, 8, 24, 32, 38, 46, 50, 52, 63, 70, 79, 90, 101, 110], 2: [10, 45, 51, 59, 61, 89, 106], 3: [11, 71, 94, 95, 104], 4: [12, 68, 82, 87], 5: [13], 6: [14, 21, 39, 47, 78], 7: [15, 30, 34, 67, 69, 73, 74, 80, 85, 92], 8: [16], 9: [17, 26, 42, 81], 10: [18, 55, 76], 11: [19], 12: [22, 27, 113], 13: [25, 37, 40, 41, 43, 53, 65, 108], 14: [28, 86], 15: [29, 33, 102, 107, 112], 16: [35], 17: [44], 18: [48], 19: [54, 93], 20: [57, 58], 21: [60], 22: [64], 23: [72], 24: [77], 25: [83], 26: [84], 27: [88], 28: [91], 29: [96, 97], 30: [100], 31: [103], 32: [105], 33: [109]}
+cluster names- 
+['lectures', 'examples', 'OOP', 'threads', 'group activities', 'our participation', 'subject', 'slides', 'workload during the semester', 'lecturer', 'questions', 'real world examples on concurrency', 'java language', 'In class activities', 'project', 'teaching techniques', 'Final lectures', 'kindness', 'speed of the concepts like concurrency', 'discussions', 'UML ,', 'Semester project evaluation criteria', 'examples from java language', 'examples for thread interruptions', 'questions in group activities )', 'modeling type questions', 'example to learn modeling', 'examples in netbeans or eclipse', 'English', 'Mr. Sulakshana', 'time', 'OOP with java', 'practice', 'resources to reference']

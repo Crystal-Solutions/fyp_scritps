@@ -1,0 +1,264 @@
+clusters-
+
+cluster 0-
+cluster 0: workshop
+cluster 0: session
+cluster 0: program
+cluster 0: Workshop
+cluster 0: it
+cluster 0: session
+cluster 0: that
+cluster 0: Workshop
+cluster 0: It
+cluster 0: session
+cluster 0: it
+cluster 0: session
+cluster 0: everything
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: it
+cluster 0: it
+cluster 0: it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: workshop !
+cluster 0: workshop
+cluster 0: session on MySQL
+cluster 0: session
+cluster 0: session on MySQL
+cluster 0: session
+cluster 0: Session
+cluster 0: It
+cluster 0: workshop
+cluster 0: lecture
+cluster 0: workshop
+cluster 0: session
+cluster 0: It
+cluster 0: Today 's workshop
+cluster 0: lecture
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: it
+cluster 0: session
+cluster 0: Session
+cluster 0: It
+cluster 0: session
+cluster 0: Workshop
+cluster 0: sessions
+cluster 0: MySQL workshop
+cluster 0: MySQL workshop
+cluster 0: Workshop
+cluster 0: It
+cluster 0: It
+cluster 0: session
+cluster 0: Overall session
+cluster 0: session
+cluster 0: Session
+cluster 0: workshop !
+cluster 0: Workshop
+cluster 0: It
+cluster 0: It
+cluster 0: It
+cluster 0: everything
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: lecture
+cluster 0: This lecture
+cluster 0: workshop
+cluster 0: flow of the workshop
+cluster 0: everything
+cluster 0: workshop
+
+cluster 1-
+cluster 1: introduction
+cluster 1: introduction about MySQL
+
+cluster 2-
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: it
+cluster 2: basics of MySQL
+cluster 2: MySQL
+cluster 2: SQL basics
+cluster 2: using SQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+cluster 2: MySQL
+
+cluster 3-
+cluster 3: knowledge about databases
+
+cluster 4-
+cluster 4: databases
+cluster 4: database program
+
+cluster 5-
+cluster 5: Speed
+
+cluster 6-
+cluster 6: relevant coding examples
+
+cluster 7-
+cluster 7: all codes
+
+cluster 8-
+cluster 8: notes
+
+cluster 9-
+cluster 9: tasks
+
+cluster 10-
+cluster 10: lot of things
+cluster 10: lot of new things
+cluster 10: lot of new things
+
+cluster 11-
+cluster 11: connecting MySQL to a project
+cluster 11: that part
+
+cluster 12-
+cluster 12: Presenter
+cluster 12: resource person
+cluster 12: resource person
+cluster 12: presenter
+cluster 12: Lecturer
+cluster 12: presenter
+cluster 12: Presenter
+cluster 12: they
+cluster 12: Presenter
+cluster 12: teacher
+cluster 12: You
+cluster 12: speaker
+
+cluster 13-
+cluster 13: his speed
+
+cluster 14-
+cluster 14: important facts
+cluster 14: facts
+
+cluster 15-
+cluster 15: time
+cluster 15: time
+cluster 15: time
+cluster 15: time
+cluster 15: time is allocated for the workshop
+cluster 15: time for the workshop
+
+cluster 16-
+cluster 16: all the basic things
+
+cluster 17-
+cluster 17: related videos ' links
+
+cluster 18-
+cluster 18: lot of examples
+cluster 18: examples
+cluster 18: examples
+cluster 18: practical examples
+cluster 18: example codes
+
+cluster 19-
+cluster 19: exercises
+
+cluster 20-
+cluster 20: Presentation
+cluster 20: slides
+cluster 20: lecture slides
+cluster 20: letters in the presentations
+
+cluster 21-
+cluster 21: time that give for the examples at the beginning
+
+cluster 22-
+cluster 22: all the guys
+cluster 22: They
+
+cluster 23-
+cluster 23: additional recommended resources (
+cluster 23: additional recommended resources (
+
+cluster 24-
+cluster 24: speed of the lecture
+
+cluster 25-
+cluster 25: Discussed topic
+
+cluster 26-
+cluster 26: coding activity
+
+cluster 27-
+cluster 27: Lecturing style
+
+cluster 28-
+cluster 28: time for our questions
+
+cluster 29-
+cluster 29: advanced concepts of MySQL
+
+cluster 30-
+cluster 30: Company _ y
+
+cluster 31-
+cluster 31: anything
+
+cluster 32-
+cluster 32: time to learn SQL
+
+cluster 33-
+cluster 33: quiz
+cluster 33: quiz
+
+cluster 34-
+cluster 34: teaching from very beginning
+
+cluster 35-
+cluster 35: middle of the workshop
+
+cluster 36-
+cluster 36: instructions to install MySQL
+
+cluster 37-
+cluster 37: version of MySQL for windows
+
+cluster 38-
+cluster 38: content
+
+cluster 39-
+cluster 39: practical issues
+
+clusters object-
+{0: [0, 3, 5, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 40, 41, 45, 47, 48, 49, 52, 53, 57, 59, 62, 65, 66, 71, 73, 74, 76, 79, 81, 82, 88, 89, 90, 91, 92, 93, 94, 95, 101, 102, 104, 107, 109, 113, 114, 116, 118, 124, 126, 129, 131, 133, 134, 135, 140, 141, 142, 144, 147, 148, 149, 151, 152, 153, 156, 157, 158, 160, 161, 162, 164, 165, 168, 172, 173, 176], 1: [1, 115], 2: [2, 16, 25, 46, 60, 67, 70, 75, 80, 83, 87, 99, 108, 112, 139, 145], 3: [4], 4: [6, 163], 5: [7], 6: [18], 7: [21], 8: [22], 9: [23], 10: [31, 96, 127], 11: [38, 39], 12: [42, 50, 54, 58, 63, 86, 97, 110, 125, 146, 150, 169], 13: [43], 14: [44, 98], 15: [51, 55, 72, 143, 159, 174], 16: [56], 17: [61], 18: [64, 69, 85, 130, 171], 19: [68], 20: [77, 84, 121, 177], 21: [78], 22: [100, 111], 23: [103, 105], 24: [106], 25: [117], 26: [119], 27: [120], 28: [122], 29: [123], 30: [128], 31: [132], 32: [136], 33: [137, 138], 34: [154], 35: [155], 36: [166], 37: [167], 38: [170], 39: [175]}
+cluster names- 
+['workshop', 'introduction', 'MySQL', 'knowledge about databases', 'databases', 'Speed', 'relevant coding examples', 'all codes', 'notes', 'tasks', 'lot of new things', 'connecting MySQL to a project', 'Presenter', 'his speed', 'important facts', 'time', 'all the basic things', "related videos ' links", 'examples', 'exercises', 'slides', 'time that give for the examples at the beginning', 'all the guys', 'additional recommended resources (', 'speed of the lecture', 'Discussed topic', 'coding activity', 'Lecturing style', 'time for our questions', 'advanced concepts of MySQL', 'Company _ y', 'anything', 'time to learn SQL', 'quiz', 'teaching from very beginning', 'middle of the workshop', 'instructions to install MySQL', 'version of MySQL for windows', 'content', 'practical issues']

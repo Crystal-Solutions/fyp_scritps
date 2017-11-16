@@ -1,0 +1,25 @@
+clusters-
+
+cluster 0-
+cluster 0: scrum
+cluster 0: scrum
+
+cluster 1-
+cluster 1: paper plane activity
+cluster 1: interactive session
+
+cluster 2-
+cluster 2: workshop :
+cluster 2: session
+cluster 2: session
+cluster 2: workshop
+cluster 2: Workshop !
+cluster 2: Session
+
+cluster 3-
+cluster 3: slides
+
+clusters object-
+{0: [0, 5], 1: [1, 8], 2: [2, 3, 4, 6, 7, 10], 3: [9]}
+cluster names- 
+['scrum', 'interactive session', 'session', 'slides']

@@ -1,0 +1,127 @@
+clusters-
+
+cluster 0-
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: They
+cluster 0: Workshop
+cluster 0: workshop done on git
+cluster 0: session
+cluster 0: sessions
+cluster 0: it
+cluster 0: It
+cluster 0: workshop
+cluster 0: session
+cluster 0: session
+cluster 0: workshop flow
+cluster 0: Workshop
+cluster 0: It
+cluster 0: session
+cluster 0: Workshop
+cluster 0: two lectures
+cluster 0: Today 's workshop
+cluster 0: workshop
+cluster 0: session
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: it
+cluster 0: session
+cluster 0: workshop
+cluster 0: session
+cluster 0: session
+cluster 0: session today
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: it
+cluster 0: session
+cluster 0: session
+cluster 0: workshop
+cluster 0: Workshop
+cluster 0: session
+cluster 0: it 's
+cluster 0: it
+
+cluster 1-
+cluster 1: things
+cluster 1: things
+cluster 1: new things !
+cluster 1: things
+cluster 1: things
+cluster 1: new things
+
+cluster 2-
+cluster 2: one
+
+cluster 3-
+cluster 3: basics of GIT ,
+cluster 3: Git
+cluster 3: github
+cluster 3: git
+cluster 3: git
+cluster 3: git explanations
+cluster 3: explaining git using Linux
+cluster 3: today 's GIT session
+cluster 3: things about Git
+cluster 3: git !
+cluster 3: it
+cluster 3: git
+cluster 3: git
+cluster 3: using git
+
+cluster 4-
+cluster 4: version control
+cluster 4: underlying concepts of version control
+
+cluster 5-
+cluster 5: facilitators
+cluster 5: resource persons
+cluster 5: presenters
+cluster 5: Presenter
+
+cluster 6-
+cluster 6: Job
+
+cluster 7-
+cluster 7: Presentations
+cluster 7: presentation
+
+cluster 8-
+cluster 8: time given for the demos by 1st lecturer
+
+cluster 9-
+cluster 9: real world applications ,
+cluster 9: examples
+
+cluster 10-
+cluster 10: Many
+
+cluster 11-
+cluster 11: directory structures
+
+cluster 12-
+cluster 12: quiz closing date
+
+cluster 13-
+cluster 13: way they presented
+
+cluster 14-
+cluster 14: introduction part
+
+cluster 15-
+cluster 15: rest of the workshop
+
+cluster 16-
+cluster 16: base '
+
+cluster 17-
+cluster 17: erge '
+
+cluster 18-
+cluster 18: Their speed
+
+clusters object-
+{0: [0, 2, 3, 5, 7, 8, 10, 11, 13, 15, 16, 18, 19, 22, 24, 25, 26, 29, 39, 43, 44, 46, 47, 48, 49, 50, 52, 53, 55, 56, 60, 61, 64, 69, 71, 73, 75, 78, 80, 81, 82], 1: [1, 4, 12, 51, 54, 57], 2: [6], 3: [9, 17, 23, 28, 30, 34, 35, 41, 45, 59, 66, 70, 72, 79], 4: [14, 65], 5: [20, 40, 74, 77], 6: [21], 7: [27, 42], 8: [31], 9: [32, 33], 10: [36], 11: [37], 12: [38], 13: [58], 14: [62], 15: [63], 16: [67], 17: [68], 18: [76]}
+cluster names- 
+['workshop', 'things', 'one', 'git', 'version control', 'presenters', 'Job', 'presentation', 'time given for the demos by 1st lecturer', 'examples', 'Many', 'directory structures', 'quiz closing date', 'way they presented', 'introduction part', 'rest of the workshop', "base '", "erge '", 'Their speed']

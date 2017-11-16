@@ -1,0 +1,198 @@
+clusters-
+
+cluster 0-
+cluster 0: It
+cluster 0: workshop
+cluster 0: it
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: it
+cluster 0: session
+cluster 0: lecture session
+cluster 0: lecture
+cluster 0: lectures
+cluster 0: it
+cluster 0: Workshop
+cluster 0: work !
+cluster 0: It
+cluster 0: Session
+cluster 0: Session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: workshop
+cluster 0: It
+cluster 0: session
+cluster 0: session
+cluster 0: It
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: It
+cluster 0: Workshop
+cluster 0: workshop
+cluster 0: lecture
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: session
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: It
+cluster 0: session
+cluster 0: workshop
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: lecture
+cluster 0: lecture
+cluster 0: It
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: workshop
+cluster 0: It
+cluster 0: Session
+
+cluster 1-
+cluster 1: end
+cluster 1: end of the chosen part
+
+cluster 2-
+cluster 2: two lecturers
+cluster 2: they
+cluster 2: presenters
+cluster 2: speaker
+cluster 2: lecturer
+cluster 2: Presenter _ x
+
+cluster 3-
+cluster 3: MIT
+cluster 3: Company _ x !
+cluster 3: Company _ x
+cluster 3: Company _ x !
+
+cluster 4-
+cluster 4: important points
+
+cluster 5-
+cluster 5: time
+cluster 5: time for the session
+cluster 5: time allocated for the workshop
+cluster 5: time
+cluster 5: time
+cluster 5: time limitation
+
+cluster 6-
+cluster 6: Distributing gifts
+cluster 6: giving bags ,
+cluster 6: Giving gifts
+cluster 6: present some gifts
+
+cluster 7-
+cluster 7: speed of lecturing
+cluster 7: speed
+cluster 7: pace of the lecture
+
+cluster 8-
+cluster 8: how to create an object from the class
+
+cluster 9-
+cluster 9: references and pointers
+
+cluster 10-
+cluster 10: time to upload the assignment
+cluster 10: submit the code
+
+cluster 11-
+cluster 11: first part
+
+cluster 12-
+cluster 12: basics
+cluster 12: basics
+
+cluster 13-
+cluster 13: advanced topics
+
+cluster 14-
+cluster 14: break in the middle
+
+cluster 15-
+cluster 15: seminar room
+
+cluster 16-
+cluster 16: experience
+
+cluster 17-
+cluster 17: use the whiteboard
+
+cluster 18-
+cluster 18: software
+
+cluster 19-
+cluster 19: assignment
+cluster 19: assignment ,
+
+cluster 20-
+cluster 20: slides
+
+cluster 21-
+cluster 21: content
+cluster 21: subjects contents
+cluster 21: scope
+
+cluster 22-
+cluster 22: syntax of the language
+cluster 22: other programming language
+
+cluster 23-
+cluster 23: programs
+
+cluster 24-
+cluster 24: time to explain
+
+cluster 25-
+cluster 25: coding
+cluster 25: programming part
+
+cluster 26-
+cluster 26: lecturer 's voice
+cluster 26: lecturer 's speaking style
+cluster 26: tone
+
+cluster 27-
+cluster 27: introduction approach on C plus plus
+
+cluster 28-
+cluster 28: time to work on the language
+
+cluster 29-
+cluster 29: examples on each topics ,
+cluster 29: examples of codes
+
+cluster 30-
+cluster 30: second speaker
+
+cluster 31-
+cluster 31: c plus plus concepts
+cluster 31: C plus plus
+
+cluster 32-
+cluster 32: discussing all the key elements of the language ,
+
+cluster 33-
+cluster 33: primary key points of the language
+
+cluster 34-
+cluster 34: basic OOP implementations
+
+clusters object-
+{0: [0, 2, 3, 5, 8, 9, 10, 11, 14, 15, 19, 20, 24, 26, 27, 28, 30, 32, 34, 37, 38, 39, 43, 44, 45, 46, 49, 51, 55, 57, 58, 60, 64, 67, 68, 69, 70, 74, 75, 80, 81, 82, 84, 85, 86, 87, 88, 91, 95, 97, 101, 105, 107, 108, 111, 115, 116, 117], 1: [1, 4], 2: [6, 36, 52, 92, 106, 112], 3: [7, 83, 94, 114], 4: [12], 5: [13, 23, 47, 54, 66, 100], 6: [16, 29, 99, 110], 7: [17, 102, 103], 8: [18], 9: [21], 10: [22, 104], 11: [25], 12: [31, 33], 13: [35], 14: [40], 15: [41], 16: [42], 17: [48], 18: [50], 19: [53, 98], 20: [56], 21: [59, 63, 96], 22: [61, 65], 23: [62], 24: [71], 25: [72, 89], 26: [73, 90, 113], 27: [76], 28: [77], 29: [78, 79], 30: [93], 31: [109, 118], 32: [119], 33: [120], 34: [121]}
+cluster names- 
+['workshop', 'end', 'presenters', 'Company _ x', 'important points', 'time', 'Giving gifts', 'speed', 'how to create an object from the class', 'references and pointers', 'time to upload the assignment', 'first part', 'basics', 'advanced topics', 'break in the middle', 'seminar room', 'experience', 'use the whiteboard', 'software', 'assignment', 'slides', 'content', 'syntax of the language', 'programs', 'time to explain', 'coding', "lecturer 's voice", 'introduction approach on C plus plus', 'time to work on the language', 'examples of codes', 'second speaker', 'C plus plus', 'discussing all the key elements of the language ,', 'primary key points of the language', 'basic OOP implementations']
