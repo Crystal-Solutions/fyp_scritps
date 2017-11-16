@@ -78,7 +78,8 @@ def get_coref_resolved_phrases(file_name):
 
 # split into clusters using kmedoids
 def cluster_kmedoids(no_of_phrases, distances):
-    no_of_clusters = int(math.sqrt(no_of_phrases))+15
+    #TODO: take min of no of clusters and int(math.sqrt(no_of_phrases))+15
+    no_of_clusters = int(math.sqrt(no_of_phrases))+5
 
     M, C = kmedoids.kMedoids(distances, no_of_clusters)
     return M, C, no_of_clusters
@@ -153,7 +154,7 @@ def clustering_evaluate(clustering_algo, similarity_method, coref_resolved=False
         elif similarity_method == "w2v":
             D = similarity_calulator.get_w2v_distance_matrix(phrases) #distance matrix
             S = similarity_calulator.get_w2v_similarity_matrix(phrases)
-            print(S)
+#            print(S)
         
         no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
         
@@ -247,24 +248,8 @@ def clustering_evaluate(clustering_algo, similarity_method, coref_resolved=False
         scores_file.write("\navg_fowlkes_mallows_score  [0, 1]:"+ str(avg_fowlkes_mallows_score/len(anno_cluster_files)))
         scores_file.write("\navg_purity  [0, 1]:"+ str(avg_purity/len(anno_cluster_files)))
         scores_file.close()
-        
-if __name__ == "__main__":
-    clustering_evaluate("kmedoids", "cosine", False, False)
-#    clustering_evaluate("kmedoids", "w2v", False, False)
-#    clustering_evaluate("string_sim", "cosine", False, False, 0.3)
-#    clustering_evaluate("string_sim", "cosine", False, False, 0.4)
-#    clustering_evaluate("string_sim", "cosine", False, False, 0.5)
-#    clustering_evaluate("string_sim", "w2v", False, False, 0.)
-
-    # coresolution resolved
-#    clustering_evaluate("kmedoids", "cosine", True, False)
-#    clustering_evaluate("kmedoids", "w2v", True, False)
-#    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
-#    clustering_evaluate("string_sim", "cosine", True, False, 0.4)
-#    clustering_evaluate("string_sim", "cosine", True, False, 0.5)
-#    clustering_evaluate("string_sim", "w2v", True, False)
-
-"""
+ 
+'''
     #test cluster with phrases
     S = similarity_calulator.get_similarity_matrix(phrases)
     C, no_of_clusters = string_similarity_clustering.cluster_similar_strings(S, 0.3)
@@ -273,6 +258,20 @@ if __name__ == "__main__":
     for label in clus:
         print("cluster "+str(label)+": "+str(clus[label]))
     print("no_of_clusters:",no_of_clusters)
-"""
+'''
+       
+if __name__ == "__main__":
+#    clustering_evaluate("kmedoids", "cosine", False, False)
+#    clustering_evaluate("kmedoids", "w2v", False, False)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.3)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.4)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.5)
+#    clustering_evaluate("string_sim", "w2v", False, False, 0.999)
 
-    
+    # coresolution resolved
+#    clustering_evaluate("kmedoids", "cosine", True, False)
+#    clustering_evaluate("kmedoids", "w2v", True, False)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.4)
+    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
+#    clustering_evaluate("string_sim", "w2v", True, False)
