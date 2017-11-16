@@ -8,6 +8,7 @@ Created on Wed Aug  2 07:27:56 2017
 from sklearn.metrics.pairwise import pairwise_distances
 import numpy as np
 import math
+import os
 
 import similarity_calulator
 import clustering_evaluator
@@ -15,7 +16,9 @@ from kmedoids import kmedoids
 import string_similarity_clustering
 
 TARGETS_PATH = "./targets/annotated/" #folder which contains targets files
-#folder to save annotated clusters - [annotated- extracted-using annotated targets, extracted-using extracted targets]
+COREF_RESOLVED_TARGETS_PATH = "./targets/annotated-coref-resolved/" #folder which contains targets files - coref resolved
+
+#folder to save annotated clusters - [annotated- extracted-using annotated targets]
 CLUSTERS_PATH = "./clusters/annotated/" 
 
 # IMPORTANT
@@ -57,12 +60,28 @@ def get_phrases_from_file(file_name):
     phrases = [x.strip() for x in phrases]
     return phrases
 
+# get phrases from extracted targets - coref resolved
+def get_coref_resolved_phrases(file_name):
+    with open(file_name) as f:
+        content = f.readlines() 
+    phrases = [x.strip() for x in content]
+    phrases = [x.rstrip('.') for x in phrases]
+    phrases = [x.strip() for x in phrases]
+    temp=[]
+    for x in phrases:
+        index = x.find('_')
+        if index >= 0:
+            x=x[:index]+' _ '+x[index+1:]
+        temp.append(x)
+    phrases = temp
+    return phrases
+
 # split into clusters using kmedoids
 def cluster_kmedoids(no_of_phrases, distances):
-    no_of_clusters = int(math.sqrt(no_of_phrases))+2
+    no_of_clusters = int(math.sqrt(no_of_phrases))+15
 
     M, C = kmedoids.kMedoids(distances, no_of_clusters)
-    return M, C
+    return M, C, no_of_clusters
 
 # split into clusters using string similarity
 def cluster_string_similarity(similarities):
@@ -80,7 +99,18 @@ def get_labels_list(clusters, no_of_phrases):
             labels[point_idx] = label
     return labels
 
-def clustering_evaluate(clustering_algo, similarity_method, write_file=True, threshold = None):
+def get_clusters_with_phrases(clusters, phrases):
+    """
+    returns the clusters with phrases, replacing phrase ids
+    """
+    clusters_with_phrases = {}
+    for label in clusters:
+        clusters_with_phrases[label] = []
+        for point_idx in clusters[label]:
+            clusters_with_phrases[label].append(phrases[point_idx]) 
+    return clusters_with_phrases
+
+def clustering_evaluate(clustering_algo, similarity_method, coref_resolved=False, write_file=True, threshold = None):
     """
     method to run clustering algorithm and evauale results and write results to a file
     """
@@ -101,12 +131,20 @@ def clustering_evaluate(clustering_algo, similarity_method, write_file=True, thr
     avg_purity = 0
     
     # run file by file to cluster and evaluate and write results to a file
-    for file in anno_cluster_files:
+#    for file in anno_cluster_files:
+    anno_cluster_files = []
+    for file in os.listdir(CLUSTERS_PATH):
+        anno_cluster_files.append(file)
         print(file)
         if write_file==True:
             scores_file.write(file+'\n')
         
-        phrases = get_phrases_from_file(TARGETS_PATH+file) #read targets from file
+        if coref_resolved:
+            phrases = get_coref_resolved_phrases(COREF_RESOLVED_TARGETS_PATH+file)
+        else:
+            phrases = get_phrases_from_file(TARGETS_PATH+file) #read targets from file
+            
+#        print("phrases:",phrases)
         
         # claculate similarity
         if similarity_method == "cosine":
@@ -115,53 +153,61 @@ def clustering_evaluate(clustering_algo, similarity_method, write_file=True, thr
         elif similarity_method == "w2v":
             D = similarity_calulator.get_w2v_distance_matrix(phrases) #distance matrix
             S = similarity_calulator.get_w2v_similarity_matrix(phrases)
+            print(S)
         
         no_of_phrases = similarity_calulator.get_no_of_phrases(phrases) #no of targets
         
         # run clustering algorithm
         if clustering_algo == "kmedoids":
             # cluster using kmedoids algorithm
-            M, C = cluster_kmedoids(no_of_phrases, D)
+            M, C, no_of_clusters = cluster_kmedoids(no_of_phrases, D)
             #clustering_results(C, M) #print and write to a file        
         elif clustering_algo == "string_sim":
             if threshold == None:
-                C = string_similarity_clustering.cluster_similar_strings(S)
+                C, no_of_clusters = string_similarity_clustering.cluster_similar_strings(S)
             else:
-                C = string_similarity_clustering.cluster_similar_strings(S, threshold)
-        print(C)
+                C, no_of_clusters = string_similarity_clustering.cluster_similar_strings(S, threshold)
+        clusters = get_clusters_with_phrases(C, phrases)
+        for label in clusters:
+            print("cluster "+str(label)+": "+str(clusters[label]))
+        print("no_of_clusters: ",no_of_clusters)
         
         cluster_labels = get_labels_list(C, no_of_phrases)
+        
+        # get the true clusters from the annotated clusters
+        anno_clusters = clustering_evaluator.get_annotated_cluster_obj(CLUSTERS_PATH+file)
+        anno_labels  = get_labels_list(anno_clusters, no_of_phrases)
+        no_of_anno_clusters = len(anno_clusters)
+        print("no of annotated clusters: ", no_of_anno_clusters)
+        print("diff of clusters: ",abs(no_of_clusters-no_of_anno_clusters))
            
         # evaluate clustering results and write to file
         # get silhoutte_coeff_score 
         silhoutte_coeff_score = clustering_evaluator.get_silhoutte_coefficient(D, cluster_labels)    
         avg_silhoutte_coeff_score += silhoutte_coeff_score
-        print("silhoutte_Coeff_score [-1, 1]: ", silhoutte_coeff_score)
-        
-        anno_clusters = clustering_evaluator.get_annotated_cluster_obj(CLUSTERS_PATH+file)
-        anno_labels  = get_labels_list(anno_clusters, no_of_phrases)
+#        print("silhoutte_Coeff_score [-1, 1]: ", silhoutte_coeff_score)
         
         ARI_score = clustering_evaluator.get_ARI(cluster_labels, anno_labels)
         avg_ARI_score += ARI_score
-        print("ARI_score [-1, 1]: ", ARI_score)
+#        print("ARI_score [-1, 1]: ", ARI_score)
         
         norm_score, adj_score = clustering_evaluator.get_mutual_information_score(cluster_labels, anno_labels)
         avg_NMI_score += norm_score
         avg_AMI_score += adj_score
         print("Normalized Mutual Information Score  [0, 1]: ", norm_score)
-        print("Adjusted Mutual Information Score  [0, 1]: ", adj_score)
+#        print("Adjusted Mutual Information Score  [0, 1]: ", adj_score)
         
         h, c, v = clustering_evaluator.get_homogeneity_completeness_v_measure(cluster_labels, anno_labels)
         avg_homogeneity += h
         avg_completeness += c
         avg_v_measure += v
-        print("homogeneity  [0, 1]: "+ str(h))
-        print("completeness  [0, 1]: "+ str(c))
+#        print("homogeneity  [0, 1]: "+ str(h))
+#        print("completeness  [0, 1]: "+ str(c))
         print("v_measure  [0, 1]: "+ str(v))
         
         fowlkes_mallows_score = clustering_evaluator.get_fowlkes_mallows_score(cluster_labels, anno_labels)
         avg_fowlkes_mallows_score += fowlkes_mallows_score
-        print("fowlkes_mallows_score  [0, 1]: ", fowlkes_mallows_score)
+#        print("fowlkes_mallows_score  [0, 1]: ", fowlkes_mallows_score)
         
         purity = clustering_evaluator.get_purity(cluster_labels, anno_labels)
         avg_purity += purity
@@ -180,14 +226,14 @@ def clustering_evaluate(clustering_algo, similarity_method, write_file=True, thr
     
     # write average results to a file
     print("Average")
-    print("avg_silhoutte_coeff_score [-1, 1]:", avg_silhoutte_coeff_score/len(anno_cluster_files))
-    print("avg_ARI_score [-1, 1]:", avg_ARI_score/len(anno_cluster_files))
+#    print("avg_silhoutte_coeff_score [-1, 1]:", avg_silhoutte_coeff_score/len(anno_cluster_files))
+#    print("avg_ARI_score [-1, 1]:", avg_ARI_score/len(anno_cluster_files))
     print("avg_NMI_score  [0, 1]:", avg_NMI_score/len(anno_cluster_files))
-    print("avg_AMI_score  [0, 1]:", avg_AMI_score/len(anno_cluster_files))
-    print("avg_homogeneity  [0, 1]:", avg_homogeneity/len(anno_cluster_files))
-    print("avg_completeness  [0, 1]:", avg_completeness/len(anno_cluster_files))
+#    print("avg_AMI_score  [0, 1]:", avg_AMI_score/len(anno_cluster_files))
+#    print("avg_homogeneity  [0, 1]:", avg_homogeneity/len(anno_cluster_files))
+#    print("avg_completeness  [0, 1]:", avg_completeness/len(anno_cluster_files))
     print("avg_v_measure  [0, 1]:", avg_v_measure/len(anno_cluster_files))
-    print("avg_fowlkes_mallows_score  [0, 1]:", avg_fowlkes_mallows_score/len(anno_cluster_files))
+#    print("avg_fowlkes_mallows_score  [0, 1]:", avg_fowlkes_mallows_score/len(anno_cluster_files))
     print("avg_purity  [0, 1]:", avg_purity/len(anno_cluster_files))
     if write_file==True:
         scores_file.write("Average - "+title+"\n")
@@ -203,8 +249,30 @@ def clustering_evaluate(clustering_algo, similarity_method, write_file=True, thr
         scores_file.close()
         
 if __name__ == "__main__":
-#    clustering_evaluate("kmedoids", "cosine", False)
-#    clustering_evaluate("kmedoids", "w2v", False)
-    clustering_evaluate("string_sim", "cosine", False, 0.5)
-#    clustering_evaluate("string_sim", "w2v", False)
-  
+    clustering_evaluate("kmedoids", "cosine", False, False)
+#    clustering_evaluate("kmedoids", "w2v", False, False)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.3)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.4)
+#    clustering_evaluate("string_sim", "cosine", False, False, 0.5)
+#    clustering_evaluate("string_sim", "w2v", False, False, 0.)
+
+    # coresolution resolved
+#    clustering_evaluate("kmedoids", "cosine", True, False)
+#    clustering_evaluate("kmedoids", "w2v", True, False)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.4)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.5)
+#    clustering_evaluate("string_sim", "w2v", True, False)
+
+"""
+    #test cluster with phrases
+    S = similarity_calulator.get_similarity_matrix(phrases)
+    C, no_of_clusters = string_similarity_clustering.cluster_similar_strings(S, 0.3)
+    
+    clus = get_clusters_with_phrases(C, phrases)
+    for label in clus:
+        print("cluster "+str(label)+": "+str(clus[label]))
+    print("no_of_clusters:",no_of_clusters)
+"""
+
+    

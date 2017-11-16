@@ -1,9 +1,9 @@
 Clustering Annotation (New)
 =====================
 Allocation - 
-Janaka - feedback_cs2012_4//, feedback_cs2062_1,/ feedback_cs2202_2//, feedback_cs2202_8,/ feedback_cs2202_11,/ 
-Pranidhith - feedback_cs2012_1,/ feedback_cs2202_4,/ feedback_cs2202_3,/ feedback_cs2202_5//, feedback_cs2202_12,/
-Ravindu -feedback_cs2012_2,/ feedback_cs2012_6,/ feedback_cs2202_6, feedback_cs2062_2//, feedback_cs2202_9
+Janaka - feedback_cs2012_4,/ feedback_cs2062_1,/ feedback_cs2202_2,/ feedback_cs2202_8,/ feedback_cs2202_11,/
+Pranidhith - feedback_cs2012_1,/ feedback_cs2202_4,/ feedback_cs2202_3,/ feedback_cs2202_5,/ feedback_cs2202_12,/
+Ravindu -feedback_cs2012_2,// feedback_cs2012_6,/ feedback_cs2202_6,/ feedback_cs2062_2,/ feedback_cs2202_9/
 Shanika - feedback_cs2012_3,/ feedback_cs2012_5,/ feedback_cs2202_1,/ feedback_cs2202_7,/ feedback_cs2202_10,/ 
 
 1) open python script - cluster_annotator.py
