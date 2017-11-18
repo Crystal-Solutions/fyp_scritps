@@ -46,7 +46,8 @@ def get_similarity_matrix(phrases):
     for item in phrases:
         token_list.append(item.lower().translate(str.maketrans('','',string.punctuation)))
     
-    tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+#    tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+    tfidf = TfidfVectorizer(tokenizer=tokenize)
     tfs = tfidf.fit_transform(token_list)
     sim_mat = (tfs * tfs.T).A
 #    print(sim_mat)

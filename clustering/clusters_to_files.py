@@ -52,6 +52,7 @@ def write_annotated_label_lists():
             
 def write_string_similarity_label_lists(threshold):
     for file in os.listdir(CLUSTERS_PATH):
+        print(file)
         phrases = get_coref_resolved_phrases(COREF_RESOLVED_TARGETS_PATH+file)
         no_of_phrases = get_no_of_phrases(phrases) #no of targets
         
@@ -60,10 +61,14 @@ def write_string_similarity_label_lists(threshold):
 
         C, no_of_clusters = cluster_similar_strings(S, threshold)
         
+        clusters = get_clusters_with_phrases(C, phrases)
+        for label in clusters:
+            print("cluster "+str(label)+": "+str(clusters[label]))
+        print("no_of_clusters: ", no_of_clusters)
+        
         cluster_labels  = get_labels_list(C, no_of_phrases)
         
-        print(file)
-        print(cluster_labels)
+#        print(cluster_labels)
         f = open(STR_SIM_LABEL_LISTS_PATH+file, 'w')
         for label in cluster_labels:
             f.write(str(label)+'\n')
@@ -94,7 +99,9 @@ def write_string_similarity_label_lists_for_extracted_targets(threshold):
 
 if __name__ == "__main__":
 #    write_annotated_label_lists()
-#    write_string_similarity_label_lists(0.3)
-    write_string_similarity_label_lists_for_extracted_targets(0.3)
+    write_string_similarity_label_lists(0.3)
+#    write_string_similarity_label_lists_for_extracted_targets(0.3)
+
+    
     
     

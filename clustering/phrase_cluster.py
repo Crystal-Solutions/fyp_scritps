@@ -260,7 +260,7 @@ def clustering_evaluate(clustering_algo, similarity_method, coref_resolved=False
     print("no_of_clusters:",no_of_clusters)
 '''
        
-if __name__ == "__main__":
+#if __name__ == "__main__":
 #    clustering_evaluate("kmedoids", "cosine", False, False)
 #    clustering_evaluate("kmedoids", "w2v", False, False)
 #    clustering_evaluate("string_sim", "cosine", False, False, 0.3)
@@ -273,5 +273,5 @@ if __name__ == "__main__":
 #    clustering_evaluate("kmedoids", "w2v", True, False)
 #    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
 #    clustering_evaluate("string_sim", "cosine", True, False, 0.4)
-    clustering_evaluate("string_sim", "cosine", True, False, 0.3)
+#    clustering_evaluate("string_sim", "cosine", True, False, 0.5)
 #    clustering_evaluate("string_sim", "w2v", True, False)
